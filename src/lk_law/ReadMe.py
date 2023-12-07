@@ -36,7 +36,7 @@ class ReadMe:
 
     @cached_property
     def statistics_lines(self) -> list[str]:
-        return [f'Downloaded **{self.n_docs}** as of *{self.time_str}*.', '']
+        return [f'Downloaded **{self.n_docs}** documents, as of *{self.time_str}*.', '']
 
     @cached_property
     def selected_docs_lines(self) -> list[str]:
