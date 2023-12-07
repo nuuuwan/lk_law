@@ -49,7 +49,7 @@ class ReadMe:
                 else 0
             )
             doc = self.doc_list[j]
-            lines.append(f'*({j}) [{doc.date} {doc.name}]({doc.pdf_path})')
+            lines.append(f'* ({j}) [{doc.date} {doc.name}]({doc.pdf_path})')
         lines.append('')
         return lines
 
