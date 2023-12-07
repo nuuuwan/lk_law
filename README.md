@@ -6,7 +6,7 @@ Downloaded **50** as of *2023-12-07 11:46:24*.
 
 ## Selected 30 Documents
 
-* (0) [2022-10-25 Powers of Attorney (Amendment)](data/doc/[2022-10-25] powers-of-attorney-(amendment)/doc.pdf)
+* (0) [2022-10-25 Powers of Attorne](data/doc/[2022-10-25] powers-of-attorney-(amendment)/doc.pdf)
 * (1) [2022-10-25 Prevention of Frauds (Amendment)](data/doc/[2022-10-25] prevention-of-frauds-(amendment)/doc.pdf)
 * (3) [2022-10-31 21st Amendment to the Constitution](data/doc/[2022-10-31] 21st-amendment-to-the-constitution/doc.pdf)
 * (5) [2022-10-31 Registration of Documents (Amendment)](data/doc/[2022-10-31] registration-of-documents-(amendment)/doc.pdf)
