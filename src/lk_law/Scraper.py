@@ -52,7 +52,15 @@ class Scraper:
             doc = Document(date, name, url)
             doc.write()
             doc_list.append(doc)
-        log.debug(f'Found {len(doc_list)} documents for {self.date}')
+
+        if len(doc_list) > 0:
+            logger = log.info
+            emoji = '✅'
+        else:
+            logger = log.warning
+            emoji = '🤷🏽'
+
+        logger(f'{emoji}Found {len(doc_list)} documents for {self.date}')
         return doc_list
 
     @staticmethod
