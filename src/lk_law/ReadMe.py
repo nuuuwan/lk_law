@@ -44,7 +44,7 @@ class ReadMe:
     @cached_property
     def selected_docs_lines(self) -> list[str]:
         n_display = min(N_LATEST_DOCS, self.n_docs)
-        lines = [f'## Selected {n_display} Documents', '']
+        lines = [f'## {n_display} Selected Documents', '']
         for i in range(n_display):
             j = (
                 int((self.n_docs - 1) * (i) / (n_display - 1))
