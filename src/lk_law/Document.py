@@ -20,11 +20,13 @@ class Document:
 
     @cached_property
     def short_name(self):
-        return self.name.strip().lower().replace(' ', '-')
+        s = self.name.strip().lower().replace(' ', '-')
+        s = ''.join(c for c in s if c.isalnum() or c == '-')
+        return s
 
     @cached_property
     def file_name(self):
-        return f'[{self.date}] {self.short_name}'
+        return f'{self.date}-{self.short_name}'
 
     def __lt__(self, other):
         return self.file_name < other.file_name
