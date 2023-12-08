@@ -3,7 +3,7 @@ from utils import Log
 from lk_law import Scraper
 
 log = Log('scrape')
-SCRAPE_TIME_S = 10 * 60
+SCRAPE_TIME_S = 50 * 60
 log.debug(f'{SCRAPE_TIME_S=}')
 
 
