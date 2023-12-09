@@ -73,10 +73,13 @@ class Document:
     @staticmethod
     def list_all() -> list['Document']:
         doc_list = []
-        for dir_doc in os.listdir(Document.DIR):
-            data_path = os.path.join(Document.DIR, dir_doc, 'data.json')
-            d = JSONFile(data_path).read()
-            doc_list.append(Document(**d))
+        for pub_type in os.listdir(Document.DIR):
+            for dir_doc in os.listdir(os.path.join(Document.DIR, pub_type)):
+                data_path = os.path.join(Document.DIR, pub_type, dir_doc, 'data.json')
+                d = JSONFile(data_path).read()
+                if 'pub_type' not in d:
+                    d['pub_type'] = 'a'
+                doc_list.append(Document(**d))
 
         doc_list.sort()
         return doc_list
