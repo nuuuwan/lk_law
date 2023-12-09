@@ -1,0 +1,5576 @@
+THE GAZETTE OF THE DEMOCRATIC
+SOCIALIST REPUBLIC OF
+SRI LANKA
+
+Part II of December 01, 2023
+
+SUPPLEMENT
+
+(Issued on 05.12.2023)
+
+SRI  LANKA  ELECTRICITY
+
+A
+
+BILL
+
+to  provide  for  the  implementation  of  reforms  to  the  electricity  industry;  to  provide  for
+the  establishment  of  the  National  Electricity  Advisory  Council;  to  provide  for  the
+Public  Utilities  Commission  of  Sri  Lanka,  established  under  the  Public  Utilities
+Commission  of  Sri  Lanka  Act,  No.  35  of  2002  to  be  the  regulator  for  the  electricity
+industry  in  terms  of  this  Act;  to  provide  legislative  measures  applicable  to  the
+incorporation  of  corporate  entities  under  the  Companies  Act,  No.  07  of  2007  in  whom
+all  activities  connected  to  the  generation,  transmission,  distribution,  trade,  supply  and
+procurement  of  electricity  shall  vest;  to  specify  the  processes  to  be  applicable  to  all
+related  activities;  to  repeal  the  Ceylon  Electricity  Board  Act,  No.  17  of  1969  and  the
+Sri  Lanka  Electricity  Act,  No.  20  of  2009  and  to  provide  for  all  matters  connected
+therewith  or  incidental  thereto
+
+Ordered to be published by the Minister of Power and Energy
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5
+
+Price : Rs. 144.00
+
+Postage : Rs. 150.00
+
+This  Gazette  Supplement  can  be  downloaded  from  www.documents.gov.lk
+
+Sri Lanka Electricity
+
+1
+
+L.D.—O. 1/2023
+
+AN ACT TO PROVIDE FOR THE IMPLEMENTATION OF REFORMS TO THE
+ELECTRICITY INDUSTRY; TO PROVIDE FOR THE ESTABLISHMENT OF THE
+NATIONAL ELECTRICITY ADVISORY COUNCIL; TO PROVIDE FOR THE
+PUBLIC UTILITIES COMMISSION OF SRI LANKA, ESTABLISHED UNDER
+THE PUBLIC UTILITIES COMMISSION OF SRI LANKA ACT, NO. 35 OF
+2002 TO BE THE REGULATOR FOR THE ELECTRICITY INDUSTRY IN
+TERMS OF THIS ACT; TO PROVIDE LEGISLATIVE MEASURES APPLICABLE
+TO  THE  INCORPORATION  OF  CORPORATE  ENTITIES  UNDER  THE
+COMPANIES  ACT,  NO.07  OF  2007  IN  WHOM  ALL  ACTIVITIES
+CONNECTED TO THE GENERATION, TRANSMISSION, DISTRIBUTION,
+TRADE, SUPPLY AND PROCUREMENT OF ELECTRICITY SHALL VEST; TO
+SPECIFY THE PROCESSES TO BE APPLICABLE TO ALL RELATED ACTIVITIES;
+TO REPEAL THE CEYLON ELECTRICITY BOARD ACT, NO. 17 of 1969
+AND THE SRI LANKA ELECTRICITY ACT, NO. 20 OF 2009 AND TO
+PROVIDE FOR ALL MATTERS CONNECTED THEREWITH OR INCIDENTAL
+THERETO.
+
+WHEREAS the need for reforms to the existing institutional
+framework of the Electricity Industry which duly recognises
+the need, and is designed to attract new investment into the
+Electricity  Industry  supported  by  desegregation  of  the
+activities  of  the  Electricity  Industry  currently  vested  in  a
+single  Government  owned  entity  by  the  incorporation  of
+independent corporate entities in whom shall be vested all
+activities  connected  with  the  generation,  transmission,
+distribution,  trade,  supply  and  procurement  of  electricity
+and who shall be responsible for the efficient management
+of these activities and for the creation of market competition
+in these activities:
+
+AND WHEREAS a process commencing with the preparation
+of  a  scheme  for  the  transition  and  reorganisation  of  the
+Electricity  Industry  and  the  implementation  of  identified
+reforms  based  on  timely  and  essential  legal,  structural,
+oversight  and  market  based  changes;  the  reforms  seek  to
+ensure financial self-sufficiency of the corporate entities to
+be established under this Act, through a cost reflective and
+transparent system of tariffs, transparent financial, investment
+
+5
+
+10
+
+15
+
+20
+
+Preamble
+
+2
+
+Sri Lanka Electricity
+
+and resource management and improved accountability and
+oversight  measures,  to  facilitate  private  sector  investment
+in every activity of the Electricity Industry using stock market
+listing and public private partnership modalities:
+
+5
+
+10
+
+15
+
+AND  WHEREAS  it  is  also  necessary  to  recognise  the
+Government of Sri Lanka’s commitment to the evolution of
+the  Electricity  Industry  through  the  implementation  of  its
+decarbonization  goals,  climate  change  policies  and  the
+enhancement of the contribution of renewable energy to the
+generation of electricity facilitated by modern  technology
+and  processes  to  optimise  generation  of  energy    from
+domestic  renewable  energy  sources  to  minimize  the
+dependence on imported fossil fuel sources and adaption of
+emerging  technologies  in  energy  conversion,  storage  and
+management to facilitate the integration of renewable energy
+and to promote competition amongst alternate processes of
+generation  of  electricity  in  an  efficient  and  transparent
+manner:
+
+NOW THEREFORE, Be it enacted by the Parliament of the
+Democratic Socialist Republic of Sri Lanka as follows:-
+
+20
+
+1. (1) This Act may be cited as the Sri Lanka Electricity
+
+Act, No.  of 2023.
+
+Short  title
+and  dates  of
+operation
+
+25
+
+(2) The provisions of this Act other than the provisions of
+this  section,  section  32  and  the  sections  specified  in
+subsection  (4),  shall  come  into  operation  on  such  date  as
+shall  be  appointed  by  the  Minister  by  Order  published  in
+the Gazette (hereinafter referred to as the “appointed date”):
+
+Provided that, the appointed date shall be a date not later
+than six months from the date on which the Bill becomes an
+Act of Parliament:
+
+30
+
+Sri Lanka Electricity
+
+3
+
+Provided further, if no appointed date is published in the
+Gazette as required by this subsection, the provisions of this
+Act, other than the provisions of this section, section 32 and
+the  sections  specified  in  subsection  (4)  shall  come  into
+operation immediately upon the expiry of six months from
+the date on which the Bill becomes an Act of Parliament.
+
+(3)  The  provisions  of  this  section  and  section  32  shall
+come into operation on the date on which the Bill becomes
+an Act of Parliament.
+
+(4) The Minster may, taking into consideration the special
+circumstances required by this Act to be created or fulfilled
+for  the  implementation  of  the  provisions  specified  in
+paragraphs (a) and (b) of this subsection, appoint by Order
+published in the Gazette, different dates for the coming into
+operation of, each of such sections as follows:-
+
+(a)
+
+(b)
+
+the  date  from  which  the  provisions  of  section  12
+relating to open access shall come into operation;
+and
+
+the  date  from  which  the  provisions  of  Part  IX
+relating  to  the  wholesale  electricity  market  shall
+come into operation.
+
+(5) Every Order made in terms of subsection (4), shall
+within  ninety  days  from  the  date  of  publication  of  the
+relevant Order in the Gazette be placed before Parliament:
+
+Provided that, the Orders required to be made in terms
+of subsection (4) shall be made after the expiry of a period of
+two years and before the expiry of a period of five years from
+the date on which the Bill becomes an Act of Parliament. If
+no Order has been made within this period of five years, the
+provisions of the sections referred to in subsection (4) shall
+be deemed to come into operation on the date on which the
+said period of five years expires:
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+4
+
+Sri Lanka Electricity
+
+Provided  further,  the  Minister  may,  at  any  time  within
+three months prior to the expiration of the said five years,
+with the approval of the Cabinet of Ministers extend such
+period, by Order published in the Gazette for another period
+of one year at a time so however, the aggregate period of
+such extensions shall not exceed five years.
+
+5
+
+PART I
+
+OBJECTS OF THE ACT
+
+10
+
+2. The objects of this Act, in relation to the generation,
+transmission, distribution, trade, supply and procurement of
+electricity within Sri Lanka shall be -
+
+Objects  of
+the  Act
+
+15
+
+20
+
+25
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+to ensure improved Electricity Industry performance
+through  independent  and  accountable  corporate
+entities  responsible  for  the  provision  and
+maintenance, in so far as it is economically viable
+to  do  so,  of  a  well-coordinated,  efficient  and
+economical system of electricity supply throughout
+Sri Lanka at all times, through transparent policies;
+
+to facilitate the establishment of independent and
+accountable  corporate  entities  for  the  efficient
+supply of electricity throughout the country;
+
+to  promote  and  facilitate  the  establishment  and
+functioning of the Wholesale Electricity Market;
+
+to promote competition in relation to the generation,
+transmission,  distribution,  trade  and  supply  and
+procurement  of  electricity  and  wherever  possible
+to improve energy security and reliability;
+
+(e)
+
+to ensure that persons to whom licences have been
+granted  under  this  Act  (hereinafter  referred  to  as
+
+Sri Lanka Electricity
+
+5
+
+“licensees”) will act efficiently in order to mobilize
+adequate  finances  for  carrying  out  the  activities
+authorised  or  required  by  the  respective  licences
+issued to them;
+
+5
+
+(f)
+
+to ensure that all reasonable demands for electricity,
+including  future  requirements  for  electricity  are
+met,  whilst  ensuring  efficient  use  of  electricity
+supplied to all premises;
+
+10
+
+(g)
+
+to protect the public from dangers arising from the
+generation, transmission, distribution, trade, supply
+and  procurement  of  electricity  by  improved
+reliability and the quality of electricity services;
+
+(h)
+
+to identify the principles and methodologies to be
+adhered to in the determination of tariffs; and
+
+15
+
+(i)
+
+20
+
+to provide by law, decarbonization of the Sri Lankan
+Electricity Industry and the promotion of renewable
+energy and energy integration in accordance with
+Sri Lanka’s national policies and its international
+obligations whilst ensuring optimal use of natural
+resources.
+
+PART II
+
+NATIONAL ELECTRICITY ADVISORY COUNCIL, THE NATIONAL
+ELECTRICITY POLICY AND THE ISSUE OF POLICY GUIDELINES
+
+25
+
+3. (1) There shall be established for the purposes of this
+Act,  a  Council  which  shall  be  called  and  known  as  the
+National Electricity Advisory Council (hereinafter referred
+to as the “Council”).
+
+Establishment
+of  the
+National
+Electricity
+Advisory
+Council
+
+(2)  The  Council  shall  by  the  name  assigned  to  it  by
+subsection (1), be a body corporate and shall have perpetual
+succession and a common seal and may sue and be sued by
+such name.
+
+30
+
+6
+
+Sri Lanka Electricity
+
+(3)  (a)  The  Council  shall  be  charged  with  the
+responsibility of advising the Minister on all or any of the
+following matters:-
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(i) matters relating to the Electricity Industry and
+formulation of the national electricity policy
+in terms of section 4 of this Act;
+
+(ii) matters relating to the implementation of the
+Electricity  Industry  reforms  in  accordance
+with the provisions of this Act, relating to the
+generation, transmission, distribution, trade,
+supply and procurement of electricity in Sri
+Lanka;
+
+(iii) on the modalities relating to the formulation
+of proposals and plans for the development
+of  the  Electricity  Industry  including  the
+establishment  of  competitive  electricity
+markets  including  interconnections  with
+regional markets through the reform process
+its  successful
+in  order 
+implementation;
+
+to  ensure 
+
+(iv)
+
+the  coordination  of  activities  of  related
+agencies to ensure the optimal utilisation of
+indigenous  energy  resources,  including
+renewable energy, modern technologies and
+energy efficiency in the best interests of the
+national  economy;
+
+(v) matters related to the preparation of the Long-
+Term  Power  System  Development  Plan  in
+terms of the national electricity policy under
+the provisions of this Act, including additions
+to the generation and transmission capacity,
+
+Sri Lanka Electricity
+
+7
+
+the  ability  of  private  sector  investors  to
+provide electricity generation capacity based
+on a competitive tariff structure, measures for
+the  implementation  of  the  Government’s
+climate change policies and decarbonization
+and renewable energy integration goals;
+
+(vi) matters  relating  to  the  formulation  and  the
+methodology  to  be  adhered  to  in  fixing  the
+tariffs in terms of the national tariff policy,
+whilst  ensuring  a  level  of  financial
+sustainability and a reasonable return on the
+investment of the regulated entities; and
+
+(vii)
+
+any  other  matter  connected  with  or  arising
+out  of  the  national  electricity  policy  as  the
+Minister may refer to the Council.
+
+(b) The Council may, in discharging its responsibilities
+
+under this subsection, consult with relevant stakeholders.
+
+(4) The Minister shall, with the approval of the Cabinet
+of  Ministers,  appoint  five  persons  to  be  members  of  the
+Council, one of whom shall be appointed by the Minister as
+the Chairperson of the Council.
+
+(5) The Chairperson and two members shall be persons
+who possess eminence, competency and experience in the
+fields  of  electrical  engineering,  finance  and  economics,
+respectively. The two other members shall be persons who
+possess eminence, competency and experience in the field
+of  either  energy  transition,  energy  efficiency,  renewable
+energy and climate financing or any other similar field as
+the  Minister  considers  to  be  of  current  relevance  to  the
+activities of the Electricity Industry.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+8
+
+Sri Lanka Electricity
+
+(6) The members of the Council shall hold office for a
+period of two years and shall exercise, perform and discharge
+the powers, duties and functions assigned to the Council in
+accordance  with  the  provisions  of  this  Act  and  terms  of
+reference set out in their letters of appointment:
+
+Provided  that,  the  members  of  the  first  Council
+appointed  under  this  section  other  than  the  Chairperson,
+shall  hold  office  for  a  period  of  two  years  as  shall  be
+determined  by  the  Minister  and  specified  in  the  letters  of
+appointment issued to such members.
+
+5
+
+10
+
+(7)  (a)  The  Minister  may  co-opt  persons  with  specific
+qualifications and expertise to be present at meetings of the
+Council,  where  the  relevant  expertise  is  material  for
+supporting any particular issue before the Council.
+
+15
+
+(b)  Such  persons  shall  participate  in  and  assist  at  any
+meeting at which the issue requiring their expertise is being
+discussed so however, shall not be entitled to vote on any
+matter so discussed.
+
+(8) (a) A person shall be disqualified from being appointed
+or continued to be a member of the Council, if such person -
+
+20
+
+(i)
+
+is not or ceases to be a citizen of Sri Lanka;
+
+(ii)
+
+is or has been within three years prior to being
+appointed,  a  Member  of  Parliament,  a
+Provincial Council or a Local Authority;
+
+25
+
+(iii)
+
+is  a  connected  person  having  any  financial
+or  other  interest  amounting  to  a  conflict  of
+interest directly or indirectly, in any matter
+relating to the functions performed by such
+member or connected person;
+
+Sri Lanka Electricity
+
+9
+
+(iv)
+
+is under any written law in force in Sri Lanka
+found or declared to be of unsound mind;
+
+5
+
+(v)
+
+is a person who has been declared an insolvent
+or  bankrupt  under  any  written  law  in  Sri
+Lanka or in any other country, is undischarged
+insolvent  or  bankrupt;
+
+(vi) has been convicted of any criminal offence
+by  any  court  in  Sri  Lanka  or  in  any  other
+country;  or
+
+10
+
+(vii)
+
+is subject to any mental or physical disability
+which  precludes  such  person  from
+discharging  the  responsibilities  assigned  to
+such person as a member of the Council.
+
+15
+
+20
+
+25
+
+30
+
+(b)  The  Minister  shall,  after  informing  the  Cabinet  of
+Ministers in writing the reasons therefor, remove any member
+of  the  Council  if  such  member  is  subject  to  any
+disqualification specified in paragraph (a).
+
+(9) (a) The Council shall employ such number of persons
+to function as the staff of the Council who shall assist the
+Council in the discharge of its responsibilities in terms of
+the provisions of paragraph (a) of subsection (3)   including
+the matters concerning the responsibilities of the Council.
+
+(b) The Council shall in consultation with the Minister
+make  rules  specifying  the  organisational  structure  of  the
+staff and the duties assigned to each member of the staff and
+the manner in which the day-to-day business of the Council
+to be managed.
+
+(c) The manner and the rates of the remuneration payable
+to  the  members  and  the  staff  of  the  Council  shall  be
+determined by the Minister in consultation with the Secretary
+to the Treasury.
+
+10
+
+Sri Lanka Electricity
+
+(10) The Council shall make rules to regulate the manner
+in which the business of the Council is to be transacted and
+the procedure to be followed in the conduct of meetings of
+the  Council.
+
+(11) The Minister shall, from time to time, issue to the
+Council such directions and guidelines on matters connected
+to  the  National  electricity  policy  including  the  overall
+planning and coordination as may be required for the efficient
+performance  and  discharge  of  the  duties  and  functions  of
+the  Council.  Such  directions  and  guidelines  shall  be
+consistent  with  the  objects  of  this  Act  and  the  National
+electricity  policy.
+
+4. (1)  The  national  electricity  policy  shall  reflect  the
+objects  of  the  Act  specified  in  section  2,  and  identify
+processes  and  methodologies  for  the  achievement  of  each
+such  object.
+
+(2) Upon  the  coming  into  operation  of  this  Act,  the
+Minister shall, with a view to enabling Sri Lanka to meet the
+increasing future demands for electricity, after consultation
+with  the  Regulator,  National  System  Operator,  licensees,
+consumer organizations and all other relevant stakeholders
+and  in  compliance  with  all  relevant  national  policies  and
+policy  guidelines  of  the  Minister,  direct  the  Council  to
+formulate the draft national electricity policy.
+
+(3) The Council shall in compliance with the direction
+of the Minister under subsection (2), proceed to formulate
+the draft national electricity policy which shall include an
+outline of the Government’s policy on-
+
+(a) developing  a  power  system  based  on  optimal
+utilisation  of  all  indigenous  energy  resources
+including  renewable  energy  with  advanced
+technologies  to  minimize  the  cost  of  electricity
+supply;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Formulation
+of  the
+national
+electricity
+policy  and
+issue  of
+policy
+guidelines
+
+Sri Lanka Electricity
+
+11
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+technologies  to  be  used  in  connection  with  the
+generation  of  electricity;
+
+incentivize  investments  in  energy  technologies
+such  as  renewable  energy,  energy  storage,  green
+hydrogen  and  energy  efficiency  which  increase
+national  energy  security  and  reduces  the
+dependence on imported fossil fuel sources;
+
+ensuring  financial  viability  of  the  Electricity
+Industry  and  the  need  to  attract  private  sector
+investments  to  the  Electricity  Industry  including
+the  development  of  renewable  energy-based
+electricity generation, transmission, energy storage
+and end user energy efficiency;
+
+introducing  competition  in  a  phased-out  manner
+in  connection  with  the  generation  and  supply  of
+electricity  and  specifying  pre-conditions  and
+milestones for the establishment of a competitive
+electricity market which provides consumers with
+a  choice;
+
+(f) mobilizing  investment  needed  for  sustainable
+economic  growth  of  the  Electricity  Industry  to
+achieve national targets in electricity;
+
+(g)
+
+including  national  tariff  policy  which  shall  be
+revised,  from  time  to  time,  to  ensure  financial
+viability  of  the  Electricity  Industry  across  the
+electricity  supply  value  chain  and  electricity
+affordability of vulnerable groups; and
+
+(h)
+
+identifying priorities and measures, to be identified
+by the Government towards meeting the objects of
+the Act.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+12
+
+Sri Lanka Electricity
+
+(4)  (a)  Upon  the  completion  of  the  formulation  of  the
+draft national electricity policy by the Council in terms of
+subsection  (2)  and  after  adequate  public  stakeholder
+consultation,  the  Minister  shall,  upon  being  satisfied  that
+such draft national electricity policy is consistent with the
+provisions  of  this  Act  and  the  overall  policy  of  the
+Government,  forward  such  draft  policy  to  the  Cabinet  of
+Ministers for its approval.
+
+(b)  The  Cabinet  of  Ministers  may,  review  the  policy
+forwarded to the Cabinet of Ministers under paragraph (a),
+and  may  suggest  amendments  thereto  prior  to  granting
+approval to such policy.
+
+(5)  Upon  receiving  the  approval  of  the  Cabinet  of
+Ministers,  the  Minister  shall  cause  the  national  electricity
+policy  to  be  published  in  the  Gazette  within  one  month
+from the date of receipt of such approval.
+
+(6)  The  national  electricity  policy  once  approved  and
+published in the Gazette in terms of this section shall have
+the effect of superseding all previous policy documents on
+generation,  transmission,  distribution,  trade,  supply  and
+procurement  of  electricity,  without  prejudice  to  anything
+done  thereunder.
+
+(7)  Upon  the  receipt  of  the  approval  of  the  Cabinet  of
+Ministers as required by subsection (4), the Regulator shall
+ensure the implementation of the national electricity policy
+through the issuance of guidelines to the licensees.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(8)  The  Minister  may  once  in  every  five  years  on  the
+advice  of  the  Council  and  after  consultations  with  the
+stakeholders cause a review of the national electricity policy
+to  be  conducted:
+
+30
+
+Sri Lanka Electricity
+
+13
+
+Provided that, if prior to the completion of the aforesaid
+period of five years, an urgent need to update the national
+electricity policy arises, the Minister may direct the Council
+to  cause  a  review  of  the  national  electricity  policy  to  be
+conducted.
+
+(9)  The  Council  shall  collate  all  information  gathered
+from such review and where it appears necessary, update the
+national electricity policy as at the date of such review and
+submit it to the Minister.
+
+(10) The Minister shall ensure that the procedure specified
+in  subsections  (1)  to  (5)  be  complied  with  in  relation  to
+updating  the  national  electricity  policy.
+
+(11) The Minister may, in consultation with the Minister
+assigned the subject of Policy and Planning implementation,
+from time to time, issue in writing policy guidelines relating
+to  the  implementation  of  the  principles  of  the  national
+electricity policy including national strategies and national
+targets of such policy. Such guidelines shall -
+
+5
+
+10
+
+15
+
+(a) provide guidance to the Regulator with respect to,
+
+20
+
+but not limited to, the following:-
+
+(i)
+
+estimating the requirement for electricity in
+Sri Lanka in order to attain national targets
+for  sustainable  development  of  electricity
+growth and the oversight mechanisms relating
+to  licensing,  regulatory  and  inspection
+activities as required by this Act;
+
+(ii)
+
+identifying national targets for increasing the
+renewable  energy  and  enhancing  energy
+security of the country in an affordable and
+sustainable  manner;
+
+25
+
+30
+
+14
+
+Sri Lanka Electricity
+
+(iii)
+
+specifying  the  procedure  to  be  followed  in
+the  granting  of  approval  to  new  generation
+capacity, new generators and the selection of
+new capacity providers through a competitive
+bidding procurement process, the modalities
+of which and the formats to be used shall be
+as  prescribed  and  the  National  System
+Operator  shall  be 
+for
+implementing such process;
+
+responsible 
+
+(iv) preparing codes of practice and technical and
+operational  codes  and  standards  including
+the  grid  code  or  any  other  manual  of
+procedure  to  be  developed  by  licensees  for
+the  operation  and  maintenance  of  systems
+relating  to  activities  connected  with
+generation, transmission, distribution, trade,
+supply  and  procurement  of  electricity  in
+Sri Lanka;
+
+(v)
+
+(vi)
+
+(vii)
+
+facilitating  the  implementation  of  the
+national tariff policy specified in section 26,
+and to undertake a review of such tariffs, from
+time to time;
+
+identifying the principles and policies to be
+followed  in  initiating  electricity  market
+reforms  for  the  introduction  of  competition
+and consumer choice;
+
+issuing  licences  as  specified  in  Part  VII  in
+such  manner  as  would  not  be  construed  as
+being  detrimental  to  the  interests  of  the
+Electricity  Industry,  for  the  generation,
+transmission,  distribution,  bulk  sales  and
+trading of electricity;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Sri Lanka Electricity
+
+15
+
+(viii)
+
+ensuring  at  all  times,  the  availability  of  a
+reliable  and  reasonably  priced  supply  of
+electricity to the consumers and to minimize
+the cost of delivery;
+
+5
+
+(ix) preparing and publishing Electricity Industry
+reports in respect of each calendar year; and
+
+(x)
+
+facilitating Electricity Industry reform; and
+
+(b)
+
+to provide guidance to the National System Operator
+with respect to, but not limited to, the following:—
+
+10
+
+(i)
+
+the granting of incentives, including market-
+based instruments, to promote private sector
+investments  in  renewable  energy  and  such
+enabling  technologies  as  the  Minister  may,
+from time to time, specify by Order published
+in the Gazette;
+
+(ii)
+
+to  consider  the  optimal  utilisation  of
+renewable energy resources and fuel diversity
+including  decarbonization  and 
+the
+development of renewable energy resources
+in  the  generation  of  electricity  as  well  as
+energy trading with regional markets-
+
+(A)
+
+to  incentivize  the  adoption  of
+renewable  energy  by  prescribing
+Renewable Energy Portfolio Standards
+on  distribution  licensees  and  large
+consumers  and  to  establish  tradable
+Renewable  Energy  Certificates  the
+formats of which shall be as prescribed;
+
+15
+
+20
+
+25
+
+16
+
+Sri Lanka Electricity
+
+5
+
+10
+
+15
+
+(B)
+
+(C)
+
+to  enable  such  entities  to  meet  their
+Renewable Energy Portfolio Standards
+using market-based instruments;
+
+to promote competition and efficiency
+in the Electricity Industry through the
+establishment  of  a  competitive
+electricity  market  in  a  phased-out
+manner as prescribed;
+
+(D)
+
+to provide open access to the electricity
+transmission and distribution network
+to eligible consumers; and
+
+(E)
+
+to enable direct purchase of electricity
+from generator stations;
+
+(iii)
+
+to  identify  targets  and  prioritize  measures
+through which the Government of Sri Lanka
+intends  to  achieve  the  objects  of  this  Act
+outlined  in  the  national  electricity  policy
+with reference to the preparation of the Long-
+Term Power System Development Plan; and
+
+20
+
+(iv)
+
+to enable the supply of electricity at least at
+economic cost and with specified reliability
+to meet the national targets and international
+obligations required for sustainable economic
+growth.
+
+25
+
+(12) (a) Subject to any relevant written law, the Regulator
+and the National System Operator shall forthwith give effect
+to  any  written  policy  guidelines  issued  in  terms  of
+subsection (11).
+
+Sri Lanka Electricity
+
+17
+
+(b) The Regulator and the National System Operator may
+notify  the  Minister  of  any  difficulties  which  may  arise  in
+giving effect to the policy guidelines. The Minister shall, in
+consultation  with  the  Regulator  and  the  National  System
+Operator determine, within the framework of the Act and the
+principles  relating  to  the  relevant  policy  guidelines,  the
+measures to be adopted in addressing such difficulties and
+shall notify the Regulator and the National System Operator
+of the same.
+
+PART III
+
+REGULATOR FOR THE ELECTRICITY INDUSTRY
+
+5.  (1)  The  Public  Utilities  Commission  of  Sri  Lanka
+(in this Act referred to as the “Regulator”) established under
+the Public Utilities Commission of Sri Lanka Act, No. 35 of
+2002  (hereinafter  referred  to  as  the  “Public  Utilities
+Commission Act of Sri Lanka”) shall, with effect from the
+date  on  which  the  Bill  becomes  an  Act  of  Parliament,  be
+deemed to be the Regulator for the Electricity Industry.
+
+Public
+Utilities
+Commission
+of  Sri  Lanka
+to  be  the
+Regulator  of
+the
+Electricity
+Industry
+
+(2)  In  the  exercise,  performance  and  discharge  of  its
+powers,  duties  and  functions  in  relation  to  the  Electricity
+Industry,  the  Regulator  shall  at  all  times,  act  reasonably,
+with fairness, impartiality and independence and in a manner
+that is timely, transparent, objective and consistent with the
+principles and provisions in this Act:
+
+Provided that, the Regulator may, in the event only that
+no provision has been made in this Act, in respect of any
+particular matter, have recourse to, and apply the relevant
+provisions of the Public Utilities Commission of Sri Lanka
+Act to the determination of the same:
+
+5
+
+10
+
+15
+
+20
+
+25
+
+18
+
+Sri Lanka Electricity
+
+Provided further, in the event of a conflict between the
+provisions of this Act and the provisions of the Public Utilities
+Commission  of  Sri  Lanka  Act,  in  its  application  to  the
+Electricity Industry, the provisions of this Act shall prevail.
+
+5
+
+6. (1) The Regulator shall for the purpose of discharging
+its functions under this Act, maintain at its office, a register
+in such form as shall be prescribed.
+
+Register  to  be
+maintained
+by  the
+Regulator
+
+(2) The Regulator shall cause to be entered in such register
+
+the following matters:-
+
+10
+
+(a) particulars  relating  to  every  licence  issued  and
+
+exemption granted under this Act;
+
+(b) particulars  relating  to  the  modification  of  the
+conditions  of  any  such  licence  granted  or  the
+revocation of any such licence;
+
+15
+
+(c)
+
+every  decision  of  the  Regulator,  including  every
+order, direction or determination;
+
+(d)
+
+every enforcement order made in terms of this Act;
+
+(e) particulars  relating  to  any  other  instrument  or
+document to which the Regulator’s seal has been
+affixed; and
+
+20
+
+(f)
+
+the minutes of the proceedings of any public hearing
+held in terms of this Act.
+
+(3) The content of the register shall be made available for
+inspection by the public, during the reasonable hours of the
+day.  Certified  copies  of  any  information  contained  in  the
+register may on application be provided to the applicant on
+
+25
+
+Sri Lanka Electricity
+
+19
+
+payment for a prescribed fee. The information contained in
+the  register  may  also  be  published  on  the  website  of  the
+Regulator.
+
+7. (1) The Regulator may for the purpose of discharging
+and performing its functions and duties under this Act, by
+notice in writing, require every licensee and any other person
+to furnish to the Regulator or any person authorised in that
+behalf  by  the  Regulator  within  such  period  as  may  be
+specified in such notice, all such information or documents
+as may be specified in such notice which are in the custody
+of such licensee or the person, as the case may be.
+
+Powers  of  the
+Regulator  to
+call  for
+information
+
+(2) It shall be the duty of every licensee or person who is
+required  by  a  notice  under  subsection  (1)  to  furnish  any
+information or documents to comply with such requirement
+within the period specified in such notice, unless such person
+is prohibited in terms of any written law for the time being in
+force,  from  furnishing  the  document  or  information  so
+required.
+
+(3)  No  information  or  document  furnished  under
+subsection  (1)  shall  be  published  or  disclosed  by  the
+Regulator to any other person except with the consent of the
+licensee  or  the  person  furnishing  such  information  or
+document.
+
+(4) The disclosure by the Regulator of any information or
+document furnished in terms of subsection (1) without the
+consent  of  the  licensee  or  the  person  furnishing  such
+information or documents -
+
+(a)
+
+to a court of law when required to do so by such
+court; or
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(b)
+
+for  the  purpose  of  discharging  any  function
+assigned to the Regulator by this Act; or
+
+20
+
+Sri Lanka Electricity
+
+(c)
+
+for  the  purpose  of  enabling  compliance  with  a
+condition  of  a  licence  granted  under  this  Act
+requiring any information to be furnished; or
+
+(d)
+
+in compliance with the provisions of the Right to
+Information Act, No.12 of 2016,
+
+5
+
+shall be deemed, not to be a contravention of the provisions
+of subsection (3).
+
+8. (1) The Regulator shall appoint, such number of duly
+qualified persons, as Electrical Inspectors, as may be required
+for the purposes of this Act.
+
+10
+
+Electrical
+Inspectors
+
+(2) It shall be the duty of an Electrical Inspector appointed
+under subsection (1) to discharge the functions assigned to
+him in terms of this section or any other provisions of this
+Act, including the following: -
+
+15
+
+(a)
+
+to inspect and test electricity lines and electricity
+plants belonging to persons authorised by a licence,
+or exempted from the requirement of obtaining a
+licence,  to  generate,  transmit,  trading  including
+bulk purchases and bulk sales, distribute or supply
+of  electricity;
+
+20
+
+25
+
+30
+
+(b)
+
+to inspect and test, if and when requested to do so
+by any consumer, any electricity line and electricity
+plant on such consumer’s premises, for the purpose
+of  ascertaining  whether  any  requirement  relating
+to  such  electricity  line  or  plant  or  the  supply  of
+electricity  through  or  by  such  lines  or  plants,
+imposed in terms of this Act or any regulation or
+rule made thereunder, has been complied with; and
+
+(c)
+
+to carry out such other ancillary functions related
+to the functions specified in paragraph (a) or (b) as
+may be determined by the Regulator.
+
+Sri Lanka Electricity
+
+21
+
+5
+
+10
+
+(3)  (a)  The  Electrical  Inspectors  shall  discharge  the
+functions relating to an inspection or test assigned to them
+in  terms  of  this  section,  under  the  supervision  of  the
+Regulator. Upon completion of an inspection or test carried
+out in terms of this section, the Electrical Inspectors shall
+submit  to  the  Regulator  a  report  of  the  findings  of  such
+Inspector  in  relation  to  every  inspection  or  test  of  any
+electricity  line  or  electricity  plant  carried  out  by  such
+Inspectors.
+
+(b)  The  Regulator  may  upon  review  of  any  report  so
+submitted, agree or disagree with the findings of an Electrical
+Inspector. In the event of a disagreement, the Regulator may
+require the relevant Electrical Inspector to make necessary
+changes to the report prior to implementation.
+
+15
+
+(4) The Regulator may make rules for the purposes of this
+
+section in respect of all or any of the following matters:-
+
+(a) qualifications  of  persons  to  be  appointed  as
+
+Electrical Inspectors;
+
+(b)
+
+(c)
+
+setting out the manner in which, and the times at
+which,  any  duties  imposed  on  the  Electrical
+Inspectors are to be performed;
+
+requiring  persons  authorized  by  a  licence  or
+exempted  from  the  requirement  of  obtaining  a
+licence,  to  generate,  transmit,  trade,  distribute  or
+supply of electricity –
+
+(i)
+
+to furnish Electrical Inspectors with records
+or other relevant information; and
+
+(ii)
+
+to allow such Electrical Inspectors to access
+premises  and  to  use  electricity  plants  and
+other  facilities;
+
+20
+
+25
+
+30
+
+22
+
+Sri Lanka Electricity
+
+(d)
+
+(e)
+
+(f)
+
+5
+
+10
+
+(g)
+
+specifying the sum payable as fees, if any, which
+are  payable  to  such  Electrical  Inspectors  and  the
+persons by whom such sums are payable;
+
+setting  out  the  procedure  to  be  followed  by  the
+National System Operator in carrying out an audit
+of the activities of Electrical Inspectors;
+
+identifying the circumstances in which a licensee
+may  be  relieved  from  its  obligation  to  supply
+electricity;  and
+
+setting out the procedure to be followed in the event
+of a disagreement between an Electrical Inspector
+and  a  consumer  or  a  licensee  in  relation  to  the
+inspection  and  testing  of  electricity  lines  and
+electricity plants as provided for in paragraph (a)
+or (b) of subsection (2).
+
+15
+
+20
+
+25
+
+(5)  Any  fee  received  by  the  Electrical  Inspector  under
+this section shall be credited to the Fund of the Regulator
+established  under  section  31  of  the  Public  Utilities
+Commission of Sri Lanka Act.
+
+PART IV
+
+ESTABLISHMENT OF THE NATIONAL SYSTEM OPERATOR
+
+9.    A  public  company  incorporated  in  terms  of  the
+Companies Act, No. 07 of 2007 in which the Government of
+Sri Lanka holds one hundred per centum of its shares, shall
+be eligible to apply in terms of this Act for the issuance of
+the national system operator licence.
+
+Eligibility
+for  issue  of
+the  national
+system
+operator
+licence
+
+Sri Lanka Electricity
+
+23
+
+10. (1) A Company referred to in section 9 shall be the
+National  System  Operator  (hereinafter  referred  to  as  the
+“National System Operator”) and a national system operator
+licence shall be issued to such company within nine months
+from the appointed date.
+
+Issue  of
+licence  to  the
+National
+System
+Operator  and
+functions
+
+5
+
+(2) The National System Operator shall be responsible
+
+for–
+
+(a)
+
+10
+
+15
+
+(b)
+
+establishing, operating and maintaining a National
+Load  Dispatch  Centre,  and  shall  assign  to  the
+National  Load  Dispatch  Centre  the  function  of
+carrying  out,  of  the  real  time  operation  of  the
+National  Grid  of  Sri  Lanka  which  shall  be  done
+under  the  supervision  of  the  National  System
+Operator;
+
+submitting an annual power procurement plan on
+or before the thirtieth day of September of every
+year to the Regulator setting out the manner in which
+the National System Operator intends to meet the
+projected demand for electricity from the available
+generation  capacity  including  new  generation
+capacity  expected  to  be  commissioned  in  the
+suceeding  year;
+
+(c)
+
+ensuring  the  integrated  operation  of  the  power
+system of the country based on the projections in
+the  annual  power  procurement  plan  and  the
+monitoring  and  reporting  of  any  variations  from
+the annual power procurement plan are carried out
+as necessary;
+
+(d)
+
+the coordinated operation of the power system to
+ensure in real time the balance between electricity,
+supply  and  demand  and  for  this  purpose,  shall
+ensure-
+
+20
+
+25
+
+30
+
+24
+
+Sri Lanka Electricity
+
+(i)
+
+compliance  with  principles,  guidelines  and
+methodologies  in  respect  of  optimul
+generation scheduling and dispatch, as shall
+be prescribed;
+
+(ii) optimul generation scheduling and dispatch
+of  electricity  from  the  generating  plants  in
+accordance  with  the  power  purchase
+agreements or standardized power purchase
+agreements which have been entered into or
+have been transferred to the National System
+Operator,  on  the  most  economical  and
+advantageous terms and in a transparent and
+accountable manner to meet the total demand
+for  electricity  at  any  given  time.  The
+procedures to be followed and the formats of
+the  agreements  to  be  used  shall  be  as
+prescribed;
+
+(iii)
+
+carrying  out  real  time  operations  for  grid
+control and daily power dispatch through the
+secure  and  economic  operation  of  the
+National Grid of Sri Lanka in accordance with
+the grid standards and the grid code, monitor
+the  grid  operations  and  provide  the
+information and data required for conducting
+the  dispatch  audit  to  the  Regulator  in  such
+manner, as shall be prescribed;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(e)
+
+ensuring  the  non-discriminatory  transmission
+congestion management in a timely and effective
+manner;
+
+30
+
+(f)
+
+the establishment of a bulk supply account to record
+all  financial  transactions  relating  to  the  purchase
+of  bulk  electricity  from  a  generation  licensee
+
+Sri Lanka Electricity
+
+25
+
+through power purchase agreements or standardized
+power  purchase  agreements  and  selling  to  the
+distribution  licensees  through  power  sales
+agreements,  or  with  the  prior  approval  of  the
+Regulator to any other consumers, or in the case of
+electricity  trading  with  the  regional  market,
+including  monitoring  the  import  and  export  of
+electricity.
+
+The procedures to be followed and the formats
+of the bulk supply account and the formats of the
+agreements to be used shall be as prescribed;
+
+5
+
+10
+
+(g) maintaining records of the quantity and quality of
+electricity,  transmitted  through  the  National  Grid
+of Sri Lanka;
+
+15
+
+(h)
+
+exercising supervision and control over the overall
+operation of the National Grid of Sri Lanka; and
+
+(i) procuring energy storage and ancillary services as
+determined,  from  time  to  time,  by  the  National
+System Operator with the approval of the Regulator,
+to  manage  the  intermittent  nature  of  renewable
+energy,  arising  out  of  the  greater  integration  of
+renewable energy into the power system at a future
+date:
+
+Provided that, the National System Operator
+shall not engage in any commercial activity other
+than in the manner and subject to such conditions,
+as shall be prescribed.
+
+(3) The Minister shall, after such consultation with the
+Regulator as he considers necessary, prescribe the procedure,
+format  and  manner  in  which  the  matters  specified  in
+subsection (2) are to be implemented by the National System
+Operator.
+
+20
+
+25
+
+30
+
+26
+
+Sri Lanka Electricity
+
+(4) For the avoidance of doubt, it is hereby stated that,
+from and after the appointed date the transfer of functions of
+the  Ceylon  Electricity  Board  as  specified  in  section  17
+connected with -
+
+5
+
+(a) generation scheduling, commitment, and merit order
+
+economic dispatch of generating plants;
+
+(b) optimised planning of future power system to meet
+the  electricity  demand  taking  into  consideration
+cost, economic value and decarbonization objects;
+
+10
+
+(c) operation  and  maintenance  of  the  national  load
+
+dispatch centre; and
+
+15
+
+20
+
+25
+
+(d) procurement of electricity in bulk form, from the
+generation  licensees  and  sale  of  such  procured
+electricity  in  bulk  form  to  distribution  licensees
+and to any other consumers trading in the domestic,
+regional, or international market,
+
+shall  be  done,  consequent  to  the  vesting  of  the  aforesaid
+functions  of  the  Ceylon  Electricity  Board  in  the  National
+System Operator.
+
+(5) The National System Operator shall prepare the Long-
+Term Power System Development Plan which shall include
+both generation and transmission capacity, energy storage
+and  ancillary  service  additions  covering  a  period  of  five
+years  and  shall  comprise  matters  specified  in  subsections
+(6), (7) and (8) in keeping with the duly approved national
+electricity  policy  formulated  under  section  4  and  a
+perspective  plan  for  further  period  of  ten  years  to  fifteen
+years indicating the targets and objects of the Government
+of Sri Lanka for the development of the power system.
+
+Sri Lanka Electricity
+
+27
+
+5
+
+10
+
+(6) The National System Operator shall, in preparing the
+said Long-Term Power System Development Plan, take into
+consideration,  the  availability  of  the  most  economically
+advantageous  electricity  generation  capacity  and  submit
+the same to the Regulator.
+
+(7)  The  Regulator  shall  after  consultations  with  the
+generation  licensees,  the  National  Transmission  Network
+Service  Provider  and  relevant  stakeholders,  finalize  and
+submit the prepared plan to the Minister for his approval.
+Such  approval  shall  include  any  amendments  as  may  be
+proposed by the Minister.
+
+(8)    The  National  System  Operator  shall  be  held
+accountable for the implementation of the approved Long
+Term Power System Development Plan.
+
+15
+
+(9)  The  Minister  shall  forthwith  be  notified  of  any
+deviations made by the National System Operator from the
+approved Plan.
+
+(10) The National System Operator shall annually forward
+a Report specifying the deviations made and the reasons for
+such deviations to the Minister for his approval.
+
+20
+
+(11) The Long-Term Power System Development Plan
+
+shall include –
+
+(a) plans to ensure that there is sufficient capacity from
+generation plants to meet the reasonable estimated
+demand  for  electricity,  for  both  generation
+expansion and transmission network development,
+inclusive  of  evaluation  of  least  economic  cost
+generation  technologies,  energy  conversion  and
+storage  technologies,  and  other  demand  side
+technologies;
+
+25
+
+30
+
+28
+
+Sri Lanka Electricity
+
+(b)
+
+identify  the  power  generation  capacity  additions
+needed to meet the expected demand for electricity
+based  on  the  priorities  and  other  considerations
+outlined in the National electricity policy;
+
+5
+
+(c)
+
+include the power transmission capacity additions
+to ensure power system reliability and evacuation
+of electricity from the generation licensees,
+
+10
+
+15
+
+20
+
+25
+
+30
+
+to  procure  with  the  approval  of  the  Regulator,  electricity
+generation  capacity,  energy  storage  capacity  or  any  other
+form of ancillary service capacity, in accordance with the
+approved Long Term Power System Development Plan either
+in the form of a new generation plant or by extending any
+existing  generation  plant  or  from  energy  storage  and
+ancillary  service  providers,  as  the  case  may  be.  The
+procurement  shall  be  undertaken  in  accordance  with  the
+national procurement guidelines of the Government of Sri
+Lanka  and  shall  be  applicable  to  both  direct  procurement
+and to public private partnership, and the procedure for such
+procurement and the formats required therefor shall be as
+prescribed:
+
+Provided that, the provisions of subsection (11) shall
+be  applicable  only  for  the  procurement  of  electricity
+generation  and  energy  storage  capacity  by  the  national
+system operator licensee and have no effect on the electricity
+purchasing  transactions  between  the  generation  licensees
+and  any  consumers  or  other  customers  using  open  access
+procedures;
+
+(d)
+
+to  identify  new  transmission  capacity  and
+transmission assets to augment the National Grid
+of Sri Lanka specified in section 14 and to provide
+connectivity  to  new  power  plants  or  to  provide
+connectivity to the regional markets in accordance
+
+Sri Lanka Electricity
+
+29
+
+with  the  approved  Long  Term  Power  System
+Development  Plan  subject  to  such  terms  and
+conditions as approved by the Regulator:
+
+Provided that, the National System Operator
+licensee may proceed to procure with the approval
+of  the  Regulator  new  transmission  assets  for  the
+purposes mentioned above from private investors.
+The procurement shall be undertaken in accordance
+with  the  national  procurement  guidelines  of  the
+Government of Sri Lanka and shall be applicable
+to  both  direct  procurement  and  to  public  private
+partnership, and the procedure for procurement and
+the formats required therefor shall be as prescribed;
+
+(e)
+
+the procurement of new generation capacity, energy
+storage  and  ancillary  services  and  transmission
+capacity  shall  be  undertaken  in  accordance  with
+the  National  Procurement  Guidelines  of  the
+Government of Sri Lanka:
+
+Provided that, where the additional procedures
+may be required for undertaking any investments
+in  terms  of  this  paragraph  as  public  private
+partnerships, the procurement shall be undertaken
+in  accordance  with  the  National  Procurement
+Guidelines  of  the  Government  and  shall  be
+applicable to both direct procurement or to public
+private partnerships, and procedure for procurement
+and  the  formats  required  therefor  shall  be  as
+prescribed;
+
+(f)
+
+enter  into  power  purchase  agreements  with
+generation  licensees  and  transmission  service
+agreements  with  transmission  licensees  specified
+in section 11:
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+30
+
+Sri Lanka Electricity
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Provided  that,  all  power  purchase
+agreements  and  Standardized  Power  purchase
+agreements which had been entered into by the
+Ceylon  Electricity  Board,  and  which  are  valid
+and  are  in  operation  on  the  day  immediately
+preceding the appointed date shall, from and after
+such date continue to be valid and effective as if
+entered into in terms of this Act for a period only
+for nine months, from the appointed date:
+
+Provided further, that the period of extended
+validity  shall  be  approved  by  the  Regulator  and
+the  licensees  shall  be  required  to  enter  into  new
+power  purchase  agreements  and  transmission
+service  agreements  with  the  National  System
+Operator:
+
+Provided  further,  prior  to  the  expiration  of
+the said period of nine months the licensees shall
+take all steps as are specified in terms of this Act in
+order to obtain the new licences which would permit
+them  to  continue  as  transmission  licensees;  The
+formats  for  all  agreements  required  for  power
+generation plants shall be as prescribed.
+
+(12) The Minister may on the advice of the Regulator, by
+Order published in the Gazette, specify the capacity of any
+renewable  energy  technology  which  may  be  permitted  to
+enter  into  standard  power  purchase  agreements  with  the
+National System Operator:
+
+Provided  that,  the  maximum  capacity  of  such
+
+technology shall not exceed 10 MW.
+
+Sri Lanka Electricity
+
+31
+
+(13) The Long-Term Power System Development Plan
+shall provide for the development of a Wholesale Electricity
+Market which shall -
+
+(a) become  operational  on  such  date  as  the  Minister
+shall  appoint  by  Order  published  in  the  Gazette
+under section 1;
+
+(b) be vested with the responsibility for the operation
+
+of the  Wholesale Electricity Market,
+
+and  the  procedure  and  formats  for  bulk  power
+procurement by the National System Operator and
+sale from the National System Operator shall be as
+prescribed:
+
+Provided that, the Government of Sri
+Lanka  may  in  the  interests  of  the  national
+economy, allow distribution licensees to enter
+into  power  purchase  agreements  with
+generation 
+the
+establishment  of  the  Wholesale  Electricity
+Market.
+
+licensees  prior 
+
+to 
+
+5
+
+10
+
+15
+
+20
+
+(c)
+
+recover  all  reasonable  costs  connected  with  the
+functions of the National System Operator and may
+levy and collect such tariffs, fees and charges from
+the  distribution  licensees  as  approved  by  the
+Regulator;  and
+
+25
+
+(d)
+
+30
+
+the National System Operator shall be required to
+enter into a transmission operating agreement with
+the  National  Transmission  Network  Service
+Provider granting the National System Operator with
+operating authority over transmission and network
+facilities  under  the  control  of  the  National
+Transmission Network Service Provider.
+
+32
+
+Sri Lanka Electricity
+
+11.  (1)  Notwithstanding  anything  to  the  contrary
+contained in this Part, any person may construct, maintain
+or  operate  a  captive  generating  plant  and  dedicated
+transmission lines:
+
+captive
+generating
+plants  and
+dedicated
+transmission
+lines
+
+5
+
+Provided that, -
+
+(a)
+
+the supply of electricity from a captive generating
+plant through the National Grid of Sri Lanka shall
+be regulated in the same manner as the generating
+station of a generation licensee;
+
+10
+
+(b)
+
+the safety regulations issued by the Regulator for
+power generation and transmission shall only apply
+in relation to captive generating plants exceeding
+a threshold capacity to be stipulated by rules made
+by  the  Regulator  and  such  plants  as  exceed
+threshold capacity shall be required to be licenced
+with the Regulator;
+
+(c)
+
+if  such  captive  generating  plants  and  dedicated
+transmission  lines  are  connected  to  the  National
+Grid of Sri Lanka, such captive generating plants
+shall  obtain  a  captive  generation  or  transmission
+licence, as the case may be.  Such captive generating
+plants which are connected to the National Grid of
+Sri Lanka shall be required to comply with the Grid
+Code  and  other  technical  parameters  and  safety
+measures  stipulated  by  the  Regulator  and  the
+National Transmission Network Service Provider.
+
+(2)  Every  person  who  has  constructed  a  captive
+generating  plant  as  shall  be  prescribed  and  maintains  and
+operates such plant, shall enjoy the right to open access for
+the  purpose  of  carrying  electricity  from  such  plant  to  the
+destination of use in accordance with the guidelines as shall
+
+15
+
+20
+
+25
+
+30
+
+Open  access
+
+Sri Lanka Electricity
+
+33
+
+be  prescribed  relating  to  open  access  and  payment  of  the
+charges specified in respect thereof:
+
+5
+
+Provided  that,  such  open  access  shall  be  subject  to
+availability  of  adequate  transmission  and  distribution
+capacity  which  shall  be  determined  by  the  National
+Transmission  Network  Service  Provider  and  the  relevant
+distribution  licensee.
+
+(3) Any dispute regarding the availability of transmission
+and distribution capacity shall be resolved by the Regulator.
+
+10
+
+15
+
+20
+
+12. (1) The Minister, in consultation with the Regulator,
+the  National  Transmission  Network  Service  Provider  and
+the  distribution  licensee,  shall  operationalize  the
+applicability of open access from such date as is determined
+by Order published in the Gazette in terms of section 1 of
+this Act. Such open access shall be made operational in a
+phased-out  manner  and  the  extent  of  open  access  in
+successive phases shall take place in such manner as shall
+be  prescribed  and  be  subject  to  such  conditions  including
+payment of cross subsidies and other operational limitations
+as may be prescribed. Open access charges and any surcharge
+to be paid thereon, shall be payable in such sum as determined
+by the Regulator in terms of the provisions of Part VIII.
+
+(2) The surcharge received in terms of subsection (1) shall
+be utilized to meet the cross subsidy within the area of supply
+of the distribution licensee:
+
+25
+
+Provided that, –
+
+(a)
+
+such  surcharge  and  cross  subsidies  shall  be
+progressively  reduced  in  the  manner  specified  in
+the national tariff policy; and
+
+34
+
+Sri Lanka Electricity
+
+(b)
+
+such surcharge shall not be levied if open access is
+
+provided to a person who has established a captive
+
+generating  electricity  plant  for  carrying  the
+
+electricity to a destination for his own use.
+
+5
+
+PART V
+
+NATIONAL TRANSMISSION NETWORK SERVICE PROVIDER
+
+13.  (1)  No  person  other  than  a  public  company
+
+incorporated in terms of the Companies Act, No. 07 of 2007
+
+in which the Government of Sri Lanka holds more than fifty
+
+10
+
+per centrum of its shares, shall be eligible to apply in terms
+
+of this Act for the issue of the National Transmission Network
+
+eligibility  to
+apply  for
+national
+transmission
+network
+service
+provider
+licence
+
+Service Provider Licence.
+
+(2)  Any legal person who has been issued with a letter of
+
+award by the National System Operator for constructing a
+
+15
+
+transmission  line  in  accordance  with  paragraph  (d)  of
+
+subsection (11) of section 10 shall apply to the Regulator
+
+for  an  additional  transmission  licence  and  for  approval  to
+
+proceed  with  the  construction  in  accordance  with  the
+
+applicable  Grid  Code  and  other  technical  standards  and
+
+20
+
+parameters.
+
+(3)  For  the  avoidance  of  doubt,  it  is  stated  that  the
+
+limitation  specified  in  subsection  (1)  shall  not  apply  to  a
+
+legal  person  who  has  been  issued  with  an  additional
+
+transmission licence under this section.
+
+Sri Lanka Electricity
+
+35
+
+14. (1) A Company referred to in subsection (1) of section
+13  (in  this  Act  referred  to  as  the  “National  Transmission
+Network  Service  Provider”)  shall  be  responsible  for  the
+maintenance of the National Transmission Network (in this
+Act referred to as the “National Grid of Sri Lanka”) operating
+at a voltage greater than 33 KV including the high voltage
+switchgear of transmission substations currently owned and
+operated by the Ceylon Electricity Board.
+
+Responsibilities
+of  the
+National
+Transmission
+Network
+Service
+Provider  &  c.
+
+(2)  (a)  The  National  Transmission  Network  Service
+Provider shall be responsible for the implementation of the
+functions  of  the  Ceylon  Electricity  Board  connected  with
+the  development,  expansion  and  maintenance  of  the
+physical infrastructure of the National Grid of Sri Lanka and
+for  the  transmission  of  bulk  electricity  to  distribution
+licensees, and other eligible entities in the domestic, regional
+or international market:
+
+Provided  that,  the  National  Transmission  Network
+Service Provider shall not enter into any contract or otherwise
+engage in the generation, distribution, supply or trading of
+electricity.
+
+(b)  The  procedures  and  the  formats  and  the  manner  in
+which  the  matters  specified  in  this  subsection  are  to  be
+implemented by the National Transmission Network Service
+Provider shall be as prescribed after consultation with the
+Regulator where the Minister considers such consultation is
+necessary.
+
+(3)  Transfer  of  functions  discharged  by  the  Ceylon
+Electricity Board in terms of section 17 the day immediately
+preceding the appointed date connected with –
+
+5
+
+10
+
+15
+
+20
+
+25
+
+36
+
+Sri Lanka Electricity
+
+5
+
+10
+
+15
+
+(a)
+
+(b)
+
+the  development,  expansion  and  maintenance  of
+the physical infrastructure of the National Grid of
+Sri  Lanka  and  ensure  an  efficient,  coordinated,
+reliable  and  economical  integrated  transmission
+system is operated throughout Sri Lanka;
+
+the  connection  and  transmission  of  electricity  in
+bulk form to distribution licensees and high voltage
+consumers who are connected to the transmission
+system, by recovering tariffs and other charges in
+connection with the transmission of electricity in
+terms of the respective licences,
+
+shall be done, consequent to the vesting of the functions of
+the  Ceylon  Electricity  Board  specified  in  paragraphs  (a)
+and  (b)  in  the  National  Transmission  Network  Service
+Provider  and  after  obtaining  the  required  national
+transmission system operator licence in the manner provided
+for in this section.
+
+(4) The National Transmission Network Service Provider
+
+shall –
+
+20
+
+(a)
+
+25
+
+commence the transmission of electricity through
+the National Grid of Sri Lanka under the supervision
+of the National System Operator in accordance with
+the terms of the licence and the provisions of this
+Act and regulations and rules made thereunder in
+that  behalf;
+
+(b) provide inputs to the National System Operator to
+identify the transmission capacity requirements and
+to facilitate the preparation of the Long-Term Power
+System Development Plan;
+
+Sri Lanka Electricity
+
+37
+
+(c)
+
+invest  in,  and,  where  it  is  in  the  interests  of  the
+national  economy,  facilitate  the  National  System
+Operator  in procuring private sector  investment
+for  new transmission capacity and the procurement
+shall be undertaken in accordance with the National
+Procurement  Guidelines  of  the  Government  and
+shall be applicable to both direct procurement or to
+public  private  partnerships,  and  procedure  for
+procurement and the formats required therefor shall
+be as prescribed;
+
+(d) undertake to physically witness the  commissioning
+tests of such transmission assets built by the private
+investors  and  thereafter  issue  a  Compliance
+Certificate which certifies that t he  Grid  Code and
+all  other  applicable  technical  standards  or
+parameters  have  been  complied  with.  Upon  the
+issuance of the Compliance Certificate, the National
+Transmission Network Service Provider shall enable
+interconnection  by  such  transmission  assets  built
+by  private  investors  to  the  National    Grid  of  Sri
+Lanka on a non-discriminatory basis;
+
+(e) develop,  expand  and  maintain  an  efficient,
+coordinated,  reliable  and  economical  integrated
+transmission system throughout the entire country;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(f)
+
+30
+
+connect  and  transmit  electricity  in  bulk  form,  in
+such manner as shall be prescribed, from generation
+licensees  and  regional  markets  to  distribution
+licensees,  regional  markets  and  other  eligible
+consumers  connected  to  the  National  Grid  of  Sri
+Lanka and recover transmission charges or any other
+charges as shall be prescribed;
+
+38
+
+Sri Lanka Electricity
+
+(g) provide open access of transmission services to all
+eligible consumers of the National Grid of Sri Lanka
+upon  compliance  with  the  pre-conditions  for  the
+grant of open access as shall be prescribed subject
+to the payment of open access charges as determined
+by  the  Regulator  to  cover  the  cost  of  use  of
+transmission and distribution assets owned by the
+transmission  and  distribution  licensees;
+
+(h)
+
+liaise with the National System Operator to draft,
+implement and maintain the Grid Code and other
+technical  and  operational  codes  and  standards  in
+relation to the National Grid of Sri Lanka:
+
+5
+
+10
+
+Provided  that,  the  Grid  Code  shall  be  updated  in  a
+
+regular manner as shall be prescribed;
+
+15
+
+(i)
+
+facilitate  whenever  the  need  to  do  so  arises,  in
+consultation with the Regulator, the expansion of
+network  in  terms  of  the  Grid  Code  and  the  duly
+approved Long-Term Power System Development
+Plan;
+
+20
+
+(j)
+
+submit,  from  time  to  time,  to  the  Regulator,
+proposals  relating  to  the  levying  of  transmission
+tariffs and other charges; and
+
+(k) maintain  separate  accounts  for  the  transmission
+business  carried  on  in  terms  of  the  transmission
+licence  and  enter  into  a  transmission  operating
+agreement with the National System Operator.
+
+15.  (1)  The  National  Transmission  Network  Service
+Provider shall have the power to construct transmission lines,
+grid  substations  and  other  associated  transmission  plants
+and equipment within the territory of Sri Lanka in terms of
+the duly approved Long Term Power System Development
+
+Transmission
+lines  and  grid
+substations
+
+25
+
+30
+
+Sri Lanka Electricity
+
+39
+
+Plan and upon a request by the National System Operator to
+connect  with  the  regional  transmission  networks  with  the
+approval of the Cabinet of Ministers:
+
+5
+
+10
+
+Provided  that,  the  National  System  Operator  may
+mobilize private sector investment in order to facilitate the
+expansion  of  the  National  Grid  of  Sri  Lanka  and  the
+procurement  shall  be  undertaken  in  accordance  with  the
+National  Procurement  Guidelines  of  the  Government  and
+shall be applicable to both direct procurement or to public
+private  partnerships,  and  procedure  for  procurement,  and
+the formats required therefor shall be as prescribed.
+
+(2)  The  matters  to  be  included  in  the  duly  approved
+Long Term Power System Development Plan, shall be as set
+out in subsection (11) of section 10.
+
+15
+
+(3) The functions relating to the operation and oversight
+of  the  Transmission  Network  shall  be  discharged  by  the
+National System Operator.
+
+PART VI
+
+INCORPORATION OF PUBLIC COMPANIES UNDER THE COMPANIES
+
+20
+
+ACT, NO.07 OF 2007
+
+16.  (1)  There  shall  be  incorporated  in  terms  of  the
+Companies  Act,  No.07  of  2007,  such  number  of  public
+Companies as may be required, in terms of the structure of
+the Electricity Industry described in the Schedule:
+
+25
+
+30
+
+Provided  that,  the  Memorandum  and  Articles  of
+Association  of  each  of  such  public  companies  shall  be
+prepared substantially in the format as shall be prescribed.
+The  Memorandum  and  Articles  of  Association  of  each  of
+such public companies so incorporated shall also specify in
+detail the activities to be vested by operation of law, in each
+
+Incorporation
+of  Public
+Companies
+under  the
+Companies
+Act  No.  07
+of  2007  and
+the  vesting
+therein  of  the
+restructured
+activities  of
+the  Ceylon
+Electricity
+Board
+
+40
+
+Sri Lanka Electricity
+
+of such public companies under the transfer plan prepared
+under section 17 for the purposes of this Part.
+
+(2) On the appointed date, by virtue of the operation of
+the provisions of this section, the restructured activities of
+the  Ceylon  Electricity  Board  relating  to  the  generation,
+transmission,  distribution  and  supply  of  electricity,  shall
+vest  in  the  public  companies  incorporated  in  terms  of
+subsection (1), in accordance with the scheme set out in the
+transfer plan specified in section 17.
+
+(3)  If  after  the  requirements  of  subsections  (1)  and  (2)
+have been completed it is apparent that one or more residual
+companies are required to be incorporated for the transfer
+plan  to  be  fully  implemented,  such  required  number  of
+residual  companies  shall  be  incorporated  in  the  manner
+provided for in the Companies Act, No.07 0f 2007, and the
+provisions  of  subsections  (1)  and  (2)  of  this  section  shall
+'mutatis mutandis'  be applicable in relation to such residual
+companies.
+
+17.  (1)  The  Minister  shall,  in  consultation  with  the
+Minister assigned the subject of Finance and the Secretary
+to the Treasury, and where it is deemed necessary, with the
+relevant  stakeholders,  require  the  Power  Sector  Reform
+Secretariat established under section 32, to prepare a transfer
+plan  for  the  transition,  transfer  and  reorganization  of  the
+Electricity Industry in Sri Lanka (hereinafter referred to as
+the “transfer plan”). The transfer plan shall contain detailed
+plans,  proposals  and  strategies  for  the  unbundling  of  the
+activities  of  the  Ceylon  Electricity  Board  relating  to  the
+generation, transmission and distribution of electricity.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(2) The Power Sector Reform Secretariat shall, subject to
+the  policy  directions  of  the  Minister  prepare  the  transfer
+plan which shall comprise -
+
+Preparation
+of  the
+transfer  plan
+
+Sri Lanka Electricity
+
+41
+
+(a)
+
+(b)
+
+a preliminary transfer plan, which shall be approved
+by  the  Cabinet  of  Ministers  and  thereafter  to  be
+published  in  the  Gazette  on  the  day  immediately
+succeeding  the  appointed  date  and  shall  contain
+all details of the vesting of the activities relating to
+the restructuring of the generation, transmission and
+distribution of electricity as well as a financial plan
+for  the  vesting  of  assets  which  shall  be  initially
+required for the successor companies to commence
+operations;  and
+
+a  final  transfer  plan  which  shall  be  prepared  not
+later  than  two  years  from  the  appointed  date  and
+shall be approved by the Cabinet of Ministers and
+immediately thereafter be published in the Gazette.
+The  final  transfer  plan  shall  after  Gazetting  be
+deemed to comprise the process of implementation
+of all remaining matters required to complete the
+restructuring of the Electricity Industry.
+
+5
+
+10
+
+15
+
+(3) The transfer plan prepared under subsection (1) shall—
+
+20
+
+(a)
+
+identify the duties and functions discharged by the
+Ceylon Electricity Board immediately prior to the
+appointed  date;
+
+(b)
+
+25
+
+in connection with the existing financial liabilities
+of  the  Ceylon  Electricity  Board,  specify  that  a
+portion  of  the  said  liabilities  which  shall  include
+supplier  liabilities  be  allocated  to  the  successor
+company  to  whom  the  hydro  power  generation
+assets  of  the  Ceylon  Electricity  Board  will  be
+assigned and which shall be a company of which
+
+42
+
+Sri Lanka Electricity
+
+5
+
+10
+
+one hundred per centum of the shares are held by
+the  Government  of  Sri  Lanka  and  the  balance
+portion  of  the  said  liabilities  will  be  allocated
+amongst  the  other  successor  companies,  in  such
+proportions  as  shall  be  specified  in  the  transfer
+plan;
+
+(c)
+
+separate  such  duties  and  functions  of  the  Ceylon
+Electricity Board into the following categories to
+enable  the  allocation  and  subsequent  vesting  of
+the following duties and functions  its employees
+to  the  successor  companies  referred  to  in  section
+16:-
+
+(i)
+
+electricity generation based on hydro, thermal
+and renewable energy sources;
+
+15
+
+(ii)
+
+electricity  transmission  services  and
+maintenance  of  the  National  Grid  of  Sri
+Lanka;
+
+20
+
+25
+
+(iii)
+
+electricity demand forecasting and planning,
+procurement  of  electricity  and  sale  in  bulk
+form,  economic  dispatch  of  electricity,  the
+management,  including  operation  and
+maintenance of the National Load Dispatch
+Centre  and  National  Grid  of  Sri  Lanka
+operation  including  transmission  network
+expansion  planning;  and
+
+(iv)
+
+electricity  distribution  or  supply;
+
+Sri Lanka Electricity
+
+43
+
+5
+
+(d)
+
+identify such duties, functions and activities of the
+Ceylon Electricity Board which are not connected
+directly  to  the  duties  and  functions  specified  in
+paragraph  (b),  including  but  not  limited  to  the
+management  of  employee’s  pensions  and
+employee’s provident fund, support services, and
+the distribution of existing human resources, which
+shall  be  vested  in  and  be  discharged  by  residual
+companies referred to in section 16.
+
+10
+
+(e)
+
+allocate, to a company or companies referred to in
+section  16,  whose  sole  shareholder  shall  be  the
+Government of Sri Lanka –
+
+15
+
+20
+
+25
+
+(i)
+
+all  residual  assets  of  the  Ceylon  Electricity
+Board  not  connected  with  the  generation,
+transmission  and  distribution  of  electricity,
+all  residual  liabilities  of  the  Ceylon
+Electricity  Board  not  directly  related  to  the
+procuring  of  assets  related  to  functions
+specified  in  paragraph  (c)  and  the  existing
+employees  of  the  Ceylon  Electricity  Board
+who are not directly engaged in performing
+activities  related  to  functions  specified  in
+paragraph (c);
+
+(ii)
+
+the  functions  of  the  Provident  Fund  and
+Pension Fund of the Ceylon Electricity Board
+as  the  custodian  and  trustee  and  to  manage
+such Provident Fund and Pension fund;
+
+(f)
+
+ensure that, all officers and servants of the Ceylon
+Electricity  Board,  holding  office  in  the  Ceylon
+
+44
+
+Sri Lanka Electricity
+
+Electricity  Board  on  the  day  preceding  the
+
+appointed date shall  effect from the date succeeding
+
+such date -
+
+(i) be deemed to be officers and servants of any
+
+one of the successor companies referred to in
+
+section 16, on terms and conditions not less
+
+favourable  than  those  enjoyed  by  them  on
+
+the date preceding the appointed date as the
+
+officers and servants of the Ceylon Electricity
+
+Board and to which they were entitled under
+
+any written law;
+
+5
+
+10
+
+(ii) be  required  to  communicate,  to  the  Power
+
+Sector Reform Secretariat established under
+
+section  32,  before  the  final  transfer  plan  of
+
+15
+
+the incorporation of the successor companies
+
+referred to in section 16 is completed whether
+
+they  opt  to  be  employed  by  such  successor
+
+companies which option once communicated
+
+shall be final:
+
+20
+
+Provided that, neither the salary or other allowances
+
+nor the terms and conditions of service of the officers and
+
+servants shall be varied to the disadvantage of such officers
+
+and servants consequent to being employed by a successor
+
+company.
+
+25
+
+(4) In the event such officer or servant opts to join the
+
+service  of  a  successor  company  referred  to  in  section  16,
+such officer or servant shall -
+
+Sri Lanka Electricity
+
+45
+
+(a)
+
+for  the  purpose  only  of  calculating  the  pension
+
+entitlement  and  other  retirement  benefits,  be
+
+deemed to have continued in office a public officer
+
+in  the  Ceylon  Electricity  Board  from  the  date  on
+
+5
+
+which such officer or servant was employed by the
+
+Ceylon Electricity Board  until the termination of
+
+his  period  of  service  in  the  successor  companies
+
+referred to in section 16, and shall if the period of
+
+service of any such officer or servant in a successor
+
+10
+
+company  when  added  to  his  previous  period  of
+
+service in the Ceylon Electricity Board,  amounts
+
+to twenty years or more, be eligible at the end of his
+
+period  of  service  in  a  successor  company  for  the
+
+grant of pension and retirement benefits which may
+
+15
+
+be applicable to such officers and servants under
+
+the provisions of any other written law including
+
+the Minutes on Pensions;
+
+(b)
+
+continue  to  make  such  contributions  to  the
+
+Provident Fund as they are required to make in terms
+
+20
+
+of the rules or regulations of the Ceylon Electricity
+
+Board Provident Fund;
+
+(5)  (a)  An  officer  or  servant  of  the  Ceylon  Electricity
+
+Board who opts for voluntary resignation from the date on
+
+which  such  officer  or  servant  was  notified  of  the  offer  of
+
+25
+
+employment  in    a  successor  company  shall  be  entitled  to
+
+such compensation as shall be paid in terms of a Voluntary
+
+Retrenchment  Scheme,  the  formulation  of  which  shall  be
+
+prescribed  and  if  such  officer  or  servant    has  completed
+eighteen years of service  in the Ceylon Electricity Board,
+
+46
+
+Sri Lanka Electricity
+
+be entitled to pension and other retirement benefits which
+
+may be applicable to such officers and servants in accordance
+
+with the rules of the Pension Fund of the Ceylon Electricity
+
+Board  and  of  any  written  law  including  the  Minutes  on
+
+5
+
+Pensions.
+
+(b) Notwithstanding  anything  to  the  contrary  in  any
+
+other written law, the Secretary to the Treasury shall provide
+
+financial  contributions,  from  time  to  time,  to  bridge  the
+
+funding shortfall of the Pension Fund to enable such Pension
+
+10
+
+Fund  to  continue  meeting  the  monthly  pension  payment
+
+commitment in terms of the rules and regulations applicable
+
+to the Pension Fund, of -
+
+(i)
+
+the officers and servants of the Ceylon Electricity
+
+Board who were in service prior to the appointed
+
+15
+
+date  and  retired  from  the  services  of  the  Ceylon
+
+Electricity Board prior to such date;
+
+(ii)
+
+the officers and servants of the Ceylon Electricity
+
+Board who opt for voluntary resignation from the
+
+service of the Ceylon Electricity Board;
+
+20
+
+(iii)
+
+the officers and servants of the Ceylon Electricity
+
+Board,  who  opted  to  join  the  services  of  the
+
+successor companies,
+
+referred  to  in  section  16  and  retire  from  the  services  of  a
+
+successor company after reaching the age of retirement as
+
+25
+
+per the service contract with the successor company.
+
+Sri Lanka Electricity
+
+47
+
+PART  VII
+
+LICENSING
+
+18. (1) A person shall not -
+
+(a) generate  electricity;
+
+5
+
+(b)
+
+transmit  electricity  in  bulk  form,  from  a
+generation licensee to any distribution licensees
+or to any other eligible consumer connected to
+the  transmission  network  or  to  and  from  any
+entity in the domestic, regional or international
+market;
+
+Unlicenced
+generation
+and
+distribution
+of  electricity
+to  be  an
+offence
+
+10
+
+15
+
+20
+
+25
+
+(c) perform  the  duties  of  the  National  System
+
+Operator as specified in section 10;
+
+(d) distribute  and  supply  or  distribute  electricity
+for  the  purpose  of  giving  an  electricity
+connection to any premises or to any consumer
+or trader,
+
+unless  such  person  is  authorised  to  do  so  in
+terms of a licence granted to him in terms of this
+Act, or the supply of electricity is exclusively
+for private use of a licensee, or a person who is
+exempted from the requirement of obtaining a
+licence in terms of the provisions of section 25.
+
+(2) A person who -
+
+(a) generates, transmits or distributes electricity for
+the purpose of giving an electricity connection
+to any consumer or premises; or
+
+(b)
+
+exports  or  imports  electricity,  otherwise  than
+under the authority of a licence issued for such
+purpose under this Act, or an exemption granted
+
+48
+
+Sri Lanka Electricity
+
+5
+
+10
+
+under this Act, commits an offence under this
+Act and shall on conviction after summary trial
+before a Magistrate be liable to a fine not less
+than  three  hundred  thousand  rupees  or  to
+imprisonment  of  either  description  for  a  term
+not less than six months and not exceeding one
+year, or to both such fine and imprisonment.
+
+(3) Where a person is prosecuted for an offence under
+subsection (2), the Court shall, in addition to the punishment
+imposed  under  that  subsection,  further  order  the  person
+convicted to refrain with immediate effect from carrying on
+the  activity  which  such  person  is  convicted  of  under
+subsection (1), until such person obtains a licence for such
+activity as required by that subsection.
+
+15
+
+(4) No  proceedings  shall  be  instituted  in  respect  of  an
+offence under this section except with the written sanction
+of the Regulator.
+
+19. (1) Any person shall be eligible to apply for the issue
+
+of a generation licence.
+
+Eligibility  to
+apply  for  a
+licence
+
+20
+
+(2) The following shall be eligible to apply for the issue
+
+of a distribution licence:-
+
+(a)
+
+a company incorporated under the Conversion of
+Public  Corporations  or  Government  owned
+Business Undertakings into Public Companies Act,
+No.23  of  1987  or  the  Companies  Act,  No.  07  of
+2007, as the case may be;
+
+(b)
+
+a Local Authority;
+
+(c)
+
+a  society  registered  under  the  Co-operative
+Societies Law No.5 of 1972.
+
+(3) Only  a  public  company,  incorporated  under  the
+Companies Act, No.07 of 2007, in which the Government of
+Sri Lanka holds -
+
+25
+
+30
+
+Sri Lanka Electricity
+
+49
+
+(a) one  hundred  per  centum  of  its  shares  shall  be
+eligible to apply for the issue of the national system
+operator  licence;
+
+(b) not less than fifty per centum of its shares shall be
+eligible  to  apply  for  the  issue  of  the  National
+transmission network service provider licence.
+
+(4) All functions of the Ceylon Electricity Board, relating
+
+to –
+
+(a) the national system operator licence including the
+generation scheduling, commitment and economic
+dispatch  of  generating  plants,  planning  of  future
+electricity demand, operation and maintenance of
+the  National  Load  Dispatch  Centre,  procurement
+of  electricity  in  bulk  form  from  the  generation
+licensees  and  sale  of  such  procured  electricity  in
+bulk form to the distribution licensees and to any
+traders  or  consumers  in  the  domestic  or  regional
+market;
+
+(b) the  National  Transmission  Network  Service
+Provider including the maintenance of the physical
+infrastructure that comprises the National Grid of
+Sri Lanka and for the transmission of electricity in
+bulk  form  to  any  consumer  in  the  domestic  or
+regional market,
+
+5
+
+10
+
+15
+
+20
+
+25
+
+shall on the appointed date vest in the successor company
+incorporated in terms of paragraph (a) of subsection (3).
+
+(5) Additional transmission licences may be granted to
+any  legal  person,  which  acquires  subject  to  the  limitation
+specified in paragraph (b) of subsection (4), the right to build
+a transmission asset pursuant to  paragraph (d) of subsection
+(11) of section 10 and subsection (2) of section 13.
+
+30
+
+50
+
+Sri Lanka Electricity
+
+(6) No person shall be granted a combination of any two
+
+of the following licences: –
+
+(a) the national transmission network service provider
+
+licence and a generation licence;
+
+5
+
+(b) the national transmission network service provider
+
+licence and a distribution licence;
+
+(c) the national transmission network service provider
+licence and national system operator licence;
+
+(d) the  national  system  operator  licence  and  a
+
+10
+
+distribution  licence;
+
+(e) the  national  system  operator  licence  and  a
+
+generation licence; or
+
+(f) a generation licence and a distribution licence.
+
+20. (1)  An  application  for  the  grant  of  a  licence  for
+generation, transmission, distribution, supply or trading of
+electricity or for an extension of any one of such licences,
+shall be made in writing to the Regulator in such form as
+shall  be  prescribed,  and  shall  be  accompanied  by  such
+information  and  documents,  and  such  fee,  as  shall  be
+prescribed.
+
+Application
+for  a  licence
+and  grant  of
+licence
+
+(2) On receipt of the application, the Regulator shall, if
+the  Regulator  is  of  the  opinion  that  on  the  basis  of  the
+information disclosed with the respective application, there
+appears to be no impediment to the issue of a licence to the
+applicant, inform the Minister of the same and proceed to
+take all necessary steps for the granting of such licence or
+the extension applied for, including -
+
+(a) publishing  a  notice  on  the  official  website  of  the
+Regulator, or in the Gazette or a local newspaper in
+the Sinhala, Tamil and the English languages of its
+
+15
+
+20
+
+25
+
+30
+
+Sri Lanka Electricity
+
+51
+
+intention  to  grant  the  licence  or  the  extension
+applied for, with the details of the intended project
+in  order  to  inform  persons  who  are  likely  to  be
+affected by the issue of the licence or extension of
+the same; and
+
+(b)
+
+forward  to  the  Minister  all  relevant  notices  and
+documents related to the application.
+
+(3) Every notice under subsection (2), shall state—
+
+(a)
+
+(b)
+
+(c)
+
+that the Regulator proposes to grant the licence or
+extension to the applicant and the purpose for which
+the licence is applied for;
+
+the reasons for intending to grant such licence or
+extension;  and
+
+the period which shall not be less than twenty-eight
+days  from  the  date  of  publication  of  the  notice
+within  which  representations  in  writing  may  be
+made  to  the  Regulator  stating  the  concerns  of
+persons in relation to activities of such intended of
+project or the situation of such project and objecting
+to the grant of such licence.
+
+(4) On receipt of a written representation against granting
+the  particular  licence,  the  Regulator  shall  appoint  an
+adjudicating  panel  consisting  of  two  members  having
+eminence and experience not less than ten years in the fields
+of  law  and  engineering  to  inquire  into  the  matter.  After
+permitting the concerned persons referred to in paragraph
+(c) of subsection (3) to make their representation and making
+such inquiries and visiting the site, the adjudicating panel
+shall notify the Regulator in writing of its recommendation.
+
+(5)  The  Regulator  shall,  in  keeping  with  the
+recommendation  made  by  the  adjudicating  panel  under
+subsection  (4),  make  its  determination  in  respect  thereof
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+52
+
+Sri Lanka Electricity
+
+which shall be informed to the applicant within ninety days
+from the date of receipt of the recommendation.
+
+5
+
+10
+
+(6) (a) If the determination of the Regulator is to dismiss
+the representation, the Regulator shall thereafter proceed to
+grant the licence applied for and such licence shall be in the
+respective  form  as  shall  be  prescribed,  in  respect  of  each
+respective category of licence.
+
+(b) The terms and conditions applicable to each category
+of licences shall be as prescribed and the licence issued to
+the  applicant  shall  also  include  a  schedule  specifying  the
+terms and conditions applicable to the relevant licence being
+granted.
+
+(7)  Every  licence  issued  in  terms  of  this  Part  shall  be
+
+subject to –
+
+15
+
+(a) conditions of licences;
+
+(b) powers and duties of the respective categories of
+
+licences;
+
+(c) the provisions relating to obtaining of permits and
+clearances  for  carrying  out  construction  and
+maintenance  activities  undertaken  by  licensees;
+
+(d) the  standards  and  procedures  applicable  to  the
+supply  of  electricity  which  the  distribution
+licensees are required to be complied with; and
+
+(e) the procedure applicable to metering of electricity
+
+consumption,
+
+20
+
+25
+
+as shall be prescribed and shall be applicable to each such
+licensee.
+
+21.  (1)  Subject  to  the  provisions  of  subsection    (2),  a
+licence  shall  be  capable  of  being  assigned  either  with  or
+without any condition authorizing such assignment.
+
+30
+
+Assignment
+of  licences
+
+Sri Lanka Electricity
+
+53
+
+(2) A licence shall not be capable of being assigned except
+
+with the prior consent of the Regulator.
+
+5
+
+(3) In deciding whether to approve the application made
+under subsection (1) of section 20, the Regulator shall apply
+the same criteria as it would apply if it were deciding whether
+to grant a corresponding licence or part of a corresponding
+licence to the assignee.
+
+(4)  Approval  in  terms  of  subsection  (3)  may  be  given
+
+subject to the assignee agreeing to –
+
+10
+
+15
+
+20
+
+(a) such modification of the conditions of the licence
+or the imposition of such further conditions as
+the  Regulator  considers  necessary,  for  the
+purpose of protecting the interests of consumers;
+and
+
+(b) such incidental or consequential modifications
+of  the  conditions  as  the  Regulator  considers
+necessary.
+
+(5)  A  licence  may  include  conditions  authorizing
+assignment, subject to compliance by the assignee of certain
+specified  conditions.
+
+(6) An assignment or purported assignment of a licence
+
+shall be void-
+
+(a) if the licence is not capable of assignment;
+
+(b) if the assignment or purported assignment is in
+
+25
+
+breach of a condition of the licence; or
+
+(c) if  there  has  been  before  the  assignment  or
+purported  assignment,  a  contravention  of  a
+condition  subject  to  which  consent  was  given
+under subsection (2).
+
+54
+
+Sri Lanka Electricity
+
+22. (1) The Regulator may, if it appears to be necessary to
+modify  any  licence  in  the  national  interest,  with  the
+concurrence  of  the  Minister,  proceed  to  modify  the
+conditions  of  the  specific  licence  being  granted  with  the
+agreement of the licensee, or without the agreement of the
+licensee, in the circumstances of general application as shall
+be  prescribed  and,  in  the  manner  and  form  as  shall  be
+prescribed in relation to the different categories of licences.
+
+Modification
+or
+revocation
+of  licences,
+and
+enforcement
+orders
+
+(2)  The  Regulator  may,  after  considering  any
+representation made to it in response to a notice published
+as specified in subsection (3) and with the concurrence of
+the  Minister,  revoke  by  Order  published  in  the Gazette,  a
+generation licence or national transmission service provider
+licence  or  distribution  licence  or  National  Transmission
+Network Service Provider licence, in accordance with the
+terms as to revocation of such licences.
+
+(3)  Prior  to  the  revocation  of  any  licence  in  terms  of
+subsection  (2),  the  Regulator  shall  by  notice  published  in
+the  Gazette  and  by  such  other  means  as  it  considers
+appropriate for bringing it to the attention of persons likely
+to be affected by such revocation, state that it proposes to
+revoke the licence specified in the notice, and the reasons
+for proposing to do so and specify the period within which
+representations may be made to it against such revocation.
+The procedure to be followed in revoking a licence shall be
+as prescribed.
+
+(4) (a) Where it appears to the Regulator that a licensee
+
+is-
+
+(i) contravening or is likely to contravene the terms
+and conditions of the respective licence subject
+to which it has been issued; or
+
+(ii) contravening  or  is  likely  to  contravene  any
+
+statutory requirement,
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+make  an  enforcement  order,  operative  for  a  period
+specified  therein,  against  such  licensee,  as  is  considered
+necessary in the circumstances to secure the compliance of
+such licensee and notify the Minister of the same.
+
+Additional
+conditions
+for
+generation
+licensees
+
+Sri Lanka Electricity
+
+55
+
+(b)  An  enforcement  order  shall  require  the  respective
+licensee,  to  cease  and  desist  from  taking  any  action  in
+relation  to  the  matters  specified  in  such  order,  during  the
+period that such enforcement order is in force.
+
+5
+
+(c) An enforcement order shall cease to have effect at the
+expiration of the specified period, and it may be modified or
+revoked at any time during the period of operation thereof.
+
+(d)  The  procedure  to  be  followed  in  making  such
+
+enforcement order shall be as prescribed.
+
+10
+
+23.  A generation licensee shall be entitled to -
+
+15
+
+20
+
+25
+
+(a) establish,  operate  and  maintain  generating
+stations,  tie-lines,  sub-stations,  and  dedicated
+transmission  lines  and  any  other  associated
+equipment  connected  therewith;
+
+(b) implement  and  maintain  such  technical  or
+operational  codes,  standards  or  parameters  in
+relation to the generation system as the National
+System  Operator  and  National  Transmission
+Network Service Provider considers necessary
+or  expedient;
+
+(c) take  all  possible  steps  to  protect  persons,
+electricity plants and equipment from injury and
+damage;
+
+(d) develop  and  maintain  electricity  lines,  cables,
+electricity  plants  and  fuel  handling  and
+associated  equipment;
+
+(e) sell electricity to any other licensee or consumer
+
+identified in the licence;
+
+(f) submit technical details regarding its generating
+
+30
+
+stations to the Regulator; and
+
+(g) co-ordinate  with  the  National  Transmission
+Network  Service  Provider  and  the  national
+
+56
+
+Sri Lanka Electricity
+
+system operator licensee for transmission of the
+electricity generated by such licensee.
+
+24.  (1)  A  distribution  licensee  may  require  any  person
+who requires a supply of electricity in terms of this Act to
+accept in respect of such supply,-
+
+5
+
+(a)
+
+any terms requiring that such person continues to
+receive and pay for such supply of electricity for a
+minimum period of time and subject to minimum
+consumption  requirements;
+
+Additional
+conditions
+for  a
+distribution
+licensees
+
+10
+
+(b)
+
+any  restrictions  which  may  be  required  to  be
+imposed for the purpose of enabling such licensee
+to  comply  with  any  regulations  made  under  this
+Act, or the Electricity Supply Code which shall be
+as prescribed for the purposes of this Act; and
+
+15
+
+(c)
+
+any terms restricting any liability of such licensee
+for any economic, consequential or other indirect
+loss  sustained  by  such  person,  however  arising,
+which it is reasonable in all the circumstances for
+that person to be required to accept.
+
+20
+
+25
+
+30
+
+(2)  It  shall  be  the  duty  of  a  distribution  licensee  to
+develop  and  maintain  an  efficient,  coordinated  and
+economically  viable  distribution  system  at  the  licensee’s
+cost, in his area of supply and to  supply electricity in terms
+of this Act, so as the enable owners or occupiers of premises
+in  such  area  to  obtain  an  electricity  supply  connection  by
+paying  the  service  connection  charges  from  the  nearest
+connecting point of the distribution line to the meter box on
+such premises, without requiring such owner or occupier to
+pay for the capital cost of erection of distribution lines and
+other associated connecting facilities.
+
+(3) (a) A distribution licensee shall allow, on a non-
+discriminatory basis, a connection to an embedded generator
+including rooftop solar generator to its distribution network.
+
+Sri Lanka Electricity
+
+57
+
+(b) The interconnection of such network shall be subject
+to  compliance  with  the  technical  and  safety  requirements
+and other conditions as may be prescribed.
+
+5
+
+(4) The Regulator shall implement open access from such
+date as shall be determined by Order published in the Gazette
+in terms of section 12.
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(5) (a) Where any person, whose premises is situated within
+the  area  of  supply  of  a  distribution  licensee  through  open
+access  as  provided  in  subsection  (2)  requires  a  supply  of
+electricity from a generating company or any licensee other
+than such distribution licensee, such person may, by notice,
+require  the  distribution  licensee  to  open  access  to  such
+electricity supply in accordance with the rules made by the
+Regulator  and  the  duties  of  the  distribution  licensee  with
+respect to such  supply shall be of a common carrier providing
+non-discriminatory open access .
+
+(b) Where the Regulator permits a consumer or class of
+consumers  to  receive  supply  of  electricity  from  a  person
+other than the distribution licensee of  his area of supply,
+such consumer shall be liable to pay open access charges as
+provided  for  in  section  12,  as  may  be  specified  by  the
+Regulator to meet  the fixed cost of such distribution licensee
+arising out of his obligation to supply.
+
+(c) Every distribution licensee shall, within six months
+from the appointed date or date of grant of licence, whichever
+is earlier, establish a forum for addressing and providing a
+platform for the redress of  grievances of the consumers in
+accordance with the rules made by the Regulator.
+
+25. Where any person or category of persons engages in
+the  generation  and  distribution  of  electricity,  and  the
+capacity or amount of electricity so generated is below such
+amount as the Minister may specify by Order published in
+the  Gazette,  such  person  or  category  of  persons  shall  be
+
+Statutory
+exemptions
+
+58
+
+Sri Lanka Electricity
+
+deemed,  by  operation  of  law,  to  be  statutorily  exempted
+from the requirement of obtaining a licence therefor:
+
+Provided that, if it is brought to the notice of the Regulator
+that the person or category of persons enjoying such statutory
+exemption is in violation of the conditions attached to such
+exemption,  the  Regulator  shall  immediately  notify  such
+person  or  category  of  persons  to  cease  all  activities
+connected  with  such  generation  and  distribution  and
+forthwith disconnect all equipment used for such purpose.
+
+PART  VIII
+
+TARIFFS
+
+26.  (1)  The  Minister  may  issue  policy  guidelines  as
+specified  in  subsection  (2)  of  section  4  pertaining  to  the
+national tariff policy for inclusion in the formulation of the
+national tariff policy, which shall form part of the national
+electricity  policy.  The  national  tariff  policy  shall  include
+the  principles  and  methodologies  to  be  adopted  by  the
+Regulator in setting the tariffs specified in subsection (3).
+
+Tariffs
+
+5
+
+10
+
+15
+
+20
+
+(2)  In  setting  the  tariffs,  the  Regulator  shall  ensure
+financial sustainability including a reasonable return on the
+investment of the regulated entities.
+
+(3) The following shall be the tariffs required to be set, as
+shall be prescribed by the Regulator in accordance with the
+national tariff policy:-
+
+25
+
+30
+
+(a) the feed in tariff to be included in standard power
+purchase  agreements  payable  to  generators
+supplying  electricity  to  the  National  System
+Operator in accordance with subsection (12) of
+section  10;
+
+(b) The power purchase tariffs for new generating
+capacity,  procured  in  accordance  with
+
+Sri Lanka Electricity
+
+59
+
+paragraphs (a), (e) and (f) of subsections (11) of
+section  10;
+
+(c) The  power  purchase  tariffs  of  the  distribution
+
+licensees;
+
+(d) the transmission tariff and open access charges
+payable  to  transmission  and  distribution
+licensees;
+
+(e) the  end  user  consumer  tariff  consisting  of
+
+distribution tariff and supply tariff; and
+
+(f) the  aggregate  revenue  requirement  to  be
+recovered  by  transmission  and  distribution
+licensees.
+
+(4)  This  section  shall  apply  to  ‘tariffs”  and  “other
+
+charges” to be levied by the National System Operator -
+
+(a) for procuring of electricity in bulk form from the
+generation licensees including when so required,
+the import of electricity from the generators or
+suppliers  of  the  regional  market  (hereinafter
+referred to as the “bulk purchase tariff”);
+
+(b) for  the  sale  of  electricity  in  bulk  form  to  the
+distribution  licensees  or  to  any  consumers  or
+traders  or  customers  in  the  export  market
+(hereinafter referred to as the “bulk sale tariff”):
+
+Provided  that,  with  the  establishment  of  the
+Wholesale  Electricity  Market  in  the  manner
+provided  for  in  terms  of  Part  IX  and  its
+implementation  from  such  date  as  shall  be
+determined  by  Order  published  in  the  Gazette  in
+terms of section 1, the tariffs specified in subsection
+(3)  shall  cease  to  be  operative  in  a  phased-out
+manner;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+60
+
+Sri Lanka Electricity
+
+(5)  All  tariffs  shall  be  set  in  accordance  with  a  cost
+reflective mechanism in accordance with the methodology
+set out in the national tariff policy permitting the relevant
+licensees to recover the eligible reasonable costs incurred in
+carrying out the activities authorized by such licences on an
+efficient manner.
+
+(6)The end user consumer tariff levied by a distribution
+licensee  for  the  distribution  and  supply  of  electricity  or
+distribution or supply of electricity (hereinafter referred to
+as the “distribution and supply tariffs”) shall consist of-
+
+(a) the distribution tariff set by the Regulator, based
+on the national tariff policy upon consideration
+of  the  reasonable  cost  of  maintaining  and
+operating  the  distribution  network  including
+consumer services; and
+
+(b) the supply tariff set by the Regulator to recover
+the  cost  of  the  bulk  purchase  tariff  and
+transmission  tariff  paid  by  the  distribution
+licensees:
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Provided that, with the establishment of the Wholesale
+Electricity Market in the manner provided for in terms of
+Part IX and its operation in terms of section 1, the supply
+tariff  shall  be  determined  on  the  basis  of  the  power
+procurement  cost  of  the  distribution  licensees  from  the
+market.
+
+(7) For the avoidance of doubt, it is stated that -
+
+(a) the  end  user  consumer  tariffs  levied  by  the
+distribution  liecensees  shall  consist  of  two
+distinct  tariffs  namely,  the  “electricity
+distribution tariff” and the “supply tariff”;
+
+30
+
+(b) with  the  implementation  of  open  access  at  a
+future  date,  the  supply  tariff  shall  cease  to  be
+
+Sri Lanka Electricity
+
+61
+
+applicable to consumers opting for open access,
+as open access charges shall be determined on
+the basis of commercial agreements between the
+generation licensees and the eligible traders or
+customers opting for open access:
+
+Provided that, the distribution licensee shall be entitled
+to levy the distribution tariff from such consumers availing
+of open access as part of the open access charges.
+
+(8) The open access charges to be levied by transmission
+and  distribution  licensees  shall  be  set  by  the  Regulator  in
+terms of the relevant provisions of the national tariff policy
+applicable to the determination of open access charges.
+
+(9) The bulk purchase tariff, bulk sale tariff, transmission
+tariff, open access charges, and the distribution tariff and the
+supply tariffs, as the case may be, shall be determined by the
+Regulator, and tariff filing made by the licensees as prescribed
+in accordance with the national tariff policy and conditions
+specified in the relevant licences, and -
+
+(a) allow  the  relevant  licensee  to  recover  all
+reasonable costs incurred in the carrying out of
+all activities authorized by the licence granted
+to such licensee on an efficient basis;
+
+(b) be  approved  by  the  Regulator  in  the  manner
+provided  for  in  the  national  tariff  policy  and
+policy  guidelines  based  on  the  national
+electricity policy, issued by the Minister in terms
+of section 4; and
+
+(c) be  published  in  such  manner  as  may  be
+determined  by  the  Regulator  ensuring  wide
+public awareness.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+62
+
+Sri Lanka Electricity
+
+(10) The licences of the National System Operator, the
+National  Transmission  Network    Service  Provider,  or  a
+distribution  licensee,  as  the  case  may  be,  shall  include
+provisions for bulk procurement tariff or for bulk sale tariff
+and other charges or for transmission tariff and other charges
+or  for  open  access  charges  and  other  charges,  and  for
+distribution tariff and supply tariff and other charges, as the
+case may be, shall be subject to review by the Regulator to
+ensure  that  these  tariffs  are  cost  reflective  in  the  manner
+prescribed and  which also provide for -
+
+(a) the  annual  timetable  for  the  review  of
+transmission tariff and distribution tariffs, open
+access charges and other charges;
+
+(b) a quarterly timetable for the review of bulk sale
+tariff, bulk purchase tariff and supply tariff; and
+
+(c) the  manner  in  which  consumers  and  other
+interested  parties  could  participate  in  the
+procedure for purposes of review.
+
+5
+
+10
+
+15
+
+(11) notwithstanding any other provision of this Act, the
+
+20
+
+Regulator may, -
+
+(a) upon  being  satisfied  of  the  adequacy  of  funds
+being provided by the Government to bear the
+cost of any subsidy approved by the Government
+to subsidize certain consumers; and
+
+25
+
+(b) considering any cross subsidy recoverable from
+such categories of consumers as determined by
+the Minister in terms of the national tariff policy,
+
+set tariffs and charges to be levied by the relevant licensees,
+which reflect such subsidies.
+
+Sri Lanka Electricity
+
+63
+
+PART   IX
+
+WHOLESALE   ELECTRICITY   MARKET
+
+27. (1)  The  Minister  shall  by  Order  published  in  the
+Gazette  under  section  1,  specify  the  date  from  which  the
+Wholesale  Electricity  Market  shall  commence  operations,
+subject to any conditions which may be stated therein.
+
+5
+
+Establishment
+of  the
+Wholesale
+Electricity
+Market
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(2) On  being  brought  into  operation,  the  Wholesale
+Electricity  Market  shall  be  a  fully  autonomous  and
+competitive,  and  the  National  Systems  Operator  shall  be
+responsible  for  the  operation  of  the  Wholesale  Electricity
+Market. Matters relating to the coordination with the relevant
+stakeholders,  electricity  market  experts  who  are
+knowledgeable  and  experienced  in  the  operation  of  such
+Wholesale  Electricity  Market  and  the  procedure  to  be
+adopted in the operation thereof, shall be as prescribed.
+
+(3) Prior to an Order being made in terms of subsection
+(1)
+for  the  operation  of  a  fully  autonomous  Wholesale
+Electricity  Market  by  the  National  Systems  Operator,  the
+Minister shall ensure that regulations, terms and conditions,
+guidelines, and rules necessary for facilitating the efficient
+operation  of  the  Wholesale  Electricity  Market  have  been
+made  identifying  and  specifying  the  operating,  technical,
+commercial  and  economic    parameters  and  the  market
+monitoring  processes  and  the  terms  and  conditions,
+guidelines,  regulations  and  rules  necessary  for  facilitating
+the efficient operation of the Wholesale Electricity Market
+have been made in terms of this Act.
+
+28. The  Minister  shall  issue  policy  guidelines  in
+consultation with the Regulator, on steps to be adopted to
+prevent  anti-competitive  practices,  monopolies,  collusion
+and abuses of a dominant position, and consequent merger
+situations  affecting  the  competition  in  the  Electricity
+Industry.
+
+Policy
+guidelines
+relating  to
+competition
+practices
+
+64
+
+Sri Lanka Electricity
+
+PART   X
+
+MISCELLANEOUS
+
+29. (1) Subject to the provisions of subsection (2), a person
+shall not install an electricity line above or below the ground,
+except in accordance with a licence obtained in that behalf
+in terms of this Act.
+
+5
+
+Licence
+required  for
+overhead  and
+underground
+electricity
+lines
+
+(2) The provisions of subsection (1) shall not apply –
+
+10
+
+15
+
+20
+
+25
+
+(a) to  an  electricity  line  or  an  underground  cable
+which  has  a  nominal  voltage  not  exceeding
+thirty-three  kilovolts,  or  any  other  higher
+voltage as may be determined by the Regulator;
+and
+
+(b) to such portion of an electricity line as is or will
+be,  within  the  premises  being  occupied  or  is
+under the control of, the person responsible for
+its  installation.
+
+(3) A licence granted under this section –
+
+(a) may  include  such  conditions  (including
+conditions as to the ownership and operation of
+the electricity line) as appear to the Regulator to
+be  appropriate;
+
+(b) may  be  varied  or  revoked  by  the  Regulator  at
+any time after the end of such period as may be
+specified in the licence; and
+
+(c) subject to paragraph (b), shall continue in force
+for  such  period  as  may  be  specified  in,  or
+determined by, or under the licence.
+
+(4) The Regulator may direct that an electricity line
+be designated as a “high voltage line” for the purposes of
+this Act.
+
+30
+
+Sri Lanka Electricity
+
+65
+
+5
+
+10
+
+30. The  provisions  of  the  Land  Acquisition  Act
+(Cheptor  295)  may  be  used  to  apply  to  the  acquisition  of
+land  required  for  any  project  connected  to  the  Electricity
+Industry in terms of the provisions of this Act, if such project
+is for a public purpose in terms of and within the meaning of
+the Land Acquisition Act.
+
+Acquisition
+of  property
+for  power
+generation
+and
+transmission
+projects
+
+31. (1)  Where  the  Minister  is  of  the  opinion,  that  the
+potential benefit of having an electricity generation project
+or  transmission  development  project  initiated  within  a
+specific time would be for the general welfare and benefit of
+the public, the Minister may grant approval to purchase any
+land  or  any  interest  in  that  land,  as  described  in  a  survey
+plan  pertaining  to  that  land,  subject  to  complying  with
+following requirements:-
+
+Purchase  of
+land  for
+power
+generation
+and
+transmission
+projects
+
+15
+
+(a)
+
+the consent of the owner of the land or the person
+entitled to any interest in that land has been obtained;
+
+20
+
+25
+
+30
+
+(b)
+
+(c)
+
+if the land or any interest in that land is required for
+a  project  to  generate  electricity  by  using  energy
+resources  other  than  non-conventional  renewable
+energy resources or for the provision of transmission
+infrastructure project which falls within Long Term
+Power system Development Plan, the prior approval
+of the Regulator shall be obtained by the National
+Transmission  Network  Service  Provider  or  the
+national system operator licensee, as the case may
+be, for implementation of such project;
+
+the  purchase  price  for  the  land  or  any  interest  in
+that land shall be the market value of the land as
+determined by the Chief Valuer, and if the owner of
+the  land  or  the  person  entitled  to  any  interest  in
+that land is not agreeable to the market value, the
+Price Negotiating Committee specified in paragraph
+(d) is authorized to negotiate the price, in the manner
+as shall be prescribed;
+
+66
+
+Sri Lanka Electricity
+
+(d)
+
+the Price Negotiating Committee for the purposes
+of this section shall comprise of -
+
+(i) the Secretary to the Treasury who shall be the
+
+Chairman of the Committee;
+
+5
+
+(ii) the Secretary to the Ministry of the Minister;
+
+(iii) the  Chief  Valuer  or  any  senior  valuation
+officer  of  the  Valuation  Department
+nominated by him; and
+
+(iv) a  member  of  the  Sri  Lanka  Institution  of
+Valuers nominated by such Institution.
+
+(2) The Price Negotiating Committee shall have a duty to
+satisfy themselves of the title of the owner to the land or any
+interest in such land;
+
+(3) The  title  report  relating  to  the  title  of  such  land
+submitted  by  the  National  Transmission  Network  Service
+Provider  or  the  national  system  operator  licensee,  as  the
+case may be, certifying that the relevant land or any interest
+in  such  land,  sought  to  be  purchased  is  free  from  any
+encumbrances and that the owner or the person has a clear
+title  to  the  said  land  or  any  interest  in  such  land,  can  be
+accepted as proof of title.
+
+(4) The procedure to be followed in the implementation
+
+of the provisions of this section shall be as prescribed.
+
+PART   XI
+
+GENERAL
+
+10
+
+15
+
+20
+
+25
+
+32. (1)  There  shall  be  established  for  the  purpose  of
+assisting  the  Minster  in  the  implementation  of  the  reform
+process as provided for in this Act, a secretariat called and
+known as the Power Sector Reforms Secretariat.
+
+Establishment
+of  the  Power
+Sector
+Reforms
+Secretariat
+
+Sri Lanka Electricity
+
+67
+
+(2) The Minister shall appoint not more than three persons
+with integrity, and not less than ten years of experience in
+administration or finance to be members of the Power Sector
+Reforms  Secretariat.  The  Minister  shall  appoint  a  person
+possessing  experience  in  electrical  engineering  as  the
+Director–General of the Power Sector Reforms Secretariat.
+
+(3) The Power Sector Reforms Secretariat shall have the
+power  to  direct  and  oversee  the  implementation  of  the
+reforms enumerated in this Act. The Secretary to the Ministry
+of the Minister shall in the implementation of the reforms
+process as envisaged in this Act, exercise supervision over
+the Power Sector Reforms Secretariat subject at all times, to
+the direction and control of the Minister.
+
+(4) The Power Sector Reforms Secretariat shall -
+
+(a) assist  the  Minister  in  implementing  the
+provisions of this Act and ensuring that the new
+companies  incorporated  in  terms  of  the
+Companies Act, No.07 of 2007 as specified in
+section  16  commence  operations  as  provided
+for in the Act;
+
+(b) coordinate  in  the  preparation  of  the  policy
+
+guidelines in terms of the Act;
+
+(c) assist the Minister in prioritizing and facilitating
+the preparation of regulations to be made under
+the provisions of this Act in order to ensure the
+implementation of the reforms to the Electricity
+Industry;
+
+(d) facilitate  the  preparation  in  an  expeditious
+manner of the preliminary transfer plan and the
+final transfer plan required for the finalisation of
+the reforms process;
+
+(e) coordinate the formulation of a comprehensive
+and  efficient  financial  restructuring  process
+which identifies methodology to be applied to
+the restructuring of the liabilities of the Ceylon
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+68
+
+Sri Lanka Electricity
+
+Electricity  Board  including  the  completion  of
+the process of divesting the Ceylon Electricity
+Board of its activities as identified in the Transfer
+Plan prepared in terms of section 17; and
+
+(f) initiate capacity building of the National System
+Operator in operating the reformed power sector
+and  in  the  procurement  of  new  generation
+capacity  using  competitive,  transparent  and
+accountable  procedures.
+
+(5) The provisions relating to the Power Sector Reforms
+Secretariat shall cease to be operative on the expiration of a
+period of two years from the date on which the Bill becomes
+an Act of Parliament:
+
+Provided that, the Minister may, thirty days prior
+to the expiration of the said period of two years, by an
+Order  published  in  the  Gazette  extend,  subject  to
+obtaining  the  approval  of  the  Cabinet  of  Ministers  for
+such  extension,  the  functioning  of  the  Power  Sector
+Reforms Secretariat by one year at a time:
+
+Provided further, the cumulative period for which
+the Power Sector Reforms Secretariat may be so extended
+shall not extend beyond a period of five years from the
+date on which the Bill becomes an Act of Parliament.
+
+33. (1) The Board of Directors of the Ceylon Electricity
+Board  shall  cooperate  with  the  Power  Sector  Reforms
+Secretariat in the restructuring activities being carried out
+in  terms  of  this  Act.  The  General  Manager  of  the  Ceylon
+Electricity Board shall on behalf of the Board be required to
+furnish  within  thirty  days  from  the  appointed  date,  to  the
+Power Sector Reforms Secretariat, -
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Ceylon
+Electricity
+Board
+required  to
+provide  all
+data  and
+information
+in  its
+possession  to
+the  Power
+Sector
+Reforms
+Secretariat
+
+Sri Lanka Electricity
+
+69
+
+5
+
+(a) all data and documents and any other material
+information  including,  information  relating  to
+all  activities  being  carried  out  by  the  Ceylon
+Electricity  Board,  in  whatever  form,  in  the
+possession of the said Board;
+
+(b) information  concerning  all  assets  including
+technical  parameters  of  generation  and
+transmission equipment under the control of the
+Ceylon  Electricity  Borad;
+
+10
+
+(c) information  relating  to  the  financial  status  of
+
+the Ceylon Electricity Borad;
+
+(d) a complete human resources audit relating to all
+employees of the Ceylon Electricity Borad;
+
+(e) information relating to all pending litigation of
+
+15
+
+the Ceylon Electricity Board;
+
+(f) information of all contractual commitments the
+Ceylon Electricity Board has entered into which
+are  required  for  the  purpose  of  finalising  the
+transfer plan required by section 17:
+
+Provided  that,  the  Power  Sector  Reforms
+Secretariat shall maintain confidentiality in respect
+of  all  information  received  from  the  Ceylon
+Electricity  Board  and  use  such  information  only
+for  the  purpose  of  exercising  and  discharging  its
+powers and functions in terms of the provisions of
+this Act.
+
+34. The  provisions  of  Chapter  I  of  Part  III  under  the
+Heading “Offences relating to Bribery or Corruption” of the
+Anti- Corruption Act, No. 9 of 2023 shall, mutatis mutandis,
+apply to, or in relation to, the provisions of this Act.
+
+Application
+of  certain
+provisions  of
+the  Anti  -
+Corruption
+Act,  No.  9  of
+2023,  to  this
+Act
+
+20
+
+25
+
+30
+
+70
+
+Sri Lanka Electricity
+
+35. (1)  Every  person  who  takes,  uses  or  extracts  any
+
+electricity  –
+
+Extraction  of
+electricity  to
+be  an  offence
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(a) which is in the course of being transmitted or
+distributed  by  a  transmission  or  distribution
+licensee;  and
+
+(b) otherwise than in pursuance of a contract made
+with a distribution licensee or other transmission
+licensee,
+
+commits  an  offence  and  shall  on  conviction  after
+summary trial before a Magistrate be liable to a fine not
+exceeding  one  hundred  thousand  rupees  and  to  an
+additional fine in a sum of money being the value of the
+loss or damage caused to the licensee as a result of the
+act  or  default  constituting  such  offence  or  to
+imprisonment  of  either  description  for  a  term  not
+exceeding  three  months  or  to  both  such  fine  and
+imprisonment. Any sum recovered as an additional fine
+shall be paid to the licensee on application made to court.
+
+(2) Any person who aids or abets the commission of any
+offence punishable under this section shall be guilty of an
+offence under this Act and be liable to the same punishment
+as is provided for such offence.
+
+(3) Where two or more persons are convicted of having
+committed the same offence whether as principal offender
+or abettor, the value of such loss or damage may be apportioned
+among such persons and the amount so apportioned shall be
+imposed on each of such persons as a fine.
+
+(4) A certificate issued by the licensee shall be received
+as proof of the value of such loss or damage in the absence of
+evidence to the contrary. In the absence of any agreement, a
+licensee may charge the offenders for electricity supplied as
+if it were electricity supplied to a consumer in accordance
+with the metnod of charging provided for in the licence.
+
+Improper  use
+of  electricity
+to  be  an
+offence
+
+Sri Lanka Electricity
+
+71
+
+36. (1) Without prejudice to the provisions of this Act, every
+
+person who –
+
+(a) not  being  an  authorised  officer  of  a  licensee,
+connects or disconnects any electricity line through
+which  electricity  is  or  may  be  supplied  by  the
+licensee  to  or  from  meter,  indicator  or  other
+apparatus;
+
+(b) without the consent of a licensee lays, or causes to
+be  laid,  any  electricity  line  or  connects  any
+electricity line, equipment, apparatus, or works, for
+the purpose of establishing a connection with any
+electricity line, apparatus or works belonging to a
+licensee; or
+
+(c)
+
+intentionally  or  negligently  -
+
+(i) alters  the  quantity  of  electricity  supplied  to
+any  premises  by  a  distribution  licensee  as
+registered on any meter used for measuring
+the same; or
+
+(ii) prevents any meter from duly registering the
+quantity of electricity supplied through that
+meter,
+
+commits  an  offence  under  this  Act  and  shall  on
+conviction after summary trial before a Magistrate, be
+liable, in addition to a penalty not less than one hundred
+thousand  rupees  and  not  exceeding  five  hundred
+thousand rupees, to a fine in a sum of money being the
+value of the loss or damage caused to the licensee as a
+result of the act or default constituting such offence,
+and such recovered additional fine shall be paid to the
+licensee on application made to court by such licensee.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+72
+
+Sri Lanka Electricity
+
+(2) Where any person is prosecuted for an offence under
+paragraph  (c)  of  subsection  (1)  a  certificate  issued  by  the
+distribution licensee to the effect that -
+
+(i) the meter was in the custody or under the control
+
+of the person being prosecuted; and
+
+(ii) there  is  clear  proof  that  the  meter  has  been
+tampered causing an alteration of the register of
+the  quantity  of  electricity  registered  on  such
+meter and therefore preventing the meter from
+duly registering such usage,
+
+shall be admissible in evidence and shall be prima facie
+proof of the matters contained therein.
+
+(3) Any person who aids or abets the commission of any
+offence punishable under this section shall be guilty of an
+offence  under  this  Act  and  shall  be  liable  to  the  same
+punishment as is provided for the principal offence. Where
+two or more persons are convicted of having committed the
+same offence, whether as principal offender or abettor, the
+value  of  such  loss  or  damage  may  be  apportioned  among
+such  persons  and  the  amount  so  apportioned,  shall  be
+imposed on each of such persons as a fine.
+
+(4) A certificate issued by the licensee shall be received
+as proof of the value of such loss or damage in the absence of
+evidence to the contrary. In the absence of any agreement, a
+licensee may charge for energy supplied to any consumer in
+accordance with any method of charging provided for in the
+licence.
+
+(5) In  the  case  of  such  offence  being  continued  after
+conviction,  there  shall  be  imposed  a  further  fine  not
+exceeding five thousand rupees for each day on which such
+offence is being continued after conviction.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Sri Lanka Electricity
+
+73
+
+(6) Where any person is convicted of an offence under
+paragraph (c) of subsection (1), the distribution licensee may
+discontinue the supply of electricity to the premises of the
+person convicted and remove the meter in respect of which
+the offence was committed and thereafter keep the same in
+safe custody, until the Regulator authorizes the licensee to
+dispose it. However, in the event that the unpaid dues are
+recovered  by  the  distribution  licensee,  the  distribution
+licensee shall, within a reasonable period of time, restore the
+supply of electricity that was discontinued.
+
+(7) Notwithstanding anything to the contrary in the Code
+of Criminal Procedure Act, No.15 of 1979, an offence under
+this  Act  shall  be  a  cognizable  offence  and  a  non-bailable
+offence within the meaning and for the purposes of that Act.
+
+General
+penalty
+
+37. (1) Every person who contravenes any provision of
+this  Act  or  any  regulation  made  thereunder  commits  an
+offence  under  this  Act  and  shall,  except  as  otherwise
+expressly provided in this Act, be liable on conviction after
+summary trial before a Magistrate to a fine not exceeding
+two hundred thousand rupees and in any case where such
+offence is continued after conviction, to a further fine not
+exceeding five thousand rupees for each day on which such
+offence being continued after conviction.
+
+(2) Upon conviction of any person for an offence under
+this  Act,  a  Magistrate  may,  in  addition  to,  or  in  lieu  of,
+imposing  any  punishment  specified  for  the  offence  under
+subsection (1), make an order directing that any installation
+or other apparatus involved in the commission of the offence
+shall be dismantled and removed before a date specified in
+such order.
+
+(3) An officer authorised in writing by the Regulator may
+institute proceedings in a Magistrate’s court for an offence
+under this Act notwithstanding anything to the contrary in
+any other written law.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+74
+
+Sri Lanka Electricity
+
+(4) No prosecution for an offence under this Act shall be
+instituted except with the written sanction of the Regulator.
+
+38. Where an offence under this Act is committed by a
+
+body of persons, then –
+
+Offences  by
+bodies  of
+persons
+
+5
+
+(a)
+
+if that body of persons is a body corporate, every
+director and officer of that body corporate; or
+
+10
+
+15
+
+20
+
+25
+
+(b)
+
+if that body of persons is a partnership, every partner
+of that partnership,
+
+        shall be deemed to be guilty of that offence:
+
+Provided that, that a director or officer of that body
+corporate or a partner of such partnership shall not be
+deemed  to  be  guilty  of  such  offence,  if  such  person
+proves  that  such  offence  was  committed  without  the
+knowledge of such person or that such person used all
+such  diligence  as  was  necessary,  to  prevent  the
+commission of such offence.
+
+39. (1) Where the Regulator has reasonable grounds to
+believe that an activity contrary to the provisions of this Act
+is being carried out on any premises, the Regulator or any
+officer acting on behalf of the Regulator may, on obtaining
+a warrant from a Magistrate, and on production of the same,
+if required,-
+
+Powers  of
+entry,
+inspection
+and  search
+
+(a)
+
+(b)
+
+to enter, inspect and search at all reasonable hours
+of  the  day  the  premises  in  which  any  regulated
+entity  is  carrying  on  its  business  or  any  other
+connected premises; and
+
+to inspect, take copies of or seize and detain any
+relevant  records  or  documents  of  that  regulated
+entity.
+
+Sri Lanka Electricity
+
+75
+
+(2) Any person who obstructs the Regulator or an officer
+acting  on  behalf  of  the  Regulator  in  the  exercise  of  his
+powers under this section commits an offence.
+
+5
+
+10
+
+40. (1)  If  any  difficulty  arises  in  giving  effect  to  the
+provisions  of  this  Act  or  any  Order,  regulation,  rule  or
+notification made under this Act, the Minister may take such
+steps as are not inconsistent with the provisions of this Act,
+as may be necessary or expedient for eliminating any specific
+difficulty.
+
+Removal  of
+difficulties
+
+(2) The Minister may by Order published in the Gazette
+specify the steps taken for the purpose of removing any such
+difficulty.
+
+41. (1) Rules may be made in respect of all matters for
+which rules are required or authorised to be made in terms of
+this Act.
+
+15
+
+Rules
+
+(2) Every rule made in terms of this Act shall be published
+in the Gazette and shall come into force on the date of such
+publication or on such later date as may be specified therein.
+
+20
+
+42. (1) Every Order made in terms of this Act shall be
+published in the Gazette and shall come into operation on
+the date of such publication.
+
+Orders
+
+(2) Every  Order  published  in  the  Gazette  in  terms  of
+subsection (1) shall be placed before Parliament for approval,
+by a resolution of Parliament, within ninety days from such
+publication.
+
+25
+
+(3) Any  Order  not  so  approved  shall  be  deemed  to  be
+rescinded  with  effect  from  the  date  of  the  resolution  but
+without prejudice to anything duly done thereunder.
+
+43. (1) The Minister may make regulations under this Act
+in respect of all matters required by this Act to be prescribed
+
+30
+
+Regulations
+
+76
+
+Sri Lanka Electricity
+
+or in respect of which regulations are required or authorised
+by this Act to be made.
+
+(2) Every  regulation  made  under  this  section  shall  be
+published in the Gazette and shall come into operation on
+the date of such publication or on such later date as may be
+specified therein.
+
+5
+
+(3) Every regulation made under this section shall within
+three  months  of  its  publication  in  the  Gazette  be  brought
+before Parliament for approval. Any such regulation, which
+is not so approved shall be deemed to be rescinded as from
+the date of its disapproval, but without prejudice to anything
+duly done thereunder.
+
+(4) Notification of the date on which any regulation made
+by  the  Minister  is  so  deemed  to  be  rescinded  shall  be
+published in the Gazette.
+
+PART   XII
+
+REPEALS  AND  TRANSITIONAL  PROVISIONS
+
+44. (1) With effect from the date of coming into operation
+of the provisions of this Act in terms of subsection (2), (3) or
+(4) of section 1, as the case may be, the Ceylon Electricity
+Board  Act,  No.17  of  1969  shall  stand  repealed.
+Notwithstanding the repeal of the Ceylon Electricity Board
+Act, No. 17 of 1969 -
+
+Repeals  and
+Transitional
+Provisions
+
+(a)
+
+all  regulations  made  under  the  repealed  Ceylon
+Electricity Board Act, No.17 of 1969, and in force
+on  the  day  immediately  preceding  the  appointed
+date,  shall,  in  so  far  as  such  regulations  are  not
+inconsistent with any provision of this Act, continue
+to be in operation from and after the appointed date,
+until regulations are made under this Act, to replace
+such  regulations;
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Sri Lanka Electricity
+
+77
+
+(b)
+
+the provisions of the promotion schemes, codes of
+conduct and the disciplinary codes of the Ceylon
+Electricity Board in force on the day immediately
+preceding  the  appointed  date  shall,    in  so  far  as
+such promotion schemes, codes of conduct and the
+disciplinary  codes  are  not  inconsistent  with  any
+provision of this Act, continue to be in operation
+from and after the appointed date, in respect of any
+matter  or  question  arising  in  relation  to  the
+promotions    and    disciplinary  control    of    the
+employees  of  the  Ceylon  Electricity  Board  who
+have opted to continue in the service of the successor
+companies,  until  promotion  schemes,  codes  of
+conduct  and  disciplinary  codes  are  promulgated
+under  this  Act  to  regulate  promotions    and
+disciplinary control  of such employees;
+
+(c) where after the appointed date, there remains any
+matter  or  issue  arising  in  or  concerning  the
+Electricity Industry, for which no provisions or no
+effective provision has been made in this Act, such
+of the provisions of the Ceylon Electricity Board
+Act, No.17 of 1969 as are not inconsistent with the
+provisions  of  this  Act  shall  from  and  after  the
+appointed date, continue to be in operation and be
+applicable  only  in  respect  of  any  such  matter  or
+issue only and no other, until provision is made in
+this Act for such purpose;
+
+(d)
+
+all  actions  or  proceedings  whatever  nature
+instituted by or against the Ceylon Electricity Board
+and pending on the day immediately preceding the
+appointed  date  shall  be  deemed  as  from  the
+appointed  date  to  be  actions  and  proceedings
+instituted  by  or  against  the  respective  successor
+company and may be continued accordingly;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+(e)
+
+all judgments, decrees or orders of any court made
+by or against the Ceylon Electricity Board before
+the appointed date, shall from and after such date
+
+78
+
+Sri Lanka Electricity
+
+be deemed to continue to be in force and shall be
+enforced accordingly in terms of this Act;
+
+(f)
+
+any  reference  to  the  Ceylon  Electricity  Board  in
+any notification, contract, instrument, record, share
+certificate,  document,  deed,  bond,  agreement,
+guarantee,  Power  of  Attorney,  grant  of  legal
+representation or any other instrument of whatever
+nature, which are currently in force shall be deemed
+to be valid and effectual and continue to be enforced
+accordingly in terms of this Act.
+
+(2) The Sri Lanka Electricity Act, No. 20 of 2009, shall
+stand  repealed.  Notwithstanding  the  repeal  of  Sri  Lanka
+Electricity Act, No. 20 of 2009-
+
+(a)
+
+all licences and deemed licences issued under the
+provisions of Sri Lanka Electricity Act, No.20 of
+2009,  and  in  force  on  the  day  preceding  the
+appointed  date  shall,  in  so  far  as  such  licences
+authorised any one of the following activities, shall
+from and after the appointed date, continue to be
+valid and effective for a period of nine months from
+such date –
+
+(i) all  generation  licences  and  deemed
+generation licences issued for generation of
+Electricity;
+
+(ii) the National Transmission Network Service
+Provider licence deemed to have been issued
+to carry on activities listed under sections 14
+and 15 of this Act for operation, maintenance,
+future  planning  and  development  of  the
+National Transmission Network (also referred
+to as the “National Grid of Sri Lanka”);
+
+(iii) the  distribution  licences  issued  for  the
+distribution of electricity and or to supply of
+electricity  to  consumers  and  or  to  any
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Sri Lanka Electricity
+
+79
+
+premises  of  the  authorised  areas  of  the
+distribution  divisions  of  the  Ceylon
+Electricity  Board;
+
+(iv) national system operator licence deemed  to
+have been issued to carry on activities listed
+under section 10 for procurement and sale of
+electricity  in  bulk  form  to  distribution
+licensees and to any other customers;
+
+(v) distribution  licence  issued  to  Lanka
+Electricity  Company  (Pvt)  Ltd,  for
+distribution and or to supply of electricity to
+consumers  or  to  any  premises  of  the
+authorised  area  of  the  Lanka  Electricity
+Company (Pvt) Ltd:
+
+Provided that, not less than six months prior
+to the expiry of the period of nine months referred
+to in paragraph (a) of subsection (2), all licensees
+and deemed licensees, shall be required to forward
+applications  to  obtain  licences  in  terms  of  the
+provisions of this Act; and
+
+(b) all regulations made under section 56 of the repealed
+Sri Lanka Electricity Act, No. 20 of 2009, and in
+force  on  the  day  immediately  preceding  the
+appointed  date,  shall  with  effect  from  such  date,
+shall continue to be in force and be deemed, in so
+far  as  such  regulations  are  not  inconsistent  with
+any provision of this Act, until regulations are made
+under this Act.
+
+(3) The Registrar of Lands, shall be required to register
+all lands that have been transferred from the Department of
+Electrical Undertaking and the local authorities to the Ceylon
+Electricity Board by virtue of the operation of the provisions
+of  Part  II  of  the  Ceylon  Electricity  Board  Act,  No.  17  of
+1969, upon submission of a certificate issued under the hand
+of  the  General  Manager  of  the  Ceylon  Electricity  Board
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+80
+
+Sri Lanka Electricity
+
+based on information and documentary proof in respect of
+such transfer as is within the possession and control of the
+General  Manager    certifying  that  the  Ceylon  Electricity
+Board is the owner and is in occupation of all lands described
+(with  metes  and  boundaries)    in  the  Schedule  annexed  to
+such Certificate.
+
+(4) A  certificate  shall  be  issued  under  the  hand  of  the
+General Manager of the Ceylon Electricity Board to the effect
+that  the  Ceylon  Electricity  Board  became  the  owner  and
+occupier of the lands more fully described in the Schedule
+annexed to the certificate as from the date of taking over the
+all  electrical  undertakings  including  all  assets  and  lands,
+which  were  owned  and  possessed  by  the  Department  of
+Electrical Undertakings or any local authority, by virtue of
+the  operation  of  the  provisions  of  Part  II  of  the  Ceylon
+Electricity Board Act, No. 17 of 1969 and from and after the
+date on which all electrical undertakings of the Department
+of Ceylon Electricity Board had enjoyed all benefits of those
+lands  and  assets  as  the  property  of  the  Ceylon  Electricity
+Board free of any encumbrances.
+
+(5) For the purpose of this section, the term “Registrar”
+means  the  Registrar  of  Lands  appointed  under  the
+Registration  of  Documents  Ordinance  (Chapter  117)  and
+having jurisdiction over the districts or divisions in which
+such lands are situated.
+
+(6) Notwithstanding the repeal of the Ceylon Electricity
+Board Act, No. 17 of 1969, the relevant Government agencies
+responsible to manage, including operation and maintenance
+of  water  reservoirs,  water  ponds  and  water  bodies  of  the
+“Mahaweli Complex”, “Laxapana Complex”, “other hydro
+complex” shall continue to release water to the hydro energy
+generating plants of the successor companies, to keep such
+hydro  energy  plants  occupied  with  the  power  generation,
+on terms and conditions that may be agreed upon between
+the  relevant  Government  agencies  and  such  successor
+companies or its subsidiaries.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Sri Lanka Electricity
+
+81
+
+45. In this Act unless the context otherwise requires -
+
+Interpretation
+
+“authorise” means authorised by licence or exemption
+
+under this Act;
+
+“Authorised Area” in relation to a person authorised
+by a licence to transmit or to distribute and supply
+electricity,  means  the  area  designated  in  the
+licence;
+
+“bulk sales” in relation to the sale of electricity, means
+the  sale  of  electricity  in  bulk  via  the  national
+transmission network to distribution licensees,
+and to traders and customers who are connected
+to the transmission network, as may be identified
+in the relevant licence;
+
+“captive generating plant” means a power plant set
+up  by  any  person  to  generate  electricity
+primarily  for  such  persons  own  use  but  any
+excess electricity may be sold by such person to
+the  distribution  licensees  or  to  the  National
+System Operator in terms of a licence issued under
+this Act;
+
+“Ceylon  Electricity  Board”  means  the  Ceylon
+Electricity  Board  established  by  the  Ceylon
+Electricity Board Act, No. 17 of 1969;
+
+“connect” in relation to any premises means to connect
+a  consumer  to  the  distribution  line  of  the
+distribution  licensee,  and  the  expression
+“connection”  shall  be  construed  accordingly;
+
+“consumer” means any person who is supplied with
+electricity for personal use by a licensee or the
+Government of Sri Lanka or by any other person
+engaged in the business of supplying electricity
+to  the  public  and  includes  any  person  whose
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+82
+
+Sri Lanka Electricity
+
+premises  are  for  the  time  being  connected  for
+the purpose of receiving electricity and includes
+any prospective consumer;
+
+“dedicated  transmission  line”  means  any  electricity
+supply line or point to point connection which
+is  required  for  the  purpose  of  connecting
+electricity lines or electricity plants of a captive
+generating  plant  or  generating  station,  to  any
+transmission line or substation, as the case may
+be;
+
+“direct  procurement”  means  the  engagement  of  a
+contractor  or  supplier  for  the  supply  of  an
+electricity plant or electricity line under a supply
+full  payment  upon
+contract 
+commissioning and acceptance of the plant;
+
+the 
+
+for 
+
+“distribute” in relation to electricity means a system
+which consists of low voltage lines and electrical
+plant  and  is  used  for  conveying  electricity  to
+any premises or to any other distribution system
+and  the  expressions    “distribution”  and
+“distribution  system”  shall  be  construed
+accordingly;
+
+“distribution  line”  in  relation  to  a  distribution
+licensee,  means  any  distribution  line  in  the
+Authorised  Area  of  the  distribution  licensee
+which is being used for the purpose of supplying
+electricity to any premises;
+
+“distribution  voltage”  means  any  voltage  not
+exceeding  33  kilovolt  or  such  voltage  as
+determined by the Regulator;
+
+“electrical  plant”  means  any  plant,  equipment,  or
+appliance  used  for  or  in  connection  with  the
+generation, transmission, distribution or supply
+of  electricity,  and  does  not  include  any
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Sri Lanka Electricity
+
+83
+
+electricity line, any meter used for ascertaining
+the  quantity  of  electricity  supplied  to  any
+premises  or  any  electrical  appliance  under  the
+control of a consumer;
+
+“electrical power system” means the combination of
+electrical  generators  (i.e.,  power  plants),
+transmission and distribution lines, equipment,
+circuits, and transformers used to generate and
+transport  electricity  from  the  generator  to  the
+consumption  areas  or  to  adjacent  electrical
+power systems;
+
+“electricity  line”  means  any  line  whether  used  for
+carrying electricity for any purpose which is laid
+underground or on the surface, and includes any
+equipment  used  as  support  for  any  such  line,
+including, but not limited to, any structure, pole
+or other thing in, on, by or from which any such
+line  is  supported,  carried  or  suspended;  any
+apparatus  connected  to  any  such  line  for  the
+purpose  of  carrying  electricity;  and  any  wire,
+cable, tube, pipe other similar thing (including
+its casing, insulator or coating) which surrounds
+or supports or is installed in close proximity to
+any such line;
+
+“electricity trading” means the purchase of electricity
+for  resale  and  the  expression  “trade”  shall  be
+construed  accordingly;
+
+“Electricity Supply Code” means a Code of prescribed
+standards to be complied with by all distribution
+licensees;
+
+“enforcement order” means an order made in terms of
+subsection (4) of section 22 of this Act;
+
+”“generating station” means any facility for generating
+electricity,  including  the  site  where  such
+
+84
+
+Sri Lanka Electricity
+
+generating station is installed, and any building,
+plant, transformer, switchgear, switch yard, cables
+or other appurtenant equipment, if any, used for
+the  aforesaid  purpose  ,  and  any  building  used
+for housing the operating staff of a generating
+station,  and  where  electricity  is  generated  by
+hydro power, includes penstocks, head and tail
+works, main and regulating reservoirs, dams and
+other hydraulic works, but does not include any
+sub-station;
+
+”“generator” means a generation licensee or a person
+exempted from the requirement of obtaining a
+generation  licence;
+
+“grid”  means  a  high  voltage  backbone  system  of
+interconnected  transmission  lines,  substations
+and  generating  plants;
+
+“Grid  Code”  means  the  National  Grid  Code  which
+specifies  the  methodology  relating  to  the
+planning,  scheduling  or  dispatch  of  electrical
+energy within Sri Lanka’s power system;
+
+“high voltage line” means an electricity line or cable
+of a nominal voltage exceeding 33 kilovolt, or
+of such nominal voltage as may be specified by
+the Regulator, from time to time;
+
+“indigenous  energy  resources”  means  any  form  of
+energy resource available in Sri Lanka such as
+domestically produced fossil fuel energy, energy
+produced from renewable energy and includes
+any  other  derivatives  thereof  but  does  not
+include  any  imported  fossil  fuel  based  energy
+products;
+
+“interest” means any financial or other interest directly
+or  indirectly,  in  any  company  or  undertaking
+carrying on any of the following activities :–
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Sri Lanka Electricity
+
+85
+
+(a) the generation, transmission, distribution,
+
+or supply of electricity;
+
+(b) the  manufacture,  production,  sale  or
+supply  of  fuel  for  the  generation  of
+electricity;
+
+(c) the import, manufacture, sale, lease, hire or
+other supply of or, dealing in, machinery,
+plant, equipment, apparatus or fittings for
+generation,  transmission,  distribution,
+supply or use of electricity; or
+
+(d) the  provision  of  legal,  accountancy  or
+banking  services  to  any  company  or
+undertaking;
+
+”Lanka  Electricity  Company  (Pvt.)  Ltd.”  means  the
+Lanka  Electricity  Company  (Private)  Limited
+registered under the Companies Act No. 28 of
+1982;
+
+”licence” means a licence issued in terms of section
+20  of  this  Act,  and  the  term  “licensee”  means
+any person to whom a licence in terms of this
+Act has been issued for engaging in the activities
+connected  to  the  generation,  transmission,
+distribution,  supply,  trade  or  procurement  of
+electricity;
+
+”line” means any wire, cable, pipe, conductor or other
+similar  thing  (including  its  casing  or  coating)
+which is designed or adapted for use in carrying
+electricity;
+
+“local authority” means a Municipal Council, Urban
+Council or a Pradeshiya Sabha, and includes any
+authority  created  and  established  by  or  under
+any  law  to  exercise,  perform  and  discharge,
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+86
+
+Sri Lanka Electricity
+
+powers,  duties  and  functions  corresponding  to
+or  similar  to  the  powers,  duties  and  functions
+exercised, performed and discharged by any such
+Municipal  Council,  Urban  Council  or  a
+Pradeshiya Sabha;
+
+”Minister” means the Minister assigned the subject of
+electricity  in  terms  of  Article  44  or  45  of  the
+Constitution;
+
+”National  Load  Dispatch  Centre”  means  the  Centre
+established  under  section  10  of  this  Act  for
+carrying out real time operation of the National
+Grid;
+
+“National System Operator” means the person or
+body  of  persons  to  whom  a  licence  has  been
+issued in terms of section 10 of this Act;
+
+“National  Transmission  Network  Service  Provider”
+means the person or body of persons to whom
+the licence to operate the National Transmission
+Network has been granted;
+
+“open access” means the non-discriminatory provision
+for  the  use  of  transmission  network  or
+distribution  lines  or  associated  facilities  for
+supplying  electricity  to  consumers  eligible  to
+purchase  electricity  directly  from  generating
+licensees  under  this  Act,  in  accordance  with
+directions  issued  by  the  Regulator.  It  permits
+third  party  suppliers  to  provide  electricity  to
+access the transmission and distribution network
+on the same conditions as the network owner or
+any  other  user,  upon  payment  of  a  wheeling
+tariff;
+
+“power  system”  means  all  aspects  of  generation,
+transmission,  distribution  and  supply  of
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Sri Lanka Electricity
+
+87
+
+electricity  and  includes  one  or  more  of  the
+following, namely:-
+
+(a) generating  stations;
+(b) transmission lines;
+(c) sub-stations;
+(d) tie-lines;
+(e) load  dispatch  activities;
+(f) distribution  mains;
+(g) electricity  supply  lines;
+(h) overhead  lines;
+(i) service lines; and
+(j) works;
+
+“premises” means any land, building or structure;
+
+“prescribed”  means  prescribed  by  regulations  made
+
+under this Act;
+
+“public private partnership” means the entering into a
+long  term  agreement  with  an  investor  for  the
+provision of electricity, energy storage, ancillary
+services  or  transmission  services  where  the
+capital  investments  will  be  substantially  born
+by the investor;
+
+“Regional Market” means the electricity market that
+is  in  operation  outside  the  territory  of  the  Sri
+Lanka within the South Asian Region;
+
+“standardized  power  purchase  agreement”  means  a
+power purchase agreement on pre-defined terms
+and  conditions  where  the  technology  specific
+power purchase tariff and other contractual terms
+for renewable energy based power plants having
+a maximum capacity of 10MW;
+
+“supply”  in  relation  to  electricity,  means  the
+distribution of electricity using the distribution
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+88
+
+Sri Lanka Electricity
+
+network of a distribution licensee or any entity
+licensed to do so;
+
+“transmission network” means all high voltage cables
+and overhead lines (not being an essential part
+of the distribution system of a licensee) used for
+conveying electricity from a generation station
+to a substation, from one generation station to
+another  or  from  one  substation  to  another,
+together with any transformers, switchgear and
+other works and equipment necessary to and used
+for the control and protection of such cables or
+overhead lines, and such buildings or part thereof
+as  may  be  required  to  accommodate  such
+transformers,  switchgear  and  other  works  and
+equipment;
+
+”transmission  voltage”  means  any  voltage  above  33
+kilovolt or such other voltage as determined by
+the  Regulator  to  be  the  voltage  or  voltages  at
+which the transmission system operates;
+
+“transmit”  in  relation  to  electricity,  means  the
+transportation  of  electricity  by  means  of  a
+transmission  system,  which  consists  of  high
+voltage  lines  and  electricity  plant  and  is  used
+for  conveying  electricity  from  a  generating
+station  to  a  substation,  from  one  generating
+station  to  another  or  from  one  sub-station  to
+another, and the expressions “transmission” and
+“transmission  system”  shall  be  construed
+accordingly;
+
+“utility” means the electricity lines or electricity plant,
+including  all  lands,  buildings,  works  and
+materials  attached  thereto  belonging  to  any
+person acting as a licensee under the provisions
+of this Act and an “electric utility” means any
+plant,  works,  system,  facilities  or  properties,
+together with all parts and appurtenances thereto,
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Sri Lanka Electricity
+
+89
+
+including contract and franchise rights used and
+useful primarily for the production, transmission
+or distribution of electric energy;
+
+“wheeling” means the use of the distribution system
+and  associated  facilities  of  a  transmission
+licensee, as the case may be, by another person
+other  than  the  transmission  or  distribution
+licensee  for  the  conveyance  of  electricity  to
+eligible  consumers  on  payment  of  wheeling
+charges;
+
+“wheeling  charges”  means  the  transmission  and
+distribution  network  usage  tariff  approved  by
+the  Regulator  for  the  provision  of  wheeling
+services in terms of this Act;
+
+“Wholesale Electricity Market” means a market where
+multiple electricity suppliers compete with each
+other to provide electricity to consumers at the
+most beneficial cost; and
+
+“works”  includes  electricity  line,  and  any  building,
+plant, machinery, apparatus and any other thing
+of  whatever  description  required  to  transmit,
+distribute or supply electricity to the public and
+to  carry  into  effect  the  objects  of  a  licence  or
+sanction granted under this Act.
+
+[Section  16]
+
+S C H E D U L E
+
+The  activities  relating  to  the  hydro-electric  generation,  thermal
+electricity  generation,  and  renewable  energy  generation  as  set  out
+below,  which  are  presently  vested  with  the  Ceylon  Electricity  Board,
+shall  on  the  date  of  the  coming  into  operation  of  this  Act,  being  a  date
+no  later  than  six  months  from  the  date  on  which  this  Act  has  been
+certified  by  the  Speaker  in  terms  of  Article  79  of  the  Constitution  as
+an  Act  of  Parliament,  be  re-structured  and  vest  in  the  corporate  entities
+which  will  be  incorporated  under  the  Companies  Act,  No.07  of  2007
+for  the  purposes  of  the  implementation  of  this  Act,  substantially  in  the
+manner  set  out  below:-
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+90
+
+Sri Lanka Electricity
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(a) one  company  to  take  over  the  hydropower  generation
+
+assets  of  the  Ceylon  Electricity  Board  ;
+
+(b) one  company  to  take  over  the  Coal  power  Plant  owned
+and  operated  by  the  Ceylon  Electricity  Board  as  well  as
+Lanka  Coal  Company;
+
+(c) one  company  to  take  over  the  thermal  generation  assets
+
+of  the  Ceylon  Electricity  Board;
+
+(d) one  company  to  take  over  the  Wind  Power  Plant  owned,
+possessed  and  operated  by  the  Ceylon  Electricity  Board;
+
+(e) one  company  to  take  over  the  functions  of  the  Ceylon
+Electricity  Board  relating  to  the  development,  maintenance
+and  operation  of  the  physical  infrastructure  that  makes
+up  the  National  Grid  of  Sri  Lanka;
+
+(f) one  company  to  take  over  the  functions  of  the  Ceylon
+Electricity  Board  relating  to  generation  scheduling,
+commitment  and  economic  dispatch  of  generating  plants
+and  functions  relating  to  the  planning  of  future  electricity
+and  transmission  demand;
+
+(g) separate  companies  to  take  over  the  distribution  functions
+of  the  distribution  divisions  of  the  Ceylon  Electricity
+Board;  and
+
+(h) such  number  of  companies  as  shall  be  required  for
+managing  the  residual  functions  of  the  Ceylon  Electricity
+Board.  Such  residual  companies  shall  be  incorporated  to
+undertake  among  other  matters  which  may  not  be
+allocated  to  any  successor  company,  the  following
+residual  functions:-
+
+(i) one  company  to  take  over  functions  of  the  Ceylon
+Electricity  Board  other  than  those  functions  and
+activities  entrusted  to  the  companies  incorporated;
+
+(ii) one  company  to  take  over  the  functions  of  the
+Provident  Fund  and  Pension  Fund  of  the  Ceylon
+Electricity  Board  and  to  act  as  the  custodian  and
+
+Sri Lanka Electricity
+
+91
+
+trustee  and  manage  of  such  provident  fund  and
+pension  fund,  provided  that,  the  entire  share
+holdings  of  the  company  shall  always  remain  with
+the  Government.
+
+5
+
+46. In the event of any inconsistency between the Sinhala
+
+and Tamil texts of this Act, the Sinhala text shall prevail.
+
+Sinhala  text
+to  prevail  in
+case  of
+inconsistency
+
+Vanni  Mann  Charity  Foundation  (Incorporation)
+
+7
+
+DEPARTMENT OF GOVERNMENT PRINTING
+
+

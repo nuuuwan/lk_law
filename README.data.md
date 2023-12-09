@@ -2,42 +2,42 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **3781** documents, as of *2023-12-09 14:00:03*.
+Downloaded **244** documents, as of *2023-12-09 14:16:19*.
 
 ## Selected Documents
 
-* (0) [2017-06-09 Civil Procedure Code (Amendment)](data/doc/a/2017-06-09-civil-procedure-code-amendment/doc.pdf)
-* (130) [2022-03-19 Land Development (Amendment)](data/doc/a/2022-03-19-land-development-amendment/doc.pdf)
-* (260) [2022-11-02 Department of Local Government - Central Province - Appoint R. Gopalakrishnan as Chairman of Agarapathana Pradeshiya Sabha](data/doc/egz/2022-11-02-department-of-local-government---central-province---appoint-r-go/doc.pdf)
-* (391) [2022-11-16 Land Acquisition - Lavala, Bulathkohupitiya D/S Division, Kegalle District](data/doc/egz/2022-11-16-land-acquisition---lavala-bulathkohupitiya-ds-division-kegalle-d/doc.pdf)
-* (521) [2022-11-25 Land Title Settlement Department - Ambulparaya, Harispaththuwa D/S Division, Kandy District ](data/doc/egz/2022-11-25-land-title-settlement-department---ambulparaya-harispaththuwa-ds/doc.pdf)
+* (0) [2023-11-15 Land Acquisition - Pitihuma, Kegalle D/S Division, Kegalle District - Godakuruwa, Narammala D/S Division, Kurunegala District - Amended Ex. Gaz. No. 2002/64, on dated 20.01.2017 Gampaha D/S Division, Gampaha District - Amended Ex. Gaz. No. 1986/59 on dated 30.09.2016 Attanagalla D/S Division, Gampaha District](data/doc/egz/2023-11-15-land-acquisition---pitihuma-kega-cf7ed55a/doc.pdf)
+* (8) [2023-11-16 Land Title Settlement Department - Pasyala, Meerigama D/S Division, Gampaha District - Cad. Map No. 510258 (23/0872)](data/doc/egz/2023-11-16-land-title-settlement-department-0be4b4ec/doc.pdf)
+* (16) [2023-11-16 Land Title Settlement Department - Yakkaduwa, Ja Ela D/S Division, Gampaha District - Cad. Map No. 512204 (23/0729)](data/doc/egz/2023-11-16-land-title-settlement-department-9db4fdc0/doc.pdf)
+* (25) [2023-11-17 Land Acquisition - Kaddukaraudiyiruppu, Mannar D/S Division, Mannar District - Kaddukaraudiyiruppu, Mannar D/S Division, Mannar District - Pavilupaddan Kaddikudiruppu, Mannar Town D/S Division, Mannar District](data/doc/egz/2023-11-17-land-acquisition---kaddukaraudiy-39678815/doc.pdf)
+* (33) [2023-11-17 Ministry of Urban Development & Housing - The Urban Development Authority Law. No. 41 of 1978 of the National State Assembly Cancellation of the Vesting Order under Section 15(1)](data/doc/egz/2023-11-17-ministry-of-urban-development--h-14b90a77/doc.pdf)
 
-* (651) [2022-12-08 Land Title Settlement Department - Pitipana South, Homagama D/S Division, Colombo District - Cad. Map No. 520007](data/doc/egz/2022-12-08-land-title-settlement-department---pitipana-south-homagama-ds-di/doc.pdf)
-* (782) [2022-12-19 Ministry of Labour & Foreign Employment - Appoint Mr. R. L. Gunawardena as the Arbitrator to the Industrial Disputes between R. N. Piyaratne, Walasmulla and Mahaweli Authority of Sri Lanka, Colombo 10](data/doc/egz/2022-12-19-ministry-of-labour--foreign-employment---appoint-mr-r-l-gunaward/doc.pdf)
-* (912) [2023-01-02 Land Title Settlement Department - Ayyanarkoviladi, Nallur D/S Division, Jaffna District - Cad. Map No. 910010](data/doc/egz/2023-01-02-land-title-settlement-department---ayyanarkoviladi-nallur-ds-div/doc.pdf)
-* (1042) [2023-01-17 Elections Commission - Local Authorities Elections Ordinance (Chapter 262) Order under Section 76A](data/doc/egz/2023-01-17-elections-commission---local-authorities-elections-ordinance-cha/doc.pdf)
-* (1173) [2023-01-28  Land Title Settlement Department - Velankale, Arachchikattuwa D/S Division, Puttalam District - Cad. Map No. 410292 (22/0700)](data/doc/egz/2023-01-28-land-title-settlement-department---velankale-arachchikattuwa-ds-/doc.pdf)
+* (41) [2023-11-20 Divisional Secretariate - Galle - The Annual Durutu Maha Procession of Pilana Purana Sri Maha Temple Akmeemana D/S Division, Galle District](data/doc/egz/2023-11-20-divisional-secretariate---galle--fafeeef9/doc.pdf)
+* (50) [2023-11-21 Consumer Affairs Authority - The Consumer Affairs Authority here by Rescind Order No. 88 Amended Extraordinary Gaz. No. 2356/39 Dated 03.11.2023](data/doc/egz/2023-11-21-consumer-affairs-authority---the-d592eb3b/doc.pdf)
+* (58) [2023-11-22 Department of Forest Conservation - Order release the block of Forest Land Gurugodakanda from 1st day of November - 2023](data/doc/egz/2023-11-22-department-of-forest-conservatio-656b965c/doc.pdf)
+* (67) [2023-11-22 Land Acquisition - Siruthoppu, Mannar Town D/S Division, Mannar District - Kaddukarankudiyiruppu, Mannar Town D/S Division, Mannar District - Thullukudiyiruppu, Mannar Town D/S Division, Mannar District](data/doc/egz/2023-11-22-land-acquisition---siruthoppu-ma-7c163d13/doc.pdf)
+* (75) [2023-11-23 Ministry of Labour and Foreign Employment - The Industrial Dispute between N.N.S Samarakoon Colombo 10 and Other Part National  Saving Bank, Colombo 03. - The Industrial Dispute between D.D.Priyanjith Piliyandala and Other Part Tea Small Holding Plantation Development Authority Pelawatta Battaramulla](data/doc/egz/2023-11-23-ministry-of-labour-and-foreign-e-4eb09304/doc.pdf)
 
-* (1303) [2023-02-10 Land Title Settlement Department - Velankale, Arachchikattuwa D/S Division, Puttalam District - Cad. Map No. 410292 (22/0799)](data/doc/egz/2023-02-10-land-title-settlement-department---velankale-arachchikattuwa-ds-/doc.pdf)
-* (1433) [2023-02-22 Ministry of Labour - The Collective Agreement between Coats Thread Export (Pvt.) Ltd. Colombo 10 and other part Inter Company Employees Union No. 10 Dehiwala - The Collective Agreement between Pradeshiya Sanwardhana Bank, Kelaniya and other part Ceylon Bank Employees Union Colombo 8](data/doc/egz/2023-02-22-ministry-of-labour---the-collective-agreement-between-coats-thre/doc.pdf)
-* (1564) [2023-03-08 Elections Commission - Amended Notice for Local Authorities in Anuradhapura District (Order under Section 38(3) of the L. A. E. O.)](data/doc/egz/2023-03-08-elections-commission---amended-notice-for-local-authorities-in-a/doc.pdf)
-* (1694) [2023-03-22 Elections Commission - W. L. P. D. N. Udayakumara of he Kaduwela Municipal Council has vacated his office of the member of United National Party - L. M. Munasinghe of he Homagama Pradeshiya Sabha has vacated his office of the membner of United National Party](data/doc/egz/2023-03-22-elections-commission---w-l-p-d-n-udayakumara-of-he-kaduwela-muni/doc.pdf)
-* (1824) [2023-04-04 Land Title Settlement Department - Henemulla, Panadura D/S Division, Kalutara District - Cad. Map No. 530623 (23/0026)](data/doc/egz/2023-04-04-land-title-settlement-department---henemulla-panadura-ds-divisio/doc.pdf)
+* (83) [2023-11-24 Harispattuwa Pradeshiya Sabha - Imposing Entertainment Tax - Harispattuwa Pradeshiya Sabha](data/doc/egz/2023-11-24-harispattuwa-pradeshiya-sabha----f0b98072/doc.pdf)
+* (92) [2023-11-24 Land Title Settlement Department - Andiambalama, Kalana D/S Division, Gampaha District - Cad. Map No. 511201 (23/0507)](data/doc/egz/2023-11-24-land-title-settlement-department-6b587c48/doc.pdf)
+* (100) [2023-11-24 Malaiyagha Student Higher Education Fund (Incorporation) - GS](data/doc/b/2023-11-24-malaiyagha-student-higher-educat-2967157e/doc.pdf)
+* (108) [2023-11-27 Land Title Settlement Department - Moratuwella, Moratuwa D/S Division, Colombo District - Cad. Map No. 520214 (7664)](data/doc/egz/2023-11-27-land-title-settlement-department-384e89e0/doc.pdf)
+* (117) [2023-11-27 Land Title Settlement Department - Lunuwila, Wennappuwa D/S Division, Puttalam District - Cad. Map No. 410008 (23/55065)](data/doc/egz/2023-11-27-land-title-settlement-department-a00385df/doc.pdf)
 
-* (1955) [2023-04-28 Ministry of Water Supply and Estate Infrasturcture Development - The Construction of Katuwangoda Water Treatment Plant under Matara Stage V Water Supply Project - The Construction of Water Storage Tank Pump House and Official Recidence under Kolonna-Balangoda Water Supply Project](data/doc/egz/2023-04-28-ministry-of-water-supply-and-estate-infrasturcture-development--/doc.pdf)
-* (2085) [2023-05-19 Land Title Settlement Department - Perakumpura, Siyambalanduwa D/S Division, Monaragala District - Cad. Map No. 720031 (23/0203)](data/doc/egz/2023-05-19-land-title-settlement-department---perakumpura-siyambalanduwa-ds/doc.pdf)
-* (2215) [2023-06-08 Water Supply and Drainage Board - For the Construction of PS - 06 Wastewater Pump House under Dehiwala Mount Lavinia Wastewater Disposal Project](data/doc/egz/2023-06-08-water-supply-and-drainage-board---for-the-construction-of-ps---0/doc.pdf)
-* (2346) [2023-06-26 Kurunegala Pradeshiya Sabha - List of the Roads and Lanes owned by the Kurunegala Pradeshiya Sabha.](data/doc/egz/2023-06-26-kurunegala-pradeshiya-sabha---list-of-the-roads-and-lanes-owned-/doc.pdf)
-* (2476) [2023-07-10 Land Title Settlement Department - Wennappuwa, Wennappuwa D/S Division, Puttalam District - Cad. Map No. 410007 (23/0455)](data/doc/egz/2023-07-10-land-title-settlement-department---wennappuwa-wennappuwa-ds-divi/doc.pdf)
+* (125) [2023-11-27 Ministry of Justice Prison Affairs and Constitutional Reforms - Regulation Under  the Poisons, Opiums and Dangerous Drugs Ordinance (Chapter 218) ](data/doc/egz/2023-11-27-ministry-of-justice-prison-affai-a25bf708/doc.pdf)
+* (134) [2023-11-28 Land Title Settlement Department - Eriyagama Yatinuwara D/S Division, Kandy District - Cad. Map No. 320560 (23/0567)](data/doc/egz/2023-11-28-land-title-settlement-department-5131498e/doc.pdf)
+* (142) [2023-11-28 Uva Province Provincial Council - Appointments Made by the Governor of Uva Province](data/doc/egz/2023-11-28-uva-province-provincial-council--030f17c6/doc.pdf)
+* (150) [2023-11-29 Land Title Settlement Department - Batangala, Dehiovita D/S Division, Kegalle District - Cad. Map No. 610535 (23/0883)](data/doc/egz/2023-11-29-land-title-settlement-department-c23bd300/doc.pdf)
+* (159) [2023-11-30 Department of Trade and Investment Policy - Special Commodity Levy Act. No. 48 of 2007, Order under Section 2.](data/doc/egz/2023-11-30-department-of-trade-and-investme-03174d3b/doc.pdf)
 
-* (2606) [2023-07-22 Land Title Settlement Dept. - Rambodagama, Kothmale D/S Division, Nuwara Eliya District - Cad. Map No. 330314 (23/0519)](data/doc/egz/2023-07-22-land-title-settlement-dept---rambodagama-kothmale-ds-division-nu/doc.pdf)
-* (2737) [2023-08-07 Sri Lanka Customs - Rates of Exchange with effect from 07.08.2023 to 13.08.2023	](data/doc/egz/2023-08-07-sri-lanka-customs---rates-of-exchange-with-effect-from-07082023-/doc.pdf)
-* (2867) [2023-08-21 Land Title Settlement Department - Kadawala, Rathnalana D/S Division, Colombo District - Cad. Map No. 521001(7626)](data/doc/egz/2023-08-21-land-title-settlement-department---kadawala-rathnalana-ds-divisi/doc.pdf)
-* (2997) [2023-09-07 Ministry of Education - Master of Science in Pharmaceutical Science (CINEC) Campus (Pvt.) Ltd. - Bachaelor of Science Honours in Journalism & Digital Media Studies SLT Campus Pvt. Ltd. and other Campus](data/doc/egz/2023-09-07-ministry-of-education---master-of-science-in-pharmaceutical-scie/doc.pdf)
-* (3128) [2023-09-26 Land Title Settlement Department - Kaleliya, Pallewela, Meerigama D/S Division, Gampaha District - Cad. Map No. 510239 (23/0657)](data/doc/egz/2023-09-26-land-title-settlement-department---kaleliya-pallewela-meerigama-/doc.pdf)
+* (167) [2023-11-30 Ministry of Public Security - Amended the Registration of Persons Regulation No. 1 of 2017 Published in Gazette Extra No. 2021/28 of May 31, 2017 were Approved by the Parliament of the Democratic Socialist Republic of Sri Lanka on September 19, 2023](data/doc/egz/2023-11-30-ministry-of-public-security---am-7176e840/doc.pdf)
+* (175) [2023-12-01 Land Title Settlement Department - Homagama, Homagama D/S Division, Colombo District - Cad. Map No. 520001 (7659)](data/doc/egz/2023-12-01-land-title-settlement-department-c3ce9f9c/doc.pdf)
+* (184) [2023-12-02 Land Acquisition - Maliduwa, Kuressa D/S Division, Matara District](data/doc/egz/2023-12-02-land-acquisition---maliduwa-kure-c34ae620/doc.pdf)
+* (192) [2023-12-04 Land Title Settlement Department - Wepatha, Ira South, Hokandara D/S Division, Matara District - Cad. Map No. 820399 (23/1200180)](data/doc/egz/2023-12-04-land-title-settlement-department-4c27331e/doc.pdf)
+* (201) [2023-12-05 Daham Sewane Singiththo Lama Sanwardana - GS](data/doc/b/2023-12-05-daham-sewane-singiththo-lama-san-ef2228cb/doc.pdf)
 
-* (3258) [2023-10-10 Land Title Settlement Department - Wepathara West, Hakmana D/S Division, Matara District - Cad. Map No. 820385 (23/0484)](data/doc/egz/2023-10-10-land-title-settlement-department---wepathara-west-hakmana-ds-div/doc.pdf)
-* (3388) [2023-10-27 Land Title Settlement Department - Handessa, Handessa D/S Division, Kandy District - Cad. Map No. 320338 (7646)](data/doc/egz/2023-10-27-land-title-settlement-department---handessa-handessa-ds-division/doc.pdf)
-* (3519) [2023-11-14 Land Title Settlement Department - Balagala, Rideegama D/S Division, Kurunegala District - Cad. Map No. 420108 (23/0792)](data/doc/egz/2023-11-14-land-title-settlement-department---balagala-rideegama-ds-divisio/doc.pdf)
-* (3649) [2023-11-27 Land Title Settlement Department - Gonulla, Pannala D/S Division, Kurunegala District - Cad. Map No. 420509 (7654)](data/doc/egz/2023-11-27-land-title-settlement-department---gonulla-pannala-ds-division-k/doc.pdf)
-* (3780) [2023-12-08 Presidential Secretariat - Appointment of Mr. M. M. P. K. Mayadunne as Secretary to the Ministry of Transport and Highways](data/doc/egz/2023-12-08-presidential-secretariat---appointment-of-mr-m-m-p-k-mayadunne-a/doc.pdf)
+* (209) [2023-12-05 Land Title Settlement Department - Dabana, Mahiyanganaya D/S Division, Badulla District - Cad. Map No. 710064 (23/0758)](data/doc/egz/2023-12-05-land-title-settlement-department-8ab716a5/doc.pdf)
+* (217) [2023-12-05 Sri Lanka Electricity - GS](data/doc/b/2023-12-05-sri-lanka-electricity---gs-e3c00280/doc.pdf)
+* (226) [2023-12-07 Land Acquisition - Galagedara, Thumpane D/S Division, Kandy District](data/doc/egz/2023-12-07-land-acquisition---galagedara-th-53e99737/doc.pdf)
+* (234) [2023-12-07 Land Title Settlement Department - Ihalayagoda, Gampaha D/S Division, Gampaha District - Cad. Map No. 511837 (23/0743)](data/doc/egz/2023-12-07-land-title-settlement-department-b72beb34/doc.pdf)
+* (243) [2023-12-08 Presidential Secretariat - Appointment of Mr. M. M. P. K. Mayadunne as Secretary to the Ministry of Transport and Highways](data/doc/egz/2023-12-08-presidential-secretariat---appoi-d2739cef/doc.pdf)
