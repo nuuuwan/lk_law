@@ -22,7 +22,7 @@ class PubType:
         return [
             PubType('a', 'Act'),
             PubType('b', 'Bill'),
-            PubType('egz', 'Extraordinary Gazette'),
+            # PubType('egz', 'Extraordinary Gazette'),
         ]
 
     @staticmethod
