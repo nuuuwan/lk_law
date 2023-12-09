@@ -3,7 +3,7 @@ name: pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   pipeline:
@@ -39,6 +39,11 @@ jobs:
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/download_pdfs.py 
+
+    - name: Stage 3) extract_raw_text
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/extract_raw_text.py 
 
     - name: Stage -1) write_readme
       run: |

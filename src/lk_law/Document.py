@@ -1,8 +1,8 @@
 import os
 from functools import cached_property
-
 import requests
-from utils import JSONFile, Log
+from pdfminer.high_level import extract_text
+from utils import JSONFile, Log, File
 
 from lk_law.PubType import PubType
 
@@ -55,14 +55,8 @@ class Document:
     def dir_doc(self) -> str:
         return os.path.join(Document.DIR, self.pub_type.id, self.file_name)
 
-    @cached_property
-    def pdf_path(self) -> str:
-        return os.path.join(self.dir_doc, 'doc.pdf')
+    # Data
     
-    @cached_property
-    def pdf_path_unix(self) -> str:
-        return self.pdf_path.replace('\\', '/')
-
     @cached_property
     def data_path(self) -> str:
         return os.path.join(self.dir_doc, 'data.json')
@@ -74,6 +68,16 @@ class Document:
         JSONFile(self.data_path).write(self.to_dict())
         log.debug(f'Wrote {self.data_path}')
 
+    # PDF
+
+    @cached_property
+    def pdf_path(self) -> str:
+        return os.path.join(self.dir_doc, 'doc.pdf')
+    
+    @cached_property
+    def pdf_path_unix(self) -> str:
+        return self.pdf_path.replace('\\', '/')
+
     def download_pdf(self):
         if os.path.exists(self.pdf_path):
             log.warning(f'{self.pdf_path} already exists')
@@ -83,6 +87,26 @@ class Document:
         with open(self.pdf_path, 'wb') as f:
             f.write(pdf)
         log.debug(f'Downloaded {self.pdf_path}')
+
+    # Raw Text
+    @cached_property
+    def raw_text_path(self) -> str:
+        return os.path.join(self.dir_doc, 'raw_text.txt')
+
+    def extract_raw_text(self):
+        if os.path.exists(self.raw_text_path):
+            log.warning(f'{self.raw_text_path} already exists')
+            return
+
+        try:
+            text = extract_text(self.pdf_path)
+        except Exception as e:
+            log.error(f'Failed to extract text from {self.pdf_path}')
+            return
+        
+        File(self.raw_text_path).write(text)
+        n_k = os.path.getsize(self.raw_text_path) / 1_000.0
+        log.debug(f'Extracted text to {self.raw_text_path}  ({n_k:.1f}KB)')
 
     @staticmethod
     def list_all() -> list['Document']:
