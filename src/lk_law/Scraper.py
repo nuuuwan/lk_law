@@ -52,7 +52,7 @@ class Scraper:
             doc = Document(date, name, url)
             doc.write()
             doc_list.append(doc)
-        
+
         if len(doc_list) > 0:
             logger = log.info
             emoji = '✅'

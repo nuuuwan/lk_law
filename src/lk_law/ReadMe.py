@@ -1,3 +1,4 @@
+import os
 from functools import cached_property
 
 from utils import TIME_FORMAT_TIME, File, Log, Time
@@ -15,7 +16,7 @@ class ReadMe:
 
     @cached_property
     def path(self) -> str:
-        return 'README.md'
+        return os.path.join('data', 'README.md')
 
     @cached_property
     def n_docs(self) -> int:
@@ -28,7 +29,7 @@ class ReadMe:
     @cached_property
     def header_lines(self) -> list[str]:
         return [
-            '# Legal Documents of Sri Lanka',
+            '# Legal Documents of Sri Lanka (Data)',
             '',
             'Legal documents from http://documents.gov.lk.',
             '',
@@ -44,8 +45,10 @@ class ReadMe:
     @cached_property
     def selected_docs_lines(self) -> list[str]:
         n_display = min(N_LATEST_DOCS, self.n_docs)
-        lines = [f'## {n_display} Selected Documents', '']
+        lines = [f'## {n_display} Selected Documents']
         for i in range(n_display):
+            if i % 5 == 0:
+                lines.append('')
             j = (
                 int((self.n_docs - 1) * (i) / (n_display - 1))
                 if n_display > 1
@@ -53,6 +56,7 @@ class ReadMe:
             )
             doc = self.doc_list[j]
             lines.append(f'* ({j}) [{doc.date} {doc.name}]({doc.pdf_path})')
+
         lines.append('')
         return lines
 
