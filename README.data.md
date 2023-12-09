@@ -2,42 +2,42 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **244** documents, as of *2023-12-09 14:16:19*.
+Downloaded **552** documents, as of *2023-12-09 15:21:27*.
 
 ## Selected Documents
 
-* (0) [2023-11-15 Land Acquisition - Pitihuma, Kegalle D/S Division, Kegalle District - Godakuruwa, Narammala D/S Division, Kurunegala District - Amended Ex. Gaz. No. 2002/64, on dated 20.01.2017 Gampaha D/S Division, Gampaha District - Amended Ex. Gaz. No. 1986/59 on dated 30.09.2016 Attanagalla D/S Division, Gampaha District](data/doc/egz/2023-11-15-land-acquisition---pitihuma-kega-cf7ed55a/doc.pdf)
-* (8) [2023-11-16 Land Title Settlement Department - Pasyala, Meerigama D/S Division, Gampaha District - Cad. Map No. 510258 (23/0872)](data/doc/egz/2023-11-16-land-title-settlement-department-0be4b4ec/doc.pdf)
-* (16) [2023-11-16 Land Title Settlement Department - Yakkaduwa, Ja Ela D/S Division, Gampaha District - Cad. Map No. 512204 (23/0729)](data/doc/egz/2023-11-16-land-title-settlement-department-9db4fdc0/doc.pdf)
-* (25) [2023-11-17 Land Acquisition - Kaddukaraudiyiruppu, Mannar D/S Division, Mannar District - Kaddukaraudiyiruppu, Mannar D/S Division, Mannar District - Pavilupaddan Kaddikudiruppu, Mannar Town D/S Division, Mannar District](data/doc/egz/2023-11-17-land-acquisition---kaddukaraudiy-39678815/doc.pdf)
-* (33) [2023-11-17 Ministry of Urban Development & Housing - The Urban Development Authority Law. No. 41 of 1978 of the National State Assembly Cancellation of the Vesting Order under Section 15(1)](data/doc/egz/2023-11-17-ministry-of-urban-development--h-14b90a77/doc.pdf)
+* (0) [2020-10-12 Economic Service Charge (Amendment)](data/doc/a/2020-10-12-economic-service-charge-amendmen-3c6ea4b9/doc.pdf)
+* (19) [2020-11-26 Intellectual Property (Amendment) - Bill](data/doc/b/2020-11-26-intellectual-property-amendment--c2f879c9/doc.pdf)
+* (38) [2021-01-18 Minimum Wages (Indian Labour) (Amendment)](data/doc/a/2021-01-18-minimum-wages-indian-labour-amen-fd27c01b/doc.pdf)
+* (57) [2021-02-23 Sisira Jayakody Siyapatha Foundation (Incorporation) - Bill](data/doc/b/2021-02-23-sisira-jayakody-siyapatha-founda-043fbac7/doc.pdf)
+* (76) [2021-03-24 Code of Criminal Procedure (Amendment) - Bill](data/doc/b/2021-03-24-code-of-criminal-procedure-amend-89a21857/doc.pdf)
 
-* (41) [2023-11-20 Divisional Secretariate - Galle - The Annual Durutu Maha Procession of Pilana Purana Sri Maha Temple Akmeemana D/S Division, Galle District](data/doc/egz/2023-11-20-divisional-secretariate---galle--fafeeef9/doc.pdf)
-* (50) [2023-11-21 Consumer Affairs Authority - The Consumer Affairs Authority here by Rescind Order No. 88 Amended Extraordinary Gaz. No. 2356/39 Dated 03.11.2023](data/doc/egz/2023-11-21-consumer-affairs-authority---the-d592eb3b/doc.pdf)
-* (58) [2023-11-22 Department of Forest Conservation - Order release the block of Forest Land Gurugodakanda from 1st day of November - 2023](data/doc/egz/2023-11-22-department-of-forest-conservatio-656b965c/doc.pdf)
-* (67) [2023-11-22 Land Acquisition - Siruthoppu, Mannar Town D/S Division, Mannar District - Kaddukarankudiyiruppu, Mannar Town D/S Division, Mannar District - Thullukudiyiruppu, Mannar Town D/S Division, Mannar District](data/doc/egz/2023-11-22-land-acquisition---siruthoppu-ma-7c163d13/doc.pdf)
-* (75) [2023-11-23 Ministry of Labour and Foreign Employment - The Industrial Dispute between N.N.S Samarakoon Colombo 10 and Other Part National  Saving Bank, Colombo 03. - The Industrial Dispute between D.D.Priyanjith Piliyandala and Other Part Tea Small Holding Plantation Development Authority Pelawatta Battaramulla](data/doc/egz/2023-11-23-ministry-of-labour-and-foreign-e-4eb09304/doc.pdf)
+* (95) [2021-05-13 Value Added Tax (Amendment)](data/doc/a/2021-05-13-value-added-tax-amendment-97ab500b/doc.pdf)
+* (114) [2021-07-16 Code of Criminal Procedure (Amedment)](data/doc/a/2021-07-16-code-of-criminal-procedure-amedm-f80c3785/doc.pdf)
+* (133) [2021-08-04 Samadhi Mebitation and Yoga Centre (Incorporation) - Bill](data/doc/b/2021-08-04-samadhi-mebitation-and-yoga-cent-6119d6ca/doc.pdf)
+* (152) [2021-09-22 Indira Cancer Trust (Incorporation) - Bill](data/doc/b/2021-09-22-indira-cancer-trust-incorporatio-f6129413/doc.pdf)
+* (171) [2021-10-08 Petroleum Resources](data/doc/a/2021-10-08-petroleum-resources-abecf72f/doc.pdf)
 
-* (83) [2023-11-24 Harispattuwa Pradeshiya Sabha - Imposing Entertainment Tax - Harispattuwa Pradeshiya Sabha](data/doc/egz/2023-11-24-harispattuwa-pradeshiya-sabha----f0b98072/doc.pdf)
-* (92) [2023-11-24 Land Title Settlement Department - Andiambalama, Kalana D/S Division, Gampaha District - Cad. Map No. 511201 (23/0507)](data/doc/egz/2023-11-24-land-title-settlement-department-6b587c48/doc.pdf)
-* (100) [2023-11-24 Malaiyagha Student Higher Education Fund (Incorporation) - GS](data/doc/b/2023-11-24-malaiyagha-student-higher-educat-2967157e/doc.pdf)
-* (108) [2023-11-27 Land Title Settlement Department - Moratuwella, Moratuwa D/S Division, Colombo District - Cad. Map No. 520214 (7664)](data/doc/egz/2023-11-27-land-title-settlement-department-384e89e0/doc.pdf)
-* (117) [2023-11-27 Land Title Settlement Department - Lunuwila, Wennappuwa D/S Division, Puttalam District - Cad. Map No. 410008 (23/55065)](data/doc/egz/2023-11-27-land-title-settlement-department-a00385df/doc.pdf)
+* (190) [2021-11-08 Mahapola Higher Education Scholarship Trust Fund (Amendment) - Bill](data/doc/b/2021-11-08-mahapola-higher-education-schola-37f93611/doc.pdf)
+* (209) [2021-11-25 Personal Data Protection - GS](data/doc/b/2021-11-25-personal-data-protection---gs-6f81326f/doc.pdf)
+* (228) [2022-01-31 Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - GS](data/doc/b/2022-01-31-chiththa-advanced-psychological--ca56f3b4/doc.pdf)
+* (247) [2022-03-16 Intellectual Property (Amendment)](data/doc/a/2022-03-16-intellectual-property-amendment-62c40f2b/doc.pdf)
+* (266) [2022-04-29 Revocation of Irrevocable Deeds of Gift on the Ground of Gross Ingratitude (Amendment) -GS](data/doc/b/2022-04-29-revocation-of-irrevocable-deeds--9382dd90/doc.pdf)
 
-* (125) [2023-11-27 Ministry of Justice Prison Affairs and Constitutional Reforms - Regulation Under  the Poisons, Opiums and Dangerous Drugs Ordinance (Chapter 218) ](data/doc/egz/2023-11-27-ministry-of-justice-prison-affai-a25bf708/doc.pdf)
-* (134) [2023-11-28 Land Title Settlement Department - Eriyagama Yatinuwara D/S Division, Kandy District - Cad. Map No. 320560 (23/0567)](data/doc/egz/2023-11-28-land-title-settlement-department-5131498e/doc.pdf)
-* (142) [2023-11-28 Uva Province Provincial Council - Appointments Made by the Governor of Uva Province](data/doc/egz/2023-11-28-uva-province-provincial-council--030f17c6/doc.pdf)
-* (150) [2023-11-29 Land Title Settlement Department - Batangala, Dehiovita D/S Division, Kegalle District - Cad. Map No. 610535 (23/0883)](data/doc/egz/2023-11-29-land-title-settlement-department-c23bd300/doc.pdf)
-* (159) [2023-11-30 Department of Trade and Investment Policy - Special Commodity Levy Act. No. 48 of 2007, Order under Section 2.](data/doc/egz/2023-11-30-department-of-trade-and-investme-03174d3b/doc.pdf)
+* (285) [2022-06-21 Social Security Contribution Levy - (GS)](data/doc/b/2022-06-21-social-security-contribution-lev-af7af4c5/doc.pdf)
+* (304) [2022-07-20 Sri Lanka Rupawahini Corporation (Amendment) - GS](data/doc/b/2022-07-20-sri-lanka-rupawahini-corporation-57c6bab8/doc.pdf)
+* (323) [2022-08-29 Children and Young Persons (Amendment) - Bill](data/doc/b/2022-08-29-children-and-young-persons-amend-59f5ba89/doc.pdf)
+* (342) [2022-09-09 Poisons, Opium and Dangerous Drugs (Amendment) - Bill](data/doc/b/2022-09-09-poisons-opium-and-dangerous-drug-b028dcf6/doc.pdf)
+* (361) [2022-10-18 Value Added Tax (Amendment) - Bill](data/doc/b/2022-10-18-value-added-tax-amendment---bill-34ebb98e/doc.pdf)
 
-* (167) [2023-11-30 Ministry of Public Security - Amended the Registration of Persons Regulation No. 1 of 2017 Published in Gazette Extra No. 2021/28 of May 31, 2017 were Approved by the Parliament of the Democratic Socialist Republic of Sri Lanka on September 19, 2023](data/doc/egz/2023-11-30-ministry-of-public-security---am-7176e840/doc.pdf)
-* (175) [2023-12-01 Land Title Settlement Department - Homagama, Homagama D/S Division, Colombo District - Cad. Map No. 520001 (7659)](data/doc/egz/2023-12-01-land-title-settlement-department-c3ce9f9c/doc.pdf)
-* (184) [2023-12-02 Land Acquisition - Maliduwa, Kuressa D/S Division, Matara District](data/doc/egz/2023-12-02-land-acquisition---maliduwa-kure-c34ae620/doc.pdf)
-* (192) [2023-12-04 Land Title Settlement Department - Wepatha, Ira South, Hokandara D/S Division, Matara District - Cad. Map No. 820399 (23/1200180)](data/doc/egz/2023-12-04-land-title-settlement-department-4c27331e/doc.pdf)
-* (201) [2023-12-05 Daham Sewane Singiththo Lama Sanwardana - GS](data/doc/b/2023-12-05-daham-sewane-singiththo-lama-san-ef2228cb/doc.pdf)
+* (380) [2022-11-17 Dangerous Animals (Amendment)](data/doc/a/2022-11-17-dangerous-animals-amendment-57ff9041/doc.pdf)
+* (399) [2023-01-24 Bureau of Rehabilitation](data/doc/a/2023-01-24-bureau-of-rehabilitation-bd0f59e3/doc.pdf)
+* (418) [2023-04-04 Betting and Gaming Levy (Amendment) - Bill](data/doc/b/2023-04-04-betting-and-gaming-levy-amendmen-9b37c7ef/doc.pdf)
+* (437) [2023-05-29 Value Added Tax (Amendment) - GS](data/doc/b/2023-05-29-value-added-tax-amendment---gs-1e524727/doc.pdf)
+* (456) [2023-07-14 Carriage by Air (Amendment)](data/doc/a/2023-07-14-carriage-by-air-amendment-68cf694b/doc.pdf)
 
-* (209) [2023-12-05 Land Title Settlement Department - Dabana, Mahiyanganaya D/S Division, Badulla District - Cad. Map No. 710064 (23/0758)](data/doc/egz/2023-12-05-land-title-settlement-department-8ab716a5/doc.pdf)
-* (217) [2023-12-05 Sri Lanka Electricity - GS](data/doc/b/2023-12-05-sri-lanka-electricity---gs-e3c00280/doc.pdf)
-* (226) [2023-12-07 Land Acquisition - Galagedara, Thumpane D/S Division, Kandy District](data/doc/egz/2023-12-07-land-acquisition---galagedara-th-53e99737/doc.pdf)
-* (234) [2023-12-07 Land Title Settlement Department - Ihalayagoda, Gampaha D/S Division, Gampaha District - Cad. Map No. 511837 (23/0743)](data/doc/egz/2023-12-07-land-title-settlement-department-b72beb34/doc.pdf)
-* (243) [2023-12-08 Presidential Secretariat - Appointment of Mr. M. M. P. K. Mayadunne as Secretary to the Ministry of Transport and Highways](data/doc/egz/2023-12-08-presidential-secretariat---appoi-d2739cef/doc.pdf)
+* (475) [2023-08-16 Civil Aviation (Amendment) - GS](data/doc/b/2023-08-16-civil-aviation-amendment---gs-c0d5515a/doc.pdf)
+* (494) [2023-09-19 Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment)](data/doc/a/2023-09-19-chartered-institute-of-transport-afced2dc/doc.pdf)
+* (513) [2023-10-20 Anti-Corruption (Amendment) - Bill](data/doc/b/2023-10-20-anti-corruption-amendment---bill-69126163/doc.pdf)
+* (532) [2023-11-11 S O S Children's Village of Sri Lanka Organization (Incorporation) - Bill](data/doc/b/2023-11-11-s-o-s-childrens-village-of-sri-l-6fac5f4f/doc.pdf)
+* (551) [2023-12-07 Vanni Mann Charity Foundation (Incorporation) - Bill](data/doc/b/2023-12-07-vanni-mann-charity-foundation-in-f03ba551/doc.pdf)

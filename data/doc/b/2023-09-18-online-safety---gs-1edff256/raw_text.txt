@@ -1,0 +1,3210 @@
+THE GAZETTE OF THE DEMOCRATIC
+SOCIALIST REPUBLIC OF
+SRI LANKA
+
+Part II of September 15, 2023
+
+SUPPLEMENT
+
+(Issued on 18.09.2023)
+
+ONLINE  SAFETY
+
+A
+
+BILL
+
+to establish the Online Safety Commission; to make provisions to prohibit
+online communication of certain statements of fact in Sri Lanka; to prevent
+the use of online accounts and inauthentic online accounts for prohibited
+purposes; to make provisions to identify and declare online locations used
+for prohibited purposes  in Sri Lanka; to suppress the financing and other
+support  of  communication  of  false  statements  of  fact  and  for  matters
+connected therewith or incidental thereto
+
+Ordered to be Published by the Minister of Public Security
+
+PRINTED AT THE DEPARTMENT OF GOVERNMENT PRINTING, SRI LANKA
+TO BE PURCHASED AT THE GOVERNMENT PUBLICATIONS BUREAU, COLOMBO 5
+
+Price : Rs. 84.00
+
+Postage : Rs. 150.00
+
+This  Gazette  Supplement  can  be  downloaded  from  www.documents.gov.lk
+
+Online  Safety
+
+1
+
+L.D.-O 34/2021
+
+AN ACT TO ESTABLISH THE ONLINE SAFETY COMMISSION; TO MAKE
+PROVISIONS TO PROHIBIT ONLINE COMMUNICATION OF CERTAIN
+STATEMENTS OF FACT IN SRI LANKA; TO PREVENT THE USE OF ONLINE
+ACCOUNTS AND INAUTHENTIC ONLINE ACCOUNTS FOR PROHIBITED
+PURPOSES; TO MAKE PROVISIONS TO IDENTIFY AND DECLARE ONLINE
+LOCATIONS USED FOR PROHIBITED PURPOSES  IN SRI LANKA; TO
+SUPPRESS THE FINANCING AND OTHER SUPPORT OF COMMUNICATION
+OF FALSE STATEMENTS OF FACT AND FOR MATTERS CONNECTED
+THEREWITH OR INCIDENTAL THERETO.
+
+BE it enacted by the Parliament of the Democratic Socialist
+Republic of Sri Lanka as follows: -
+
+1. This Act may be cited as the Online Safety Act No.
+
+Short  title
+
+of 2023.
+
+5
+
+2. The provisions of this Act shall apply where –
+
+Application
+of  the  Act
+
+(a)
+
+(b)
+
+10
+
+a  person  commits  an  offence  under  this  Act  in
+respect of a citizen of Sri Lanka, while being present
+in Sri Lanka or outside Sri Lanka;
+
+a  loss  or  damage  is  caused  within  or  outside
+Sri Lanka by the commission of an offence under
+this  Act,  to  the  State  or  to  a  person  resident  in
+Sri Lanka; or
+
+(c)
+
+an offence under this Act, wherever committed, is
+committed by a person who is a citizen of Sri Lanka.
+
+15
+
+3. The objectives of this Act shall be-
+
+Objectives  of
+the  Act
+
+(a)
+
+to  protect  persons  against  damage  caused  by
+communication of false statements or threatening,
+alarming or distressing statements;
+
+2
+
+Online  Safety
+
+(b)
+
+to  ensure  protection  from  communication  of
+statements  in  contempt  of  court  or  prejudicial  to
+the maintenance of the authority and impartiality
+of the judiciary;
+
+5
+
+(c)
+
+to  introduce  measures  to  detect,  prevent  and
+safeguard  against  the  misuses  of  online  accounts
+and bots to commit offences under this Act; and
+
+(d)
+
+to  prevent  the  financing,  promotion  and  other
+support  of  online  locations  which  repeatedly
+communicate false statements of fact in Sri Lanka.
+
+10
+
+PART I
+
+ESTABLISHMENT OF THE ONLINE SAFETY COMMISSION
+
+4.  (1)  There  shall  be  established  a  Commission,  which
+shall be called the Online Safety Commission (hereinafter
+referred to as the “Commission”).
+
+Establishment
+of  the  Online
+Safety
+Commission
+
+15
+
+(2) The Commission shall, by the name assigned to it by
+subsection (1), be a body corporate with perpetual succession
+and a common seal, and may sue and be sued in such name.
+
+20
+
+(3) The Commission shall exercise and perform the powers
+and functions assigned to it under this Act for the purpose of
+achieving the objectives of this Act.
+
+5. Subject to the provisions of section 6, the Commission
+shall  consist  of  five  members  appointed  by  the  President
+having qualifications and experience in one or more of the
+fields  of  information  technology,  law,  governance,  social
+services, journalism, science and technology or management.
+
+25
+
+Members  of
+the
+Commission
+
+Disqualification
+for  being
+appointed  as
+a  member
+
+Online  Safety
+
+3
+
+6.  A person shall be disqualified from being appointed
+or continuing as a member of the Commission if such person-
+
+5
+
+10
+
+15
+
+20
+
+(a)
+
+is elected or appointed as a Member of Parliament,
+a Member of a Provincial Council or a Member of a
+local  authority;
+
+(b)
+
+is not or ceases to be a citizen of Sri Lanka;
+
+(c) directly or indirectly holds or enjoys an entitlement
+or  benefit  under  an  agreement  entered  by  or  on
+behalf of the Commission;
+
+(d) has any financial or other interest that may adversely
+impact  the  implementation  of  the  functions  as  a
+member of the Commission;
+
+(e)
+
+absents  himself  from  attending  three  consecutive
+meetings of the Commission, without a valid reason;
+
+(f) has  been  discovered  or  declared  as  a  person  of
+unsound mind under any law effective in Sri Lanka
+or in any other country;
+
+(g)
+
+a person who, having been declared an insolvent or
+a  bankrupt  under  any  law  in  Sri  Lanka  or  in  any
+other  country,  is  an  undischarged  insolvent  or
+bankrupt;  or
+
+(h) has been sentenced or received an order for a term
+of imprisonment imposed by any court in Sri Lanka
+or in any other country.
+
+25
+
+7. (1) A member of the Commission may resign from office
+by letter in that behalf addressed to the President, and such
+resignation  shall  take  effect  from  the  date  on  which  the
+resignation is accepted in writing by the President.
+
+Resignation,
+removal  and
+term  of
+office  of
+members  of
+the
+Commission
+
+4
+
+Online  Safety
+
+(2) The President may, for reasons assigned, remove a
+
+member of the Commission from his office.
+
+(3) The term of office of a member of the Commission
+
+shall be three years from the date of appointment.
+
+5
+
+10
+
+(4) Where a member of the Commission vacates office
+by  death,  resignation  or  other  cause,  the  President  shall
+appoint, having regard to the provisions of sections 5 and 6,
+another  eligible  person  in  such  members’  place,  and  the
+person so appointed shall hold office for the unexpired period
+of  the  term  of  office  of  the  member  whom  such  person
+succeeds.
+
+(5) A member of the Commission whose term of office is
+due to end otherwise than by removal, shall be eligible for
+reappointment for not more than one further term of office,
+whether consecutive or otherwise.
+
+15
+
+(6) Members  of  the  Commission  shall  be  paid  such
+remuneration  as  may  be  determined  by  a  resolution  of
+Parliament and such remuneration shall be charged to the
+Fund of the Commission.
+
+20
+
+8. (1) The President shall appoint one of the members of
+the  Commission  to  be  the  Chairman  of  the  Commission
+(hereinafter referred to as the “Chairman”).
+
+Chairman  of
+the
+Commission
+
+(2) The Chairman may resign from the office of Chairman
+by  letter  in  that  behalf  addressed  to  the  President  and  the
+resignation  shall  take  effect  from  the  date  on  which  it  is
+accepted, in writing, by the President.
+
+25
+
+(3)  The  Chairman  shall  cease  to  be  the  Chairman,  if
+disqualified to be a member of the Commission in terms of
+section 6.
+
+Online  Safety
+
+5
+
+(4) The term of office of the Chairman shall be three years.
+
+(5) The Chairman shall not, on vacation of the office of
+
+Chairman, be eligible for reappointment as Chairman.
+
+(6)  Without  prejudice  to  the  provisions  of  this  section,
+the Chairman shall, within one month of being appointed as
+the  Chairman,  nominate  a  member  in  writing,  to  be  the
+Deputy Chairman to discharge the functions of the Chairman
+during his absence from office due to illness or any other
+cause.
+
+9. (1) The Chairman shall summon all meetings of the
+Commission.  Any  member  of  the  Commission  may,  by
+written notice, request the Chairman to call a meeting of the
+Commission and the Chairman shall not otherwise than for
+good reason, refuse to do so.
+
+Meetings  of
+the
+Commission
+
+5
+
+10
+
+15
+
+(2)  The  Commission  may  decide  any  matter,  which  is
+determined by the Chairman to be urgent with the agreement
+of the majority of the members.
+
+(3)  The  Chairman  shall  preside  at  all  meetings  of  the
+Commission  and  in  the  absence  of  the  Chairman  at  any
+meeting, the Deputy Chairman shall preside at such meeting.
+
+20
+
+(4) The quorum for a meeting of the Commission shall be
+three  members  including  the  Chairman.  In  the  absence  of
+the Chairman, the quorum shall be three members including
+the Deputy Chairman.
+
+25
+
+30
+
+(5) All matters for decision by the Commission shall be
+decided  by  a  majority  of  the  votes  of  the  members  of  the
+Commission.  The  decision  supported  by  the  votes  of  a
+majority of the members of the Commission on any matter
+shall be deemed to be the decision of the Commission on
+that matter.
+
+6
+
+Online  Safety
+
+(6)  All  decisions  of  the  Commission,  supported  by
+reasons, shall be in writing and the seal of the Commission
+affixed thereto in accordance with paragraph (c) of section
+10.
+
+5
+
+(7) In case there is an equality of votes on any matter to
+be decided by the Commission, the Chairman shall have a
+casting  vote.
+
+(8)  Subject  to  the  preceding  provisions  of  this  section,
+the Commission may regulate the procedure in regard to the
+meetings of the Commission and the transaction of business
+at such meetings.
+
+(9)  No  act,  decision  or  proceeding  of  the  Commission
+shall be deemed to be invalid by reason only of the existence
+of  any  vacancy  in  its  membership  or  defect  in  the
+appointment of any member thereof.
+
+10
+
+15
+
+10. The seal of the Commission-
+
+Seal  of  the
+Commission
+
+(a)
+
+shall be determined by the Commission and may
+be altered in such manner as may be determined by
+the Commission;
+
+20
+
+(b)
+
+shall  be  in  the  custody  of  such  person  as  the
+Commission may determine from time to time; and
+
+(c)
+
+shall not be affixed to any instrument or document
+except with the sanction of the Commission and in
+the presence of two members of the Commission
+who shall sign the instrument or document in token
+of their presence.
+
+25
+
+Powers  and
+functions  of
+the
+Commission
+
+Online  Safety
+
+7
+
+PART II
+
+POWERS AND FUNCTIONS OF THE COMMISSION
+
+11.  The  Commission  shall  have  the  following  powers
+
+and  functions: -
+
+5
+
+(a)
+
+to issue directives to persons, service providers or
+internet  intermediaries,  who  have  published  or
+communicated or whose service has been used to
+communicate  any  prohibited  statement,  requiring
+them to provide to persons who have been adversely
+affected  by  any  prohibited  statement,  an
+opportunity  of  responding  to  such  prohibited
+statement;
+
+(b)
+
+(c)
+
+(d)
+
+to issue notices to persons who communicate false
+statements that constitute offences under this Act,
+to stop the communication of such statements;
+
+to  issue  directives  to  persons  who  communicate
+prohibited  statements  under  this  Act,  to  stop  the
+communication of any such statements;
+
+to  issue  notices  to  any  internet  access  service
+providers or internet intermediary to disable access
+to an online location which contains a prohibited
+statement by the end users in Sri Lanka or to remove
+such  prohibited  statement  from  such  online
+location;
+
+10
+
+15
+
+20
+
+25
+
+(e)
+
+30
+
+to refer to the appropriate court for its consideration
+any  communications  that  may  be  in  contempt  of
+court  or  prejudicial  to  the  maintenance  of  the
+authority and impartiality of the judiciary, and to
+provide  such  assistance  as  may  be  required  from
+any  court  in  respect  of  any  matter  so  referred  to
+such  court;
+
+8
+
+Online  Safety
+
+5
+
+10
+
+15
+
+20
+
+(f)
+
+(g)
+
+(h)
+
+(i)
+
+(j)
+
+(k)
+
+(l)
+
+to  make  recommendations  to  service  providers,
+internet intermediaries and internet access service
+providers to remove prohibited statements;
+
+to maintain an online portal containing information
+to  enlighten  the  public  of  the  falsity  of  any
+statement;
+
+to specify declared online locations in terms of the
+provisions of this Act, and make recommendations
+to disable access to the information disseminated
+through  such  online  location;
+
+to carry out such investigations and provide such
+services upon being directed by any court;
+
+to issue codes of practice by way of rules for service
+providers and internet intermediaries who provide
+internet based communication services to the end
+users in Sri Lanka;
+
+to  register,  in  such  manner  as  may  be  specified
+by  rules  made  under  this  Act,  the  websites
+providing social media platforms to the end users
+in Sri Lanka;
+
+to consult, to the extent the Commission considers
+appropriate, any person or group of persons who or
+which may be affected, or likely to be affected, in
+the discharge of its powers and functions;
+
+25
+
+(m)
+
+to  advise  the  Government,  as  the  Commission
+deems appropriate, on all matters concerning online
+safety  in  Sri  Lanka,  within  the  purview  of  this
+Act;
+
+Online  Safety
+
+9
+
+(n)
+
+(o)
+
+(p)
+
+to  acquire  and  hold  property  movable  and
+immovable, and to sell, lease, mortgage, exchange,
+or otherwise dispose of the same;
+
+to enter into such contracts as may be necessary for
+the  exercise,  performance  and  discharge  of  its
+powers, duties and functions;
+
+to obtain the assistance of the police in the conduct
+the
+of  any 
+Commission; and
+
+investigation  undertaken  by 
+
+(q) generally, to do all such other acts and things as are
+incidental  to  or  consequential  in  the  exercise,
+performance and discharge of its powers, duties and
+functions under this Act.
+
+PART III
+
+PROHIBITION OF ONLINE COMMUNICATION OF CERTAIN
+STATEMENTS OF FACT
+
+12.  Any  person,  whether  in  or  outside  Sri  Lanka,  who
+poses a threat to national security, public health or public
+order or promotes feelings of ill-will and hostility between
+different  classes  of  people,  by  communicating  a  false
+statement, commits an offence and shall on conviction be
+liable to imprisonment for a term not exceeding five years or
+to  a  fine  and  in  the  event  of  a  second  or  subsequent
+conviction, such term of imprisonment or fine or both such
+imprisonment and fine may be doubled.
+
+Prohibition
+of
+communication
+of  false
+statements  of
+fact  in  Sri
+Lanka
+
+13.  Any  person,  whether  in  or  outside  Sri  Lanka  who
+communicates a false statement which amounts to contempt
+of  court,  in  the  opinion  of  any  court  which  exercises  the
+special  jurisdiction  to  punish  the  offence  of  contempt  of
+
+Communication
+of  false
+statement
+amounting  to
+contempt
+
+5
+
+10
+
+15
+
+20
+
+25
+
+10
+
+Online  Safety
+
+court,  in  terms  of  paragraph  (3)  of  Article  105  of  the
+Constitution, commits an offence and the provisions of that
+Article and sections 18 and 55 of the Judicature Act, No.2 of
+1978 shall apply in sentencing such person.
+
+5
+
+14.  Any  person,  whether  in  or  outside  Sri  Lanka  who
+maliciously  or  wantonly,  by  communicating  a  false
+statement  gives  provocation  to  any  person  intending  or
+knowing it to be likely that such provocation, will cause the
+offence of rioting to be committed, shall, -
+
+Wantonly
+giving
+provocation
+by  false
+statement  to
+cause  riot
+
+10
+
+(a)
+
+if  the  offence  of  rioting  be  committed  in
+consequence  of  such  provocation,  be  liable  to
+imprisonment of either description for a term not
+exceeding five years, or with fine or with both such
+imprisonment and fine; and
+
+15
+
+(b)
+
+ if the offence of rioting be not committed, be liable
+to imprisonment of either description for a term not
+exceeding  three  years,  or  with  fine,  or  with  both
+such imprisonment and fine.
+
+Disturbing  a
+religious
+assembly  by
+a  false
+statement
+
+20
+
+25
+
+15. Any person, whether in or outside Sri Lanka who by
+communicating  a  false  statement,  voluntarily  causes
+disturbance  to  any  assembly  lawfully  engaged  in  the
+performance of religious worship or religious ceremonies,
+commits  an  offence  and  shall  on  conviction  be  liable  to
+imprisonment of either description for a term not exceeding
+three years, or to a  fine, or to both such imprisonment and
+fine and in the event of a second or subsequent conviction,
+such term of imprisonment or fine or both such imprisonment
+and fine may be doubled.
+
+Online  Safety
+
+11
+
+16.  Any  person,  whether  in  or  outside  Sri  Lanka  who,
+with  the  deliberate  intention  of  wounding  the  religious
+feelings of any other person (in this section referred to as the
+“target person”), communicates a false statement to the target
+person, commits an offence and shall on conviction be liable
+to  imprisonment  of  either  description  for  a  term  not
+exceeding  two  years,  or  to  a  fine,  or  to  both  such
+imprisonment  and  fine  and  in  the  event  of  a  second  or
+subsequent conviction, such term of imprisonment or fine
+or both such imprisonment and fine may be doubled.
+
+Communicating
+a  false
+statement
+with
+deliberate
+intent  to
+wound
+religious
+feelings
+
+17. Any person, whether in or outside Sri Lanka who with
+the  deliberate  and  malicious  intention  of  outraging  the
+religious feelings of any class of persons, insults or attempts
+to insult the religion or the religious beliefs of that class by
+communicating a false statement, commits an offence and
+shall  on  conviction  be  liable  to  imprisonment  of  either
+description for a term not exceeding three years, or to a fine,
+or to both such imprisonment and fine and in the event of a
+second or subsequent conviction, such term of imprisonment
+or fine or both such imprisonment and fine may be doubled.
+
+Deliberate
+and
+malicious
+communication
+of  false
+statement  to
+outrage
+religious
+feelings
+
+18.  Any  person,  whether  in  or  outside  Sri  Lanka  who
+deceives  any  person  by  communicating  a  false  statement,
+by way of an online account or through an online location-
+
+Cheating
+
+(a)
+
+(b)
+
+fraudulently or dishonestly induces the person so
+deceived to deliver any property to any person, or
+to consent that any person shall retain any property;
+or
+
+intentionally induces the person so deceived to do
+or omit to do anything which he would not do or
+omit if he was not so deceived, and which act or
+omission  causes  or  is  likely  to  cause  damage  or
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+12
+
+Online  Safety
+
+harm to that person in body, mind, reputation, or
+property, or damage or loss to the Government,
+
+5
+
+commits the offence of “cheating” and shall on conviction
+be liable to imprisonment for a term not exceeding one year
+or to a fine, or to both such imprisonment and fine and in the
+event  of  a  second  or  subsequent  conviction,  such  term  of
+imprisonment or fine or both such imprisonment and fine
+may be doubled.
+
+19. Any person, whether in or outside Sri Lanka who, by
+
+10
+
+means of an online account -
+
+Cheating  by
+personation
+
+(a) pretends to be some other person;
+
+(b) knowingly substitutes one person for another; or
+
+(c)
+
+represents that such person or any other person is a
+person other than the person really is,
+
+commits the offence of “cheating by personation” and shall
+on conviction be liable to imprisonment of either description
+for a term not exceeding five years, or to a fine, or to both
+such imprisonment and fine and in the event of a second or
+subsequent conviction, such term of imprisonment or fine
+or both such imprisonment and fine may be doubled.
+
+20.  Any  person,  whether  in  or  outside  Sri  Lanka  who
+intentionally  insults  by  communicating  a  false  statement,
+and thereby gives provocation to any other person (in this
+section  referred  to  as  the  “target  person”),  intending  or
+knowing  it  to  be  likely,  that  such  provocation  will  cause
+such target person to break the public peace, or to commit
+any  other  offence,  commits  an  offence  and  shall  on
+conviction be liable to  imprisonment of either description
+for a term not exceeding five years, or to a fine, or to both
+
+Intentional
+insult  by
+false
+statement
+with  intent  to
+provoke  a
+breach  of
+peace
+
+15
+
+20
+
+25
+
+Circulating
+false  report
+with  intent  to
+cause  mutiny
+or  an  offence
+against  the
+State,  &  c.
+
+Communicating
+statements  of
+fact  to  cause
+harassment  &
+c.
+
+Online  Safety
+
+13
+
+such imprisonment and fine and in the event of a second or
+subsequent conviction, such term of imprisonment or fine
+or both such imprisonment and fine may be doubled.
+
+21.  Any  person,  whether  in  or  outside  Sri  Lanka  who
+communicates any false statement, with intent to cause any
+officer,  sailor,  soldier,  or  airman  in  the  navy,  army  or  air
+force of Sri Lanka to mutiny, or with intent to cause fear or
+alarm to the public, induces any other person to commit an
+offence against the State or against the public tranquillity,
+commits  an  offence  and  shall  on  conviction  be  liable  to
+imprisonment of either description for a term not exceeding
+seven years, or to a fine, or to both such imprisonment and
+fine and in the event of a second or subsequent conviction,
+such term of imprisonment or fine or both such imprisonment
+and fine may be doubled.
+
+22. (1) Any person, whether in or outside Sri Lanka who
+wilfully makes or communicates a statement of fact, with
+intention  to  cause  harassment  to  another  person  (in  this
+section  referred  to  as  the  “target  person”),  by  publishing
+any “private information” of the target person or a related
+person of the target person, and as a result causes the target
+person or any other person harassment, commits an offence
+and shall on conviction be liable to imprisonment for a term
+not  exceeding  five  years  or  to  a  fine  not  exceeding  five
+hundred  thousand  rupees  and  in  the  event  of  a  second  or
+subsequent conviction, such term of imprisonment or fine
+or both such imprisonment and fine may be doubled.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(2) For the purpose of this section-
+
+(a)
+
+30
+
+“private information” means personal information,
+including  any  image,  audio  or  video  details,  that
+any  person  may  reasonably  expect  to  remain
+private, but does not include any information that
+
+14
+
+Online  Safety
+
+may be evidence of the commission of any other
+offence; and
+
+(b)
+
+“harassment” means an act or behaviour which has
+the effect of threatening, alarming or distressing a
+person or violating a person’s dignity or creating
+an intimidating, degrading, hostile, humiliating or
+offensive environment or, which has all such effects.
+
+Illustrations-
+
+(a) X  and  Y  were  formerly  in  a  relationship  which  has  since  ended.
+
+X  writes  a  post  on  a  social  media  platform  including  Y’s
+
+photographs  and  personal  mobile  number,  intending  to  cause
+
+harassment  to  Y  by  facilitating  the  identification  or  enabling
+
+others  to  contact  Y.  Y  did  not  see  the  post,  but  receives  and  is
+
+harassed  by  telephone  calls  and  SMS  messages  from  strangers
+
+(who  have  read  the  post)  propositioning  Y  for  sex.  X  is  guilty  of
+
+an  offence  under  this  section  in  relation  to  such  post.
+
+5
+
+10
+
+15
+
+(b) X  and  Y  were  formerly  in  a  relationship  which  has  since  ended.
+
+X  posts  a  photograph  of  Y  in  the  possession  of  X  which  Y  could
+
+reasonably  have  expected  to  remain  private.  X  is  guilty  of  an
+
+20
+
+offence  under  this  section  in  relation  to  such  post.
+
+23. (1) Any person, whether in or outside Sri Lanka, who,
+by way of an online account or through an online location-
+
+Child  abuse
+&c.
+
+25
+
+(a)
+
+commits or aids and abets an act which constitutes
+an offence within the meaning of section 286A, 288,
+288A,  288B,  308A,  360A,  360B,  360C,  363,  364A,
+365, 365A or 365B of the Penal Code upon a child;
+or
+
+Online  Safety
+
+15
+
+(b) publishes  any  photograph,  audio  or  video  of
+abusive or phonographic nature relating to a child,
+
+5
+
+10
+
+15
+
+20
+
+commits  an  offence  and  shall  on  conviction  be  liable  to
+imprisonment for a term not exceeding twenty years or to a
+fine, or to both such imprisonment and fine and in the event
+of  a  second  or  subsequent  conviction,  such  term  of
+imprisonment or fine or both such imprisonment and fine
+may be doubled.
+
+(2) Where any person is convicted for an offence under
+subsection (1), such person shall, in addition to the penalty
+specified  therein,  be  liable  to  pay  such  compensation  as
+may be ordered by court, to the child or group of children in
+respect of whom such offence was committed.
+
+24.  Any  person,  whether  in  or  outside  Sri  Lanka,  who
+makes or alters a bot with the intention of communicating or
+enabling any other person to communicate, by means of a
+bot, a statement which constitutes an offence under this Act,
+commits  an  offence  and  shall  on  conviction  be  liable  to
+imprisonment for a term not exceeding five years or to a fine
+not exceeding five hundred thousand rupees and in the event
+of  a  second  or  subsequent  conviction,  such  term  of
+imprisonment or fine or both such imprisonment and fine
+may be doubled.
+
+Making  or
+altering  bots
+to  commit  an
+offence
+
+25
+
+30
+
+25. Any person who fails to comply with any directive
+issued in respect of such person by the Commission under
+paragraph (c) of section 11 within twenty four hours of its
+receipt commits an offence and shall on conviction be liable
+to imprisonment for a term not exceeding five years or to a
+fine not exceeding one million rupees and in the event of a
+second or subsequent conviction, such term of imprisonment
+or fine or both such imprisonment and fine may be doubled.
+
+Failure  to
+comply  with
+a  directive
+issued  by  the
+Commission
+
+16
+
+Online  Safety
+
+PART IV
+
+MEASURES AGAINST COMMUNICATION OF CERTAIN STATEMENTS
+OF FACT IN SRI LANKA
+
+26. (1) A person aggrieved by the communication of a
+prohibited  statement  which  is  seen,  heard  or  otherwise
+perceived  by  the  users  of  internet  based  communication
+services (in this Act referred to as the “end users”) in Sri
+Lanka, by any other person, may either orally, in writing or
+in electronic form, make a complaint providing information
+pertaining to such communication to the Commission.
+
+Providing
+information
+to  the
+Commission
+o n
+communication
+of  prohibited
+statements
+
+(2)  The  Commission  shall  designate  such  number  of
+information officers from among the staff of the Commission
+as the Commission may deem necessary, from time to time,
+to  receive  information  in  relation  to  communication  of  a
+prohibited statement for the purpose of subsection (1).
+
+(3)(a) Every complaint shall set out all available details
+of  the  person  or  persons  responsible  for  the  making  or
+communicating the prohibited statement, including, where
+available,  details  pertaining  to  the  Universal  Resource
+Locator  (hereinafter  referred  to  as  the  “URL”)  or  other
+identifying features of the location or number from which
+the  prohibited  statement  was  communicated  or  published,
+and such other details as may be prescribed.
+
+(b) Where it is possible to do so, the complainant shall
+serve  a  copy  of  the  complaint  to  the  person  or  persons
+making or communicating the prohibited statement and any
+internet access service provider or internet intermediary.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(c) In the event, the information necessary to give such
+notice  as  aforesaid  is  not  available,  the  complainant  shall
+specify the absence of such information in the complaint.
+
+30
+
+Online  Safety
+
+17
+
+(4) A written acknowledgement of the receipt, including
+a  receipt  in  electronic  form,  of  such  information  shall  be
+immediately issued by the information officer on behalf of
+the Commission.
+
+(5) Where the Commission is of the opinion that sufficient
+material  exists  that  a  prohibited  statement  has  been
+communicated,  the  Commission  shall  carry  out
+investigations through the officers of the Commission.
+
+(6)(a)  If  the  Commission  is  satisfied,  that  sufficient
+material  exists  that  a  prohibited  statement  has  been
+communicated,  it  may,  taking  into  consideration  the
+seriousness of the matter and the likelihood of damage or
+prejudice caused by such prohibited statement, issue notice
+to the person who communicated such prohibited statement,
+to take measures to prevent the circulation of such prohibited
+statement.
+
+(b)  A  person  to  whom  a  notice  has  been  issued  under
+paragraph  (a)  shall  comply  with  such  notice  immediately
+but not later than twenty four hours from such notice.
+
+(c) Notice referred to in paragraph (a), shall be deemed to
+be  served,  where  it  is  served  by  personal  service,  sent  by
+post  to  the  last  known  address  of  the  person  who
+communicated  such  prohibited  statement,  or  served  by
+electronic  means  to  such  person,  or  served  by  such  other
+appropriate method adopted by the Commission depending
+on the nature of the case.
+
+(d) Notice referred to in paragraph (a) shall be deemed to
+be served by electronic means where such notice is sent to
+such  person’s  email  address  or  social  media  account,  or
+internet access service provider or internet intermediary on
+whose online location such prohibited statement has  been
+communicated.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+18
+
+Online  Safety
+
+(7) Where any person fails to comply with a notice issued
+under subsection (6) within twenty four hours of such notice,
+the Commission shall issue a notice to the internet access
+service provider or internet intermediary on whose online
+location such prohibited statement has been communicated-
+
+5
+
+(a)
+
+(b)
+
+to disable access by the end users in Sri Lanka to
+such prohibited statement; or
+
+to  remove  such  prohibited  statement  from  such
+online  location,
+
+10
+
+as the case may be, for the period specified in such notice.
+
+(8)  The  internet  access  service  provider  or  internet
+intermediary  to  whom  a  notice  has  been  issued  under
+subsection (7) shall comply with such notice within twenty
+four hours from the issuance of such notice.
+
+15
+
+20
+
+27. (1) Any person affected by the communication of any
+prohibited  statement  may  apply  to  the  Magistrate’s  Court
+by way of petition and affidavit to obtain an order to prevent
+the circulation of such information.
+
+Applying  for
+a  court  order
+to  prevent
+circulation  of
+prohibited
+statements
+
+(2)  Upon  considering  such  application,  the  Magistrate
+may issue a conditional order to such person or the internet
+access service provider or internet intermediary on whose
+online  location  such  prohibited  statement  has  been
+communicated.
+
+(3)  The  order  made  under  subsection  (2)  may  contain,
+
+25
+
+inter  alia-
+
+(a)
+
+the  name  of  the  person  who  is  required  to  stop
+communication  of  the  prohibited  statement  with
+immediate effect; and
+
+(b)
+
+any other order as the Magistrate deems fit.
+
+Online  Safety
+
+19
+
+(4)  (a)  The  order  made  under  subsection  (2)  shall  be
+deemed to be served, where it is served by personal service,
+sent  by  post  to  the  last  known  address  of  such  person,  or
+served by electronic means to such person, or by such other
+appropriate  method  ordered  by  the  Magistrate  depending
+on the nature of the case.
+
+(b) The order made under subsection (2) shall be deemed
+to be served by electronic means where such order is sent to
+such  person’s  email  address  or  social  media  account,  or
+internet access service provider or internet intermediary on
+whose online location such prohibited statement has  been
+communicated.
+
+(5) The person against whom a conditional order is made
+under subsection (2) shall either comply with such order or
+appear before the Magistrate as specified in subsection (6)
+to show cause as to why the order shall not be made absolute.
+
+(6) Where the person against whom a conditional order is
+made under subsection (2) intends to show cause, such person
+shall appear before the Magistrate making that order within
+a period of one week of making such order and move to have
+the  order  set  aside  or  modified  in  the  manner  hereinafter
+provided.
+
+(7) If the person against whom an order is made under
+subsection (2) neither complies with the order nor appears
+before the Magistrate under subsection (6), such person shall
+be liable to the penalty specified in subsection (9)   and the
+order shall be made absolute.
+
+(8) (a) Where such person appears before the Magistrate
+in terms of subsection (6), to show cause by way of petition
+and  affidavit,  the  Magistrate  shall  hold  an  inquiry  which
+shall  be  concluded  within  two  weeks  of  the  date  of
+commencement of the inquiry.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+20
+
+Online  Safety
+
+(b) The Magistrate may, having regard to the facts stated
+by the person against whom the conditional order is made
+under subsection (2), either move to have the order set aside
+or modified, if the Magistrate is satisfied that the order made
+under this section is not reasonable and proper, and make an
+appropriate order subject to the provisions of this Act.
+
+5
+
+(c) If the Magistrate is not so satisfied, the order made
+
+under subsection (2) shall be made absolute.
+
+(d) Where the order under subsection (2) is modified under
+
+10
+
+paragraph (b), such order shall be made absolute.
+
+15
+
+20
+
+(9) (a) Where the person against whom any order is made
+under this section fails to comply with such order within the
+period and in the manner ordered by the Magistrate, such
+person commits an offence and shall on conviction be liable
+to imprisonment for a term not exceeding five years or to a
+fine  not  exceeding  two  million  rupees  and  the  Magistrate
+may order the Commission to take steps to -
+
+(i) disable access by end users in Sri Lanka to the online
+location  containing  such  communication  of  the
+statement of fact in Sri Lanka; or
+
+(ii)
+
+remove  the  relevant  communication  of  the
+prohibited statement in Sri Lanka from the online
+location  containing  such  communication.
+
+25
+
+(b) Where the offence under paragraph (a) is a continuing
+offence, such person shall be liable to an additional fine of
+five  hundred  thousand  rupees  for  each  day  during  which
+such offence is continued.
+
+Online  Safety
+
+21
+
+28.  (1)  Where  any  person  is  aggrieved  by  the
+communication  of  a  prohibited  statement  and  the
+information necessary to serve a copy of the complaint under
+subsection  (3)  of  section  26  is  not  available,  such  person
+shall specify the absence of such information in the complaint
+made under subsection (1) of section 26.
+
+Disclosure  of
+identity
+information
+
+(2) In the event of the receipt of a complaint referred to in
+subsection (1), the Commission shall file a petition with the
+Magistrate’s  Court  seeking  a  conditional  order  directing
+the  internet  intermediary  on  whose  online  location  such
+prohibited  statement  was  communicated,  to  disclose  the
+information  regarding  the  identity  of  the  person  who
+communicated the prohibited statement.
+
+(3) The Magistrate may upon being satisfied that –
+
+5
+
+10
+
+15
+
+(a)
+
+the statement was a prohibited statement;
+
+(b)
+
+(c)
+
+20
+
+the  order  is  sought  for  the  sole  purpose  of
+identifying  the  person  who  communicated  such
+prohibited  statement;  and
+
+the order is a proportionate and necessary response
+in all of the circumstances of the matter before the
+Court,  taking  into  consideration  whether  the
+petitioner’s right to disclosure of the information is
+outweighed by any countervailing right or interest
+of the person sought to be identified,
+
+25
+
+issue the order sought by the Commission.
+
+22
+
+Online  Safety
+
+(4)  The  order  made  under  subsection  (3)  may  contain,
+
+inter  alia-
+
+(a)
+
+the  name  of  the  internet  intermediary  which  is
+required to disclose the information sought; and
+
+5
+
+(b)
+
+any other order as the Magistrate deems fit.
+
+(5)  (a) The  order  made  under  subsection  (3)  shall  be
+deemed to be served, where it is served by personal service,
+sent  by  post  to  the  last  known  address  of  the  internet
+intermediary, or served by electronic means to such internet
+intermediary, or by such other appropriate method ordered
+by the Magistrate depending on the nature of the case.
+
+(b) The order made under subsection (3) shall be deemed
+to be served by electronic means where such order is sent to
+the  email  address  or  social  media  account,  of  the  internet
+intermediary  on  whose  online  location  such  prohibited
+statement has been communicated.
+
+(6) The internet intermediary against whom a conditional
+order is made under subsection (3) shall either comply with
+such order or appear before the Magistrate as specified in
+subsection (7) to show cause as to why the order shall not be
+made absolute.
+
+(7)  Where  the  internet  intermediary  against  whom  a
+conditional  order  is  made  under  subsection  (3)  intends  to
+show  cause,  it  shall  appear  before  the  Magistrate  making
+that order within a period of one week of making such order
+and  move  to  have  the  order  set  aside  or  modified  in  the
+manner hereinafter provided.
+
+10
+
+15
+
+20
+
+25
+
+Online  Safety
+
+23
+
+(8) If the internet intermediary against whom an order is
+made under subsection (3) neither complies with the order
+nor  appears  before  the  Magistrate  under  subsection  (7),  it
+shall  be  liable  to  the  penalty  specified  in  subsection  (10)
+and the order shall be made absolute.
+
+(9) (a) Where such internet intermediary appears before
+the court in terms of subsection (7) to show cause by way of
+petition and affidavit, the Magistrate shall hold an inquiry
+which shall be concluded within two weeks of the date of
+commencement of the inquiry.
+
+(b) The Magistrate may, having regard to the facts stated
+by the internet intermediary against whom the conditional
+order is made under subsection (3), either move to have the
+order set aside or modified, if the Magistrate is satisfied that
+the  order  under  this  section  is  not  reasonable  and  proper,
+make an appropriate order subject to the provisions of this
+Act.
+
+5
+
+10
+
+15
+
+(c)  If the Magistrate is not so satisfied, the order made
+
+under subsection (3) shall be made absolute.
+
+20
+
+(d) Where  the  order  under  subsection  (3)  is  modified
+
+under paragraph (b), such order shall be made absolute.
+
+(10) (a) Where the internet intermediary against whom
+any  order  is  made  under  this  section  fails  to  comply  with
+such order within the period and in the manner ordered by
+the Magistrate, such person shall be liable to a penalty not
+exceeding ten million rupees.
+
+(b) Where the offence under paragraph (a) is a continuing
+offence,  such  internet  intermediary  shall  be  liable  to  an
+additional  fine  of  one  million  rupees  for  each  day  during
+which such offence is continued.
+
+25
+
+30
+
+24
+
+Online  Safety
+
+29.  (1)  Any  person  who  is  aggrieved  by  the
+communication of a prohibited statement may, by way of a
+civil  action,  apply  for  an  order  directing  the  internet
+intermediary of the online location on which such prohibited
+statement  communicated  to  disclose  any  information
+regarding  the  identity  or  the  location  of  the  person  who
+used  such  online  location  to  communicate  such  statement
+using the inauthentic online account or bot.
+
+5
+
+Aggrieved
+person  to
+seek
+disclosure  of
+identity
+information
+
+(2) Upon the receipt of an application under subsection
+
+10
+
+(1), the court may, if-
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+the  prohibited  statement  was  communicated  by  a
+person  whose  identity  cannot  be  traced  by  the
+person who is aggrieved by such statement;
+
+the internet intermediary against whom the order is
+sought was involved in the communication of such
+statement whether innocently or not;
+
+the  information  sought  is  necessary  for  the
+aggrieved  person  to  initiate  legal  proceedings  to
+seek  redress  in  relation  to  the  damage  caused  by
+the communication of such statement; and
+
+the aggrieved person’s right to get such information
+disclosed  is  outweighed  by  any  countervailing
+right or interest of the person sought to be identified,
+
+15
+
+20
+
+order an internet intermediary to disclose the information as
+requested by the aggrieved person.
+
+25
+
+30.  Where  a  person  who  engages  in  providing  the
+following  services  fails  to  adhere  to  the  relevant  code  of
+practice  issued  by  the  Commission  by  way  of  rules  made
+under this Act, and thereby causes wrongful loss to any other
+
+Liability  of
+service
+providers  in
+relation  to
+communication
+
+Exemption
+from  liability
+of  service
+providers  in
+certain  cases
+
+Online  Safety
+
+25
+
+person, such person shall be liable to pay damages by way
+of compensation to the person who suffered the loss: -
+
+(a)
+
+(b)
+
+an internet intermediary service;
+
+a  telecommunication  service;
+
+5
+
+(c)
+
+a service of giving public access to the internet; or
+
+(d)
+
+a computer resource service.
+
+31. (1) Subject to the provisions of any other written law
+and the provisions of subsection (2), a person who engages
+in  providing  the  following  services  shall  have  no  liability
+in relation to  the communication of a prohibited statement
+circulated  through  the  online  location  owned,  operated  or
+controlled  by  such  person,  or  for  making  available  to  the
+end  users  through  such    online  location  a  communication
+link which contains any prohibited statement by any other
+party, which amounts to an offence under this Act or for any
+compensation payable for any wrongful loss caused to any
+person by such communication:-
+
+10
+
+15
+
+(a)
+
+(b)
+
+an internet intermediary service;
+
+a  telecommunication  service;
+
+20
+
+(c)
+
+a service of giving public access to the internet; or
+
+(d)
+
+a computer resource service.
+
+(2) The exemption from liability granted under subsection
+
+(1) shall not apply, if such person –
+
+(a) has  initiated  the  communication;
+
+25
+
+(b) has selected the end user of the communication;
+
+(c) has  selected  or  modified  the  content  of  the
+
+communication;  or
+
+(d) has  not  complied  with  the  provisions  of  this  Act
+and  any  regulation  or  rule  made  thereunder,  in
+providing the service.
+
+30
+
+26
+
+Online  Safety
+
+PART V
+
+DECLARED  ONLINE  LOCATIONS
+
+32. (1) The Commission may declare an online location
+
+as a “declared online location”, if-
+
+Declared
+online
+locations
+
+5
+
+(a)
+
+three or more different prohibited statements have
+been or are being communicated to the end users in
+Sri Lanka on such online location which have been
+held to be a prohibited statement by the Magistrate’s
+Court;  and
+
+10
+
+(b)
+
+at  least  three  of  such  statements  had  first  been
+communicated  to  the  end  users  in  Sri  Lanka  on
+such online location within six months prior to the
+date of a declaration under this section is made.
+
+15
+
+(2) For the purposes of paragraph (a) of subsection (1), a
+statement is different from another if it is different in a material
+particular from that other statement.
+
+(3) A declaration made under this section shall contain-
+
+(a)
+
+the  URL,  domain  name,  or  any  other  unique
+identifier of the online location;
+
+20
+
+(b)
+
+the relevant orders made by the Magistrate’s Court;
+
+(c)
+
+the date on which the declaration comes into effect;
+
+(d)
+
+the  date  on  which  the  declaration  expires  or  a
+formula  by  which  that  date  may  be  worked  out,
+which  must  not  be  later  than  two  years  after  the
+date referred to in paragraph (c);
+
+25
+
+Online  Safety
+
+27
+
+(e)
+
+a  notice  for  the  owner  or  operator  of  the  online
+location  whether  in  or  outside  Sri  Lanka  to
+communicate in such manner as may be specified
+in the declaration, to any end user in Sri Lanka who
+accesses the online location, a notice in such form
+as  may  be  specified  in  such  declaration,  that  the
+online location is the subject of a declaration; and
+
+5
+
+(f)
+
+such other particulars as may be prescribed.
+
+(4) A declaration made under this section may expire-
+
+10
+
+(a) on  the  date  specified  therein,  or  worked  out  in
+accordance with paragraph (d) of subsection (3); or
+
+(b) on  the  date  it  is  cancelled  or  set  aside  by  the
+
+Commission,
+
+whichever is earlier.
+
+15
+
+(5) As soon as possible after a declaration is made and
+before the date it comes into effect, the Commission shall-
+
+(a) publish,  in  such  form  and  manner  as  may  be
+
+prescribed, a notice in the Gazette -
+
+(i) stating that a declaration has been issued
+
+20
+
+under this section; and
+
+(ii) setting out the URL, domain name, or any
+other  unique  identifier  of  the  online
+location, to which the declaration relates;
+and
+
+25
+
+(b) make  reasonable  efforts  to  serve  a  copy  of  the
+declaration to the owner or operator of the declared
+online  location.
+
+28
+
+Online  Safety
+
+(6) (a) The declaration shall be deemed to be served, if
+the declaration is served by personal service, sent by post to
+the  last  known  address  of  such  owner  or  operator  of  the
+online  location,  or  served  by  electronic  means  to  such
+person, or by such other appropriate method adopted by the
+Commission, depending on the nature of the case.
+
+(b)  The  declaration  shall  be  deemed  to  be  served  by
+electronic means where such declaration is sent to the email
+address or social media account of the owner or operator of
+the online location through which such prohibited statement
+has been communicated.
+
+(7)  Where  any  owner  or  operator  of  a  declared  online
+location fails to comply with the notice to communicate a
+notice as referred to in paragraph (e) of subsection (3), the
+Commission or any person authorised by the Commission
+may apply to the Magistrate for an order directing owner or
+operator to-
+
+5
+
+10
+
+15
+
+(a) disable access by the end users in Sri Lanka to such
+
+declared  online  location;
+
+20
+
+(b)
+
+to communicate to all end users in Sri Lanka who
+access  such  declared  online  location,  a  notice
+declaring that the online location is the subject of a
+declaration;  and
+
+(c)
+
+any other order as the Magistrate deems fit.
+
+25
+
+(8)    Upon  considering  such  application,  the  Magistrate
+may make a conditional order on the owner or operator of a
+declared  online  location  containing  the  directions  applied
+by the Commission under subsection (7).
+
+Online  Safety
+
+29
+
+(9)  The  order  made  under  subsection  (8)  may  contain,
+
+inter  alia-
+
+(a)
+
+(b)
+
+(c)
+
+the  name  of  the  owner  or  operator  of  a  declared
+online  location  who  is  required  to  disable  access
+by the end users in Sri Lanka to the declared online
+location;
+
+the manner of communicating the notice referred
+to in paragraph (e) of subsection (3); and
+
+the  period  within  which  such  notice  shall  be
+published after the service of the order.
+
+(10) The order made under subsection (8) shall be deemed
+to be served on the owner or operator of a declared online
+location against whom the order is made, if the order is served
+by personal service, sent by registered post to the last known
+address  of  such  person,  or  served  by  electronic  means  to
+such person, or by any other method deemed proper by the
+Magistrate  depending  on  the  nature  of  the  case  and  in
+accordance with the provisions of this Act.
+
+(11) The owner or operator of a declared online location
+against whom a conditional order is made under subsection
+(8) shall either comply with such order or appear before the
+Magistrate as specified in subsection (12) to show cause as
+to why the order shall not be made absolute.
+
+(12)  Where  the  owner  or  operator  of  a  declared  online
+location  against  whom  a  conditional  order  is  made  under
+subsection (8) intends to show cause, such person shall appear
+before the Magistrate making that order within a period of
+one week of making such order and move to have the order
+set aside or modified in the manner hereinafter provided:
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Online  Safety
+
+Provided however, any owner or operator of a declared
+online location against whom a conditional order is made
+under subsection (8) shall be bound to comply with the order
+with effect from the date of making such order until such
+order is set aside or modified by the Magistrate in terms of
+the provisions of this section.
+
+(13) If the owner or operator of a declared online location
+against whom an order is made under subsection (8) neither
+complies with the order nor appears before the Magistrate
+under  subsection  (12)  such  person  shall  be  liable  to  the
+penalty specified in subsection (15) and the order shall be
+made absolute.
+
+(14) (a) Where such owner or operator of a declared online
+location appears before the Magistrate in terms of subsection
+(12)  to  show  cause  by  way  of  petition  and  affidavit,  the
+Magistrate shall hold an inquiry which shall be concluded
+within  two  weeks  of  the  date  of  commencement  of  the
+inquiry.
+
+5
+
+10
+
+15
+
+(b) The Magistrate may, having regard to the facts stated
+by the owner or operator of a declared online location against
+whom the conditional order is made under subsection (8),
+either move to have the order set aside or modified, if the
+Magistrate is satisfied that the order under this section is not
+reasonable and proper, and make an appropriate order, subject
+to the provisions of this Act.
+
+20
+
+25
+
+(c) If the Magistrate is not so satisfied, the order made
+
+under subsection (8) shall be made absolute.
+
+(d) Where the order under subsection (8) is modified under
+
+paragraph (b), such order shall be made absolute.
+
+Online  Safety
+
+31
+
+ (15) (a) Where the owner or operator of a declared online
+location against whom the order is made under this section
+fails to comply with such order within the period and in the
+manner ordered by the Magistrate’s Court, such owner or
+operator of a declared online location commits an offence
+and shall on conviction be liable to imprisonment for a term
+not exceeding six years or to a fine not exceeding rupees ten
+million and Magistrate’s Court may make an order directing
+the Commission to take steps to disable access by the end
+users in Sri Lanka to the declared online location.
+
+5
+
+10
+
+(b) Where the offence under paragraph (a) is a continuing
+offence, such owner or operator of a declared online location
+shall be liable to an additional fine of five hundred thousand
+rupees for each day during which such offence is continued.
+
+15
+
+(16) The Commission may at any time suspend, vary or
+cancel a declaration made under this section for such period
+as the Commission may determine-
+
+(a) on its own initiative; or
+
+(b) on an application by-
+
+20
+
+(i) the  owner  or  operator  of  the  declared
+
+online  location;  or
+
+(ii) any person with editorial control over the
+
+online  location.
+
+25
+
+(17)  For  the  purpose  of  subsection  (16),  a  person  has
+“editorial control over an online location” if the person is
+able to decide-
+
+(a) whether any statement may be included or excluded
+
+on the online location; or
+
+(b) where to place any statement on the online location.
+
+32
+
+Online  Safety
+
+(18)  Upon  a  declaration  being  suspended,  varied  or
+
+cancelled under subsection (16), the Commission shall-
+
+(a) publish,  in  such  form  and  manner  as  may  be
+prescribed, a notice of the suspension, variation or
+cancellation in the Gazette; and
+
+(b) make reasonable efforts to give a copy of such notice
+to  the  owner  or  operator  of  the  declared  online
+location.
+
+33. (1) A service provider must take reasonable steps (both
+in and outside Sri Lanka) to ensure that, after a prescribed
+period  commencing  on  the  date  a  declaration  made  under
+section 32 comes into effect, any paid content that it includes
+or causes to be included on a declared online location, is not
+communicated in Sri Lanka on the declared online location.
+
+Certain
+persons  not
+to
+communicate
+in  Sri  Lanka,
+paid  content
+on  declared
+online
+locations,
+&c.
+
+5
+
+10
+
+15
+
+20
+
+(2)  A  digital  advertising  intermediary  must  take
+reasonable steps (both in and outside Sri Lanka) to ensure
+that,  after  a  prescribed  period  commencing  on  the  date  a
+declaration  made  under  section  32  comes  into  effect,  any
+paid content that it includes or causes to be included on a
+declared online location is not communicated in Sri Lanka
+on the declared online location.
+
+(3)  A  digital  advertising  intermediary  or  an  internet
+intermediary must take reasonable steps (both in and outside
+Sri  Lanka)  to  ensure  that,  after  a  prescribed  period
+commencing  on  the  date  on  the  declaration  made  under
+section 32 comes into effect, it does not, when acting as a
+digital advertising intermediary or an internet intermediary,
+facilitate the communication in Sri Lanka of any paid content
+that  gives  publicity  to,  or  otherwise  promotes,  a  declared
+online  location.
+
+25
+
+30
+
+Online  Safety
+
+33
+
+(4) A service provider or digital advertising intermediary
+shall be treated for the purposes of subsection (1) or (2), as
+the case may be, as having taken reasonable steps to ensure
+that any paid content that it includes or causes to be included
+on  a  declared  online  location  is  not  communicated  in  Sri
+Lanka on the declared online location, if it has taken such
+steps as may be prescribed by regulations.
+
+(5)  A  digital  advertising  intermediary  or  an  internet
+intermediary is treated for the purposes of subsection (3), as
+having  taken  reasonable  steps  to  ensure  that  it  does  not
+facilitate the communication in Sri Lanka of any paid content
+mentioned  in  that  subsection  if  it  has  taken  such  steps  as
+may be prescribed by regulations.
+
+(6) A person who fails to comply with the provisions of
+subsection (1), (2) or (3) commits an offence and shall on
+conviction  be  liable  to  imprisonment  for  a  term  not
+exceeding seven years or to a fine not exceeding ten million
+rupees and in the event of a second or subsequent conviction,
+such term of imprisonment or fine or both such imprisonment
+and fine may be doubled.
+
+34. (1) Any person, whether in or outside Sri Lanka, who
+solicits, receives or agrees to receive any financial or other
+material benefit as an inducement or reward for operating a
+declared  online  location  commits  an  offence  and  shall  on
+conviction  be  liable  to  imprisonment  for  a  term  not
+exceeding five years or to a fine not exceeding five million
+rupees and in the event of a second or subsequent conviction,
+such term of imprisonment or fine or both such imprisonment
+and fine may be doubled.
+
+Prohibition
+on  deriving
+benefits  from
+operating  a
+declared
+online
+location
+
+(2) Where a court convicts any person of an offence under
+this section, the court shall order, in addition to imposing
+on  that  person  the  punishment  in  subsection  (1),  the
+forfeiture of any assets acquired through the commission of
+an offence under this section.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+34
+
+Online  Safety
+
+35. (1) A person, whether in or outside Sri Lanka, who
+expends or applies any property knowing or having reason
+to believe that the expenditure or application supports, helps
+or promotes the communication of prohibited statements to
+the  end  users  in  Sri  Lanka  on  a  declared  online  location
+commits  an  offence  and  shall  on  conviction  be  liable  to
+imprisonment for a term not exceeding five years or to a fine
+not exceeding five million rupees and in the event of a second
+or subsequent conviction, such term of imprisonment or fine
+or both such imprisonment and fine may be doubled.
+
+Prohibition
+on  providing
+financial
+support  to
+declared
+online
+locations
+
+(2) The provisions of subsection (1) shall not apply to a
+service provider or a digital advertising intermediary which
+gives any consideration for the purpose of communicating
+any  paid  content  in  Sri  Lanka  on  the  declared  online
+location.
+
+(3)  Where a court convicts any person of an offence under
+this section, the court shall order, in addition to imposing
+on  that  person  the  punishment  in  subsection  (1),  the
+forfeiture  of  any  property  acquired  through  expending  or
+applying any property by the commission of an offence under
+this  section.
+
+(4)  For  the  purpose  of  this  section,  “property”  means
+money  and  all  other  property,  movable  or  immovable,
+including  things  in  action  and  other  intangible  or
+incorporeal property.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Counteracting
+inauthentic
+online
+accounts  and
+coordinated
+inauthentic
+behaviour
+
+Online  Safety
+
+35
+
+PART VI
+
+COUNTERACTING  INAUTHENTIC  ONLINE  ACCOUNTS  AND
+COORDINATED  INAUTHENTIC  BEHAVIOUR
+
+5
+
+36. (1) If the conditions in subsection (2) are satisfied, the
+Commission  may  issue  a  notice  in  writing  to  an  internet
+intermediary, requiring it to do one or both of the following,
+for the period specified in such notice: -
+
+10
+
+15
+
+20
+
+25
+
+(a)
+
+(b)
+
+to refrain from permitting its services from being
+used to communicate any prohibited statement in
+Sri  Lanka  through  one  or  more  specified  online
+accounts;  or
+
+to refrain from permitting any person from using
+one or more specified online accounts to interact
+with any end user of its internet intermediary service
+in Sri Lanka.
+
+(2) The conditions referred to in subsection (1) shall be,
+
+as follows:-
+
+(a)
+
+(b)
+
+such  online  account  or  accounts  shall  have  been
+created with the internet intermediary in respect of
+which the notice under subsection (1) is issued;
+
+either  a  prohibited  statement  has  been
+communicated  in  Sri  Lanka  using  the  specified
+online  account  or  coordinated  inauthentic
+behaviour has been carried out in Sri Lanka using
+the specified online account; and
+
+(c)
+
+the  Commission  has  determined  that  the  online
+account  is  an  inauthentic  online  account  or  is
+controlled by a bot.
+
+36
+
+Online  Safety
+
+(3) The notice shall be deemed to be served on the internet
+intermediary, if it is served by personal service, sent by post
+to the last known address of such internet intermediary, or
+served by electronic means to such person, or by any other
+method  deemed  proper  by  the  Commission  depending  on
+the nature of the case.
+
+(4) Where a notice issued under subsection (1) has not
+been  complied  with,  the  Commission  shall  submit  an
+application to the Magistrate’s Court. Upon considering such
+application the Magistrate may issue a conditional order on
+the internet intermediary containing the directions applied
+for by the Commission under subsection (1).
+
+5
+
+10
+
+(5) An Order made under subsection (4) shall specify that
+
+it has effect-
+
+15
+
+(a)
+
+indefinitely;  or
+
+(b)
+
+for a specified period not exceeding three months.
+
+20
+
+25
+
+(6) The order made under subsection (4) shall be deemed
+to be served on the internet intermediary against whom the
+order is made, if the order is served by personal service, sent
+by registered post to the last known address of such person,
+or  served  by  electronic  means  to  such  person,  or  by  any
+other method deemed proper by the Magistrate depending
+on  the  nature  of  the  case  and  in  accordance  with  the
+provisions of this Act.
+
+(7) The internet intermediary against whom a conditional
+order is made under subsection (4) shall either comply with
+such order or appear before the Magistrate as specified in
+subsection (8) to show cause as to why the order shall not be
+made absolute.
+
+Online  Safety
+
+37
+
+(8)  Where  the  internet  intermediary  against  whom  a
+conditional  order  is  made  under  subsection  (4)  intends  to
+show  cause,  it  shall  appear  before  the  Magistrate  making
+that order, within a period of one week of making such order
+and  move  to  have  the  order  set  aside  or  modified  in  the
+manner hereinafter provided:
+
+Provided  however,  any  internet  intermediary  against
+whom a conditional order is made under subsection (4) shall
+be bound to comply with the order with effect from the date
+of making such order until such order is set aside or modified
+by the Magistrate in terms of the provisions of this section.
+
+(9) If the internet intermediary against whom an order is
+made under subsection (4) neither complies with the order
+nor appears before the Magistrate under subsection (8) he
+shall  be  liable  to  the  penalty  specified  in  subsection  (11)
+and the order shall be made absolute.
+
+(10) (a) Where such internet intermediary appears before
+the Magistrate in terms of subsection (8) to show cause by
+way of petition and affidavit, the Magistrate shall hold an
+inquiry which shall be concluded within two weeks of the
+date of commencement of the inquiry.
+
+(b) The Magistrate may having regard to the facts stated
+by the internet intermediary against whom the conditional
+order is made under subsection (4), either move to have the
+order set aside or modified, if the Magistrate is satisfied that
+the  order  under  this  section  is  not  reasonable  and  proper,
+make an appropriate order subject to the provisions of this
+Act.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(c) If the Magistrate is not so satisfied, the order made
+
+30
+
+under subsection (4) shall be made absolute.
+
+(d) Where the order under subsection (4) is modified under
+
+paragraph (b), such order shall be made absolute.
+
+38
+
+Online  Safety
+
+(11) (a) Where the internet intermediary against whom
+the  order  is  made  under  this  section  fails  to  comply  with
+such order within the period and in the manner ordered by
+the Magistrate, such person commits an offence and shall on
+conviction  be  liable  to  imprisonment  for  a  term  not
+exceeding seven years  or to a fine not exceeding ten million
+rupees, and the Magistrate may make an order directing the
+Commission to take steps to enforce such order by preventing
+access  to  the  prohibited  statement  within  Sri  Lanka,
+notwithstanding anything contrary in any other law.
+
+(b) Where the offence under paragraph (a) is a continuing
+offence,  such  internet  intermediary  shall  be  liable  to  an
+additional  fine  of  five  hundred  thousand  rupees  for  each
+day during which such offence is continued.
+
+PART VII
+
+APPOINTMENT OF EXPERTS TO ASSIST INVESTIGATIONS AND
+THEIR POWERS
+
+ 37. (1) Where the court deems necessary, the Minister
+may by Order published in the Gazette appoint a person, an
+institution  or  a  body  of  persons  having  the  specified
+qualifications  and  experience  in  information  technology
+(hereinafter referred to as “an expert”), to assist any police
+officer in any investigation in respect of an offence under
+this Act.
+
+Appointment
+of  experts  to
+assist
+investigations
+
+(2) The Order made by the Minister under subsection (1)
+shall specify the qualifications of experts in various fields
+of expertise in information technology and the manner and
+mode of appointment and the conditions of appointment of
+such experts.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+(3)  It  shall  be  the  duty  of  an  expert  to  render  all  such
+assistance  as  may  be  required  for  the  purposes  of  such
+investigation.
+
+Online  Safety
+
+39
+
+(4)  An  expert  may,  for  the  purpose  of  an  investigation
+under this Act, under the authority of a warrant issued in that
+behalf by a Magistrate on application made for such purpose
+by a police officer not below the rank of a sub-inspector-
+
+5
+
+(a)
+
+enter upon any premises along with a police officer
+not below the rank of a sub-inspector; and
+
+10
+
+15
+
+(b)
+
+access  any  information  system,  computer  or
+computer  system  or  any  programme,  data  or
+information  held  in  such  computer  and  to  cause
+any computer to perform any function or to do any
+such other thing.
+
+(5) For the purposes of an investigation under this Act, an
+expert who has been called upon to assist the police may,
+with the authority granted by a police officer not below the
+rank of sub-inspector-
+
+(a)
+
+require  any  person  to  produce  any  document,
+information, device or other thing as is necessary
+for the purpose of such investigation;
+
+(b)
+
+require any person to disclose any traffic data;
+
+20
+
+(c) orally examine any person; and
+
+(d) do such other things as may be reasonably required,
+
+for the purposes of this Act.
+
+25
+
+(6)  Where  any  proceedings  have  been  commenced
+consequent  to  the  findings  of  an  investigation,  it  shall  be
+the duty of the expert to make available for the purposes of
+such proceedings, any information, data, material or other
+matter that may be obtained by such person in the course of
+such  investigation.
+
+40
+
+Online  Safety
+
+(7) Any information, data, material or other matter made
+available  by  an  expert  under  subsection  (6)  shall  be
+admissible  in  evidence  in  relation  to  the  prosecution  in
+respect  of  any  offence  under  this  Act  and  shall  be  prima
+facie proof of the facts stated therein.
+
+5
+
+(8) An expert shall be paid such remuneration as may be
+determined by the Minister in consultation with the Minister
+assigned the subject of Finance.
+
+10
+
+15
+
+20
+
+25
+
+38. Any person who is required by an expert, under the
+authority of a police officer, to make any disclosure or to
+assist in an investigation in respect of an offence under this
+Act shall comply with such requirement.
+
+Duty  to  assis
+tinvestigations
+
+39.  (1)  An  expert  who  assists  a  police  officer,  for  an
+investigation in respect of an offence under this Act, under
+the  authority  of  a  warrant  issued  in  that  behalf  by  a
+Magistrate,  on  application  made  for  such  purpose  by  the
+police officer, may, -
+
+Powers  of
+search  and
+seizure  with
+warrant
+
+(a) obtain  any  information  including  subscriber
+information  and  traffic  data  in  the  possession  of
+any service provider; or
+
+(b)
+
+intercept  any  wire  or  electronic  communication
+including subscriber information and traffic data,
+at any stage of such communication.
+
+(2) The Minister may, by regulations prescribe the manner
+in  which,  and  the  procedures  required  to  be  followed  in
+respect  of,  the  retention  and  interception  of  data  and
+information including traffic data, for the purposes of any
+investigation in respect of an offence under this Act.
+
+Online  Safety
+
+41
+
+PART VIII
+
+FINANCE
+
+40. (1) The Commission shall have its own Fund.
+
+Fund  of  the
+Commission
+
+5
+
+(2) There shall be credited to the Fund of the Commission
+all such sums of money as may be voted from time to time by
+Parliament for the use of the Commission.
+
+(3)  All  sums  of  money  required  to  defray  expenditure
+incurred by the Commission in the exercise and performance
+of its duties and functions under this Act, shall be paid out
+of the Fund of the Commission, and such other expenditure
+to be charged on the Fund in terms of this Act.
+
+10
+
+(4)  The  Commission  shall  cause  proper  accounts  to  be
+kept  of  the  receipts  and  expenditure,  assets  and  liabilities
+and all other transactions of the Commission.
+
+15
+
+(5)  The  financial  year  of  the  Commission  shall  be  the
+
+calendar year.
+
+41.  The  provisions  of  Article  154  of  the  Constitution
+relating to the audit of the accounts of public corporations
+shall apply to and in relation to the audit of the accounts of
+the Fund of the Commission.
+
+20
+
+Audit  of
+accounts
+
+PART IX
+
+GENERAL
+
+25
+
+42. Save as expressly provided in this Act, the provisions
+of  the  Code  of  Criminal  Procedure  Act,  No.  15  of  1979,
+shall, mutatis mutandis apply to investigations, the trial of
+offences  and  to  appeals  from  judgements,  sentences  and
+orders pronounced at any such trial under this Act.
+
+Provisions  of
+the  Code  of
+Criminal
+Procedure
+Act  to  apply
+
+42
+
+Online  Safety
+
+43.  (1)  The  jurisdiction  to  hear,  try  and  determine  all
+offences under this Act shall be vested with the Magistrate’s
+Court.
+
+Jurisdiction
+
+(2)  Notwithstanding  anything  contained  in  subsection
+(1),  where  there  are  aggravating  circumstances  or
+circumstances that give rise to public disquiet in connection
+with the commission of an offence, it shall be lawful for the
+Attorney General to forward indictment directly to the High
+Court.
+
+44.  Any person who attempts to commit an offence under
+this Act or to cause such an offence to be committed, commits
+an offence and shall on conviction be liable to imprisonment
+of either description for a term not exceeding one half of the
+maximum term provided for each of such offences or to a
+fine not exceeding one half of the maximum fine provided
+for each of such offences or to both such imprisonment and
+fine.
+
+Attempt  to
+commit  an
+offence
+
+45. (1) A person who attempts to commit or to cause the
+commission of an offence under this Act and in such attempt
+does any act towards the commission of that offence commits
+an offence and shall be tried in the same manner, and shall
+on  conviction  be  liable  to  the  same  punishment,  as  is
+prescribed by this Act for the first-mentioned offence.
+
+Abetment  of
+an  offence
+
+(2) A person who abets an offence under this Act commits
+an offence and shall be tried in the same manner, and shall
+on  conviction  be  liable  to  the  same  punishment,  as  is
+prescribed by this Act for the first-mentioned offence. In this
+subsection  the  expression  “abet”  shall  have  the  same
+meaning as in sections 100 and 101 of the Penal Code.
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+46.  A  person  who  conspires  with  any  other  person  to
+commit an offence under this Act commits an offence and
+
+Conspiring  to
+commit  an
+offence
+
+Online  Safety
+
+43
+
+shall be tried in the same manner and shall on conviction be
+liable to the same punishment as is prescribed by this Act for
+the first-mentioned offence. In this section, the expression
+“conspire” shall have the same meaning as in section 113A
+of the Penal Code.
+
+5
+
+47. Every offence under this Act shall be –
+
+(a)
+
+a  non-cognizable  offence  within  the  meaning  of
+and  for  the  purposes  of  the  Code  of  Criminal
+Procedure Act, No. 15 of 1979; and
+
+Offences
+under  this
+Act  to  be
+non-
+cognizable
+and  bailable
+
+10
+
+(b)
+
+a bailable offence within the meaning of the Bail
+Act, No. 30 of 1997.
+
+48. Where an offence under this Act is committed by a
+
+body of persons, then, if that body of persons is-
+
+Offences  by
+body  of
+persons
+
+(a)
+
+a body corporate, every director, or other principal
+officer of that body corporate;
+
+15
+
+(b)
+
+a firm, every partner of that firm; and
+
+(c)
+
+an unincorporated body, every individual who is a
+controlling  member  of  such  body  and  every
+principal  officer  of  that  body  responsible  for  its
+management and control,
+
+20
+
+commits an offence:
+
+Provided however, that no such person shall be deemed
+to have commited an offence if he proves that the offence
+was committed without his knowledge or that he exercised
+all due diligence to prevent the commission of the offence.
+
+25
+
+44
+
+Online  Safety
+
+49. (1) A suit or prosecution shall not lie against-
+
+Protection
+from  action
+
+(a)
+
+the Commission for any act which in good faith is
+done  or  omitted  to  be  done,  by  the  Commission
+under this Act; or
+
+5
+
+(b)
+
+any member, staff of the Commission or an expert
+appointed  under  section  37  for  any  act  which  in
+good faith is done or omitted to be done, by such
+person under this Act or any other Act.
+
+10
+
+15
+
+20
+
+25
+
+(2) Any expenses incurred by the Commission in any suit
+or prosecution brought by, or against, the Commission before
+any court, shall be paid out of the Fund of the Commission
+and any costs paid to, or recovered by, the Commission in
+any such suit or prosecution, shall be credited to the Fund of
+the Commission.
+
+(3) Any expenses incurred by any member, staff of the
+Commission or an expert assisting the Commission, in any
+suit or prosecution brought against such person in any court
+in respect of any act which is done, or purported to be done,
+by  such  person  under  this  Act  or  on  the  direction  of  the
+Commission shall, if the court holds that the act was done in
+good faith, be paid out of the Fund of the Commission, unless
+such  expense  is  recovered  by  such  person  in  such  suit  or
+prosecution.
+
+50. (1) The Commission shall within three months of the
+end of each financial year, prepare a report of its activities
+during that year and its proposed activities in the following
+year, and shall transmit a copy of such report together with a
+copy  of  the  audited  accounts  of  the  Commission  for  that
+year, to the Minister.
+
+Annual
+reports  of  the
+Commission
+
+Online  Safety
+
+45
+
+(2)  The  Minister  on  receipt  of  a  report  prepared  under
+
+subsection (1)-
+
+(a)
+
+shall cause a copy of such report to be placed before
+Parliament;
+
+(b) may  require  the  members  of  the  Commission  to
+clarify  any  matter  arising  from  such  report  to
+Parliament or a Committee of Parliament; and
+
+(c) may require the Commission to publish such report
+and  accounts  in  such  manner  as  the  Commission
+considers appropriate to bring them to the attention
+of the public.
+
+5
+
+10
+
+(3) Without prejudice to the generality of subsection (1)
+
+every annual report shall contain-
+
+(a)
+
+15
+
+a general survey of developments during the year
+to  which  the  report  relates  in  respect  of  matters
+falling  within  the  scope  of  the  Commission’s
+function and in particular, ensuring online safety;
+and
+
+(b) details of the measures taken by the Commission to
+
+20
+
+ensure online safety during that year.
+
+51.  All  members  and  staff  of  the  Commission  shall  be
+deemed to be public servants within the meaning and for the
+purposes of the Penal Code.
+
+25
+
+52. The Commission shall be deemed to be a scheduled
+institution  within  the  meaning  of  the  Bribery  Act,
+Anti-Corruption Act, No. 9 of 2023, and the provisions of
+that Act shall be construed accordingly.
+
+Members  and
+staff  of  the
+Commission
+deemed  to  be
+public
+servants
+
+Commission
+deemed  to
+be  a
+scheduled
+institution
+for  the
+purpose  of
+the  Anti-
+Corruption
+Act
+
+46
+
+Online  Safety
+
+53. (1) The Commission shall make rules for the purpose
+
+of the following matters:-
+
+Commission
+to  make  rules
+
+(a)
+
+to issue the codes of practice applicable for service
+providers and internet intermediaries who provide
+internet based communication services, specifying
+security  practices  and  procedures  required  to  be
+followed by them; and
+
+(b)
+
+to  specify  the  manner  in  which  the  websites
+providing social media platforms to the end users
+in Sri Lanka shall be registered under this Act.
+
+5
+
+10
+
+(2)    The  Commission  shall  make  the  first  rules  under
+subsection (1), within twenty four months from the date of
+commencement of this Act.
+
+15
+
+(3)  The Commission shall, prior to making rules under
+subsection (1), hold public consultations for a period of not
+less than two weeks.
+
+(4)    The  period  of  public  consultation  referred  to  in
+subsection (3) may be extended for a further period as may
+be specified by the Commission.
+
+20
+
+(5)  Every  rule  made  under  subsection  (1)  shall  be
+published in the Gazette and shall come into operation on
+the  date  of  publication  or  on  such  later  date  as  may  be
+specified therein.
+
+25
+
+(6)  Every  rule  made  under  subsection  (1)  shall,  within
+three months from the date of its publication in the Gazette,
+be placed before Parliament for approval.
+
+Online  Safety
+
+47
+
+54. (1) The Minister may make regulations in respect of
+all matters which are required by this Act to be prescribed or
+in respect of which regulations are required or authorized to
+be made under this Act.
+
+Regulations
+
+5
+
+(2) Every regulation made under subsection (1) shall be
+published in the Gazette and shall come into operation on
+the  date  of  publication  or  on  such  later  date  as  may  be
+specified therein.
+
+10
+
+(3)  Every  regulation  made  under  subsection  (1)  shall,
+within three months from the date of its publication in the
+Gazette,  be  placed  before  Parliament  for  approval.  Every
+regulation which is not so approved shall be deemed to be
+rescinded  as  from  the  date  of  disapproval,  but  without
+prejudice to anything previously done thereunder.
+
+15
+
+(4)  Notification  of  the  date  on  which  any  regulation
+is  deemed  to  be  so  rescinded  shall  be  published  in  the
+Gazette.
+
+55. In the event of any inconsistency or conflict between
+the  provisions  of  this  Act  and  any  other  written  law,  the
+provisions of this Act shall prevail.
+
+This  Act  to
+prevail  over
+other  written
+law
+
+20
+
+56. In this Act unless the context otherwise requires–
+
+Interpretation
+
+“bot” means a computer program made or altered for
+
+the purpose of running automated tasks;
+
+“Chairman” includes the Deputy Chairman appointed
+
+25
+
+under subsection (6) of section 8;
+
+“child” means a person under the age of eighteen years;
+
+48
+
+Online  Safety
+
+“coordinated  inauthentic  behaviour”  means  any
+coordinated activity carried out using two or more
+online accounts, in order to mislead the end users
+in Sri Lanka of any internet intermediary service
+as to any matter, but excludes any activity carried
+out using online accounts-
+
+(a) that are controlled by the same person; and
+
+(b) none  of  which  is  an  inauthentic  online
+
+account or is controlled by a bot;
+
+“communicate” means communicating to one or more
+end users in Sri Lanka on or through the internet a
+statement  of  fact  or  private  information  and
+includes  transmitting,  distributing,  sharing,
+generating, propagating, publishing or tagging and
+the  term  “communication”  shall  be  construed
+accordingly;
+
+“computer”  means  an  electronic  or  similar  device
+
+having  information  processing  capabilities;
+
+“computer  system”  means  a  computer  or  group  of
+inter-connected computers, including the internet;
+
+“declared online location” means an online location
+
+declared under Section 32;
+
+“digital advertising intermediary” means any person
+who, in the ordinary course of business, facilitates
+the  communication  of  paid  content  in  any  place
+by acting as the link or part of the link between-
+
+(a) the owners or operators of online locations;
+
+and
+
+(b) advertisers and service providers, by means
+
+of an internet based service;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Online  Safety
+
+49
+
+“fact” includes anything or state of things which are
+seen, heard or otherwise perceived by the users of
+internet based communication services;
+
+“false statement” means a statement that is known or
+believed by its maker to be incorrect or untrue and
+is made especially with intent to deceive or mislead
+but  does  not  include  a  caution,  an  opinion  or
+imputation made in good faith;
+
+“inauthentic online account” means an online account
+that is controlled by a person other than the person
+represented (whether by its user, unique identifier
+or  other  information)  as  its  holder,  and  the
+representation is made for the purpose of misleading
+the  end  users  in  Sri  Lanka  of  any  internet
+intermediary service as to the holder’s identity;
+
+“internet  access  service  provider”  means  an  entity
+offering the transmission, routing, or providing of
+connections  for  digital  online  communications,
+between or among points specified  by  a  user,  of
+material  of  the  user’s  choosing,  without
+modification to the content of the material as sent
+or received;
+
+“internet intermediary” means a person who provides
+
+any internet intermediary service;
+
+5
+
+10
+
+15
+
+20
+
+25
+
+“internet intermediary service” means-
+
+(a) a  service  that  allows  end  users  to  access
+materials originating from third parties on or
+through  the  internet;
+
+(b) a service of transmitting such materials to end
+
+30
+
+users on or through the internet; or
+
+50
+
+Online  Safety
+
+5
+
+10
+
+15
+
+20
+
+25
+
+(c) a service of displaying, to an end user who
+uses the service to make an online search, an
+index of search results, each of which links
+that end user to content hosted or stored at a
+location which is separate from the location
+of the index of search results,
+
+but  excludes  any  act  done  for  the  purpose  of,  or
+that is incidental to, the provision of a service of
+giving  the  public  access  to  the  internet  or  a
+computing resource service;
+
+“material” means anything that consists of or contains
+
+a statement;
+
+“Minister” means the Minister to whom the function
+of  administering  the  provisions  of  this  Act  is
+assigned  in  terms  of  Article  44  or  45  of  the
+Constitution;
+
+“online  account”  means  an  account  created  with  an
+internet  intermediary  for  the  use  of  an  internet
+intermediary service;
+
+“online  location”  means  any  website,  webpage,
+chatroom or forum, or any other thing that is hosted
+on a computer and can be seen, heard or otherwise
+perceived by means of the internet;
+
+“paid  content”  means  any  statement  that  is
+communicated  in  any  place  upon  payment  of  a
+consideration;
+
+“Penal Code” means the Penal Code (Chapter 19);
+
+“person” means a natural or legal person;
+
+“prescribe” means prescribe by regulations;
+
+Online  Safety
+
+51
+
+“prohibited statement” means a statement specified in
+section 12, 13, 14, 15, 16, 17, 18, 19, 20 ,21, 22 or
+23;
+
+5
+
+“service  provider”  means  any  person  other  than  a
+digital advertising intermediary who, in the ordinary
+course  of  business,  provides  advisory  or  other
+services  relating  to  the  communication  of  paid
+content in any place;
+
+“social media platform” means a service provided by
+
+10
+
+an internet intermediary-
+
+15
+
+20
+
+(a)  solely  for  the  purpose  of  enabling  online
+social interaction between two or more end
+users in Sri Lanka;
+
+(b) which allows end users in Sri Lanka to link
+to some or all of the other end users; or
+
+(c) which allows the end users in Sri Lanka to
+
+post material on the service,
+
+but does not include any such service of which any
+information communicated through the service is
+not accessible by the end users in Sri Lanka;
+
+“statement”  means  any  word  including  abbreviation
+and initial, number, image (moving or otherwise),
+sound,  symbol  or  other  representation,  or  a
+combination of any of these.
+
+25
+
+57.  In the event of any inconsistency between the Sinhala
+
+and Tamil texts of this Act, the Sinhala text shall prevail.
+
+Sinhala  text
+to  prevail  in
+case  of
+inconsistency
+
+52
+
+Online  Safety
+
+DEPARTMENT OF GOVERNMENT PRINTING
+
+
