@@ -51,7 +51,7 @@ class Scraper:
             raise ValueError(f'Unknown pub_type: {self.pub_type.id}')
 
         for doc in doc_list:
-            doc.write()
+            doc.write_data()
 
         if len(doc_list) > 0:
             logger = log.info

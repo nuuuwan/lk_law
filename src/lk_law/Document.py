@@ -84,10 +84,6 @@ class Document:
             f.write(pdf)
         log.debug(f'Downloaded {self.pdf_path}')
 
-    def write(self):
-        self.write_data()
-        self.download_pdf()
-
     @staticmethod
     def list_all() -> list['Document']:
         doc_list = []
