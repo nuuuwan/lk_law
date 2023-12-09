@@ -10,7 +10,7 @@ from lk_law.Document import Document
 
 POST_REQUEST_TIMEOUT = 10  # seconds
 URL_BASE = 'http://documents.gov.lk'
-
+PUB_TYPE_LIST = ['a', 'egz']
 
 log = Log('Scraper')
 
@@ -18,7 +18,9 @@ log = Log('Scraper')
 class Scraper:
     TIME_FORMAT = TimeFormat('%Y-%m-%d')
 
-    def __init__(self, date: str):
+    def __init__(self, pub_type: str, date: str):
+        assert pub_type in PUB_TYPE_LIST
+        self.pub_type = pub_type
         self.date = date  # e.g. 2023-11-24
 
     @cached_property
@@ -28,7 +30,9 @@ class Scraper:
     @cached_property
     def post_data(self) -> dict[str, str]:
         # pubType=a&reqType=D&reqStr=2023-11-23&lang=E
-        return dict(pubType='a', reqType='D', reqStr=self.date, lang='E')
+        return dict(
+            pubType=self.pub_type, reqType='D', reqStr=self.date, lang='E'
+        )
 
     @cached_property
     def content(self):
@@ -42,6 +46,7 @@ class Scraper:
         soup = BeautifulSoup(html, 'html.parser')
         table = soup.find('table')
         doc_list = []
+
         for tr in table.find_all('tr')[1:]:
             td_list = tr.find_all('td')
             date = td_list[1].text
@@ -49,7 +54,7 @@ class Scraper:
             a = td_list[3].find('a')
             url = a['href'].replace('..', URL_BASE)
 
-            doc = Document(date, name, url)
+            doc = Document(self.pub_type, date, name, url)
             doc.write()
             doc_list.append(doc)
 
@@ -64,25 +69,31 @@ class Scraper:
         return doc_list
 
     @staticmethod
+    def multi_scrape_for_date(date: str):
+        for pub_type in PUB_TYPE_LIST:
+            scraper = Scraper(pub_type, date)
+
+            try:
+                scraper.doc_list
+            except Exception as e:
+                log.error(f'Failed to scrape {date}/{pub_type}: {e}')
+
+    @staticmethod
     def multi_scrape(scrape_time_s: int):
         t_start = time.time()
         i_day = 0
         while True:
             t = t_start - i_day * SECONDS_IN.DAY
             date = Scraper.TIME_FORMAT.stringify(Time(t))
-            scraper = Scraper(date)
 
-            try:
-                scraper.doc_list
-            except Exception as e:
-                log.error(f'Failed to scrape {date}: {e}')
+            Scraper.multi_scrape_for_date(date)
 
             delta_t = time.time() - t_start
             log.debug(f'{delta_t=:.2f}s')
             if delta_t > scrape_time_s:
                 break
-            i_day += 1
 
-            t_sleep = (random.random() + 1) / 2
+            i_day += 1
+            t_sleep = random.random()
             log.debug(f'😴Sleeping for {t_sleep:.1f}s')
             time.sleep(t_sleep)

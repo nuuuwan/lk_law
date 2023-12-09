@@ -10,13 +10,19 @@ log = Log('Document')
 class Document:
     DIR = os.path.join('data', 'doc')
 
-    def __init__(self, date, name, href):
+    def __init__(self, pub_type: str, date: str, name: str, href: str):
+        self.pub_type = pub_type
         self.date = date
         self.name = name
         self.href = href
 
     def to_dict(self) -> dict:
-        return dict(date=self.date, name=self.name, href=self.href)
+        return dict(
+            pub_type=self.pub_type,
+            date=self.date,
+            name=self.name,
+            href=self.href,
+        )
 
     @cached_property
     def short_name(self):
@@ -33,7 +39,7 @@ class Document:
 
     @cached_property
     def dir_doc(self) -> str:
-        return os.path.join(Document.DIR, self.file_name)
+        return os.path.join(Document.DIR, self.pub_type, self.file_name)
 
     @cached_property
     def pdf_path(self) -> str:
