@@ -35,11 +35,15 @@ jobs:
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/scrape.py 
     
-    - name: Stage 2) write_readme
+    - name: Stage 2) download_pdfs
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/download_pdfs.py 
+
+    - name: Stage -1) write_readme
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/write_readme.py 
-
 
     - name: Push to github repo
       run: |
