@@ -67,6 +67,10 @@ class Document:
     def dir_doc(self) -> str:
         return os.path.join(Document.DIR, self.pub_type.id, self.file_name)
 
+    @cached_property
+    def dir_doc_unix(self) -> str:
+        return self.dir_doc.replace('\\', '/')
+
     # Data
 
     @cached_property
@@ -85,10 +89,6 @@ class Document:
     @cached_property
     def pdf_path(self) -> str:
         return os.path.join(self.dir_doc, 'doc.pdf')
-
-    @cached_property
-    def pdf_path_unix(self) -> str:
-        return self.pdf_path.replace('\\', '/')
 
     def download_pdf(self):
         if os.path.exists(self.pdf_path):

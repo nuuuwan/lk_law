@@ -38,25 +38,21 @@ class ReadMe:
     @cached_property
     def statistics_lines(self) -> list[str]:
         return [
-            f'Downloaded **{self.n_docs}** documents, as of *{self.time_str}*.',
+            f'Downloaded **{self.n_docs:,}** documents,'
+            + f' as of *{self.time_str}*.',
             '',
         ]
 
     @cached_property
-    def selected_docs_lines(self) -> list[str]:
+    def latest_docs_lines(self) -> list[str]:
         n_display = min(N_LATEST_DOCS, self.n_docs)
         lines = ['## Selected Documents']
         for i in range(n_display):
             if i % 5 == 0:
                 lines.append('')
-            j = (
-                int((self.n_docs - 1) * (i) / (n_display - 1))
-                if n_display > 1
-                else 0
-            )
-            doc = self.doc_list[j]
+            doc = self.doc_list[-i]
             lines.append(
-                f'* ({j}) [{doc.date} {doc.name}]({doc.pdf_path_unix})'
+                f'* [{doc.date} {doc.name}]({doc.dir_doc_unix}) ({doc.pub_type.name})'
             )
 
         lines.append('')
@@ -64,7 +60,7 @@ class ReadMe:
 
     @cached_property
     def body_lines(self) -> list[str]:
-        return self.statistics_lines + self.selected_docs_lines
+        return self.statistics_lines + self.latest_docs_lines
 
     @cached_property
     def lines(self) -> list[str]:
