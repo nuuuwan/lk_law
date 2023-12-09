@@ -9,7 +9,7 @@ log = Log('Document')
 
 class Document:
     DIR = os.path.join('data', 'doc')
-    PUB_TYPE_LIST = ['b']  # ['a', 'egz', 'b']
+    PUB_TYPE_LIST = ['a', 'egz', 'b']
 
     def __init__(self, pub_type: str, date: str, name: str, href: str):
         self.pub_type = pub_type

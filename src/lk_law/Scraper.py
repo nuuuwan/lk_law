@@ -43,7 +43,7 @@ class Scraper:
 
     @cached_property
     def doc_list(self) -> list:
-        if self.pub_type == 'a':
+        if self.pub_type in ['a', 'b']:
             doc_list = self.doc_list_from_html
         elif self.pub_type == 'egz':
             doc_list = self.doc_list_from_json
@@ -68,20 +68,6 @@ class Scraper:
         data_list = data_json['data']
         doc_list = []
         for data in data_list:
-            '''
-            {
-                "0": {
-                    "egz_no": "2360/60",
-                    "egz_day": "2023-12-01",
-                    "egz_desc": "Presidential Secretariat ...",
-                    "egz_path": "2023/12/",
-                    "egz_file_s": "2360-60_S.pdf",
-                    "egz_file_t": "2360-60_T.pdf",
-                    "egz_file_e": "2360-60_E.pdf",
-                    "egz_file_n": "N"
-                }
-            }
-            '''
             name = data['egz_desc']
             date = data['egz_day']
             url = f'{URL_BASE}/{data["egz_path"]}/{data["egz_file_e"]}'
@@ -95,16 +81,17 @@ class Scraper:
     @cached_property
     def doc_list_from_html(self) -> list:
         html = self.content
-        print(html)
+
         soup = BeautifulSoup(html, 'html.parser')
         table = soup.find('table')
-        doc_list = []
 
-        for tr in table.find_all('tr')[1:]:
+        trs = table.find_all('tr')
+        doc_list = []
+        for tr in trs[1:]:
             td_list = tr.find_all('td')
-            date = td_list[1].text
-            name = td_list[2].text
-            a = td_list[3].find('a')
+            date = td_list[-3].text
+            name = td_list[-2].text
+            a = td_list[-1].find('a')
             url = a['href'].replace('..', URL_BASE)
 
             doc = Document(self.pub_type, date, name, url)
@@ -137,7 +124,6 @@ class Scraper:
             log.debug(f'{delta_t=:.2f}s')
             if delta_t > scrape_time_s:
                 break
-
 
             i_day += 1
             t_sleep = random.random()
