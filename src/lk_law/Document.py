@@ -3,7 +3,7 @@ from functools import cached_property
 
 import requests
 from pdfminer.high_level import extract_text
-from utils import File, JSONFile, Log
+from utils import File, JSONFile, Log, hashx
 
 from lk_law.PubType import PubType
 
@@ -26,6 +26,16 @@ class Document:
             name=self.name,
             href=self.href,
         )
+
+    def __str__(self):
+        return f'Document({str(self.to_dict())})'
+
+    @cached_property
+    def md5(self):
+        return hashx.md5(str(self))
+
+    def __hash__(self):
+        return hash(self.md5)
 
     @staticmethod
     def from_dict(d: dict) -> 'Document':
