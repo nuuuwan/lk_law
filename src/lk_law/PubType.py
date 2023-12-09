@@ -13,7 +13,7 @@ class PubType:
     @property
     def isJSON(self):
         return self.id in ['egz']
-    
+
     def __hash__(self):
         return hash(self.id)
 
@@ -24,10 +24,6 @@ class PubType:
             PubType('b', 'Bill'),
             PubType('egz', 'Extraordinary Gazette'),
         ]
-
-    @staticmethod
-    def ids() -> list[str]:
-        return [pub_type.id for pub_type in PubType.list_all()]
 
     @staticmethod
     def idx() -> dict[str, 'PubType']:

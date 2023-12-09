@@ -1,8 +1,9 @@
 import os
 from functools import cached_property
+
 import requests
 from pdfminer.high_level import extract_text
-from utils import JSONFile, Log, File
+from utils import File, JSONFile, Log
 
 from lk_law.PubType import PubType
 
@@ -25,7 +26,7 @@ class Document:
             name=self.name,
             href=self.href,
         )
-    
+
     @staticmethod
     def from_dict(d: dict) -> 'Document':
         pub_type_id = d.get('pub_type', 'a')
@@ -56,7 +57,7 @@ class Document:
         return os.path.join(Document.DIR, self.pub_type.id, self.file_name)
 
     # Data
-    
+
     @cached_property
     def data_path(self) -> str:
         return os.path.join(self.dir_doc, 'data.json')
@@ -73,7 +74,7 @@ class Document:
     @cached_property
     def pdf_path(self) -> str:
         return os.path.join(self.dir_doc, 'doc.pdf')
-    
+
     @cached_property
     def pdf_path_unix(self) -> str:
         return self.pdf_path.replace('\\', '/')
@@ -101,9 +102,9 @@ class Document:
         try:
             text = extract_text(self.pdf_path)
         except Exception as e:
-            log.error(f'Failed to extract text from {self.pdf_path}')
+            log.error(f'Failed to extract text from {self.pdf_path}: {e}')
             return
-        
+
         File(self.raw_text_path).write(text)
         n_k = os.path.getsize(self.raw_text_path) / 1_000.0
         log.debug(f'Extracted text to {self.raw_text_path}  ({n_k:.1f}KB)')
@@ -114,9 +115,7 @@ class Document:
         for pub_type_id in os.listdir(Document.DIR):
             dir_pub_type = os.path.join(Document.DIR, pub_type_id)
             for dir_doc in os.listdir(dir_pub_type):
-                data_path = os.path.join(
-                    dir_pub_type, dir_doc, 'data.json'
-                )
+                data_path = os.path.join(dir_pub_type, dir_doc, 'data.json')
                 d = JSONFile(data_path).read()
                 doc_list.append(Document.from_dict(d))
         doc_list.sort()

@@ -1,10 +1,9 @@
 import os
-from functools import cache, cached_property
+from functools import cached_property
 
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_law.Document import Document
-from lk_law.PubType import PubType
 
 log = Log('ReadMe')
 
@@ -43,12 +42,10 @@ class ReadMe:
             '',
         ]
 
-
-
     @cached_property
     def selected_docs_lines(self) -> list[str]:
         n_display = min(N_LATEST_DOCS, self.n_docs)
-        lines = [f'## Selected Documents']
+        lines = ['## Selected Documents']
         for i in range(n_display):
             if i % 5 == 0:
                 lines.append('')
@@ -58,11 +55,12 @@ class ReadMe:
                 else 0
             )
             doc = self.doc_list[j]
-            lines.append(f'* ({j}) [{doc.date} {doc.name}]({doc.pdf_path_unix})')
+            lines.append(
+                f'* ({j}) [{doc.date} {doc.name}]({doc.pdf_path_unix})'
+            )
 
         lines.append('')
         return lines
-
 
     @cached_property
     def body_lines(self) -> list[str]:
