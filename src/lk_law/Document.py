@@ -58,6 +58,10 @@ class Document:
     @cached_property
     def pdf_path(self) -> str:
         return os.path.join(self.dir_doc, 'doc.pdf')
+    
+    @cached_property
+    def pdf_path_unix(self) -> str:
+        return self.pdf_path.replace('\\', '/')
 
     @cached_property
     def data_path(self) -> str:
@@ -85,24 +89,15 @@ class Document:
         self.download_pdf()
 
     @staticmethod
-    def list_by_pub_type(pub_type: str) -> list['Document']:
-        dir_pub_type = os.path.join(Document.DIR, pub_type)
-        if not os.path.exists(dir_pub_type):
-            return []
-        
+    def list_all() -> list['Document']:
         doc_list = []
-        for dir_doc in os.listdir(dir_pub_type):
-            data_path = os.path.join(
-                Document.DIR, pub_type, dir_doc, 'data.json'
-            )
-            d = JSONFile(data_path).read()
-            doc_list.append(Document.from_dict(d))
+        for pub_type_id in os.listdir(Document.DIR):
+            dir_pub_type = os.path.join(Document.DIR, pub_type_id)
+            for dir_doc in os.listdir(dir_pub_type):
+                data_path = os.path.join(
+                    dir_pub_type, dir_doc, 'data.json'
+                )
+                d = JSONFile(data_path).read()
+                doc_list.append(Document.from_dict(d))
         doc_list.sort()
         return doc_list
-
-    @staticmethod
-    def idx() -> dict[str, 'Document']:
-        idx = {}
-        for pub_type in PubType.ids():
-            idx[pub_type] = Document.list_by_pub_type(pub_type)
-        return idx

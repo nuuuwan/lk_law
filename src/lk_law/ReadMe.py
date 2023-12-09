@@ -13,7 +13,7 @@ N_LATEST_DOCS = 30
 
 class ReadMe:
     def __init__(self):
-        self.doc_idx = Document.idx()
+        self.doc_list = Document.list_all()
 
     @cached_property
     def path(self) -> str:
@@ -21,7 +21,7 @@ class ReadMe:
 
     @cached_property
     def n_docs(self) -> int:
-        return sum([len(self.doc_idx[pub_type]) for pub_type in self.doc_idx])
+        return len(self.doc_list)
 
     @cached_property
     def time_str(self) -> str:
@@ -43,34 +43,26 @@ class ReadMe:
             '',
         ]
 
-    @cache
-    def get_selected_docs_lines_for_pub_type(
-        self, pub_type: PubType
-    ) -> list[str]:
-        doc_list = self.doc_idx[pub_type.id]
-        n_docs = len(doc_list)
-        n_display = min(N_LATEST_DOCS, n_docs)
-        lines = [f'## Selected {pub_type.name}s']
+
+
+    @cached_property
+    def selected_docs_lines(self) -> list[str]:
+        n_display = min(N_LATEST_DOCS, self.n_docs)
+        lines = [f'## Selected Documents']
         for i in range(n_display):
             if i % 5 == 0:
                 lines.append('')
             j = (
-                int((n_docs - 1) * (i) / (n_display - 1))
+                int((self.n_docs - 1) * (i) / (n_display - 1))
                 if n_display > 1
                 else 0
             )
-            doc = doc_list[j]
-            lines.append(f'* ({j}) [{doc.date} {doc.name}]({doc.pdf_path})')
+            doc = self.doc_list[j]
+            lines.append(f'* ({j}) [{doc.date} {doc.name}]({doc.pdf_path_unix})')
 
         lines.append('')
         return lines
 
-    @cached_property
-    def selected_docs_lines(self) -> list[str]:
-        lines = []
-        for pub_type in PubType.list_all():
-            lines += self.get_selected_docs_lines_for_pub_type(pub_type)
-        return lines
 
     @cached_property
     def body_lines(self) -> list[str]:
