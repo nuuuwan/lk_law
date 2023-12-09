@@ -17,7 +17,7 @@ class ReadMe:
 
     @cached_property
     def path(self) -> str:
-        return os.path.join('data', 'README.md')
+        return os.path.join('README.data.md')
 
     @cached_property
     def n_docs(self) -> int:

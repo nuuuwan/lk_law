@@ -15,7 +15,7 @@ This repo contains the following types of documents:
 
 ## How can I access to documents?
 
-See [data](data/README.md).
+See [data](README.data.md).
 
 ## Who might find this data useful? 
 
