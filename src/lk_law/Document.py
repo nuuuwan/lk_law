@@ -9,6 +9,7 @@ log = Log('Document')
 
 class Document:
     DIR = os.path.join('data', 'doc')
+    PUB_TYPE_LIST = ['b']  # ['a', 'egz', 'b']
 
     def __init__(self, pub_type: str, date: str, name: str, href: str):
         self.pub_type = pub_type
@@ -28,6 +29,8 @@ class Document:
     def short_name(self):
         s = self.name.strip().lower().replace(' ', '-')
         s = ''.join(c for c in s if c.isalnum() or c == '-')
+        if len(s) > 64:
+            s = s[:64]
         return s
 
     @cached_property
@@ -75,7 +78,9 @@ class Document:
         doc_list = []
         for pub_type in os.listdir(Document.DIR):
             for dir_doc in os.listdir(os.path.join(Document.DIR, pub_type)):
-                data_path = os.path.join(Document.DIR, pub_type, dir_doc, 'data.json')
+                data_path = os.path.join(
+                    Document.DIR, pub_type, dir_doc, 'data.json'
+                )
                 d = JSONFile(data_path).read()
                 if 'pub_type' not in d:
                     d['pub_type'] = 'a'

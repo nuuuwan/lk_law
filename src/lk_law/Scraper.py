@@ -1,3 +1,4 @@
+import json
 import random
 import time
 from functools import cached_property
@@ -10,7 +11,6 @@ from lk_law.Document import Document
 
 POST_REQUEST_TIMEOUT = 10  # seconds
 URL_BASE = 'http://documents.gov.lk'
-PUB_TYPE_LIST = ['a', 'egz']
 
 log = Log('Scraper')
 
@@ -19,7 +19,7 @@ class Scraper:
     TIME_FORMAT = TimeFormat('%Y-%m-%d')
 
     def __init__(self, pub_type: str, date: str):
-        assert pub_type in PUB_TYPE_LIST
+        assert pub_type in Document.PUB_TYPE_LIST
         self.pub_type = pub_type
         self.date = date  # e.g. 2023-11-24
 
@@ -36,13 +36,66 @@ class Scraper:
 
     @cached_property
     def content(self):
+        log.debug(f'POST {self.url} - {self.post_data}')
         return requests.post(
             self.url, data=self.post_data, timeout=POST_REQUEST_TIMEOUT
         ).content
 
     @cached_property
     def doc_list(self) -> list:
+        if self.pub_type == 'a':
+            doc_list = self.doc_list_from_html
+        elif self.pub_type == 'egz':
+            doc_list = self.doc_list_from_json
+        else:
+            raise ValueError(f'Unknown pub_type: {self.pub_type}')
+
+        for doc in doc_list:
+            doc.write()
+
+        if len(doc_list) > 0:
+            logger = log.info
+            emoji = '✅'
+        else:
+            logger = log.warning
+            emoji = '🤷🏽'
+
+        logger(f'{emoji}Found {len(doc_list)} documents for {self.date}')
+
+    @cached_property
+    def doc_list_from_json(self) -> list:
+        data_json = json.loads(self.content)
+        data_list = data_json['data']
+        doc_list = []
+        for data in data_list:
+            '''
+            {
+                "0": {
+                    "egz_no": "2360/60",
+                    "egz_day": "2023-12-01",
+                    "egz_desc": "Presidential Secretariat ...",
+                    "egz_path": "2023/12/",
+                    "egz_file_s": "2360-60_S.pdf",
+                    "egz_file_t": "2360-60_T.pdf",
+                    "egz_file_e": "2360-60_E.pdf",
+                    "egz_file_n": "N"
+                }
+            }
+            '''
+            name = data['egz_desc']
+            date = data['egz_day']
+            url = f'{URL_BASE}/{data["egz_path"]}/{data["egz_file_e"]}'
+
+            doc = Document(self.pub_type, date, name, url)
+
+            doc_list.append(doc)
+
+        return doc_list
+
+    @cached_property
+    def doc_list_from_html(self) -> list:
         html = self.content
+        print(html)
         soup = BeautifulSoup(html, 'html.parser')
         table = soup.find('table')
         doc_list = []
@@ -55,22 +108,14 @@ class Scraper:
             url = a['href'].replace('..', URL_BASE)
 
             doc = Document(self.pub_type, date, name, url)
-            doc.write()
+
             doc_list.append(doc)
 
-        if len(doc_list) > 0:
-            logger = log.info
-            emoji = '✅'
-        else:
-            logger = log.warning
-            emoji = '🤷🏽'
-
-        logger(f'{emoji}Found {len(doc_list)} documents for {self.date}')
         return doc_list
 
     @staticmethod
     def multi_scrape_for_date(date: str):
-        for pub_type in PUB_TYPE_LIST:
+        for pub_type in Document.PUB_TYPE_LIST:
             scraper = Scraper(pub_type, date)
 
             try:
@@ -92,6 +137,7 @@ class Scraper:
             log.debug(f'{delta_t=:.2f}s')
             if delta_t > scrape_time_s:
                 break
+
 
             i_day += 1
             t_sleep = random.random()
