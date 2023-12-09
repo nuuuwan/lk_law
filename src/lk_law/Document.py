@@ -51,8 +51,9 @@ class Document:
     def short_name(self):
         s = self.name.strip().lower().replace(' ', '-')
         s = ''.join(c for c in s if c.isalnum() or c == '-')
-        if len(s) > 64:
-            s = s[:64]
+        if len(s) > 32:
+            s = s[:32]
+        s += f'-{self.md5[:8]}'
         return s
 
     @cached_property
