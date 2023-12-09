@@ -1,5 +1,7 @@
 # Legal Documents of Sri Lanka
 
+## What is this?
+
 This repository serves as a comprehensive digital archive for various legal documents of Sri Lanka. It is a valuable resource for legal professionals, researchers, students, and anyone interested in the legal framework of Sri Lanka.
 
 The documents have been sourced from the Website of the [Department of Government Printing](http://documents.gov.lk), which publishes various Legal Documents, including [Gazette](http://documents.gov.lk./en/gazette.php), [Extraordinary Gazettes](http://documents.gov.lk./en/exgazette.php), [Bills](http://documents.gov.lk./en/bills.php) and [Acts](http://documents.gov.lk./en/acts.php). 
@@ -11,7 +13,11 @@ This repo contains the following types of documents:
 * The legal document as structure data with chapters, sections, schedules etc. (TODO-🚧)
 * AI generated summary of the legal document (TODO-🚧)
 
-## How to use this data 
+## How can I access to documents?
+
+See [data](data/README.md).
+
+## Who might find this data useful? 
 
 The data in this repository, which hosts a range of legal documents from Sri Lanka, can be incredibly useful to various parties in numerous ways. Here are ten potential uses:
 
