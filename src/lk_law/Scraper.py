@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 from utils import SECONDS_IN, Log, Time, TimeFormat
 
 from lk_law.Document import Document
+from lk_law.PubType import PubType
 
 POST_REQUEST_TIMEOUT = 10  # seconds
 URL_BASE = 'http://documents.gov.lk'
@@ -18,8 +19,7 @@ log = Log('Scraper')
 class Scraper:
     TIME_FORMAT = TimeFormat('%Y-%m-%d')
 
-    def __init__(self, pub_type: str, date: str):
-        assert pub_type in Document.PUB_TYPE_LIST
+    def __init__(self, pub_type: PubType, date: str):
         self.pub_type = pub_type
         self.date = date  # e.g. 2023-11-24
 
@@ -31,7 +31,7 @@ class Scraper:
     def post_data(self) -> dict[str, str]:
         # pubType=a&reqType=D&reqStr=2023-11-23&lang=E
         return dict(
-            pubType=self.pub_type, reqType='D', reqStr=self.date, lang='E'
+            pubType=self.pub_type.id, reqType='D', reqStr=self.date, lang='E'
         )
 
     @cached_property
@@ -43,12 +43,12 @@ class Scraper:
 
     @cached_property
     def doc_list(self) -> list:
-        if self.pub_type in ['a', 'b']:
+        if self.pub_type.isHTML:
             doc_list = self.doc_list_from_html
-        elif self.pub_type == 'egz':
+        elif self.pub_type.isJSON:
             doc_list = self.doc_list_from_json
         else:
-            raise ValueError(f'Unknown pub_type: {self.pub_type}')
+            raise ValueError(f'Unknown pub_type: {self.pub_type.id}')
 
         for doc in doc_list:
             doc.write()
@@ -102,13 +102,13 @@ class Scraper:
 
     @staticmethod
     def multi_scrape_for_date(date: str):
-        for pub_type in Document.PUB_TYPE_LIST:
+        for pub_type in PubType.list_all():
             scraper = Scraper(pub_type, date)
 
             try:
                 scraper.doc_list
             except Exception as e:
-                log.error(f'Failed to scrape {date}/{pub_type}: {e}')
+                log.error(f'Failed to scrape {date}/{pub_type.id}: {e}')
 
     @staticmethod
     def multi_scrape(scrape_time_s: int):

@@ -1,9 +1,10 @@
 import os
-from functools import cached_property
+from functools import cache, cached_property
 
 from utils import TIME_FORMAT_TIME, File, Log, Time
 
 from lk_law.Document import Document
+from lk_law.PubType import PubType
 
 log = Log('ReadMe')
 
@@ -12,7 +13,7 @@ N_LATEST_DOCS = 30
 
 class ReadMe:
     def __init__(self):
-        self.doc_list = Document.list_all()
+        self.doc_idx = Document.idx()
 
     @cached_property
     def path(self) -> str:
@@ -20,7 +21,7 @@ class ReadMe:
 
     @cached_property
     def n_docs(self) -> int:
-        return len(self.doc_list)
+        return sum([len(self.doc_idx[pub_type]) for pub_type in self.doc_idx])
 
     @cached_property
     def time_str(self) -> str:
@@ -42,22 +43,33 @@ class ReadMe:
             '',
         ]
 
-    @cached_property
-    def selected_docs_lines(self) -> list[str]:
-        n_display = min(N_LATEST_DOCS, self.n_docs)
-        lines = [f'## {n_display} Selected Documents']
+    @cache
+    def get_selected_docs_lines_for_pub_type(
+        self, pub_type: PubType
+    ) -> list[str]:
+        doc_list = self.doc_idx[pub_type.id]
+        n_docs = len(doc_list)
+        n_display = min(N_LATEST_DOCS, n_docs)
+        lines = [f'## Selected {pub_type.name}s']
         for i in range(n_display):
             if i % 5 == 0:
                 lines.append('')
             j = (
-                int((self.n_docs - 1) * (i) / (n_display - 1))
+                int((n_docs - 1) * (i) / (n_display - 1))
                 if n_display > 1
                 else 0
             )
-            doc = self.doc_list[j]
+            doc = doc_list[j]
             lines.append(f'* ({j}) [{doc.date} {doc.name}]({doc.pdf_path})')
 
         lines.append('')
+        return lines
+
+    @cached_property
+    def selected_docs_lines(self) -> list[str]:
+        lines = []
+        for pub_type in PubType.list_all():
+            lines += self.get_selected_docs_lines_for_pub_type(pub_type)
         return lines
 
     @cached_property

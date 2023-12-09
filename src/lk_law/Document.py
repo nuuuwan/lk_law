@@ -4,14 +4,15 @@ from functools import cached_property
 import requests
 from utils import JSONFile, Log
 
+from lk_law.PubType import PubType
+
 log = Log('Document')
 
 
 class Document:
     DIR = os.path.join('data', 'doc')
-    PUB_TYPE_LIST = ['a', 'egz', 'b']
 
-    def __init__(self, pub_type: str, date: str, name: str, href: str):
+    def __init__(self, pub_type: PubType, date: str, name: str, href: str):
         self.pub_type = pub_type
         self.date = date
         self.name = name
@@ -19,10 +20,20 @@ class Document:
 
     def to_dict(self) -> dict:
         return dict(
-            pub_type=self.pub_type,
+            pub_type=self.pub_type.id,
             date=self.date,
             name=self.name,
             href=self.href,
+        )
+    
+    @staticmethod
+    def from_dict(d: dict) -> 'Document':
+        pub_type_id = d.get('pub_type', 'a')
+        return Document(
+            PubType.idx()[pub_type_id],
+            d['date'],
+            d['name'],
+            d['href'],
         )
 
     @cached_property
@@ -42,7 +53,7 @@ class Document:
 
     @cached_property
     def dir_doc(self) -> str:
-        return os.path.join(Document.DIR, self.pub_type, self.file_name)
+        return os.path.join(Document.DIR, self.pub_type.id, self.file_name)
 
     @cached_property
     def pdf_path(self) -> str:
@@ -74,17 +85,24 @@ class Document:
         self.download_pdf()
 
     @staticmethod
-    def list_all() -> list['Document']:
+    def list_by_pub_type(pub_type: str) -> list['Document']:
+        dir_pub_type = os.path.join(Document.DIR, pub_type)
+        if not os.path.exists(dir_pub_type):
+            return []
+        
         doc_list = []
-        for pub_type in os.listdir(Document.DIR):
-            for dir_doc in os.listdir(os.path.join(Document.DIR, pub_type)):
-                data_path = os.path.join(
-                    Document.DIR, pub_type, dir_doc, 'data.json'
-                )
-                d = JSONFile(data_path).read()
-                if 'pub_type' not in d:
-                    d['pub_type'] = 'a'
-                doc_list.append(Document(**d))
-
+        for dir_doc in os.listdir(dir_pub_type):
+            data_path = os.path.join(
+                Document.DIR, pub_type, dir_doc, 'data.json'
+            )
+            d = JSONFile(data_path).read()
+            doc_list.append(Document.from_dict(d))
         doc_list.sort()
         return doc_list
+
+    @staticmethod
+    def idx() -> dict[str, 'Document']:
+        idx = {}
+        for pub_type in PubType.ids():
+            idx[pub_type] = Document.list_by_pub_type(pub_type)
+        return idx
