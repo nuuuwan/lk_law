@@ -121,7 +121,7 @@ class Scraper:
             Scraper.multi_scrape_for_date(date)
 
             delta_t = time.time() - t_start
-            log.debug(f'{delta_t=:.2f}s')
+            log.debug(f'{delta_t=:.2f}s/{scrape_time_s=:.1f}s')
             if delta_t > scrape_time_s:
                 break
 
