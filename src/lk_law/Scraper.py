@@ -36,7 +36,7 @@ class Scraper:
 
     @cached_property
     def content(self):
-        log.debug(f'POST {self.url} - {self.post_data}')
+        # log.debug(f'POST {self.url} - {self.post_data}')
         return requests.post(
             self.url, data=self.post_data, timeout=POST_REQUEST_TIMEOUT
         ).content

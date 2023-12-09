@@ -52,7 +52,8 @@ class ReadMe:
                 lines.append('')
             doc = self.doc_list[-i]
             lines.append(
-                f'* [{doc.date} {doc.name}]({doc.dir_doc_unix}) ({doc.pub_type.name})'
+                f'* [{doc.date} {doc.name}]({doc.dir_doc_unix})'
+                + f' ({doc.pub_type.name})'
             )
 
         lines.append('')

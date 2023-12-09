@@ -19,6 +19,16 @@ class Document:
         self.name = name
         self.href = href
 
+    @staticmethod
+    def from_dict(d: dict) -> 'Document':
+        pub_type_id = d.get('pub_type', 'a')
+        return Document(
+            PubType.from_id(pub_type_id),
+            d['date'],
+            d['name'],
+            d['href'],
+        )
+
     def to_dict(self) -> dict:
         return dict(
             pub_type=self.pub_type.id,
@@ -36,16 +46,6 @@ class Document:
 
     def __hash__(self):
         return hash(self.md5)
-
-    @staticmethod
-    def from_dict(d: dict) -> 'Document':
-        pub_type_id = d.get('pub_type', 'a')
-        return Document(
-            PubType.idx()[pub_type_id],
-            d['date'],
-            d['name'],
-            d['href'],
-        )
 
     @cached_property
     def short_name(self):
@@ -65,7 +65,7 @@ class Document:
 
     @cached_property
     def dir_doc(self) -> str:
-        return os.path.join(Document.DIR, self.pub_type.id, self.file_name)
+        return os.path.join(self.pub_type.dir_pub_type, self.file_name)
 
     @cached_property
     def dir_doc_unix(self) -> str:
