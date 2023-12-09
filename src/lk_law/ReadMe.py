@@ -46,11 +46,11 @@ class ReadMe:
     @cached_property
     def latest_docs_lines(self) -> list[str]:
         n_display = min(N_LATEST_DOCS, self.n_docs)
-        lines = ['## Selected Documents']
+        lines = ['## Latest Documents']
         for i in range(n_display):
             if i % 5 == 0:
                 lines.append('')
-            doc = self.doc_list[-i]
+            doc = self.doc_list[i]
             lines.append(
                 f'* [{doc.date} {doc.name}]({doc.dir_doc_unix})'
                 + f' ({doc.pub_type.name})'
