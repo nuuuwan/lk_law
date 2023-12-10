@@ -12,7 +12,7 @@ log.debug(f'{IS_TEST_MODE=}')
 
 def main():
     ut = Time.now().ut
-    n_i_days = 7
+    n_i_days = 28
     Scraper.multi_scrape(ut, n_i_days)
 
 
