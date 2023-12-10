@@ -23,7 +23,7 @@ See [data](README.data.md).
 
 ## Who might find this data useful? 
 
-The data in this repository, which hosts a range of legal documents from Sri Lanka, can be incredibly useful to various parties in numerous ways. Here are ten potential uses:
+The data in this repository, which hosts a range of legal documents from Sri Lanka, can be incredibly useful to various parties in numerous ways.
 
 1. **Legal Research**: Lawyers, legal scholars, and law students can use this repository for comprehensive legal research, referencing laws and regulations relevant to their cases or academic work.
 
