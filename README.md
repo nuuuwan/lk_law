@@ -17,7 +17,7 @@ This repo contains the following types of documents:
 * The legal document as structure data with chapters, sections, schedules etc. 
 * AI generated summary of the legal document 
 
-## How can I access to documents?
+## How can I access the documents?
 
 See [data](README.data.md).
 
