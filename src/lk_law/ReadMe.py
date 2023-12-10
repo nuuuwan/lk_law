@@ -38,7 +38,6 @@ class ReadMe:
         return [
             f'Downloaded **{self.n_docs:,}** documents,'
             + f' as of *{self.time_str}*.',
-
         ]
 
     @cached_property
