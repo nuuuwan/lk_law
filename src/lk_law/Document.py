@@ -127,10 +127,17 @@ class Document:
         return os.path.join(self.dir_doc, 'doc.docx')
 
     def build_docx(self):
-        cv = Converter(self.pdf_path)
-        cv.convert(self.docx_path, start=0, end=None, multi_processing=True)
-        cv.close()
-        log.debug(f'Converted {self.pdf_path} to {self.docx_path}')
+        try:
+            cv = Converter(self.pdf_path)
+            cv.convert(
+                self.docx_path, start=0, end=None, multi_processing=True
+            )
+            cv.close()
+            log.debug(f'Converted {self.pdf_path} to {self.docx_path}')
+        except Exception as e:
+            log.error(
+                f'Failed to convert {self.pdf_path} to {self.docx_path}: {e}'
+            )
 
     @staticmethod
     def list_all() -> list['Document']:
