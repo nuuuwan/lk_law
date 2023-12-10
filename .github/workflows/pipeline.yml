@@ -30,11 +30,16 @@ jobs:
         ref: 'main'
         token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-    - name: Stage 1) scrape
+    - name: Stage 1a) scrape_recent
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
-        python workflows/scrape.py 
-    
+        python workflows/scrape_recent.py 
+
+    - name: Stage 1b) scrape_history
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/scrape_history.py 
+  
     - name: Stage 2) download_pdfs
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"

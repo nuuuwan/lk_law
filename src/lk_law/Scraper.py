@@ -5,7 +5,7 @@ from functools import cached_property
 
 import requests
 from bs4 import BeautifulSoup
-from utils import SECONDS_IN, Log, Time, TimeFormat
+from utils import SECONDS_IN, TIME_FORMAT_DATE, Log, Time, TimeFormat
 
 from lk_law.Document import Document
 from lk_law.PubType import PubType
@@ -60,7 +60,10 @@ class Scraper:
             logger = log.warning
             emoji = '🤷🏽'
 
-        logger(f'{emoji}Found {len(doc_list)} documents for {self.date}')
+        logger(
+            f'{emoji}Found {len(doc_list)} documents'
+            + f' for {self.pub_type.id}/{self.date}'
+        )
 
     @cached_property
     def doc_list_from_json(self) -> list:
@@ -110,22 +113,24 @@ class Scraper:
             except Exception as e:
                 log.error(f'Failed to scrape {date}/{pub_type.id}: {e}')
 
+            t_sleep = random.random()
+            log.debug(f'😴Sleeping for {t_sleep:.1f}s')
+            time.sleep(t_sleep)
+
     @staticmethod
-    def multi_scrape(scrape_time_s: int):
-        t_start = time.time()
-        i_day = 0
-        while True:
-            t = t_start - i_day * SECONDS_IN.DAY
+    def multi_scrape(t_end: float, n_i_days: int):
+        for i_day in range(0, n_i_days):
+            t = t_end - i_day * SECONDS_IN.DAY
             date = Scraper.TIME_FORMAT.stringify(Time(t))
 
             Scraper.multi_scrape_for_date(date)
 
-            delta_t = time.time() - t_start
-            log.debug(f'{delta_t=:.2f}s/{scrape_time_s=:.1f}s')
-            if delta_t > scrape_time_s:
-                break
+    @staticmethod
+    def get_t_start() -> float:
+        doc_list = Document.list_all()
+        if len(doc_list) == 0:
+            return Time.now().ut
 
-            i_day += 1
-            t_sleep = random.random()
-            log.debug(f'😴Sleeping for {t_sleep:.1f}s')
-            time.sleep(t_sleep)
+        date_list = sorted([doc.date for doc in doc_list])
+        date_start = date_list[0]
+        return TIME_FORMAT_DATE.parse(date_start).ut
