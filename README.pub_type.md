@@ -1,0 +1,3 @@
+# Types of Legal Documents 
+
+The documents in this repo have been sourced from the Website of the [Department of Government Printing](http://documents.gov.lk), which publishes various Legal Documents, including [Gazette](http://documents.gov.lk./en/gazette.php), [Extraordinary Gazettes](http://documents.gov.lk./en/exgazette.php), [Bills](http://documents.gov.lk./en/bills.php) and [Acts](http://documents.gov.lk./en/acts.php). 
