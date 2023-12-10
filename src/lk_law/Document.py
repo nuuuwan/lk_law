@@ -85,6 +85,7 @@ class Document:
         JSONFile(self.data_path).write(self.to_dict())
         log.debug(f'Wrote {self.data_path}')
 
+
     # PDF
 
     @cached_property
@@ -138,6 +139,29 @@ class Document:
             log.error(
                 f'Failed to convert {self.pdf_path} to {self.docx_path}: {e}'
             )
+
+    # README
+
+    @cached_property
+    def doc_readme_path(self) -> str:
+        return os.path.join(self.dir_doc, 'README.md')
+    
+    def write_doc_readme(self):
+        if os.path.exists(self.doc_readme_path):
+            log.warning(f'{self.doc_readme_path} already exists')
+            return
+
+        lines = [
+            f'# {self.pub_type.emoji}  {self.name}',
+            '',
+            f'{self.pub_type.name} published on **{self.date}**.',
+            '',
+        ]
+        File(self.doc_readme_path).write('\n'.join(lines))
+        log.debug(f'Wrote {self.doc_readme_path}')
+
+
+    # -- List Methods  -- 
 
     @staticmethod
     def list_all() -> list['Document']:

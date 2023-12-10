@@ -55,6 +55,11 @@ jobs:
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/build_docx.py 
 
+    - name: Stage 5) write_doc_readme
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/write_doc_readme.py 
+  
     - name: Stage -1) write_readme
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
