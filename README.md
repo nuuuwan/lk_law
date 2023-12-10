@@ -8,10 +8,14 @@ The documents have been sourced from the Website of the [Department of Governmen
 
 This repo contains the following types of documents:
 
-* The original legal documents as PDFs. (DONE-✅)
-* The extracted text from the PDFs. (DONE-✅)
-* The legal document as structure data with chapters, sections, schedules etc. (TODO-🚧)
-* AI generated summary of the legal document (TODO-🚧)
+### Complete ✅
+* The original legal documents as PDFs.
+* The extracted raw text from the PDFs.
+* Convert PDFs into MS Word DocX format. 
+
+### TODO 🚧
+* The legal document as structure data with chapters, sections, schedules etc. 
+* AI generated summary of the legal document 
 
 ## How can I access to documents?
 
