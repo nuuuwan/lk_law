@@ -4,7 +4,7 @@
 
 This repository serves as a comprehensive digital archive for various legal documents of Sri Lanka. It is a valuable resource for legal professionals, researchers, students, and anyone interested in the legal framework of Sri Lanka.
 
-The documents have been sourced from the Website of the [Department of Government Printing](http://documents.gov.lk), which publishes [various types]((README.pub_type.md)) of Legal Documents. 
+The documents have been sourced from the Website of the [Department of Government Printing](http://documents.gov.lk), which publishes [various types](README.pub_type.md) of Legal Documents. 
 
 ## What types of documents does the repo contain?
 
