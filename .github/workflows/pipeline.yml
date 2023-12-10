@@ -50,6 +50,11 @@ jobs:
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/extract_raw_text.py 
 
+    - name: Stage 4) build_docx
+      run: |
+        export PYTHONPATH="$PYTHONPATH:./src"
+        python workflows/build_docx.py 
+
     - name: Stage -1) write_readme
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
