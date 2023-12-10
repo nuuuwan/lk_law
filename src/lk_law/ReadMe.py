@@ -7,8 +7,6 @@ from lk_law.Document import Document
 
 log = Log('ReadMe')
 
-N_LATEST_DOCS = 30
-
 
 class ReadMe:
     def __init__(self):
@@ -40,28 +38,35 @@ class ReadMe:
         return [
             f'Downloaded **{self.n_docs:,}** documents,'
             + f' as of *{self.time_str}*.',
-            '',
+
         ]
 
     @cached_property
-    def latest_docs_lines(self) -> list[str]:
-        n_display = min(N_LATEST_DOCS, self.n_docs)
-        lines = ['## Latest Documents']
-        for i in range(n_display):
-            if i % 5 == 0:
-                lines.append('')
-            doc = self.doc_list[i]
+    def docs_lines(self) -> list[str]:
+        lines = []
+        prev_year = None
+        prev_year_and_month = None
+        for doc in self.doc_list:
+            year = doc.date[:4]
+            year_and_month = doc.date[:7]
+
+            if year != prev_year:
+                lines.extend(['', f'## {year}'])
+                prev_year = year
+
+            if year_and_month != prev_year_and_month:
+                lines.extend(['', f'### {year_and_month}', ''])
+                prev_year_and_month = year_and_month
+
             lines.append(
-                f'* [{doc.date} {doc.name}]({doc.dir_doc_unix})'
+                f'* [[{doc.date}] {doc.name}]({doc.dir_doc})'
                 + f' ({doc.pub_type.name})'
             )
-
-        lines.append('')
         return lines
 
     @cached_property
     def body_lines(self) -> list[str]:
-        return self.statistics_lines + self.latest_docs_lines
+        return self.statistics_lines + self.docs_lines
 
     @cached_property
     def lines(self) -> list[str]:
