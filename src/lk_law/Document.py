@@ -2,6 +2,7 @@ import os
 from functools import cached_property
 
 import requests
+from pdf2docx import Converter
 from pdfminer.high_level import extract_text
 from utils import File, JSONFile, Log, hashx
 
@@ -119,6 +120,17 @@ class Document:
         File(self.raw_text_path).write(text)
         n_k = os.path.getsize(self.raw_text_path) / 1_000.0
         log.debug(f'Extracted text to {self.raw_text_path}  ({n_k:.1f}KB)')
+
+    # DocX (MS Word)
+    @cached_property
+    def docx_path(self) -> str:
+        return os.path.join(self.dir_doc, 'doc.docx')
+
+    def build_docx(self):
+        cv = Converter(self.pdf_path)
+        cv.convert(self.docx_path, start=0, end=None, multi_processing=True)
+        cv.close()
+        log.debug(f'Converted {self.pdf_path} to {self.docx_path}')
 
     @staticmethod
     def list_all() -> list['Document']:

@@ -2,3 +2,4 @@ utils-nuuuwan
 bs4
 pdfminer
 pdfminer-six
+pdf2docx
