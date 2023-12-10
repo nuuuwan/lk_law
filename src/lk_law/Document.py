@@ -68,9 +68,9 @@ class Document:
     def dir_doc(self) -> str:
         return os.path.join(self.pub_type.dir_pub_type, self.file_name)
 
-    @cached_property
-    def dir_doc_unix(self) -> str:
-        return self.dir_doc.replace('\\', '/')
+    # @cached_property
+    # def dir_doc_unix(self) -> str:
+    #     return self.dir_doc.replace('\\', '/')
 
     # Data
 

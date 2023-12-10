@@ -45,6 +45,7 @@ class ReadMe:
         lines = []
         prev_year = None
         prev_year_and_month = None
+        i = 0
         for doc in self.doc_list:
             year = doc.date[:4]
             year_and_month = doc.date[:7]
@@ -52,15 +53,21 @@ class ReadMe:
             if year != prev_year:
                 lines.extend(['', f'## {year}'])
                 prev_year = year
+                i = 0
 
             if year_and_month != prev_year_and_month:
                 lines.extend(['', f'### {year_and_month}', ''])
                 prev_year_and_month = year_and_month
+                i = 0
 
             lines.append(
-                f'* [[{doc.date}] {doc.name}]({doc.dir_doc})'
-                + f' ({doc.pub_type.name})'
+                f'* {doc.pub_type.emoji}'
+                + f' [[{doc.date}] {doc.name}]({doc.dir_doc})'
             )
+            i += 1
+            if i == 5:
+                lines.append('')
+                i = 0
         return lines
 
     @cached_property

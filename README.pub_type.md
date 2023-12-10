@@ -2,7 +2,7 @@
 
 The documents in this repo have been sourced from the Website of the [Department of Government Printing](http://documents.gov.lk), which publishes various Legal Documents, including [Gazette](http://documents.gov.lk./en/gazette.php), [Extraordinary Gazettes](http://documents.gov.lk./en/exgazette.php), [Bills](http://documents.gov.lk./en/bills.php) and [Acts](http://documents.gov.lk./en/acts.php). 
 
-## 📃 Bill 
+## 📄 Bill 
 
 A Bill is **a proposal** for a new law, or a proposal to amend an existing law, that is presented for debate and approval.
 

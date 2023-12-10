@@ -9,6 +9,7 @@ class PubType:
     id: str
     name: str
     data_mode: str
+    emoji: str
 
     @property
     def isHTML(self):
@@ -41,8 +42,10 @@ class PubType:
         return PubType.idx()[id]
 
 
-PubType.ACT = PubType('a', 'Act', 'html')
-PubType.BILL = PubType('b', 'Bill', 'html')
+PubType.ACT = PubType('a', 'Act', 'html', '⚖️')
+PubType.BILL = PubType('b', 'Bill', 'html', '📄')
+
+# PubType.GAZETTE = PubType('g', 'Gazette', 'json', '📰')
 # PubType.EXTRAORDINARY_GAZETTE = PubType(
-#     'egz', 'Extraordinary Gazette', 'json'
+#     'egz', 'Extraordinary Gazette', 'json', '🚨'
 # )
