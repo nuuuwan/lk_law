@@ -12,7 +12,7 @@ log.debug(f'{IS_TEST_MODE=}')
 
 def main():
     ut = Scraper.get_t_start()
-    n_i_days = 28
+    n_i_days = 56
     Scraper.multi_scrape(ut, n_i_days)
 
 
