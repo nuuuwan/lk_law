@@ -19,5 +19,5 @@ This data repository contains the following types of documents:
 
 ## How can I access this data?
 
-* [Table of Contents](README.data.md).
+* [Table of Contents](README.data.md)
 * **📝 TODO** Search Tool to interactively search documents
