@@ -127,6 +127,10 @@ class Document:
         return os.path.join(self.dir_doc, 'doc.docx')
 
     def build_docx(self):
+        if os.path.exists(self.docx_path):
+            log.warning(f'{self.docx_path} already exists')
+            return
+
         try:
             cv = Converter(self.pdf_path)
             cv.convert(
