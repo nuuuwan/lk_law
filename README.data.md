@@ -2,18 +2,19 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **716** documents, as of *2023-12-14 15:39:57*.
+Downloaded **717** documents, as of *2023-12-14 16:39:56*.
 
 ## 2023
 
 ### 2023-12
 
+* 📄 [[2023-12-14] Value Added Tax (Amendment) - GS](data/doc/bills/2023-12-14-value-added-tax-amendment---gs-1984ced2)
 * ⚖️ [[2023-12-13] Value Added Tax (Amendment)](data/doc/acts/2023-12-13-value-added-tax-amendment-e1c808e0)
 * ⚖️ [[2023-12-13] Finance](data/doc/acts/2023-12-13-finance-60bf9711)
 * 📄 [[2023-12-07] Vanni Mann Charity Foundation (Incorporation) - Bill](data/doc/bills/2023-12-07-vanni-mann-charity-foundation-in-f03ba551)
 * 📄 [[2023-12-05] Sri Lanka Electricity - GS](data/doc/bills/2023-12-05-sri-lanka-electricity---gs-e3c00280)
-* 📄 [[2023-12-05] Pragnabandu Scholarship Trust Fund (Incorporation) - GS](data/doc/bills/2023-12-05-pragnabandu-scholarship-trust-fu-e447e6c7)
 
+* 📄 [[2023-12-05] Pragnabandu Scholarship Trust Fund (Incorporation) - GS](data/doc/bills/2023-12-05-pragnabandu-scholarship-trust-fu-e447e6c7)
 * 📄 [[2023-12-05] Daham Sewane Singiththo Lama Sanwardana - GS](data/doc/bills/2023-12-05-daham-sewane-singiththo-lama-san-ef2228cb)
 * 📄 [[2023-12-04] Malaiyagha Student Higher Education Fund (Incorporation) - Bill](data/doc/bills/2023-12-04-malaiyagha-student-higher-educat-7e4f7f86)
 
