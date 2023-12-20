@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **720** documents, as of *2023-12-20 13:39:57*.
+Downloaded **723** documents, as of *2023-12-20 14:40:07*.
 
 ## 2023
 
@@ -11,15 +11,18 @@ Downloaded **720** documents, as of *2023-12-20 13:39:57*.
 * 📄 [[2023-12-14] Value Added Tax (Amendment) - GS](data/doc/bills/2023-12-14-value-added-tax-amendment---gs-1984ced2)
 * ⚖️ [[2023-12-13] Value Added Tax (Amendment)](data/doc/acts/2023-12-13-value-added-tax-amendment-e1c808e0)
 * ⚖️ [[2023-12-13] Finance](data/doc/acts/2023-12-13-finance-60bf9711)
+* 📄 [[2023-12-13] Daham Sewane Singiththo Lama Sanwardana Padanama (Incorporation) - Bill](data/doc/bills/2023-12-13-daham-sewane-singiththo-lama-san-b71b397e)
 * ⚖️ [[2023-12-13] Appropriation Act](data/doc/acts/2023-12-13-appropriation-act-23cbfdd1)
-* 📄 [[2023-12-12] Pragnabandu Scholarship Trust Fund (Incorporation) - Bill](data/doc/bills/2023-12-12-pragnabandu-scholarship-trust-fu-28e4ffda)
 
+* 📄 [[2023-12-12] Pragnabandu Scholarship Trust Fund (Incorporation) - Bill](data/doc/bills/2023-12-12-pragnabandu-scholarship-trust-fu-28e4ffda)
 * 📄 [[2023-12-11] Rajitha Senarathne Foundation (Incorporation) - Bill](data/doc/bills/2023-12-11-rajitha-senarathne-foundation-in-e040f287)
 * 📄 [[2023-12-07] Vanni Mann Charity Foundation (Incorporation) - Bill](data/doc/bills/2023-12-07-vanni-mann-charity-foundation-in-f03ba551)
+* 📄 [[2023-12-07] Prevention of Frauds (Amendment) - Bill](data/doc/bills/2023-12-07-prevention-of-frauds-amendment---ad528dbd)
+* 📄 [[2023-12-07] Notaries (Amendment) - Bill](data/doc/bills/2023-12-07-notaries-amendment---bill-43eb9940)
+
 * 📄 [[2023-12-05] Sri Lanka Electricity - GS](data/doc/bills/2023-12-05-sri-lanka-electricity---gs-e3c00280)
 * 📄 [[2023-12-05] Pragnabandu Scholarship Trust Fund (Incorporation) - GS](data/doc/bills/2023-12-05-pragnabandu-scholarship-trust-fu-e447e6c7)
 * 📄 [[2023-12-05] Daham Sewane Singiththo Lama Sanwardana - GS](data/doc/bills/2023-12-05-daham-sewane-singiththo-lama-san-ef2228cb)
-
 * 📄 [[2023-12-04] Malaiyagha Student Higher Education Fund (Incorporation) - Bill](data/doc/bills/2023-12-04-malaiyagha-student-higher-educat-7e4f7f86)
 
 ### 2023-11
