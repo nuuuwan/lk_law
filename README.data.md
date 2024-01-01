@@ -2,7 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **723** documents, as of *2024-01-02 02:39:28*.
+Downloaded **724** documents, as of *2024-01-02 03:39:46*.
+
+## 2024
+
+### 2024-01
+
+* 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
 
 ## 2023
 
