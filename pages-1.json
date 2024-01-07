@@ -3024,8 +3024,8 @@
                                     "line_space": 11.550000000000011,
                                     "line_space_type": 0,
                                     "tab_stops": [
-                                        114.3,
-                                        100.1
+                                        100.1,
+                                        114.3
                                     ],
                                     "lines": [
                                         {
@@ -3179,8 +3179,8 @@
                                     "line_space": 12.400000000000006,
                                     "line_space_type": 0,
                                     "tab_stops": [
-                                        114.3,
-                                        100.1
+                                        100.1,
+                                        114.3
                                     ],
                                     "lines": [
                                         {
@@ -3489,7 +3489,7 @@
                                                 0.0
                                             ],
                                             "line_break": 0,
-                                            "tab_stop": 1,
+                                            "tab_stop": 0,
                                             "spans": [
                                                 {
                                                     "bbox": [
