@@ -2,12 +2,14 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **725** documents, as of *2024-01-09 17:43:50*.
+Downloaded **727** documents, as of *2024-01-09 19:40:11*.
 
 ## 2024
 
 ### 2024-01
 
+* 📄 [[2024-01-09] Penal Code (Amendment) - GS](data/doc/bills/2024-01-09-penal-code-amendment---gs-843bb129)
+* 📄 [[2024-01-09] Partition (Amendment) - GS](data/doc/bills/2024-01-09-partition-amendment---gs-4a05a352)
 * 📄 [[2024-01-04] Social Security Contribution Levy - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-54038307)
 * 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
 
