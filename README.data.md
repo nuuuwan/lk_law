@@ -2,21 +2,24 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **731** documents, as of *2024-01-18 16:39:54*.
+Downloaded **733** documents, as of *2024-01-18 17:41:52*.
 
 ## 2024
 
 ### 2024-01
 
 * 📄 [[2024-01-17] Sri Lanka National Commission for UNESCO - GS](data/doc/bills/2024-01-17-sri-lanka-national-commission-fo-42fd94c8)
+* 📄 [[2024-01-09] Shop And Office Employees (Regulation Of Employment And Remuneration) (Amendment) -Bill](data/doc/bills/2024-01-09-shop-and-office-employees-regula-b4a03164)
+* 📄 [[2024-01-09] Registration of Documents (Amendment) - Bill](data/doc/bills/2024-01-09-registration-of-documents-amendm-0f25d30e)
 * 📄 [[2024-01-09] Prescription (Amendment) - Bill](data/doc/bills/2024-01-09-prescription-amendment---bill-6f9df032)
 * 📄 [[2024-01-09] Penal Code (Amendment) - GS](data/doc/bills/2024-01-09-penal-code-amendment---gs-843bb129)
+
 * 📄 [[2024-01-09] Partition (Amendment) - GS](data/doc/bills/2024-01-09-partition-amendment---gs-4a05a352)
 * 📄 [[2024-01-09] Mortgage (Amendment) - Bill](data/doc/bills/2024-01-09-mortgage-amendment---bill-3c671a7f)
-
 * 📄 [[2024-01-09] Inland Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-inland-trust-receipts-amendment--82cee826)
 * 📄 [[2024-01-04] Social Security Contribution Levy - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-54038307)
 * 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
+
 
 ## 2023
 
