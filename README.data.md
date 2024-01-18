@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **730** documents, as of *2024-01-18 15:40:04*.
+Downloaded **731** documents, as of *2024-01-18 16:39:54*.
 
 ## 2024
 
@@ -12,8 +12,9 @@ Downloaded **730** documents, as of *2024-01-18 15:40:04*.
 * 📄 [[2024-01-09] Prescription (Amendment) - Bill](data/doc/bills/2024-01-09-prescription-amendment---bill-6f9df032)
 * 📄 [[2024-01-09] Penal Code (Amendment) - GS](data/doc/bills/2024-01-09-penal-code-amendment---gs-843bb129)
 * 📄 [[2024-01-09] Partition (Amendment) - GS](data/doc/bills/2024-01-09-partition-amendment---gs-4a05a352)
-* 📄 [[2024-01-09] Inland Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-inland-trust-receipts-amendment--82cee826)
+* 📄 [[2024-01-09] Mortgage (Amendment) - Bill](data/doc/bills/2024-01-09-mortgage-amendment---bill-3c671a7f)
 
+* 📄 [[2024-01-09] Inland Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-inland-trust-receipts-amendment--82cee826)
 * 📄 [[2024-01-04] Social Security Contribution Levy - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-54038307)
 * 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
 
