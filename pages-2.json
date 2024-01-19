@@ -1,0 +1,1227 @@
+{
+    "filename": "doc.pdf",
+    "page_cnt": 6,
+    "pages": [
+        {
+            "id": 4,
+            "width": 595.0,
+            "height": 842.0,
+            "margin": [
+                72.0,
+                72.0,
+                72.0,
+                72.0
+            ],
+            "sections": [
+                {
+                    "bbox": [
+                        72.0,
+                        166.8,
+                        523.0,
+                        322.9
+                    ],
+                    "num_cols": 1,
+                    "space": 0,
+                    "before_space": 94.8,
+                    "columns": [
+                        {
+                            "bbox": [
+                                72.0,
+                                166.8,
+                                523.0,
+                                322.9
+                            ],
+                            "blocks": [
+                                {
+                                    "bbox": [
+                                        219.2,
+                                        166.8,
+                                        401.6,
+                                        178.2
+                                    ],
+                                    "type": 0,
+                                    "alignment": 1,
+                                    "left_space": 147.2,
+                                    "right_space": 0,
+                                    "first_line_space": 0.0,
+                                    "before_space": 0.0,
+                                    "after_space": 0.0,
+                                    "line_space": 0.9913885350318452,
+                                    "line_space_type": 1,
+                                    "tab_stops": [
+                                        177.4
+                                    ],
+                                    "lines": [
+                                        {
+                                            "bbox": [
+                                                219.2,
+                                                166.8,
+                                                344.5,
+                                                178.2
+                                            ],
+                                            "wmode": 0,
+                                            "dir": [
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "line_break": 0,
+                                            "tab_stop": 0,
+                                            "spans": [
+                                                {
+                                                    "bbox": [
+                                                        219.2,
+                                                        166.8,
+                                                        344.5,
+                                                        178.2
+                                                    ],
+                                                    "color": 2236191,
+                                                    "font": "Times,Italic",
+                                                    "size": 10.0,
+                                                    "line_height": 11.4990234375,
+                                                    "flags": 6,
+                                                    "text": "Value Added Tax (Amendment) ",
+                                                    "style": [],
+                                                    "char_spacing": 0.0
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "bbox": [
+                                                396.6,
+                                                166.8,
+                                                401.6,
+                                                178.2
+                                            ],
+                                            "wmode": 0,
+                                            "dir": [
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "line_break": 0,
+                                            "tab_stop": 1,
+                                            "spans": [
+                                                {
+                                                    "bbox": [
+                                                        396.6,
+                                                        166.8,
+                                                        401.6,
+                                                        178.2
+                                                    ],
+                                                    "color": 2236191,
+                                                    "font": "Times",
+                                                    "size": 10.0,
+                                                    "line_height": 11.4990234375,
+                                                    "flags": 4,
+                                                    "text": "3",
+                                                    "style": [],
+                                                    "char_spacing": 0.0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        269.9,
+                                        203.3,
+                                        401.9,
+                                        214.7
+                                    ],
+                                    "type": 0,
+                                    "alignment": 3,
+                                    "left_space": 0,
+                                    "right_space": 121.1,
+                                    "first_line_space": 0.0,
+                                    "before_space": 25.100000000000023,
+                                    "after_space": 0.0,
+                                    "line_space": 0.9913885350318452,
+                                    "line_space_type": 1,
+                                    "tab_stops": [],
+                                    "lines": [
+                                        {
+                                            "bbox": [
+                                                269.9,
+                                                203.3,
+                                                401.9,
+                                                214.7
+                                            ],
+                                            "wmode": 0,
+                                            "dir": [
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "line_break": 0,
+                                            "tab_stop": 0,
+                                            "spans": [
+                                                {
+                                                    "bbox": [
+                                                        269.9,
+                                                        203.3,
+                                                        401.9,
+                                                        214.7
+                                                    ],
+                                                    "color": 2236191,
+                                                    "font": "Times",
+                                                    "size": 10.0,
+                                                    "line_height": 11.4990234375,
+                                                    "flags": 4,
+                                                    "text": "Sri Lanka, in the succeeding",
+                                                    "style": [],
+                                                    "char_spacing": 0.0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        269.9,
+                                        216.0,
+                                        401.9,
+                                        227.4
+                                    ],
+                                    "type": 0,
+                                    "alignment": 3,
+                                    "left_space": 0,
+                                    "right_space": 121.1,
+                                    "first_line_space": 0.0,
+                                    "before_space": 1.3000000000000114,
+                                    "after_space": 0.09999999999999432,
+                                    "line_space": 0.9913885350318477,
+                                    "line_space_type": 1,
+                                    "tab_stops": [],
+                                    "lines": [
+                                        {
+                                            "bbox": [
+                                                269.9,
+                                                216.0,
+                                                401.9,
+                                                227.4
+                                            ],
+                                            "wmode": 0,
+                                            "dir": [
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "line_break": 0,
+                                            "tab_stop": 0,
+                                            "spans": [
+                                                {
+                                                    "bbox": [
+                                                        269.9,
+                                                        216.0,
+                                                        401.9,
+                                                        227.4
+                                                    ],
+                                                    "color": 2236191,
+                                                    "font": "Times",
+                                                    "size": 10.0,
+                                                    "line_height": 11.4990234375,
+                                                    "flags": 4,
+                                                    "text": "taxable period, is likely to exceed",
+                                                    "style": [],
+                                                    "char_spacing": 0.0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        107.0,
+                                        227.5,
+                                        486.0,
+                                        313.6
+                                    ],
+                                    "type": 3,
+                                    "alignment": 1,
+                                    "left_space": 35.0,
+                                    "right_space": 0.0,
+                                    "first_line_space": 0.0,
+                                    "before_space": 0.0,
+                                    "after_space": 0.0,
+                                    "line_space": 0.0,
+                                    "line_space_type": 1,
+                                    "tab_stops": [],
+                                    "rows": [
+                                        {
+                                            "bbox": [
+                                                107.0,
+                                                227.5,
+                                                486.0,
+                                                313.6
+                                            ],
+                                            "height": 10.5,
+                                            "cells": [
+                                                {
+                                                    "bbox": [
+                                                        107.0,
+                                                        227.5,
+                                                        155.0,
+                                                        313.6
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        7,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                143.9,
+                                                                256.8,
+                                                                148.9,
+                                                                268.2
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 3,
+                                                            "left_space": 0,
+                                                            "right_space": 6.1,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 29.30000000000001,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.9913885350318452,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        143.9,
+                                                                        256.8,
+                                                                        148.9,
+                                                                        268.2
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                143.9,
+                                                                                256.8,
+                                                                                148.9,
+                                                                                268.2
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 10.0,
+                                                                            "line_height": 11.4990234375,
+                                                                            "flags": 4,
+                                                                            "text": "5",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                },
+                                                {
+                                                    "bbox": [
+                                                        155.0,
+                                                        227.5,
+                                                        404.0,
+                                                        238.0
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                269.9,
+                                                                227.6,
+                                                                401.9,
+                                                                238.9
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 3,
+                                                            "left_space": 0,
+                                                            "right_space": 2.1,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 0.0,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.982692144373674,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        269.9,
+                                                                        227.6,
+                                                                        401.9,
+                                                                        238.9
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                269.9,
+                                                                                227.6,
+                                                                                401.9,
+                                                                                238.9
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 10.0,
+                                                                            "line_height": 11.4990234375,
+                                                                            "flags": 4,
+                                                                            "text": "fifteen million rupees or in the",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                },
+                                                {
+                                                    "bbox": [
+                                                        404.0,
+                                                        227.5,
+                                                        486.0,
+                                                        294.0
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        5,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                407.9,
+                                                                285.1,
+                                                                449.1,
+                                                                294.1
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 1,
+                                                            "left_space": 3.9,
+                                                            "right_space": 0,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 57.5,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.978343949044586,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        407.9,
+                                                                        285.1,
+                                                                        449.1,
+                                                                        294.1
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                407.9,
+                                                                                285.1,
+                                                                                449.1,
+                                                                                294.1
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 8.0,
+                                                                            "line_height": 9.19921875,
+                                                                            "flags": 4,
+                                                                            "text": "Sinhala text",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "bbox": [
+                                                155.0,
+                                                238.0,
+                                                404.0,
+                                                249.0
+                                            ],
+                                            "height": 11.0,
+                                            "cells": [
+                                                null,
+                                                {
+                                                    "bbox": [
+                                                        155.0,
+                                                        238.0,
+                                                        404.0,
+                                                        249.0
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                269.9,
+                                                                238.6,
+                                                                401.9,
+                                                                250.0
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 3,
+                                                            "left_space": 0,
+                                                            "right_space": 2.1,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 0.0,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.9913885350318477,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        269.9,
+                                                                        238.6,
+                                                                        401.9,
+                                                                        250.0
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                269.9,
+                                                                                238.6,
+                                                                                401.9,
+                                                                                250.0
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 10.0,
+                                                                            "line_height": 11.4990234375,
+                                                                            "flags": 4,
+                                                                            "text": "succeeding twelve months period",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                },
+                                                null
+                                            ]
+                                        },
+                                        {
+                                            "bbox": [
+                                                155.0,
+                                                249.0,
+                                                404.0,
+                                                260.0
+                                            ],
+                                            "height": 11.0,
+                                            "cells": [
+                                                null,
+                                                {
+                                                    "bbox": [
+                                                        155.0,
+                                                        249.0,
+                                                        404.0,
+                                                        260.0
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                269.9,
+                                                                249.4,
+                                                                401.9,
+                                                                260.8
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 3,
+                                                            "left_space": 0,
+                                                            "right_space": 2.1,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 0.0,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.9913885350318477,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        269.9,
+                                                                        249.4,
+                                                                        401.9,
+                                                                        260.8
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                269.9,
+                                                                                249.4,
+                                                                                401.9,
+                                                                                260.8
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 10.0,
+                                                                            "line_height": 11.4990234375,
+                                                                            "flags": 4,
+                                                                            "text": "is likely to exceed sixty million",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                },
+                                                null
+                                            ]
+                                        },
+                                        {
+                                            "bbox": [
+                                                155.0,
+                                                260.0,
+                                                404.0,
+                                                277.0
+                                            ],
+                                            "height": 17.0,
+                                            "cells": [
+                                                null,
+                                                {
+                                                    "bbox": [
+                                                        155.0,
+                                                        260.0,
+                                                        404.0,
+                                                        277.0
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                269.9,
+                                                                260.4,
+                                                                305.9,
+                                                                271.8
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 3,
+                                                            "left_space": 0,
+                                                            "right_space": 98.1,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 0.39999999999997726,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.9913885350318501,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        269.9,
+                                                                        260.4,
+                                                                        305.9,
+                                                                        271.8
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                269.9,
+                                                                                260.4,
+                                                                                305.9,
+                                                                                271.8
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 10.0,
+                                                                            "line_height": 11.4990234375,
+                                                                            "flags": 4,
+                                                                            "text": "rupees.\u201d.",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                },
+                                                null
+                                            ]
+                                        },
+                                        {
+                                            "bbox": [
+                                                155.0,
+                                                277.0,
+                                                404.0,
+                                                294.0
+                                            ],
+                                            "height": 17.0,
+                                            "cells": [
+                                                null,
+                                                {
+                                                    "bbox": [
+                                                        155.0,
+                                                        277.0,
+                                                        404.0,
+                                                        294.0
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                173.9,
+                                                                283.2,
+                                                                401.6,
+                                                                294.6
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 1,
+                                                            "left_space": 18.9,
+                                                            "right_space": 0,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 5.599999999999966,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.9913885350318501,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        173.9,
+                                                                        283.2,
+                                                                        401.6,
+                                                                        294.6
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                173.9,
+                                                                                283.2,
+                                                                                181.3,
+                                                                                294.6
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times,Bold",
+                                                                            "size": 10.0,
+                                                                            "line_height": 11.4990234375,
+                                                                            "flags": 20,
+                                                                            "text": "4.",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        },
+                                                                        {
+                                                                            "bbox": [
+                                                                                181.3,
+                                                                                283.2,
+                                                                                401.6,
+                                                                                294.6
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 10.0,
+                                                                            "line_height": 11.4990234375,
+                                                                            "flags": 4,
+                                                                            "text": " In the event of any inconsistency between the Sinhala",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                },
+                                                null
+                                            ]
+                                        },
+                                        {
+                                            "bbox": [
+                                                155.0,
+                                                294.0,
+                                                486.0,
+                                                313.6
+                                            ],
+                                            "height": 10.0,
+                                            "cells": [
+                                                null,
+                                                {
+                                                    "bbox": [
+                                                        155.0,
+                                                        294.0,
+                                                        404.0,
+                                                        313.6
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        2,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                161.9,
+                                                                295.2,
+                                                                395.2,
+                                                                306.6
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 2,
+                                                            "left_space": 0,
+                                                            "right_space": 0,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 1.1999999999999886,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.9913885350318501,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        161.9,
+                                                                        295.2,
+                                                                        395.2,
+                                                                        306.6
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                161.9,
+                                                                                295.2,
+                                                                                395.2,
+                                                                                306.6
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 10.0,
+                                                                            "line_height": 11.4990234375,
+                                                                            "flags": 4,
+                                                                            "text": "and Tamil texts of this Act, the Sinhala text shall prevail.",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                },
+                                                {
+                                                    "bbox": [
+                                                        404.0,
+                                                        294.0,
+                                                        486.0,
+                                                        304.0
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                407.9,
+                                                                294.7,
+                                                                450.6,
+                                                                303.7
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 1,
+                                                            "left_space": 3.9,
+                                                            "right_space": 0,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 0.6999999999999886,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.978343949044586,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        407.9,
+                                                                        294.7,
+                                                                        450.6,
+                                                                        303.7
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                407.9,
+                                                                                294.7,
+                                                                                450.6,
+                                                                                303.7
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 8.0,
+                                                                            "line_height": 9.19921875,
+                                                                            "flags": 4,
+                                                                            "text": "to prevail in",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "bbox": [
+                                                404.0,
+                                                304.0,
+                                                486.0,
+                                                313.6
+                                            ],
+                                            "height": 9.600000000000023,
+                                            "cells": [
+                                                null,
+                                                null,
+                                                {
+                                                    "bbox": [
+                                                        404.0,
+                                                        304.0,
+                                                        486.0,
+                                                        313.6
+                                                    ],
+                                                    "bg_color": null,
+                                                    "border_color": [
+                                                        0,
+                                                        0,
+                                                        0,
+                                                        0
+                                                    ],
+                                                    "border_width": [
+                                                        0.0,
+                                                        0.0,
+                                                        0.0,
+                                                        0.0
+                                                    ],
+                                                    "merged_cells": [
+                                                        1,
+                                                        1
+                                                    ],
+                                                    "blocks": [
+                                                        {
+                                                            "bbox": [
+                                                                407.9,
+                                                                304.3,
+                                                                432.6,
+                                                                313.3
+                                                            ],
+                                                            "type": 0,
+                                                            "alignment": 1,
+                                                            "left_space": 3.9,
+                                                            "right_space": 0,
+                                                            "first_line_space": 0.0,
+                                                            "before_space": 0.30000000000001137,
+                                                            "after_space": 0.0,
+                                                            "line_space": 0.978343949044586,
+                                                            "line_space_type": 1,
+                                                            "tab_stops": [],
+                                                            "lines": [
+                                                                {
+                                                                    "bbox": [
+                                                                        407.9,
+                                                                        304.3,
+                                                                        432.6,
+                                                                        313.3
+                                                                    ],
+                                                                    "wmode": 0,
+                                                                    "dir": [
+                                                                        1.0,
+                                                                        0.0
+                                                                    ],
+                                                                    "line_break": 0,
+                                                                    "tab_stop": 0,
+                                                                    "spans": [
+                                                                        {
+                                                                            "bbox": [
+                                                                                407.9,
+                                                                                304.3,
+                                                                                432.6,
+                                                                                313.3
+                                                                            ],
+                                                                            "color": 2236191,
+                                                                            "font": "Times",
+                                                                            "size": 8.0,
+                                                                            "line_height": 9.19921875,
+                                                                            "flags": 4,
+                                                                            "text": "case of",
+                                                                            "style": [],
+                                                                            "char_spacing": 0.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ],
+                                                    "shapes": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "bbox": [
+                                        407.9,
+                                        313.9,
+                                        455.1,
+                                        322.9
+                                    ],
+                                    "type": 0,
+                                    "alignment": 3,
+                                    "left_space": 0,
+                                    "right_space": 67.9,
+                                    "first_line_space": 0.0,
+                                    "before_space": 0.2999999999999545,
+                                    "after_space": 0.0,
+                                    "line_space": 0.978343949044586,
+                                    "line_space_type": 1,
+                                    "tab_stops": [],
+                                    "lines": [
+                                        {
+                                            "bbox": [
+                                                407.9,
+                                                313.9,
+                                                455.1,
+                                                322.9
+                                            ],
+                                            "wmode": 0,
+                                            "dir": [
+                                                1.0,
+                                                0.0
+                                            ],
+                                            "line_break": 0,
+                                            "tab_stop": 0,
+                                            "spans": [
+                                                {
+                                                    "bbox": [
+                                                        407.9,
+                                                        313.9,
+                                                        455.1,
+                                                        322.9
+                                                    ],
+                                                    "color": 2236191,
+                                                    "font": "Times",
+                                                    "size": 8.0,
+                                                    "line_height": 9.19921875,
+                                                    "flags": 4,
+                                                    "text": "inconsistency",
+                                                    "style": [],
+                                                    "char_spacing": 0.0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "shapes": []
+                        }
+                    ]
+                }
+            ],
+            "header": "",
+            "footer": "",
+            "floats": []
+        }
+    ]
+}
