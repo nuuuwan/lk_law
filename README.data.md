@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **740** documents, as of *2024-01-20 15:39:27*.
+Downloaded **741** documents, as of *2024-01-20 16:39:53*.
 
 ## 2024
 
@@ -22,10 +22,11 @@ Downloaded **740** documents, as of *2024-01-20 15:39:27*.
 
 * 📄 [[2024-01-09] Partition (Amendment) - GS](data/doc/bills/2024-01-09-partition-amendment---gs-4a05a352)
 * 📄 [[2024-01-09] Mortgage (Amendment) - Bill](data/doc/bills/2024-01-09-mortgage-amendment---bill-3c671a7f)
+* 📄 [[2024-01-09] Microfinance and Credit Regulatory Authority - Bill](data/doc/bills/2024-01-09-microfinance-and-credit-regulato-14612373)
 * 📄 [[2024-01-09] Inland Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-inland-trust-receipts-amendment--82cee826)
 * 📄 [[2024-01-09] Finance Leasing (Amendment) - Bill](data/doc/bills/2024-01-09-finance-leasing-amendment---bill-3be024fe)
-* 📄 [[2024-01-09] Companies (Amendment) - Bill](data/doc/bills/2024-01-09-companies-amendment---bill-df7f18a2)
 
+* 📄 [[2024-01-09] Companies (Amendment) - Bill](data/doc/bills/2024-01-09-companies-amendment---bill-df7f18a2)
 * 📄 [[2024-01-04] Social Security Contribution Levy - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-54038307)
 * 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
 
