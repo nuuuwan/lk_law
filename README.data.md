@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **741** documents, as of *2024-01-23 13:41:23*.
+Downloaded **742** documents, as of *2024-01-23 14:39:50*.
 
 ## 2024
 
@@ -12,20 +12,21 @@ Downloaded **741** documents, as of *2024-01-23 13:41:23*.
 * 📄 [[2024-01-11] Value Added Tax (Amendment) - Bill](data/doc/bills/2024-01-11-value-added-tax-amendment---bill-24a9dcb6)
 * 📄 [[2024-01-10] Anti Terrorism - Bill](data/doc/bills/2024-01-10-anti-terrorism---bill-5948ba38)
 * 📄 [[2024-01-09] Trust Receipts (Amendment) -Bill](data/doc/bills/2024-01-09-trust-receipts-amendment--bill-972b5f45)
-* 📄 [[2024-01-09] Shop And Office Employees (Regulation Of Employment And Remuneration) (Amendment) -Bill](data/doc/bills/2024-01-09-shop-and-office-employees-regula-b4a03164)
+* 📄 [[2024-01-09] Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-trust-receipts-amendment---bill-26543cc6)
 
+* 📄 [[2024-01-09] Shop And Office Employees (Regulation Of Employment And Remuneration) (Amendment) -Bill](data/doc/bills/2024-01-09-shop-and-office-employees-regula-b4a03164)
 * 📄 [[2024-01-09] Shop And Office Employees (Regulation of Employment and Remuneration) (Amendment) - Bill](data/doc/bills/2024-01-09-shop-and-office-employees-regula-60b5e055)
 * 📄 [[2024-01-09] Secured Transactions - Bill](data/doc/bills/2024-01-09-secured-transactions---bill-fdafcafe)
 * 📄 [[2024-01-09] Registration of Documents (Amendment) - Bill](data/doc/bills/2024-01-09-registration-of-documents-amendm-0f25d30e)
 * 📄 [[2024-01-09] Prescription (Amendment) - Bill](data/doc/bills/2024-01-09-prescription-amendment---bill-6f9df032)
-* 📄 [[2024-01-09] Penal Code (Amendment) - GS](data/doc/bills/2024-01-09-penal-code-amendment---gs-843bb129)
 
+* 📄 [[2024-01-09] Penal Code (Amendment) - GS](data/doc/bills/2024-01-09-penal-code-amendment---gs-843bb129)
 * 📄 [[2024-01-09] Partition (Amendment) - GS](data/doc/bills/2024-01-09-partition-amendment---gs-4a05a352)
 * 📄 [[2024-01-09] Mortgage (Amendment) - Bill](data/doc/bills/2024-01-09-mortgage-amendment---bill-3c671a7f)
 * 📄 [[2024-01-09] Microfinance and Credit Regulatory Authority - Bill](data/doc/bills/2024-01-09-microfinance-and-credit-regulato-14612373)
 * 📄 [[2024-01-09] Inland Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-inland-trust-receipts-amendment--82cee826)
-* 📄 [[2024-01-09] Finance Leasing (Amendment) - Bill](data/doc/bills/2024-01-09-finance-leasing-amendment---bill-3be024fe)
 
+* 📄 [[2024-01-09] Finance Leasing (Amendment) - Bill](data/doc/bills/2024-01-09-finance-leasing-amendment---bill-3be024fe)
 * 📄 [[2024-01-09] Companies (Amendment) - Bill](data/doc/bills/2024-01-09-companies-amendment---bill-df7f18a2)
 * 📄 [[2024-01-04] Social Security Contribution Levy - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-54038307)
 * 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
