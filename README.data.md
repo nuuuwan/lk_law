@@ -2,9 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **747** documents, as of *2024-02-02 11:40:23*.
+Downloaded **748** documents, as of *2024-02-02 12:40:44*.
 
 ## 2024
+
+### 2024-02
+
+* ⚖️ [[2024-02-01] Online Safety](data/doc/acts/2024-02-01-online-safety-1a33c9ff)
 
 ### 2024-01
 
