@@ -2,43 +2,48 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **748** documents, as of *2024-02-03 09:40:30*.
+Downloaded **752** documents, as of *2024-02-03 10:40:33*.
 
 ## 2024
 
 ### 2024-02
 
 * ⚖️ [[2024-02-01] Online Safety](data/doc/acts/2024-02-01-online-safety-1a33c9ff)
+* ⚖️ [[2024-02-01] National Hydrographic](data/doc/acts/2024-02-01-national-hydrographic-ef28e6d4)
+* ⚖️ [[2024-02-01] Contempt of a Court,Tribunal or Institution](data/doc/acts/2024-02-01-contempt-of-a-courttribunal-or-i-d8ead9dc)
 
 ### 2024-01
 
+* ⚖️ [[2024-01-31] The Recognition and Enforcement of International Settlement  Agreements Resulting from Mediation](data/doc/acts/2024-01-31-the-recognition-and-enforcement--03527a21)
+* ⚖️ [[2024-01-31] Notaries (Amendment)](data/doc/acts/2024-01-31-notaries-amendment-414d95d3)
 * 📄 [[2024-01-24] Partition (Amendment) - Bill](data/doc/bills/2024-01-24-partition-amendment---bill-93565c12)
 * ⚖️ [[2024-01-23] Prevention of Frauds (Amendment)](data/doc/acts/2024-01-23-prevention-of-frauds-amendment-f8bfd2be)
 * ⚖️ [[2024-01-23] Powers of Attorney (Amendment)](data/doc/acts/2024-01-23-powers-of-attorney-amendment-438b93f0)
+
 * ⚖️ [[2024-01-23] Office of National Unity and Reconciliation ](data/doc/acts/2024-01-23-office-of-national-unity-and-rec-a7fda43f)
 * ⚖️ [[2024-01-23] Mediation Board (Amendment)](data/doc/acts/2024-01-23-mediation-board-amendment-24ec31b3)
-
 * 📄 [[2024-01-17] Sri Lanka National Commission for UNESCO - GS](data/doc/bills/2024-01-17-sri-lanka-national-commission-fo-42fd94c8)
 * 📄 [[2024-01-11] Value Added Tax (Amendment) - Bill](data/doc/bills/2024-01-11-value-added-tax-amendment---bill-24a9dcb6)
 * 📄 [[2024-01-10] Anti Terrorism - Bill](data/doc/bills/2024-01-10-anti-terrorism---bill-5948ba38)
+
 * 📄 [[2024-01-09] Trust Receipts (Amendment) -Bill](data/doc/bills/2024-01-09-trust-receipts-amendment--bill-972b5f45)
 * 📄 [[2024-01-09] Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-trust-receipts-amendment---bill-26543cc6)
-
 * 📄 [[2024-01-09] Shop And Office Employees (Regulation Of Employment And Remuneration) (Amendment) -Bill](data/doc/bills/2024-01-09-shop-and-office-employees-regula-b4a03164)
 * 📄 [[2024-01-09] Shop And Office Employees (Regulation of Employment and Remuneration) (Amendment) - Bill](data/doc/bills/2024-01-09-shop-and-office-employees-regula-60b5e055)
 * 📄 [[2024-01-09] Secured Transactions - Bill](data/doc/bills/2024-01-09-secured-transactions---bill-fdafcafe)
+
 * 📄 [[2024-01-09] Registration of Documents (Amendment) - Bill](data/doc/bills/2024-01-09-registration-of-documents-amendm-0f25d30e)
 * 📄 [[2024-01-09] Prescription (Amendment) - Bill](data/doc/bills/2024-01-09-prescription-amendment---bill-6f9df032)
-
 * 📄 [[2024-01-09] Penal Code (Amendment) - GS](data/doc/bills/2024-01-09-penal-code-amendment---gs-843bb129)
 * 📄 [[2024-01-09] Partition (Amendment) - GS](data/doc/bills/2024-01-09-partition-amendment---gs-4a05a352)
 * 📄 [[2024-01-09] Mortgage (Amendment) - Bill](data/doc/bills/2024-01-09-mortgage-amendment---bill-3c671a7f)
+
 * 📄 [[2024-01-09] Microfinance and Credit Regulatory Authority - Bill](data/doc/bills/2024-01-09-microfinance-and-credit-regulato-14612373)
 * 📄 [[2024-01-09] Inland Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-inland-trust-receipts-amendment--82cee826)
-
 * 📄 [[2024-01-09] Finance Leasing (Amendment) - Bill](data/doc/bills/2024-01-09-finance-leasing-amendment---bill-3be024fe)
 * 📄 [[2024-01-09] Companies (Amendment) - Bill](data/doc/bills/2024-01-09-companies-amendment---bill-df7f18a2)
 * 📄 [[2024-01-04] Social Security Contribution Levy - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-54038307)
+
 * 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
 
 ## 2023
