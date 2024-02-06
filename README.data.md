@@ -2,12 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **752** documents, as of *2024-02-06 17:41:31*.
+Downloaded **753** documents, as of *2024-02-06 18:40:26*.
 
 ## 2024
 
 ### 2024-02
 
+* 📄 [[2024-02-06] Banking (Amendment) - GS](data/doc/bills/2024-02-06-banking-amendment---gs-d9035c4b)
 * ⚖️ [[2024-02-01] Online Safety](data/doc/acts/2024-02-01-online-safety-1a33c9ff)
 * ⚖️ [[2024-02-01] National Hydrographic](data/doc/acts/2024-02-01-national-hydrographic-ef28e6d4)
 * ⚖️ [[2024-02-01] Contempt of a Court,Tribunal or Institution](data/doc/acts/2024-02-01-contempt-of-a-courttribunal-or-i-d8ead9dc)
