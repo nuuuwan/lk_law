@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **753** documents, as of *2024-02-07 18:39:43*.
+Downloaded **754** documents, as of *2024-02-07 19:39:56*.
 
 ## 2024
 
@@ -45,6 +45,7 @@ Downloaded **753** documents, as of *2024-02-07 18:39:43*.
 * 📄 [[2024-01-09] Companies (Amendment) - Bill](data/doc/bills/2024-01-09-companies-amendment---bill-df7f18a2)
 * 📄 [[2024-01-04] Social Security Contribution Levy - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-54038307)
 
+* 📄 [[2024-01-04] Social Security Contribution Levy (Amendment) - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-40e4945d)
 * 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
 
 ## 2023
