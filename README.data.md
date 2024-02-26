@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **763** documents, as of *2024-02-26 15:39:47*.
+Downloaded **764** documents, as of *2024-02-26 16:39:46*.
 
 ## 2024
 
@@ -10,16 +10,17 @@ Downloaded **763** documents, as of *2024-02-26 15:39:47*.
 
 * 📄 [[2024-02-21] Twenty Second Amendment to the Constitution - Bill](data/doc/bills/2024-02-21-twenty-second-amendment-to-the-c-dd10dd9e)
 * 📄 [[2024-02-21] Buddha Shrawaka Caring Centre (Incorporation) - GS](data/doc/bills/2024-02-21-buddha-shrawaka-caring-centre-in-040c7682)
+* 📄 [[2024-02-21] Banking (Amendment) - Bill](data/doc/bills/2024-02-21-banking-amendment---bill-584d8714)
 * 📄 [[2024-02-20] Institute of Facilities Management Sri Lanka (Incorporation) - GS](data/doc/bills/2024-02-20-institute-of-facilities-manageme-c055c78b)
 * 📄 [[2024-02-13] Twenty Second Amendment to the Constitution - GS](data/doc/bills/2024-02-13-twenty-second-amendment-to-the-c-459b8c12)
-* 📄 [[2024-02-13] Penal Code (Amendment) - GS](data/doc/bills/2024-02-13-penal-code-amendment---gs-26dcd8e3)
 
+* 📄 [[2024-02-13] Penal Code (Amendment) - GS](data/doc/bills/2024-02-13-penal-code-amendment---gs-26dcd8e3)
 * 📄 [[2024-02-13] Code of Criminal Procedure (Amendment) - GS](data/doc/bills/2024-02-13-code-of-criminal-procedure-amend-cc2d0851)
 * 📄 [[2024-02-09] Mohan Ellawala Social Development Foundation (Incorporation) - Bill](data/doc/bills/2024-02-09-mohan-ellawala-social-developmen-ebf788f9)
 * 📄 [[2024-02-06] Banking (Amendment) - GS](data/doc/bills/2024-02-06-banking-amendment---gs-d9035c4b)
 * ⚖️ [[2024-02-01] Online Safety](data/doc/acts/2024-02-01-online-safety-1a33c9ff)
-* ⚖️ [[2024-02-01] National Hydrographic](data/doc/acts/2024-02-01-national-hydrographic-ef28e6d4)
 
+* ⚖️ [[2024-02-01] National Hydrographic](data/doc/acts/2024-02-01-national-hydrographic-ef28e6d4)
 * ⚖️ [[2024-02-01] Contempt of a Court,Tribunal or Institution](data/doc/acts/2024-02-01-contempt-of-a-courttribunal-or-i-d8ead9dc)
 
 ### 2024-01
