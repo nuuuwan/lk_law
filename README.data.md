@@ -2,9 +2,14 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **767** documents, as of *2024-03-05 16:40:06*.
+Downloaded **769** documents, as of *2024-03-05 17:41:24*.
 
 ## 2024
+
+### 2024-03
+
+* ⚖️ [[2024-03-01] Sri Balabhivurdhi Wardana Society (Incorporation)](data/doc/acts/2024-03-01-sri-balabhivurdhi-wardana-societ-e70a52ec)
+* ⚖️ [[2024-03-01] Samadhi Community Development Foundation (Incorporation)](data/doc/acts/2024-03-01-samadhi-community-development-fo-2e277d45)
 
 ### 2024-02
 
