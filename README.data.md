@@ -2,12 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **770** documents, as of *2024-03-13 16:39:59*.
+Downloaded **771** documents, as of *2024-03-13 17:41:55*.
 
 ## 2024
 
 ### 2024-03
 
+* 📄 [[2024-03-13] Recovery of Loans by Banks (Special Provisions) (Amendment) - GS](data/doc/bills/2024-03-13-recovery-of-loans-by-banks-speci-85cd4ef6)
 * 📄 [[2024-03-07] Women Empowerment - GS](data/doc/bills/2024-03-07-women-empowerment---gs-87dca030)
 * ⚖️ [[2024-03-01] Sri Balabhivurdhi Wardana Society (Incorporation)](data/doc/acts/2024-03-01-sri-balabhivurdhi-wardana-societ-e70a52ec)
 * ⚖️ [[2024-03-01] Samadhi Community Development Foundation (Incorporation)](data/doc/acts/2024-03-01-samadhi-community-development-fo-2e277d45)
