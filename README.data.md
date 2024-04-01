@@ -2,9 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **780** documents, as of *2024-04-01 15:39:58*.
+Downloaded **781** documents, as of *2024-04-01 16:40:15*.
 
 ## 2024
+
+### 2024-04
+
+* 📄 [[2024-04-01] Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - GS](data/doc/bills/2024-04-01-sri-lanka-association-for-fisher-e8e493a3)
 
 ### 2024-03
 
