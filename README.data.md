@@ -2,18 +2,110 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **714** documents, as of *2023-12-11 09:02:07*.
+Downloaded **781** documents, as of *2024-04-03 20:42:27*.
+
+## 2024
+
+### 2024-04
+
+* 📄 [[2024-04-01] Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - GS](data/doc/bills/2024-04-01-sri-lanka-association-for-fisher-e8e493a3)
+
+### 2024-03
+
+* 📄 [[2024-03-22] Employees’ Provident Fund (Amendment) - GS](data/doc/bills/2024-03-22-employees-provident-fund-amendme-220af149)
+* 📄 [[2024-03-21] Recovery of Loans by Banks (Special Provisions) (Amendment) - Bill](data/doc/bills/2024-03-21-recovery-of-loans-by-banks-speci-79224707)
+* 📄 [[2024-03-21] Institute of Facilities Management Sri Lanka - Bill](data/doc/bills/2024-03-21-institute-of-facilities-manageme-60b6df94)
+* ⚖️ [[2024-03-20] Value Added Tax (Amendment)](data/doc/acts/2024-03-20-value-added-tax-amendment-73b57fda)
+* ⚖️ [[2024-03-20] Social Security Contribution Levy (Amendment)](data/doc/acts/2024-03-20-social-security-contribution-lev-ac29975a)
+
+* 📄 [[2024-03-15] Siw Wanak Arana Foundation (Incorporation) - GS](data/doc/bills/2024-03-15-siw-wanak-arana-foundation-incor-3214df02)
+* 📄 [[2024-03-15] Code of Criminal Procedure (Amendment) - Bill](data/doc/bills/2024-03-15-code-of-criminal-procedure-amend-c3d3c0e0)
+* 📄 [[2024-03-13] Recovery of Loans by Banks (Special Provisions) (Amendment) - GS](data/doc/bills/2024-03-13-recovery-of-loans-by-banks-speci-85cd4ef6)
+* 📄 [[2024-03-13] Penal Code (Amendment) - Bill](data/doc/bills/2024-03-13-penal-code-amendment---bill-ae99f58b)
+* 📄 [[2024-03-07] Women Empowerment - GS](data/doc/bills/2024-03-07-women-empowerment---gs-87dca030)
+
+* ⚖️ [[2024-03-01] Sri Balabhivurdhi Wardana Society (Incorporation)](data/doc/acts/2024-03-01-sri-balabhivurdhi-wardana-societ-e70a52ec)
+* ⚖️ [[2024-03-01] Samadhi Community Development Foundation (Incorporation)](data/doc/acts/2024-03-01-samadhi-community-development-fo-2e277d45)
+
+### 2024-02
+
+* 📄 [[2024-02-21] Twenty Second Amendment to the Constitution - Bill](data/doc/bills/2024-02-21-twenty-second-amendment-to-the-c-dd10dd9e)
+* 📄 [[2024-02-21] Buddha Shrawaka Caring Centre (Incorporation) - GS](data/doc/bills/2024-02-21-buddha-shrawaka-caring-centre-in-040c7682)
+* 📄 [[2024-02-21] Banking (Amendment) - Bill](data/doc/bills/2024-02-21-banking-amendment---bill-584d8714)
+* 📄 [[2024-02-20] Sri Lanka National Commission for UNESCO - Bill](data/doc/bills/2024-02-20-sri-lanka-national-commission-fo-123bb2b7)
+* 📄 [[2024-02-20] Institute of Facilities Management Sri Lanka (Incorporation) - GS](data/doc/bills/2024-02-20-institute-of-facilities-manageme-c055c78b)
+
+* ⚖️ [[2024-02-19] Sri Lanka Baptist Sangamaya (Incorporation) (Amendment)](data/doc/acts/2024-02-19-sri-lanka-baptist-sangamaya-inco-d15b18ae)
+* ⚖️ [[2024-02-19] Heart to Heart Trust Fund (Incorporation)](data/doc/acts/2024-02-19-heart-to-heart-trust-fund-incorp-982dca6a)
+* ⚖️ [[2024-02-19] Dassana Bauddha Sanvidhanaya (Incorporation)](data/doc/acts/2024-02-19-dassana-bauddha-sanvidhanaya-inc-e4ca66c6)
+* 📄 [[2024-02-13] Twenty Second Amendment to the Constitution - GS](data/doc/bills/2024-02-13-twenty-second-amendment-to-the-c-459b8c12)
+* 📄 [[2024-02-13] Penal Code (Amendment) - GS](data/doc/bills/2024-02-13-penal-code-amendment---gs-26dcd8e3)
+
+* 📄 [[2024-02-13] Code of Criminal Procedure (Amendment) - GS](data/doc/bills/2024-02-13-code-of-criminal-procedure-amend-cc2d0851)
+* 📄 [[2024-02-09] Mohan Ellawala Social Development Foundation (Incorporation) - Bill](data/doc/bills/2024-02-09-mohan-ellawala-social-developmen-ebf788f9)
+* 📄 [[2024-02-06] Banking (Amendment) - GS](data/doc/bills/2024-02-06-banking-amendment---gs-d9035c4b)
+* ⚖️ [[2024-02-01] Online Safety](data/doc/acts/2024-02-01-online-safety-1a33c9ff)
+* ⚖️ [[2024-02-01] National Hydrographic](data/doc/acts/2024-02-01-national-hydrographic-ef28e6d4)
+
+* ⚖️ [[2024-02-01] Contempt of a Court,Tribunal or Institution](data/doc/acts/2024-02-01-contempt-of-a-courttribunal-or-i-d8ead9dc)
+
+### 2024-01
+
+* ⚖️ [[2024-01-31] The Recognition and Enforcement of International Settlement  Agreements Resulting from Mediation](data/doc/acts/2024-01-31-the-recognition-and-enforcement--03527a21)
+* ⚖️ [[2024-01-31] Notaries (Amendment)](data/doc/acts/2024-01-31-notaries-amendment-414d95d3)
+* 📄 [[2024-01-24] Partition (Amendment) - Bill](data/doc/bills/2024-01-24-partition-amendment---bill-93565c12)
+* ⚖️ [[2024-01-23] Prevention of Frauds (Amendment)](data/doc/acts/2024-01-23-prevention-of-frauds-amendment-f8bfd2be)
+* ⚖️ [[2024-01-23] Powers of Attorney (Amendment)](data/doc/acts/2024-01-23-powers-of-attorney-amendment-438b93f0)
+
+* ⚖️ [[2024-01-23] Office of National Unity and Reconciliation ](data/doc/acts/2024-01-23-office-of-national-unity-and-rec-a7fda43f)
+* ⚖️ [[2024-01-23] Mediation Board (Amendment)](data/doc/acts/2024-01-23-mediation-board-amendment-24ec31b3)
+* 📄 [[2024-01-17] Sri Lanka National Commission for UNESCO - GS](data/doc/bills/2024-01-17-sri-lanka-national-commission-fo-42fd94c8)
+* 📄 [[2024-01-11] Value Added Tax (Amendment) - Bill](data/doc/bills/2024-01-11-value-added-tax-amendment---bill-24a9dcb6)
+* 📄 [[2024-01-10] Anti Terrorism - Bill](data/doc/bills/2024-01-10-anti-terrorism---bill-5948ba38)
+
+* 📄 [[2024-01-09] Trust Receipts (Amendment) -Bill](data/doc/bills/2024-01-09-trust-receipts-amendment--bill-972b5f45)
+* 📄 [[2024-01-09] Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-trust-receipts-amendment---bill-26543cc6)
+* 📄 [[2024-01-09] Shop And Office Employees (Regulation Of Employment And Remuneration) (Amendment) -Bill](data/doc/bills/2024-01-09-shop-and-office-employees-regula-b4a03164)
+* 📄 [[2024-01-09] Shop And Office Employees (Regulation of Employment and Remuneration) (Amendment) - Bill](data/doc/bills/2024-01-09-shop-and-office-employees-regula-60b5e055)
+* 📄 [[2024-01-09] Secured Transactions - Bill](data/doc/bills/2024-01-09-secured-transactions---bill-fdafcafe)
+
+* 📄 [[2024-01-09] Registration of Documents (Amendment) - Bill](data/doc/bills/2024-01-09-registration-of-documents-amendm-0f25d30e)
+* 📄 [[2024-01-09] Prescription (Amendment) - Bill](data/doc/bills/2024-01-09-prescription-amendment---bill-6f9df032)
+* 📄 [[2024-01-09] Penal Code (Amendment) - GS](data/doc/bills/2024-01-09-penal-code-amendment---gs-843bb129)
+* 📄 [[2024-01-09] Partition (Amendment) - GS](data/doc/bills/2024-01-09-partition-amendment---gs-4a05a352)
+* 📄 [[2024-01-09] Mortgage (Amendment) - Bill](data/doc/bills/2024-01-09-mortgage-amendment---bill-3c671a7f)
+
+* 📄 [[2024-01-09] Microfinance and Credit Regulatory Authority - Bill](data/doc/bills/2024-01-09-microfinance-and-credit-regulato-14612373)
+* 📄 [[2024-01-09] Inland Trust Receipts (Amendment) - Bill](data/doc/bills/2024-01-09-inland-trust-receipts-amendment--82cee826)
+* 📄 [[2024-01-09] Finance Leasing (Amendment) - Bill](data/doc/bills/2024-01-09-finance-leasing-amendment---bill-3be024fe)
+* 📄 [[2024-01-09] Companies (Amendment) - Bill](data/doc/bills/2024-01-09-companies-amendment---bill-df7f18a2)
+* 📄 [[2024-01-04] Social Security Contribution Levy - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-54038307)
+
+* 📄 [[2024-01-04] Social Security Contribution Levy (Amendment) - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-40e4945d)
+* 📄 [[2024-01-04] Social Security Contribution Levy (Amendment) - Bill](data/doc/bills/2024-01-04-social-security-contribution-lev-35dba55b)
+* 📄 [[2024-01-04] Social Security Contribution Levy (Amendment) - GS](data/doc/bills/2024-01-04-social-security-contribution-lev-240660aa)
+* 📄 [[2024-01-01] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-01-01-commission-for-truth-unity-and-r-6773212f)
 
 ## 2023
 
 ### 2023-12
 
+* 📄 [[2023-12-14] Value Added Tax (Amendment) - GS](data/doc/bills/2023-12-14-value-added-tax-amendment---gs-1984ced2)
+* ⚖️ [[2023-12-13] Value Added Tax (Amendment)](data/doc/acts/2023-12-13-value-added-tax-amendment-e1c808e0)
+* ⚖️ [[2023-12-13] Finance](data/doc/acts/2023-12-13-finance-60bf9711)
+* 📄 [[2023-12-13] Daham Sewane Singiththo Lama Sanwardana Padanama (Incorporation) - Bill](data/doc/bills/2023-12-13-daham-sewane-singiththo-lama-san-b71b397e)
+* ⚖️ [[2023-12-13] Appropriation Act](data/doc/acts/2023-12-13-appropriation-act-23cbfdd1)
+
+* 📄 [[2023-12-12] Pragnabandu Scholarship Trust Fund (Incorporation) - Bill](data/doc/bills/2023-12-12-pragnabandu-scholarship-trust-fu-28e4ffda)
+* 📄 [[2023-12-11] Rajitha Senarathne Foundation (Incorporation) - Bill](data/doc/bills/2023-12-11-rajitha-senarathne-foundation-in-e040f287)
 * 📄 [[2023-12-07] Vanni Mann Charity Foundation (Incorporation) - Bill](data/doc/bills/2023-12-07-vanni-mann-charity-foundation-in-f03ba551)
+* 📄 [[2023-12-07] Prevention of Frauds (Amendment) - Bill](data/doc/bills/2023-12-07-prevention-of-frauds-amendment---ad528dbd)
+* 📄 [[2023-12-07] Notaries (Amendment) - Bill](data/doc/bills/2023-12-07-notaries-amendment---bill-43eb9940)
+
 * 📄 [[2023-12-05] Sri Lanka Electricity - GS](data/doc/bills/2023-12-05-sri-lanka-electricity---gs-e3c00280)
 * 📄 [[2023-12-05] Pragnabandu Scholarship Trust Fund (Incorporation) - GS](data/doc/bills/2023-12-05-pragnabandu-scholarship-trust-fu-e447e6c7)
 * 📄 [[2023-12-05] Daham Sewane Singiththo Lama Sanwardana - GS](data/doc/bills/2023-12-05-daham-sewane-singiththo-lama-san-ef2228cb)
 * 📄 [[2023-12-04] Malaiyagha Student Higher Education Fund (Incorporation) - Bill](data/doc/bills/2023-12-04-malaiyagha-student-higher-educat-7e4f7f86)
-
 
 ### 2023-11
 
