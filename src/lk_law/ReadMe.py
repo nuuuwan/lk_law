@@ -1,7 +1,7 @@
 import os
 from functools import cached_property
 
-from utils import TIME_FORMAT_TIME, File, Log, Time
+from utils import TimeFormat, File, Log, Time
 
 from lk_law.Document import Document
 
@@ -22,7 +22,7 @@ class ReadMe:
 
     @cached_property
     def time_str(self) -> str:
-        return TIME_FORMAT_TIME.stringify(Time.now())
+        return TimeFormat.TIME.stringify(Time.now())
 
     @cached_property
     def header_lines(self) -> list[str]:

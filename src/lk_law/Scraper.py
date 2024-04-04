@@ -5,7 +5,7 @@ from functools import cached_property
 
 import requests
 from bs4 import BeautifulSoup
-from utils import SECONDS_IN, TIME_FORMAT_DATE, Log, Time, TimeFormat
+from utils import TimeUnit, TimeFormat, Log, Time, TimeFormat
 
 from lk_law.Document import Document
 from lk_law.PubType import PubType
@@ -120,7 +120,7 @@ class Scraper:
     @staticmethod
     def multi_scrape(t_end: float, n_i_days: int):
         for i_day in range(0, n_i_days):
-            t = t_end - i_day * SECONDS_IN.DAY
+            t = t_end - i_day * TimeUnit.SECONDS_IN.DAY
             date = Scraper.TIME_FORMAT.stringify(Time(t))
 
             Scraper.multi_scrape_for_date(date)
@@ -133,4 +133,4 @@ class Scraper:
 
         date_list = sorted([doc.date for doc in doc_list])
         date_start = date_list[0]
-        return TIME_FORMAT_DATE.parse(date_start).ut
+        return TimeFormat.DATE.parse(date_start).ut

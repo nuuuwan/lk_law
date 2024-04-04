@@ -4,7 +4,7 @@ from functools import cached_property
 import requests
 from pdf2docx import Converter
 from pdfminer.high_level import extract_text
-from utils import File, JSONFile, Log, hashx
+from utils import File, JSONFile, Log, Hash
 
 from lk_law.PubType import PubType
 
@@ -43,7 +43,7 @@ class Document:
 
     @cached_property
     def md5(self):
-        return hashx.md5(str(self))
+        return Hash.md5(str(self))
 
     def __hash__(self):
         return hash(self.md5)
