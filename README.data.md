@@ -2,14 +2,18 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **782** documents, as of *2024-04-05 16:39:33*.
+Downloaded **785** documents, as of *2024-04-05 17:42:23*.
 
 ## 2024
 
 ### 2024-04
 
 * 📄 [[2024-04-04] Al Falah Foundation (Incorporation) - GS](data/doc/bills/2024-04-04-al-falah-foundation-incorporatio-dab0f798)
+* ⚖️ [[2024-04-01] Trust Receipts (Amendment)](data/doc/acts/2024-04-01-trust-receipts-amendment-f3aa1288)
 * 📄 [[2024-04-01] Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - GS](data/doc/bills/2024-04-01-sri-lanka-association-for-fisher-e8e493a3)
+* ⚖️ [[2024-04-01] Secured Transactions](data/doc/acts/2024-04-01-secured-transactions-2710c28e)
+* ⚖️ [[2024-04-01] Finance Leasing (Amendment)](data/doc/acts/2024-04-01-finance-leasing-amendment-9f832ad0)
+
 
 ### 2024-03
 
