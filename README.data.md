@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **785** documents, as of *2024-04-08 09:39:47*.
+Downloaded **786** documents, as of *2024-04-08 10:39:57*.
 
 ## 2024
 
@@ -14,6 +14,7 @@ Downloaded **785** documents, as of *2024-04-08 09:39:47*.
 * ⚖️ [[2024-04-01] Secured Transactions](data/doc/acts/2024-04-01-secured-transactions-2710c28e)
 * ⚖️ [[2024-04-01] Finance Leasing (Amendment)](data/doc/acts/2024-04-01-finance-leasing-amendment-9f832ad0)
 
+* ⚖️ [[2024-04-01] Companies (Amendment)](data/doc/acts/2024-04-01-companies-amendment-479ee166)
 
 ### 2024-03
 
