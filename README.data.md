@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **786** documents, as of *2024-04-08 11:41:32*.
+Downloaded **787** documents, as of *2024-04-08 12:43:09*.
 
 ## 2024
 
@@ -12,8 +12,9 @@ Downloaded **786** documents, as of *2024-04-08 11:41:32*.
 * ⚖️ [[2024-04-01] Trust Receipts (Amendment)](data/doc/acts/2024-04-01-trust-receipts-amendment-f3aa1288)
 * 📄 [[2024-04-01] Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - GS](data/doc/bills/2024-04-01-sri-lanka-association-for-fisher-e8e493a3)
 * ⚖️ [[2024-04-01] Secured Transactions](data/doc/acts/2024-04-01-secured-transactions-2710c28e)
-* ⚖️ [[2024-04-01] Finance Leasing (Amendment)](data/doc/acts/2024-04-01-finance-leasing-amendment-9f832ad0)
+* ⚖️ [[2024-04-01] Registration of Documents (Amendment)](data/doc/acts/2024-04-01-registration-of-documents-amendm-05011f43)
 
+* ⚖️ [[2024-04-01] Finance Leasing (Amendment)](data/doc/acts/2024-04-01-finance-leasing-amendment-9f832ad0)
 * ⚖️ [[2024-04-01] Companies (Amendment)](data/doc/acts/2024-04-01-companies-amendment-479ee166)
 
 ### 2024-03
