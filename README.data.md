@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **787** documents, as of *2024-04-09 09:41:01*.
+Downloaded **791** documents, as of *2024-04-09 10:39:59*.
 
 ## 2024
 
@@ -14,6 +14,8 @@ Downloaded **787** documents, as of *2024-04-09 09:41:01*.
 * ⚖️ [[2024-04-01] Secured Transactions](data/doc/acts/2024-04-01-secured-transactions-2710c28e)
 * ⚖️ [[2024-04-01] Registration of Documents (Amendment)](data/doc/acts/2024-04-01-registration-of-documents-amendm-05011f43)
 
+* ⚖️ [[2024-04-01] Mortgage (Amendment)](data/doc/acts/2024-04-01-mortgage-amendment-5c66de5a)
+* ⚖️ [[2024-04-01] Inland Trust Receipts (Amendment)](data/doc/acts/2024-04-01-inland-trust-receipts-amendment-9941b1e5)
 * ⚖️ [[2024-04-01] Finance Leasing (Amendment)](data/doc/acts/2024-04-01-finance-leasing-amendment-9f832ad0)
 * ⚖️ [[2024-04-01] Companies (Amendment)](data/doc/acts/2024-04-01-companies-amendment-479ee166)
 
@@ -43,17 +45,19 @@ Downloaded **787** documents, as of *2024-04-09 09:41:01*.
 * 📄 [[2024-02-20] Institute of Facilities Management Sri Lanka (Incorporation) - GS](data/doc/bills/2024-02-20-institute-of-facilities-manageme-c055c78b)
 
 * ⚖️ [[2024-02-19] Sri Lanka Baptist Sangamaya (Incorporation) (Amendment)](data/doc/acts/2024-02-19-sri-lanka-baptist-sangamaya-inco-d15b18ae)
+* ⚖️ [[2024-02-19] Sri Balabhivurdhi Wardana Society (Incorporation)](data/doc/acts/2024-02-19-sri-balabhivurdhi-wardana-societ-ae71402a)
+* ⚖️ [[2024-02-19] Samadhi Community Development Foundation (Incorporation)](data/doc/acts/2024-02-19-samadhi-community-development-fo-ef489d37)
 * ⚖️ [[2024-02-19] Heart to Heart Trust Fund (Incorporation)](data/doc/acts/2024-02-19-heart-to-heart-trust-fund-incorp-982dca6a)
 * ⚖️ [[2024-02-19] Dassana Bauddha Sanvidhanaya (Incorporation)](data/doc/acts/2024-02-19-dassana-bauddha-sanvidhanaya-inc-e4ca66c6)
+
 * 📄 [[2024-02-13] Twenty Second Amendment to the Constitution - GS](data/doc/bills/2024-02-13-twenty-second-amendment-to-the-c-459b8c12)
 * 📄 [[2024-02-13] Penal Code (Amendment) - GS](data/doc/bills/2024-02-13-penal-code-amendment---gs-26dcd8e3)
-
 * 📄 [[2024-02-13] Code of Criminal Procedure (Amendment) - GS](data/doc/bills/2024-02-13-code-of-criminal-procedure-amend-cc2d0851)
 * 📄 [[2024-02-09] Mohan Ellawala Social Development Foundation (Incorporation) - Bill](data/doc/bills/2024-02-09-mohan-ellawala-social-developmen-ebf788f9)
 * 📄 [[2024-02-06] Banking (Amendment) - GS](data/doc/bills/2024-02-06-banking-amendment---gs-d9035c4b)
+
 * ⚖️ [[2024-02-01] Online Safety](data/doc/acts/2024-02-01-online-safety-1a33c9ff)
 * ⚖️ [[2024-02-01] National Hydrographic](data/doc/acts/2024-02-01-national-hydrographic-ef28e6d4)
-
 * ⚖️ [[2024-02-01] Contempt of a Court,Tribunal or Institution](data/doc/acts/2024-02-01-contempt-of-a-courttribunal-or-i-d8ead9dc)
 
 ### 2024-01
