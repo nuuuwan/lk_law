@@ -2,9 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **798** documents, as of *2024-05-03 18:39:42*.
+Downloaded **799** documents, as of *2024-05-03 19:40:45*.
 
 ## 2024
+
+### 2024-05
+
+* 📄 [[2024-05-02] Sri Lanka Telecommunications (Amendment) - GS](data/doc/bills/2024-05-02-sri-lanka-telecommunications-ame-e5b549d5)
 
 ### 2024-04
 
