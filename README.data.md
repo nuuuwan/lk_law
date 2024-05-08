@@ -2,12 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **802** documents, as of *2024-05-08 17:41:55*.
+Downloaded **803** documents, as of *2024-05-08 18:41:14*.
 
 ## 2024
 
 ### 2024-05
 
+* ⚖️ [[2024-05-08] Recovery of Loans by Banks (Special Provisions) (Amendment)](data/doc/acts/2024-05-08-recovery-of-loans-by-banks-speci-14db01d1)
 * ⚖️ [[2024-05-03] Code of Criminal Procedure (Amendment)](data/doc/acts/2024-05-03-code-of-criminal-procedure-amend-d88d739e)
 * 📄 [[2024-05-03] Civil Procedure Code (Amendment) - GS](data/doc/bills/2024-05-03-civil-procedure-code-amendment---83867b5f)
 * 📄 [[2024-05-02] Sri Lanka Telecommunications (Amendment) - GS](data/doc/bills/2024-05-02-sri-lanka-telecommunications-ame-e5b549d5)
