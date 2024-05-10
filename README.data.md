@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **806** documents, as of *2024-05-10 15:40:00*.
+Downloaded **807** documents, as of *2024-05-10 16:40:12*.
 
 ## 2024
 
@@ -19,24 +19,25 @@ Downloaded **806** documents, as of *2024-05-10 15:40:00*.
 
 ### 2024-04
 
+* 📄 [[2024-04-26] Public Debt Management - Bill](data/doc/bills/2024-04-26-public-debt-management---bill-3e6ba362)
 * ⚖️ [[2024-04-26] Banking (Amendment)](data/doc/acts/2024-04-26-banking-amendment-f7ae40c8)
 * 📄 [[2024-04-25] Sri Lanka Electricity - Bill](data/doc/bills/2024-04-25-sri-lanka-electricity---bill-300fddf3)
 * 📄 [[2024-04-25] Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - Bill](data/doc/bills/2024-04-25-sri-lanka-association-for-fisher-0a630471)
 * 📄 [[2024-04-25] Al Falah Foundation (Incorporation) - Bill](data/doc/bills/2024-04-25-al-falah-foundation-incorporatio-56507b68)
-* 📄 [[2024-04-18] Public Debt Management - GS](data/doc/bills/2024-04-18-public-debt-management---gs-5ad2683a)
 
+* 📄 [[2024-04-18] Public Debt Management - GS](data/doc/bills/2024-04-18-public-debt-management---gs-5ad2683a)
 * 📄 [[2024-04-17] Sri Lanka Electricity - GS](data/doc/bills/2024-04-17-sri-lanka-electricity---gs-a1a5514d)
 * 📄 [[2024-04-17] Gender Equality - GS](data/doc/bills/2024-04-17-gender-equality---gs-62478f65)
 * 📄 [[2024-04-04] Al Falah Foundation (Incorporation) - GS](data/doc/bills/2024-04-04-al-falah-foundation-incorporatio-dab0f798)
 * 📄 [[2024-04-02] Siw Wanak Arana Foundation (Incorporation) - Bill](data/doc/bills/2024-04-02-siw-wanak-arana-foundation-incor-a5628e02)
-* ⚖️ [[2024-04-01] Trust Receipts (Amendment)](data/doc/acts/2024-04-01-trust-receipts-amendment-f3aa1288)
 
+* ⚖️ [[2024-04-01] Trust Receipts (Amendment)](data/doc/acts/2024-04-01-trust-receipts-amendment-f3aa1288)
 * 📄 [[2024-04-01] Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - GS](data/doc/bills/2024-04-01-sri-lanka-association-for-fisher-e8e493a3)
 * ⚖️ [[2024-04-01] Secured Transactions](data/doc/acts/2024-04-01-secured-transactions-2710c28e)
 * ⚖️ [[2024-04-01] Registration of Documents (Amendment)](data/doc/acts/2024-04-01-registration-of-documents-amendm-05011f43)
 * ⚖️ [[2024-04-01] Mortgage (Amendment)](data/doc/acts/2024-04-01-mortgage-amendment-5c66de5a)
-* ⚖️ [[2024-04-01] Inland Trust Receipts (Amendment)](data/doc/acts/2024-04-01-inland-trust-receipts-amendment-9941b1e5)
 
+* ⚖️ [[2024-04-01] Inland Trust Receipts (Amendment)](data/doc/acts/2024-04-01-inland-trust-receipts-amendment-9941b1e5)
 * ⚖️ [[2024-04-01] Finance Leasing (Amendment)](data/doc/acts/2024-04-01-finance-leasing-amendment-9f832ad0)
 * ⚖️ [[2024-04-01] Companies (Amendment)](data/doc/acts/2024-04-01-companies-amendment-479ee166)
 
