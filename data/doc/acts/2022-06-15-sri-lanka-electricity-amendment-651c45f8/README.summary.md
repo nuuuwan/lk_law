@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Electricity (Amendment)
-
-Act published on **2022-06-15**.
-
 - Title: Sri Lanka Electricity (Amendment) Act, No. 16 of 2022
 - Certification Date: 15th June, 2022
 - Published: Supplement to Part II of the Gazette, Democratic Socialist Republic of Sri Lanka, June 17, 2022

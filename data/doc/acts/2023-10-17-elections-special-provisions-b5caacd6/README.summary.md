@@ -1,7 +1,3 @@
-# ⚖️  Elections (Special Provisions)
-
-Act published on **2023-10-17**.
-
 - Elections (Special Provisions) Act, No. 21 of 2023 certified on October 17, 2023.
 - The Act extends the time period for presenting an election petition and increases fines.
 - Amendments made to:

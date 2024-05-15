@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Telecommunications (Amendment) - GS
-
-Bill published on **2024-05-02**.
-
 - A bill to amend the Sri Lanka Telecommunications Act, No. 25 of 1991.
 - Amendments extend the Commission’s powers for market analysis, preventing market power abuse, and promoting fair competition.
 - The Commission empowered to approve/determine tariffs.

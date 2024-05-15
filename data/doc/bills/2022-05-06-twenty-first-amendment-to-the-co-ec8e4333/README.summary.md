@@ -1,7 +1,3 @@
-# 📄  Twenty First Amendment to the Constitution - GS
-
-Bill published on **2022-05-06**.
-
 - **Title:** The Gazette of the Democratic Socialist Republic of Sri Lanka, Supplement, Part II of May 06, 2022.
   
 - **Amendment Overview:**

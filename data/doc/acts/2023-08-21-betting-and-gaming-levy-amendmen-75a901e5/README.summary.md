@@ -1,7 +1,3 @@
-# ⚖️  Betting and Gaming Levy (Amendment)
-
-Act published on **2023-08-21**.
-
 - **Certification and Publication Details:**
   - Certified on August 21, 2023
   - Published as a Supplement to Part II of the Gazette of Sri Lanka on August 25, 2023

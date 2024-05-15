@@ -1,7 +1,3 @@
-# 📄  Online Safety - GS
-
-Bill published on **2023-09-18**.
-
 - Establishment of the Online Safety Commission in Sri Lanka.
 - Prohibition of online communication of certain false statements.
 - Measures to identify and declare online locations used for prohibited purposes.

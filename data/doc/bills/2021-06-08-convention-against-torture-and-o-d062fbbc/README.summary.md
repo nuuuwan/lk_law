@@ -1,7 +1,3 @@
-# 📄  Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment) - Bill
-
-Bill published on **2021-06-08**.
-
 - Amending the Convention Against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment Act, No. 22 of 1994.
 - Presented by the Minister of Justice on June 8, 2021.
 - Published in the Gazette on May 20, 2021.

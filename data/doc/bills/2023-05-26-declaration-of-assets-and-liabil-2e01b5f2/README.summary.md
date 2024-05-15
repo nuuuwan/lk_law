@@ -1,7 +1,3 @@
-# 📄  Declaration of Assets and Liabilities (Amendment) - Bill
-
-Bill published on **2023-05-26**.
-
 - Establishment of an electronic automated asset declaration system by the Commission to Investigate Allegations of Bribery or Corruption, enabling electronic submission and public access to declarations, subject to redaction of sensitive information.
 - Introduction of extraordinary asset declarations when net assets exceed previously declared sums by a specified amount during the year.
 - Provisions for appropriate authorities to forward declarations to the Commission and publicize them online or at their premises, ensuring redaction of specific details.

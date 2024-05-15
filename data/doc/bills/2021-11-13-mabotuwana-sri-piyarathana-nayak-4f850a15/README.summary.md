@@ -1,7 +1,3 @@
-# 📄  Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - Bill
-
-Bill published on **2021-11-13**.
-
 - **Title**: Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) Bill
 - **Presenter**: Hon. Asanka Navarathna, M.P. for Kurunegala District
 - **Date**: Presented on 13th November 2021; Published in Gazette on 18th October 2021

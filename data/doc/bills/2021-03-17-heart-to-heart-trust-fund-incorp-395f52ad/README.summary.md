@@ -1,7 +1,3 @@
-# 📄  Heart to Heart Trust Fund (Incorporation) - GS
-
-Bill published on **2021-03-17**.
-
 - **Title and Details:**
   - Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, March 12, 2021
   - Supplemental issue dated 17.03.2021

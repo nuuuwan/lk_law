@@ -1,7 +1,3 @@
-# 📄  Nalin Fernando Foundation (Incorporation) - GS
-
-Bill published on **2021-09-21**.
-
 - The document details the introduction and incorporation of the "Nalin Fernando Foundation."
 - The bill is presented by Hon. Nalin Fernando, M.P. for Gampaha District.
 - The foundation aims to enhance mutual understanding, religious harmony, and spiritual development.

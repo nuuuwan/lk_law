@@ -1,7 +1,3 @@
-# 📄  Samadhi Meditation and Yoga Centre (Incorporation) - GS
-
-Bill published on **2021-07-19**.
-
 - **Introduction:**
   - Title: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of July 16, 2021
   - Document Date: Issued on 19.07.2021
