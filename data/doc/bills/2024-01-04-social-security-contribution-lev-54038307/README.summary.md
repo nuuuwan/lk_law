@@ -1,7 +1,3 @@
-# 📄  Social Security Contribution Levy - GS
-
-Bill published on **2024-01-04**.
-
 - The document is an amendment bill for the Social Security Contribution Levy Act, No. 25 of 2022.
 - It was ordered to be published by the Minister of Finance, Economic Stabilization, and National Policies.
 - The amendment is expected to come into effect from January 1, 2024.

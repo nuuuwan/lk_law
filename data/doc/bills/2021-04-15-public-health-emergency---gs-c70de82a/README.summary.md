@@ -1,7 +1,3 @@
-# 📄  Public Health Emergency - (GS)
-
-Bill published on **2021-04-15**.
-
 - Title: Bill for Declaration of Public Health Emergency in Sri Lanka
 - Goal: Provide for special measures during public health emergencies and related matters.
 - Sponsor: Hon. M. A. Sumanthiran, MP for Jaffna District

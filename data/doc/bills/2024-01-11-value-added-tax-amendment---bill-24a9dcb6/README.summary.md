@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - Bill
-
-Bill published on **2024-01-11**.
-
 - The document outlines a bill to amend the Value Added Tax Act, No. 14 of 2002 in Sri Lanka.
 - The bill was presented by the Minister of Finance, Economic Stabilization, and National Policies on January 11, 2024.
 - The bill aims to amend specific sections of the principal enactment:

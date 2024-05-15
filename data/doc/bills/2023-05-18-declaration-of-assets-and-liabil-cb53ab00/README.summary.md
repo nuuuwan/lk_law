@@ -1,7 +1,3 @@
-# 📄  Declaration of Assets and Liabilities (Amendment) - GS
-
-Bill published on **2023-05-18**.
-
 - **Amendment to Declaration of Assets and Liabilities Law, No. 1 of 1975**: 
   - **Electronic Automated Asset Declaration System**: Establishment for electronic submission and public access with information redaction.
   - **Extraordinary Asset Declarations**: Filing requirement for significant asset changes exceeding specified amounts.

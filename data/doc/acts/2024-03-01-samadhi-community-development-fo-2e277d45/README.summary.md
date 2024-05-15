@@ -1,7 +1,3 @@
-# ⚖️  Samadhi Community Development Foundation (Incorporation)
-
-Act published on **2024-03-01**.
-
 - **Title**: The Act is the "Samadhi Community Development Foundation (Incorporation) Act, No. 13 of 2024."
 - **Certification and Date**: Certified on February 19, 2024.
 - **Purpose**: To incorporate the Samadhi Community Development Foundation.

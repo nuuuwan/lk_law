@@ -1,7 +1,3 @@
-# 📄  Partition Law (Amendment) - GS
-
-Bill published on **2023-02-23**.
-
 - Bill to amend the Partition Law, No. 21 of 1977 in Sri Lanka, ordered by the Minister of Justice, Prison Affairs, and Constitutional Reforms.
 - New section 2A allows temple land stakeholders (praveni nilakaraya) to initiate partition or sale actions.
 - Public announcement requirements for partition actions include banners and loudspeakers (Section 15).

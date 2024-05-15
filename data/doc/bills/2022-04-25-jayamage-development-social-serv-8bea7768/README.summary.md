@@ -1,7 +1,3 @@
-# 📄  Jayamage Development, Social Services and Charity Foundation (Incorporation) - GS
-
-Bill published on **2022-04-25**.
-
 - **Title**: Incorporation of Jayamaga Development, Social Services and Charity Foundation
 - **Date**: Supplement issued on 25.04.2022, Part II of April 22, 2022
 - **Proposed by**: Hon. Hector Appuhamy, M.P. for Puttalam District

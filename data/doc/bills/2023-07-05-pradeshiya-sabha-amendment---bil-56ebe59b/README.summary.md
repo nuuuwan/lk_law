@@ -1,7 +1,3 @@
-# 📄  Pradeshiya Sabha (Amendment) - Bill
-
-Bill published on **2023-07-05**.
-
 - Bill to amend the Pradeshiya Sabha Act, No. 15 of 1987.
 - Presented by Hon. Jayantha Ketagoda on July 5, 2023.
 - Published in the Gazette on June 26, 2023.
