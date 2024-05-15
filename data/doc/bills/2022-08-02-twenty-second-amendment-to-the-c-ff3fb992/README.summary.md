@@ -1,7 +1,3 @@
-# 📄  Twenty Second Amendment to the Constitution - GS
-
-Bill published on **2022-08-02**.
-
 - **Gazette Information:**
   - The gazette is part of the Democratic Socialist Republic of Sri Lanka, Part II dated July 29, 2022, and issued on August 2, 2022.
   - It pertains to the Twenty-Second Amendment to the Constitution.

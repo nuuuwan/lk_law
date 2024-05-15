@@ -1,7 +1,3 @@
-# 📄  Twenty Second Amendment to the Constitution - GS
-
-Bill published on **2024-02-13**.
-
 - **Document Type**: Official Gazette of Sri Lanka, Supplement.
 - **Date**: Part II issued on February 09, 2024; Supplement issued on 13.02.2024.
 - **Legislation**: Twenty Second Amendment to the Constitution (Private Members’ Bill).

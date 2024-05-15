@@ -1,7 +1,3 @@
-# ⚖️  Appropriation (Amendment) 
-
-Act published on **2022-09-09**.
-
 - **Title and Certification**: Appropriation (Amendment) Act, No. 21 of 2022, certified on September 9, 2022.
 - **Purpose**: Amends the Appropriation Act, No. 30 of 2021.
 - **Publication Details**: Printed on Government Order, available for Rs. 55.00 with postage of Rs. 35.00, downloadable from www.documents.gov.lk.

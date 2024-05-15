@@ -1,7 +1,3 @@
-# 📄  Walpola Piyananda Educational and Cultural Foundation (Incorporation) - Bill
-
-Bill published on **2023-09-05**.
-
 - **Introduction**
   * Bill to incorporate the Walpola Piyananda Educational and Cultural Foundation.
   * Presented by Hon. Sanjeeva Edirimanna on September 5, 2023.

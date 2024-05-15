@@ -1,7 +1,3 @@
-# ⚖️  Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)
-
-Act published on **2021-01-18**.
-
 - **Act Name**: Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No. 1 of 2021
 - **Certification Date**: January 18, 2021
 - **Publication**: Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka on January 22, 2021

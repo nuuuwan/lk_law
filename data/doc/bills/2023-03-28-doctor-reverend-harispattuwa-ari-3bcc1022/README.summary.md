@@ -1,7 +1,3 @@
-# 📄  Doctor Reverend Harispattuwa Ariyawansha Lankara Thero Foundation (Incorporation) - GS
-
-Bill published on **2023-03-28**.
-
 - **Foundation Incorporation**: The Doctor Reverend Harispattuwe Ariyawangshalankara Thero Foundation is to be incorporated as a body corporate.
 - **Purpose**: The Foundation is formed to carry out various religious, educational, social, and rehabilitation activities.
 - **Objects and Activities**: 

@@ -1,7 +1,3 @@
-# 📄  Marriage Registration (Amendment) - GS
-
-Bill published on **2020-11-23**.
-
 - Title: Marriage Registration (Amendment) (Private Member's Bill)
 - Purpose: To amend the Marriage Registration Ordinance
 - Presented by: Hon. Premitha Bandara Tennakoon, M.P. for Matale District
