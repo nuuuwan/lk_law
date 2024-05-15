@@ -153,13 +153,14 @@ class Document:
         messages = [
             dict(
                 role='system',
-                content='Summarize the following document text'
-                + ' into 10 bullets:',
+                content='Summarize the most important points'
+                + ' in the following document text'
+                + ' into bullets:',
             ),
             dict(role='user', content=text),
         ]
         response = client.chat.completions.create(
-            model='gpt-4',
+            model='gpt-4o',
             messages=messages,
         )
         return response.choices[0].message.content
@@ -171,7 +172,6 @@ class Document:
     @cached_property
     def doc_readme_summary_path(self) -> str:
         return os.path.join(self.dir_doc, 'README.summary.md')
-
 
     def write_doc_readme(self):
         is_random_redo = random.random() < 0.01
@@ -191,7 +191,7 @@ class Document:
             log.debug(f'Wrote {self.doc_readme_summary_path}')
         except Exception as e:
             log.error(f'Failed to summarize {self.raw_text_path}: {e}')
-            
+
         lines = [
             f'# {self.pub_type.emoji}  {self.name}',
             '',
