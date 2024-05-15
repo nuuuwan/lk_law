@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - GS
-
-Bill published on **2022-09-27**.
-
 - The Democratic Socialist Republic of Sri Lanka announced an amendment to the Value Added Tax Act, No. 14 of 2002.
 - The Gazette was ordered to be published by the Minister of Finance, Economic Stabilization & National Policies on September 23, 2022.
 - The amendment increases the VAT rate from 8% to 12% between June 1, 2022 and August 31, 2022, and then to 15% from September 1, 2022.

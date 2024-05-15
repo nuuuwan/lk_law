@@ -1,7 +1,3 @@
-# 📄  Finance Leasing (Amendment) - GS
-
-Bill published on **2023-11-10**.
-
 - The Gazette of the Democratic Socialist Republic of Sri Lanka published a supplement on November 10, 2023. 
 - The supplement covers the amendments to the Finance Leasing Act, No. 56 of 2000 and was ordered to be published by the Minster of Finance, Economic Stabilization and National Policies.
 - The documents can be downloaded from the government's official website.

@@ -1,7 +1,7 @@
 import os
 from functools import cached_property
 
-from utils import TimeFormat, File, Log, Time
+from utils import File, Log, Time, TimeFormat
 
 from lk_law.Document import Document
 

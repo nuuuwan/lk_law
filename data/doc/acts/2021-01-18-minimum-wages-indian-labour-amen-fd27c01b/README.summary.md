@@ -1,7 +1,3 @@
-# ⚖️  Minimum Wages (Indian Labour) (Amendment)
-
-Act published on **2021-01-18**.
-
 - The document is about the 'Minimum Wages (Indian Labour) (Amendment) Act, No. 3 of 2021' enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka.
 - The Act was certified on January 18th, 2021 and published as a supplement to Part II of the Gazette of Sri Lanka on January 22nd, 2021.
 - The Act amends the 'Minimum Wages (Indian Labour) Ordinance (Chapter 135)'.

@@ -1,10 +1,13 @@
 import os
+import random
+import sys
 from functools import cached_property
 
+import openai
 import requests
 from pdf2docx import Converter
 from pdfminer.high_level import extract_text
-from utils import File, JSONFile, Log, Hash
+from utils import File, Hash, JSONFile, Log
 
 from lk_law.PubType import PubType
 
@@ -67,10 +70,6 @@ class Document:
     @cached_property
     def dir_doc(self) -> str:
         return os.path.join(self.pub_type.dir_pub_type, self.file_name)
-
-    # @cached_property
-    # def dir_doc_unix(self) -> str:
-    #     return self.dir_doc.replace('\\', '/')
 
     # Data
 
@@ -145,21 +144,56 @@ class Document:
 
     # README
 
+    @staticmethod
+    def summarize(text: str) -> list[str]:
+        if len(text) > 30_000:
+            text = text[:30_000]
+        api_key = sys.argv[1]
+        client = openai.Client(api_key=api_key)
+        messages = [
+            dict(
+                role='system',
+                content='Summarize the following document text'
+                + ' into 10 bullets:',
+            ),
+            dict(role='user', content=text),
+        ]
+        response = client.chat.completions.create(
+            model='gpt-4',
+            messages=messages,
+        )
+        return response.choices[0].message.content
+
     @cached_property
     def doc_readme_path(self) -> str:
         return os.path.join(self.dir_doc, 'README.md')
 
+    @cached_property
+    def doc_readme_summary_path(self) -> str:
+        return os.path.join(self.dir_doc, 'README.summary.md')
+
+
     def write_doc_readme(self):
-        if os.path.exists(self.doc_readme_path):
+        is_random_redo = random.random() < 0.01
+        if os.path.exists(self.doc_readme_path) and not is_random_redo:
             log.warning(f'{self.doc_readme_path} already exists')
             return
+
+        if os.path.exists(self.doc_readme_summary_path):
+            log.warning(f'{self.doc_readme_summary_path} already exists')
+            return
+
+        raw_text = File(self.raw_text_path).read()
+        summary = Document.summarize(raw_text)
+        File(self.doc_readme_summary_path).write(summary)
+        log.debug(f'Wrote {self.doc_readme_summary_path}')
 
         lines = [
             f'# {self.pub_type.emoji}  {self.name}',
             '',
             f'{self.pub_type.name} published on **{self.date}**.',
             '',
-        ]
+        ] + [summary, '']
         File(self.doc_readme_path).write('\n'.join(lines))
         log.debug(f'Wrote {self.doc_readme_path}')
 

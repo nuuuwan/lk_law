@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - Bill
-
-Bill published on **2023-06-09**.
-
 - The Parliament of the Democratic Socialist Republic of Sri Lanka is proposing to amend the Value Added Tax Act, No. 14 of 2002.
 - The amendment bill was presented by Hon. Eran Wickramaratne, M.P. on June 9, 2023.
 - The bill was published in the Gazette on May 29, 2023, and was subsequently ordered by Parliament to be printed.

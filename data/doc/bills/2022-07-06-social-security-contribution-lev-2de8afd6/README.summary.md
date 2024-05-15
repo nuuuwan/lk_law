@@ -1,7 +1,3 @@
-# 📄  Social Security Contribution Levy - Bill
-
-Bill published on **2022-07-06**.
-
 - The Parliament of Sri Lanka has proposed a bill for the imposition and collection of a levy named the Social Security Contribution Levy.
 - The levy will be applied on the liable turnover of every individual concerned.
 - The bill was presented by the Prime Minister and Minister of Finance, Economic Stabilization and National Policies on July 6, 2022.

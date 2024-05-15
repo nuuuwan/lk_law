@@ -1,8 +1,6 @@
 import os
 from dataclasses import dataclass
 
-from lk_law.constants import DIR_DATA_DOC
-
 
 @dataclass
 class PubType:
@@ -21,6 +19,7 @@ class PubType:
 
     @property
     def dir_pub_type(self):
+        DIR_DATA_DOC = os.path.join('data', 'doc')
         return os.path.join(DIR_DATA_DOC, self.name.lower() + 's')
 
     def __hash__(self):

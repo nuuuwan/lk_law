@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - GS
-
-Bill published on **2023-07-12**.
-
 - The document is a supplement part II of the Gazette of the Democratic Socialist Republic of Sri Lanka, dated July 07, 2023.
 - It updates the Appropriation Act, No. 43 of 2022.
 - The amendments were ordered to be published by the Minister of Finance, Economic Stabilization, and National Policies.

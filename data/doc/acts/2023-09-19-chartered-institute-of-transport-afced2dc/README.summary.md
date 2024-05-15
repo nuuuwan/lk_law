@@ -1,7 +1,3 @@
-# ⚖️  Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment)
-
-Act published on **2023-09-19**.
-
 - The document is the "Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment) Act, No. 18 of 2023" of the Parliament of Sri Lanka.
 - The act was certified on the 19th of September, 2023.
 - The act is an amendment to the "Chartered Institute of Transport of Sri Lanka (Incorporation) Act, No. 8 of 2000."

@@ -5,7 +5,7 @@ from functools import cached_property
 
 import requests
 from bs4 import BeautifulSoup
-from utils import TimeUnit, TimeFormat, Log, Time, TimeFormat
+from utils import Log, Time, TimeFormat, TimeUnit
 
 from lk_law.Document import Document
 from lk_law.PubType import PubType
