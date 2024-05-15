@@ -1,7 +1,3 @@
-# ⚖️  The Recognition and Enforcement of International Settlement  Agreements Resulting from Mediation
-
-Act published on **2024-01-31**.
-
 - Sri Lanka's Parliament certified Act No. 5 of 2024 on January 31, 2024, focusing on the recognition and enforcement of international mediation settlement agreements.
 - The Act implements the United Nations' Singapore Convention on Mediation, promoting mediation as a method for resolving commercial disputes.
 - Provisions apply to written international settlement agreements arising from mediation, excluding those related to consumer transactions, family matters, and disputes already enforceable as court judgments or arbitral awards.

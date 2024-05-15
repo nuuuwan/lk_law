@@ -1,7 +1,3 @@
-# 📄  National Hydrographic - Bill
-
-Bill published on **2023-10-20**.
-
 - The bill is intended to implement specific obligations of Sri Lanka under the International Convention for the Safety of Life at Sea, 1974.
 - It involves the establishment of the National Hydrographic Office.
 - Responsibilities include hydrographic services, production and maintenance of nautical charts, data collection, and implementation of safety measures for navigation.

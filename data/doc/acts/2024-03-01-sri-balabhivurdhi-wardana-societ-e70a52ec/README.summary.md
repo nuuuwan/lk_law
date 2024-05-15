@@ -1,7 +1,3 @@
-# ⚖️  Sri Balabhivurdhi Wardana Society (Incorporation)
-
-Act published on **2024-03-01**.
-
 - The Sri Balabhivurdhi Wardana Society (Incorporation) Act, No. 12 of 2024 was certified on February 19, 2024.
 - The act incorporates the Sri Balabhivurdhi Wardana Society as a body corporate.
 - The society will have perpetual succession and the ability to sue and be sued.

@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - Bill
-
-Bill published on **2022-08-09**.
-
 - The Appropriation (Amendment) Bill is to amend the Appropriation Act, No. 30 of 2021.
 - The Bill was presented by the Prime Minister and the Minister of Public Administration, Home Affairs, Provincial Councils, and Local Government on August 9, 2022.
 - The official price of the Bill is Rs. 75 with an additional Rs. 35 for postage, and it can be downloaded from the Sri Lankan government website.
