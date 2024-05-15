@@ -1,7 +1,3 @@
-# 📄  Special Commodity Levy (Amendment) - Bill
-
-Bill published on **2023-07-18**.
-
 - Presented by Hon. Eran Wickramaratne, M.P. on July 18, 2023
 - Published in the Gazette on July 07, 2023
 - Contains amendments to the Special Commodity Levy Act, No. 48 of 2007

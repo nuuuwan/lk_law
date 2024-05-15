@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - GS
-
-Bill published on **2022-03-11**.
-
 - The document pertains to an amendment to the Civil Procedure Code (Chapter 101) of Sri Lanka.
 - It was ordered to be published by the Minister of Justice and printed by the Department of Government Printing, Sri Lanka.
 - The document is available for purchase and can be downloaded online.

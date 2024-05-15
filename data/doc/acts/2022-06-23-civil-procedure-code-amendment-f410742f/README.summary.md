@@ -1,7 +1,3 @@
-# ⚖️  Civil Procedure Code (Amendment) 
-
-Act published on **2022-06-23**.
-
 - The Civil Procedure Code (Amendment) Act, No. 17 of 2022 has been certified on June 23, 2022.
 - This amendment focuses on modifying the Civil Procedure Code (Chapter 101) of Sri Lanka.
 - A new section, 154A, is added to the Civil Procedure Code, addressing the proof of deeds or documents in proceedings.

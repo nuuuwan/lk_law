@@ -1,7 +1,3 @@
-# ⚖️  Merchant Shipping (Amendment)
-
-Act published on **2019-10-02**.
-
 - The Merchant Shipping (Amendment) Act, No. 17 of 2019, amends the principal enactment, the Merchant Shipping Act, No. 52 of 1971.
 - Key amendments include new definitions and revisions for terms like "certificate," "Convention," “international voyage,” etc.
 - The Minister is empowered to make regulations for the safety at sea and to align with international conventions.

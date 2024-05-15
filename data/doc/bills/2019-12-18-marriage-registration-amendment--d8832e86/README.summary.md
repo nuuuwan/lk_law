@@ -1,7 +1,3 @@
-# 📄  Marriage Registration (Amendment) - GS
-
-Bill published on **2019-12-18**.
-
 - Bill to amend the Marriage Registration Ordinance.
 - Proposed by Hon. (Dr.) (Mrs.) Thusitha Wijemanna, M.P. for Kegalle District.
 - Amendment intends to remove exceptions for Muslim marriages from the long title of the Ordinance.

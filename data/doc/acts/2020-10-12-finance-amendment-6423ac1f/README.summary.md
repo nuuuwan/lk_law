@@ -1,7 +1,3 @@
-# ⚖️  Finance (Amendment)
-
-Act published on **2020-10-12**.
-
 - The document is related to the Finance (Amendment) Act, No. 2 of 2020 of Sri Lanka.
 - Certified on October 12, 2020.
 - Printed as a supplement to Part II of the Gazette of Sri Lanka on October 16, 2020.

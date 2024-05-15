@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Baptist Sangamaya (Incorporation) (Amendment)
-
-Act published on **2024-02-19**.
-
 - Act title: Sri Lanka Baptist Sangamaya (Incorporation) (Amendment) Act, No. 11 of 2024
 - Certified on: February 19, 2024
 - Publication: Supplement to Part II of the Gazette of February 22, 2024

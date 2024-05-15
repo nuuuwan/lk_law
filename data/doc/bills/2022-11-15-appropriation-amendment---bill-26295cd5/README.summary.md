@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - Bill
-
-Bill published on **2022-11-15**.
-
 - **Appropriation (Amendment) Bill:** Amendments to the Appropriation Act, No. 30 of 2021.
 - **Presented by:** Prime Minister and Minister of Public Administration, Home Affairs, Provincial Councils, and Local Government.
 - **Date of Presentation:** November 15, 2022.

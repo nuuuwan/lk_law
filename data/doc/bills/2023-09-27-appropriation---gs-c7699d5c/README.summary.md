@@ -1,7 +1,3 @@
-# 📄  Appropriation - GS
-
-Bill published on **2023-09-27**.
-
 - **Appropriation Bill for Financial Year 2024**: Provides for the service, loans, and financial provisions for government activities.
 - **Loans Authorization**: Allows raising loans within or outside Sri Lanka for government expenditure.
 - **Expenditure Allocation**: Estimated government expenditure is Rs. 3,860.846 billion for the financial year 2024.

@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Land Reclamation and Development Corporation (Amendment) -Bill
-
-Bill published on **2019-05-07**.
-
 - **Title:** Sri Lanka Land Reclamation and Development Corporation (Amendment) Bill
 - **Purpose:** Amend the Sri Lanka Land Reclamation and Development Corporation Act, No. 15 of 1968
 - **Presentation Date:** May 7, 2019

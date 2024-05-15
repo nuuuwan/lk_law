@@ -1,7 +1,3 @@
-# 📄  Al Falah Foundation (Incorporation) - Bill
-
-Bill published on **2024-04-25**.
-
 - Bill to incorporate the Al Falah Foundation.
 - Presented by Hon. A. H. M. Fowzie, M.P., on April 25, 2024.
 - Published in the Gazette on April 4, 2024.
