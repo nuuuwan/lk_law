@@ -1,7 +1,3 @@
-# 📄  Ports and Airports Development Levy (Amendment) - GS
-
-Bill published on **2020-09-04**.
-
 - The Democratic Socialist Republic of Sri Lanka has proposed an amendment to the Ports and Airports Development Levy Act, No. 18 of 2011.
 - The amendment was ordered to be published by the Prime Minister and Minister of Finance, Minister of Buddhasasana, Religious & Cultural Affairs and Minister of Urban Development & Housing.
 - The legal effect of the amendment is to increase the levy charged and levied in respect of the cost, insurance and freight value of any article referred to in section 2 of the Act.
