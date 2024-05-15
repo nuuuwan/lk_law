@@ -1,7 +1,3 @@
-# 📄  Kidney and Diebetes Lions Hospital Trust (Incorporation) - Bill
-
-Bill published on **2022-05-05**.
-
 - Bill to incorporate the Kidney and Diabetes Lions Hospital Trust.
 - Presented by Hon. Sanjeeva Edirimanna, M.P. on May 5, 2022.
 - Objective: Incorporate the Kidney and Diabetes Lions Hospital Trust for better organization and management.

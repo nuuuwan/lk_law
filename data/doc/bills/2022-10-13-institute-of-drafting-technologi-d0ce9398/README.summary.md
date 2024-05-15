@@ -1,7 +1,3 @@
-# 📄  Institute of Drafting Technologists Sri Lanka (Incorporation) - GS
-
-Bill published on **2022-10-13**.
-
 - Bill titled "Institute of Drafting Technologists Sri Lanka (Incorporation)".
 - Purpose: Incorporation of an institute for administration, control, and maintenance of vocational standards for Drafting Technologists.
 - Proposed by Hon. Gamini Waleboda, MP for Ratnapura District.

@@ -1,7 +1,3 @@
-# 📄  Higher Education (Quality Assurance and Accreditation) GS
-
-Bill published on **2019-06-17**.
-
 - Establishment of the Quality Assurance and Accreditation Commission for Higher Education.
 - Commission functions as the National Authority for Quality Assurance and Accreditation in Higher Education.
 - Commission will act in accordance with the National Policy on Coordination and Determination of Standards for Higher Education and research.

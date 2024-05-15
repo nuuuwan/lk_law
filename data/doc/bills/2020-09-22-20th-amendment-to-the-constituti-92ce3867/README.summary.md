@@ -1,7 +1,3 @@
-# 📄  20th Amendment to the Constitution - Bill
-
-Bill published on **2020-09-22**.
-
 - **Presentation and General Information:**
    - The Bill is titled "Twentieth Amendment to the Constitution."
    - Presented by the Minister of Justice on September 22, 2020.

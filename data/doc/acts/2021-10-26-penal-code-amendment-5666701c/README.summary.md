@@ -1,7 +1,3 @@
-# ⚖️  Penal Code (Amendment)
-
-Act published on **2021-10-26**.
-
 - Certified date: October 26, 2021.
 - Published in the Supplement to Part II of the Gazette on October 29, 2021.
 - Penal Code (Amendment) Act, No. 25 of 2021.
