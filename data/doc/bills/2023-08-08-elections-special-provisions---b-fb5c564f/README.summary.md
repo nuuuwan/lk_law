@@ -1,7 +1,3 @@
-# 📄  Elections (Special Provisions) - Bill
-
-Bill published on **2023-08-08**.
-
 - The Democratic Socialist Republic of Sri Lanka's Parliament presented an Election Bill to extend the time period for filing an election petition and to increase fines associated with election violations.
 - The Bill proposed amendments to various electoral laws including the Local Authorities Elections Ordinance, the Parliamentary Elections Act, the Presidential Elections Act, and the Provincial Councils Elections Act.
 - The amendments aim to increase fines for specific sections in these acts - this is detailed in several schedules attached to the document.

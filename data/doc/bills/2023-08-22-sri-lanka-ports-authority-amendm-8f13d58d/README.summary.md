@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Ports Authority (Amendment) - Bill
-
-Bill published on **2023-08-22**.
-
 - The document is a bill to amend the Sri Lanka Ports Authority Act, No. 51 of 1979.
 - The bill was presented by the Minister of Ports, Shipping and Aviation on 22nd of August, 2023. 
 - It was published in the Gazette on July 28, 2023 and ordered to be printed by the Parliament.

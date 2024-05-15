@@ -1,7 +1,3 @@
-# 📄  Center for Skills Development Studies (Incorporation) - Bill
-
-Bill published on **2021-12-10**.
-
 - A bill for the incorporation of the "Centre for Skills Development Studies" was presented to the Sri Lankan Parliament in December 2021, and published in the national Gazette in November 2021.
 - It was presented by Hon. (Mrs.) Rohini Kumari Wijeratne, M.P. for Matale District.
 - The Centre has already been functioning, carrying out activities aligned with its objectives, and is now applying to be legally incorporated.
