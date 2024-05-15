@@ -1,3 +1,11 @@
 # 📄  Holidays (Amendment)
 
 Bill published on **2019-07-23**.
+
+- The bill is titled "Holidays (Amendment)" and aims to amend the Holidays Act, No. 29 of 1971.
+- It was presented by Hon. (Dr.) Wijeyadasa Rajapakshe, M.P. for Colombo District on July 23, 2019.
+- The bill was published in the Gazette on July 3, 2019.
+- A new section, 14A, will be inserted after section 14, prohibiting the conduct or facilitation of tuition classes for school students on Full Moon Poya Days or Sundays until 3:00 p.m.
+- Section 17 of the principal enactment will be amended to increase the fine from "One thousand rupees" to "Ten thousand rupees".
+- In case of any inconsistency between the Sinhala and Tamil texts of the Act, the Sinhala text will prevail.
+- The bill can be downloaded from the official Sri Lankan government documents website.

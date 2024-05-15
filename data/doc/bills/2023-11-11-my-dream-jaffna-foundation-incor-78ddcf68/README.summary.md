@@ -1,7 +1,3 @@
-# 📄  My Dream Jaffna Foundation (Incorporation) - Bill
-
-Bill published on **2023-11-11**.
-
 - The bill seeks to incorporate the My Dream Jaffna Foundation in Sri Lanka.
 - Presented by Hon. Sarathi Dushmantha, M.P. for Kegalle District on 09th November, 2023.
 - Published in the Gazette on October 30, 2023, priced at Rs. 18.00 and postage Rs. 150.00.

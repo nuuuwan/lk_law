@@ -1,7 +1,3 @@
-# 📄  Universities (Amendment) - GS
-
-Bill published on **2021-07-20**.
-
 - Amendment to Universities Act, No. 16 of 1978.
 - Introduction of section 23A for establishing universities with specific purposes.
 - Clause 3-14: Consequential amendments to sections 26, 27, 101, 102, 103, 104, 105, 107, 124, 128, 145, and 147 of the principal enactment.

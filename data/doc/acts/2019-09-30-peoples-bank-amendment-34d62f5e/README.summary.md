@@ -1,7 +1,3 @@
-# ⚖️  People's Bank (Amendment)
-
-Act published on **2019-09-30**.
-
 - *People's Bank (Amendment) Act, No. 16 of 2019* is certified on September 30, 2019.
 - The amendment is published in the Gazette of the Democratic Socialist Republic of Sri Lanka on October 04, 2019.
 - The Act amends the People's Bank Act, No. 29 of 1961.

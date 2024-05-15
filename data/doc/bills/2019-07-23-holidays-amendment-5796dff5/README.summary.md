@@ -1,7 +1,3 @@
-# 📄  Holidays (Amendment)
-
-Bill published on **2019-07-23**.
-
 - The bill is titled "Holidays (Amendment)" and aims to amend the Holidays Act, No. 29 of 1971.
 - It was presented by Hon. (Dr.) Wijeyadasa Rajapakshe, M.P. for Colombo District on July 23, 2019.
 - The bill was published in the Gazette on July 3, 2019.
