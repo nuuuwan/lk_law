@@ -184,10 +184,14 @@ class Document:
             return
 
         raw_text = File(self.raw_text_path).read()
-        summary = Document.summarize(raw_text)
-        File(self.doc_readme_summary_path).write(summary)
-        log.debug(f'Wrote {self.doc_readme_summary_path}')
-
+        summary = ''
+        try:
+            summary = Document.summarize(raw_text)
+            File(self.doc_readme_summary_path).write(summary)
+            log.debug(f'Wrote {self.doc_readme_summary_path}')
+        except Exception as e:
+            log.error(f'Failed to summarize {self.raw_text_path}: {e}')
+            
         lines = [
             f'# {self.pub_type.emoji}  {self.name}',
             '',
