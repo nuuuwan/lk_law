@@ -1,5 +1,6 @@
 import os
 import random
+import shutil
 import sys
 from functools import cached_property
 
@@ -168,6 +169,10 @@ class Document:
     @cached_property
     def doc_readme_path(self) -> str:
         return os.path.join(self.dir_doc, 'README.md')
+    
+    @cached_property
+    def readme_latest_path(self) -> str:
+        return os.path.join('README.latest.md')
 
     @cached_property
     def doc_readme_summary_path(self) -> str:
@@ -200,6 +205,9 @@ class Document:
         ] + [summary, '']
         File(self.doc_readme_path).write('\n'.join(lines))
         log.debug(f'Wrote {self.doc_readme_path}')
+
+        shutil.copyfile(self.doc_readme_path, self.readme_latest_path)
+        log.debug(f'Copied to {self.readme_latest_path}')
 
     # -- List Methods  --
 
