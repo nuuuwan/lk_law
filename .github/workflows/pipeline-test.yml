@@ -1,0 +1,73 @@
+name: pipeline-test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install build
+
+      - name: Checkout github repo
+        uses: actions/checkout@v2
+        with:
+          ref: "main"
+          token: "${{ secrets.REPO_DATA_TOKEN }}"
+
+      # - name: Stage 1a) scrape_recent
+      #   run: |
+      #     export PYTHONPATH="$PYTHONPATH:./src"
+      #     python workflows/scrape_recent.py
+
+      # - name: Stage 1b) scrape_history
+      #   run: |
+      #     export PYTHONPATH="$PYTHONPATH:./src"
+      #     python workflows/scrape_history.py
+
+      # - name: Stage 2) download_pdfs
+      #   run: |
+      #     export PYTHONPATH="$PYTHONPATH:./src"
+      #     python workflows/download_pdfs.py
+
+      # - name: Stage 3) extract_raw_text
+      #   run: |
+      #     export PYTHONPATH="$PYTHONPATH:./src"
+      #     python workflows/extract_raw_text.py
+
+      # - name: Stage 4) build_docx
+      #   run: |
+      #     export PYTHONPATH="$PYTHONPATH:./src"
+      #     python workflows/build_docx.py
+
+      - name: Stage 5) write_doc_readme
+        run: |
+          export PYTHONPATH="$PYTHONPATH:./src"
+          python workflows/write_doc_readme.py "${{ secrets.OPENAI_API_KEY }}"
+
+      - name: Stage -1) write_readme
+        run: |
+          export PYTHONPATH="$PYTHONPATH:./src"
+          python workflows/write_readme.py
+
+      - name: Push to github repo
+        run: |
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL }}"
+          git config --global user.name "${{ secrets.GIT_USER_NAME }}"
+
+          git pull origin main
+          git add .
+          git commit -m "pipeline-test $(date)"
+          git push origin main
