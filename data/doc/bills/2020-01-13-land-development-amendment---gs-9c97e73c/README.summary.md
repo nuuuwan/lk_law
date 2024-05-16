@@ -1,7 +1,3 @@
-# 📄  Land Development (Amendment) - GS
-
-Bill published on **2020-01-13**.
-
 - A bill to amend the Land Development Ordinance (Chapter 464) was introduced by Hon. (Dr.) (Mrs.) Thusitha Wijemanna, M.P. for Kegalle District.
 - The document is titled "Land Development (Amendment)" and is specified as part of a Gazette Supplement issued on January 13, 2020.
 - The amendment focuses on Sections 1(b) and 2 of the Third Schedule of the principal Act.

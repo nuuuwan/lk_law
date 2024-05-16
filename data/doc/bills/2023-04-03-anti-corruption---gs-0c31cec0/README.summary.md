@@ -1,7 +1,3 @@
-# 📄  Anti-Corruption - GS
-
-Bill published on **2023-04-03**.
-
 - **Legislation Overview**:
   - A bill to give effect to provisions of the United Nations Convention against Corruption.
   - Establishes an Independent Commission to detect and investigate bribery and corruption.

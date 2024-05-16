@@ -1,7 +1,3 @@
-# 📄  Pradeshiya Sabha (Amendment) - GS
-
-Bill published on **2023-06-26**.
-
 - Private Members’ Bill to amend the Pradeshiya Sabha Act, No. 15 of 1987.
 - Presented by Hon. Jayantha Ketagoda, M.P.
 - Printed by the Department of Government Printing, Sri Lanka.

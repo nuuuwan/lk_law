@@ -1,7 +1,3 @@
-# ⚖️  Immigrants and Emigrants (Amendment)
-
-Act published on **2021-11-12**.
-
 - **Title**: IMMIGRANTS AND EMIGRANTS (AMENDMENT) ACT, No. 27 OF 2021.
 - **Date Certified**: 12th November 2021.
 - **Published**: As a supplement to Part II of the Gazette of Sri Lanka.

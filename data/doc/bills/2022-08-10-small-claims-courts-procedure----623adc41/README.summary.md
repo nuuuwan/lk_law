@@ -1,7 +1,3 @@
-# 📄  Small Claims Courts' Procedure - GS
-
-Bill published on **2022-08-10**.
-
 - The document outlines the Small Claims Courts' Procedure Act designed to detail the processes to be followed in Small Claims Courts in Sri Lanka.
 - The Act is set to come into effect on a date appointed by the Minister and published in the Gazette.
 - The document stipulates that actions for small claims should be instituted within relevant judicial divisions and under specific legislation, with exceptions noted.
