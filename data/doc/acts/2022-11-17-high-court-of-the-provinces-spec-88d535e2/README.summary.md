@@ -1,7 +1,3 @@
-# ⚖️  High Court of the Provinces (Special Provisions) (Amendment)
-
-Act published on **2022-11-17**.
-
 - **Title and Certification**: High Court of the Provinces (Special Provisions) (Amendment) Act, No. 35 of 2022.
 - **Certification Date**: Certified on 17th November 2022.
 - **Publication Details**: Published as a supplement to Part II of the Gazette of Sri Lanka on 18th November 2022.

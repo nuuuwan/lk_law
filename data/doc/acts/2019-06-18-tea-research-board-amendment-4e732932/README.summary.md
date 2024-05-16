@@ -1,7 +1,3 @@
-# ⚖️  Tea Research Board (Amendment) 
-
-Act published on **2019-06-18**.
-
 - **Title and Certification**: Tea Research Board (Amendment) Act, No. 8 of 2019, certified on June 18, 2019.
 - **Publication**: Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka on June 21, 2019.
 - **Short Title**: The Act may be cited as the Tea Research Board (Amendment) Act, No. 8 of 2019.

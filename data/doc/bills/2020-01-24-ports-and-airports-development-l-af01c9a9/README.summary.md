@@ -1,7 +1,3 @@
-# 📄  Ports and Airports Development Levy (Amendment) - GS
-
-Bill published on **2020-01-24**.
-
 - Title: Amendment of the Ports and Airports Development Levy Act, No. 18 of 2011.
 - Publication: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of January 24, 2020.
 - Purpose: To increase the levy rates on the cost, insurance, and freight value of articles under the Act.

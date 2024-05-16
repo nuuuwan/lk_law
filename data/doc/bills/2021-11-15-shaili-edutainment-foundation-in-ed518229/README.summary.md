@@ -1,7 +1,3 @@
-# 📄  Shaili Edutainment Foundation (Incorporation) - Bill
-
-Bill published on **2021-11-15**.
-
 - **Foundation Overview**: The Shaili Edutainment Foundation is established to incorporate and coordinate educational, creative, vocational, and performing activities for youth, children, and differently-abled individuals.
 
 - **Bill Presentation**: Presented by Hon. (Dr.) (Ms.) Harini Amarasuriya, M.P. on November 13, 2021, and published in the Gazette on October 25, 2021.

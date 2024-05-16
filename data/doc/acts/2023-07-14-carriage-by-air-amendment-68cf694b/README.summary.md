@@ -1,7 +1,3 @@
-# ⚖️  Carriage by Air (Amendment)
-
-Act published on **2023-07-14**.
-
 - Carriage by Air (Amendment) Act, No. 8 of 2023, certified on July 14, 2023.
 - Act amends the Carriage by Air Act, No. 29 of 2018.
 - Section 5 of the original Act is amended to include new subsections.

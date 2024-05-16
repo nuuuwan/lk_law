@@ -1,7 +1,3 @@
-# 📄  Secured Transactions - GS
-
-Bill published on **2023-11-10**.
-
 - Establishes the Secured Transactions Registration Authority for regulating secured transactions in movable property.
 - Defines powers, duties, and functions of the Authority.
 - Determines priorities among creditors with competing security rights in debtor's movable property.

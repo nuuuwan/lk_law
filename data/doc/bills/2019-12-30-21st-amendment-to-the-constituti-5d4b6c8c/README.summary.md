@@ -1,7 +1,3 @@
-# 📄  21st Amendment to the Constitution - GS
-
-Bill published on **2019-12-30**.
-
 - Document title: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, December 27, 2019, Supplement (issued on 30.12.2019).
 - Subject: Twenty-First Amendment to the Constitution (Private Member’s Bill).
 - Presented by: Hon. (Dr.) Wijeyadasa Rajapakshe, M.P. for the Colombo District.

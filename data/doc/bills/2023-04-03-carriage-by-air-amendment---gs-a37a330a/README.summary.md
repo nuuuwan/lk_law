@@ -1,7 +1,3 @@
-# 📄  Carriage by Air (Amendment) - GS
-
-Bill published on **2023-04-03**.
-
 - The document is a supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka, issued on April 3, 2023.
 - It concerns a bill to amend the Carriage by Air Act, No. 29 of 2018.
 - Ordered for publication by the Minister of Ports, Shipping and Aviation.

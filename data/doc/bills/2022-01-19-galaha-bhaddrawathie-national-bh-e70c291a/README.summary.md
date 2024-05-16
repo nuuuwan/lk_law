@@ -1,7 +1,3 @@
-# 📄  Galaha Bhaddrawathie National Bhikkhu Care Centre Trust - GS
-
-Bill published on **2022-01-19**.
-
 - **Establishment of Trust**: The bill proposes to establish the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust to assist sick and helpless Bhikkhus.
 - **Background**: The original trust, created in 2003, has failed due to improper administration and lack of funding.
 - **Short Title**: The act is named as the Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act, No. of 2022.

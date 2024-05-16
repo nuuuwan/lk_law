@@ -1,7 +1,3 @@
-# 📄  Evidence (Amendment) - GS
-
-Bill published on **2020-10-20**.
-
 - Publication: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, October 16, 2020 Supplement (Issued on 20.10.2020).
 - Subject: Amendments to the Evidence Ordinance (Chapter 14).
 - Objective: Update outdated language in the Evidence Ordinance to reflect contemporary terms and contexts.

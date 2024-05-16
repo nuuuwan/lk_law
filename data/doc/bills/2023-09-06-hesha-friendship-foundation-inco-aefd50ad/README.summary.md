@@ -1,7 +1,3 @@
-# 📄  Hesha Friendship Foundation (Incorporation) - Bill
-
-Bill published on **2023-09-06**.
-
 - **Bill Presentation**: Presented by Hon. Harshana Rajakaruna, M.P. for Gampaha District on September 6, 2023.
 - **Publication and Access**: Published in the Gazette on August 29, 2023. Available for download at www.documents.gov.lk.
 - **Purpose**: Incorporate the Hesha Friendship Foundation to formalize its activities and operations.

@@ -1,7 +1,3 @@
-# 📄  National Innovation Agency - Bill
-
-Bill published on **2019-10-23**.
-
 - **Title**: National Innovation Agency Bill
 - **Purpose**: Establishment of the National Innovation Agency, outlining its functions, powers, and organizational structure.
 - **Date Presented**: October 23, 2019, by the Prime Minister and Minister of National Policies.

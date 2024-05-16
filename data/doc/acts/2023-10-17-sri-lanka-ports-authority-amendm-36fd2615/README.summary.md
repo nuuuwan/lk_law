@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Ports Authority (Amendment)
-
-Act published on **2023-10-17**.
-
 - Title: Sri Lanka Ports Authority (Amendment) Act, No. 23 of 2023
 - Certified on: 17th October 2023
 - Published in the Gazette: October 20, 2023

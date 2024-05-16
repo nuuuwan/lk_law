@@ -1,7 +1,3 @@
-# 📄  Muslim Marriage and Divorce (Repeal) - Bill
-
-Bill published on **2021-02-09**.
-
 - Bill to repeal the Muslim Marriage and Divorce Act, No. 13 of 1951.
 - Presented by Hon. (Ven.) Athuraliye Rathana Thero, M.P. on February 9, 2021.
 - Published in the Gazette on February 1, 2021.
