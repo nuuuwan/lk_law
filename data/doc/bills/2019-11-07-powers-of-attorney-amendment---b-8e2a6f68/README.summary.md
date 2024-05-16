@@ -1,7 +1,3 @@
-# 📄  Powers of Attorney (Amendment) - Bill
-
-Bill published on **2019-11-07**.
-
 - Amendment to the Powers of Attorney Ordinance (Chapter 122).
 - Presented by the Minister of Internal and Home Affairs on November 7, 2019.
 - Published in the Gazette on August 27, 2019.

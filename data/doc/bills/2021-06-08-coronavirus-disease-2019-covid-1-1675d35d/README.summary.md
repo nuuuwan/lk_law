@@ -1,7 +1,3 @@
-# 📄  Coronavirus Disease 2019 (Covid-19) (Temporary Provisions) - Bill
-
-Bill published on **2021-06-08**.
-
 - **Purpose of the Bill**: 
   - Address situations where individuals could not meet legal deadlines due to COVID-19.
   - Designate alternative courts if existing ones become non-functional due to COVID-19.

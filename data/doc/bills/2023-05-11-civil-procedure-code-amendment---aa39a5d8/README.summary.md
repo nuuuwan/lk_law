@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) -Bill
-
-Bill published on **2023-05-11**.
-
 **Key Points of the Civil Procedure Code (Amendment) Bill:**
 
 - **Presentation and Publication:**

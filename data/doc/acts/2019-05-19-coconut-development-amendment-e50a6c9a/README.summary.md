@@ -1,7 +1,3 @@
-# ⚖️  Coconut Development (Amendment) 
-
-Act published on **2019-05-19**.
-
 - **Legislative Amendments**: The Coconut Development (Amendment) Act, No. 7 of 2019 amends the Coconut Development Act, No. 46 of 1971.
 - **Certification and Publication**: Certified on May 14, 2019, and published as a supplement in the Gazette of Sri Lanka on May 17, 2019.
 - **Availability and Purchase**: The Act is available for Rs. 8.00 with Rs. 15.00 postage and can be downloaded from www.documents.gov.lk or purchased at the Government Publications Bureau in Colombo.

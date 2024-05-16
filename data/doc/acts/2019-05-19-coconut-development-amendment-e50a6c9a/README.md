@@ -1,3 +1,13 @@
 # ⚖️  Coconut Development (Amendment) 
 
 Act published on **2019-05-19**.
+
+- **Legislative Amendments**: The Coconut Development (Amendment) Act, No. 7 of 2019 amends the Coconut Development Act, No. 46 of 1971.
+- **Certification and Publication**: Certified on May 14, 2019, and published as a supplement in the Gazette of Sri Lanka on May 17, 2019.
+- **Availability and Purchase**: The Act is available for Rs. 8.00 with Rs. 15.00 postage and can be downloaded from www.documents.gov.lk or purchased at the Government Publications Bureau in Colombo.
+- **Insertion of New Provisions**:
+  - **Section 2A Added**: Introduces the position of a Working Director, who must possess an agriculture degree or recognized qualifications in coconut development.
+  - **Duties and Terms of Working Director**: Must be a full-time officer assisting the Chairman in coconut cultivation, marketing, administration, and operation of the Board. The tenure is three years, with eligibility for one additional term unless removed.
+  - **Conditions for Removal and Vacancy**: The Minister can remove the Working Director, who may also resign or be replaced temporarily due to health or absence.
+  - **Remuneration**: Remuneration is determined by Public Enterprise Circulars from the Ministry of Finance.
+- **Prevailing Text**: In case of any discrepancies, the Sinhala text of the Act takes precedence over the Tamil text.

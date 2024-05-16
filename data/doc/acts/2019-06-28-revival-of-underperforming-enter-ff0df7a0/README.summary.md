@@ -1,7 +1,3 @@
-# ⚖️  Revival of Underperforming Enterprises or Underutilized Assets (Repeal)
-
-Act published on **2019-06-28**.
-
 - The document is an Act of the Parliament of the Democratic Socialist Republic of Sri Lanka.
 - The Act is titled "Revival of Underperforming Enterprises or Underutilized Assets (Repeal) Act, No. 12 of 2019."
 - The Act was certified on June 28, 2019.

@@ -1,7 +1,3 @@
-# 📄  Parliamentary Budget Office - Bill
-
-Bill published on **2023-05-23**.
-
 - Establishment of the Parliamentary Budget Office (PBO).
 - Specification of PBO powers, duties, and functions.
 - Presentation date: May 23, 2023, by the Minister of Finance.

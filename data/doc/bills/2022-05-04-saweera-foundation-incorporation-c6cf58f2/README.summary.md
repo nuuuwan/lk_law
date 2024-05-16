@@ -1,7 +1,3 @@
-# 📄  Saweera Foundation (Incorporation) - GS
-
-Bill published on **2022-05-04**.
-
 - A bill to incorporate the Saweera Foundation in Sri Lanka is being presented by Hon. (Major) Pradeep Undugoda, M.P. for Colombo District.
 - The act will allow the Saweera Foundation to become a corporate body with perpetual succession, capable of suing and being sued.
 - The foundation's objectives include promoting self-employment, enhancing leadership skills, providing sanitary facilities, and other support for impoverished households.
