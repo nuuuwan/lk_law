@@ -1,7 +1,3 @@
-# 📄  Inland Revenue (Amendment) - Bill
-
-Bill published on **2023-03-24**.
-
 - **Title:** Inland Revenue (Amendment) Bill to amend the Inland Revenue Act, No. 24 of 2017
 - **Presented:** By the Minister of Finance, Economic Stabilization & National Policies on March 24, 2023
 - **Key Date:** Published in the Gazette on March 16, 2023

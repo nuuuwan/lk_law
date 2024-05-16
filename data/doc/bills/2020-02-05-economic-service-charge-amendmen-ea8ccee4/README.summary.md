@@ -1,7 +1,3 @@
-# 📄  Economic Service Charge (Amendment) - Bill
-
-Bill published on **2020-02-05**.
-
 - The document is a bill presented to amend the Economic Service Charge Act, No. 13 of 2006.
 - Presented by the Prime Minister and various ministers on February 5, 2020.
 - Published in the Gazette on January 14, 2020.

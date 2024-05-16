@@ -1,7 +1,3 @@
-# 📄  Tobacco Tax (Amendment) - GS
-
-Bill published on **2020-12-21**.
-
 - A bill to amend the Tobacco Tax Act, No. 08 of 1999, proposed by Hon. (Dr) Wijeyadasa Rajapakshe, M.P. for Colombo District.
 - The bill is issued as a Gazette Supplement on December 21, 2020.
 - Available for download at www.documents.gov.lk and for purchase at the Government Publications Bureau, Colombo 5.

@@ -1,7 +1,3 @@
-# 📄  Siyane Katikawa Nalaka Godahewa Foundation (Incorporation) - Bill
-
-Bill published on **2022-08-12**.
-
 - **Title and Context**:
   - Sri Lanka's Parliament is considering a bill to incorporate the Siyane Katikawa Nalaka Godahewa Foundation.
   - The bill was presented by Hon. Premnath C. Dolawatte, M.P. for Colombo District on August 12, 2022.

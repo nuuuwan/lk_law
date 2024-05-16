@@ -1,7 +1,3 @@
-# 📄  Prevention of Frauds (Amendment) - GS
-
-Bill published on **2022-07-18**.
-
 - **Title and Authority**:
   - Document: Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, July 15, 2022 Supplement (Issued on 18.07.2022).
   - Bill to amend the Prevention of Frauds Ordinance (Chapter 70).

@@ -1,7 +1,3 @@
-# 📄  Kandyan Marriage and Divorce (Amendment) - Bill
-
-Bill published on **2022-10-03**.
-
 - Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on October 3, 2022.
 - Published in the Gazette on September 7, 2022.
 - The Bill is aimed at amending the Kandyan Marriage and Divorce Act (Chapter 113).
