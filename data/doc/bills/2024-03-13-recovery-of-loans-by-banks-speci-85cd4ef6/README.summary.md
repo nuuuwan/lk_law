@@ -1,7 +1,3 @@
-# 📄  Recovery of Loans by Banks (Special Provisions) (Amendment) - GS
-
-Bill published on **2024-03-13**.
-
 - Bill to amend the Recovery of Loans by Banks (Special Provisions) Act, No. 4 of 1990.
 - Ordered to be published by the Minister of Finance, Economic Stabilization, and National Policies.
 - Printed by the Department of Government Printing, Sri Lanka.

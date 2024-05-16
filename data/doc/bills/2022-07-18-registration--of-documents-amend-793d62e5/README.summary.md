@@ -1,7 +1,3 @@
-# 📄  Registration  of Documents (Amendment) - GS
-
-Bill published on **2022-07-18**.
-
 Here are the most important points from the document text summarized into bullets:
 
 - The document is a supplement to The Gazette of the Democratic Socialist Republic of Sri Lanka, published on July 15, 2022.

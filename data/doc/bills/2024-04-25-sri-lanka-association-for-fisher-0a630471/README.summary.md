@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Association for Fisheries and Aquatic Resources (Incorporation) - Bill
-
-Bill published on **2024-04-25**.
-
 - Bill presented to incorporate the Sri Lanka Association for Fisheries and Aquatic Resources (SLAFAR).
 - Presented by Hon. (Dr.) Nalaka Godahewa, M.P., on April 25, 2024.
 - The Act aims to make SLAFAR a body corporate with perpetual succession.

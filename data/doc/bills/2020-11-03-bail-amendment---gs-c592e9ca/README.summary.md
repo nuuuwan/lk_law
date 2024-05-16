@@ -1,7 +1,3 @@
-# 📄  Bail Amendment - GS
-
-Bill published on **2020-11-03**.
-
 - The document pertains to the Democratic Socialist Republic of Sri Lanka.
 - It references the Gazette Supplement published on October 29, 2020, and issued on November 3, 2020.
 - The document is about a Bill to amend the Bail Act, No. 30 of 1997.

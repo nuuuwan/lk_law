@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - Bill
-
-Bill published on **2022-08-31**.
-
 - Bill presented to amend the Civil Procedure Code (Chapter 101) of Sri Lanka.
 - Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on August 31, 2022.
 - Published in the Gazette on August 10, 2022.
