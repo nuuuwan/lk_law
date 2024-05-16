@@ -1,7 +1,3 @@
-# ⚖️  Sisira Jayakody Siyapatha Foundation (Incorporation)
-
-Act published on **2022-09-06**.
-
 - The **Sisira Jayakody Siyapatha Foundation (Incorporation) Act, No. 20 of 2022** was certified on September 6, 2022, and published in the Gazette of the Democratic Socialist Republic of Sri Lanka.
 - The Act formally incorporates the **Sisira Jayakody Siyapatha Foundation**, granting it perpetual succession and the ability to sue and be sued under its corporate name.
 - The foundation aims to:

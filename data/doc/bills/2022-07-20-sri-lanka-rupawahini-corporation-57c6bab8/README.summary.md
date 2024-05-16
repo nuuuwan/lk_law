@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Rupawahini Corporation (Amendment) - GS
-
-Bill published on **2022-07-20**.
-
 - **Type of Document & Issuance**: Supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of July 15, 2022, issued on July 20, 2022.
 - **Act Being Amended**: Sri Lanka Rupavahini Corporation Act, No. 6 of 1982.
 - **New Members Added to Corporation**:

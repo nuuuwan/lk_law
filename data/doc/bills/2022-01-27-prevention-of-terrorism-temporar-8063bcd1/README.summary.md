@@ -1,7 +1,3 @@
-# 📄  Prevention of Terrorism (Temporary Provisions) (Amendment) - GS
-
-Bill published on **2022-01-27**.
-
 - **Title:** Gazette of the Democratic Socialist Republic of Sri Lanka - Supplement (January 21, 2022)
 - **Issued Date:** January 27, 2022
 - **Subject:** Bill to Amend the Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979
