@@ -1,7 +1,3 @@
-# ⚖️  Social Security Contribution Levy 
-
-Act published on **2022-09-20**.
-
 - **Social Security Contribution Levy Act**: This act, No. 25 of 2022, was certified on September 20, 2022, and comes into effect on October 1, 2022.
 - **Applicability**: The Act applies to persons who import articles, manufacture goods, provide services, or engage in wholesale or retail sale of goods.
 - **Levy Rate**: A 2.5% levy on the liable turnover is imposed on taxable persons every quarter.

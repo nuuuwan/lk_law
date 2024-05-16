@@ -1,7 +1,3 @@
-# 📄  Notaries (Amendment) - GS
-
-Bill published on **2023-11-29**.
-
 - The Notaries (Amendment) Bill, published on November 29, 2023, aims to amend the Notaries Ordinance (Chapter 107).
 - The amendments include:
   - **Clause 2**: Requires notaries to state in the affidavit for license renewal that any money due to the Registrar-General has been paid.

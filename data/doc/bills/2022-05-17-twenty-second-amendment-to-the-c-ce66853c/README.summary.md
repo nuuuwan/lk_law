@@ -1,7 +1,3 @@
-# 📄  Twenty Second Amendment to the Constitution - Bill
-
-Bill published on **2022-05-17**.
-
 - **Bill Introduction and Purpose**
   - Presented by Hon. (Dr.) Wijeyadasa Rajapakshe, M.P. for Colombo District on May 17, 2022.
   - Published in the Gazette on May 6, 2022.
