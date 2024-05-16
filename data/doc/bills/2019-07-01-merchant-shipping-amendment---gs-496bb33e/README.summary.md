@@ -1,7 +1,3 @@
-# 📄  Merchant Shipping (Amendment) - GS
-
-Bill published on **2019-07-01**.
-
 Here are the most important points from the provided document text:
 
 - **Amendment Bill Introduction**:

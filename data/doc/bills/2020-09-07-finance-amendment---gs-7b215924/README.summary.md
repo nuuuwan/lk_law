@@ -1,7 +1,3 @@
-# 📄  Finance (Amendment) - GS 
-
-Bill published on **2020-09-07**.
-
 - **Issued Document**: Supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka (Part II, September 4, 2020, issued on 07.09.2020).
 - **Subject**: Finance (Amendment) Bill to amend the Finance Act, No. 35 of 2018.
 - **Prime Minister and Minister Roles**: Published by authority of the Prime Minister, who also serves as Minister of Finance, Buddhasasana, Religious & Cultural Affairs, and Urban Development & Housing.

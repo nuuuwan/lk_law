@@ -1,7 +1,3 @@
-# 📄  Notaries (Amendment) - Bill
-
-Bill published on **2023-12-07**.
-
 - **Bill Title**: Notaries (Amendment)
 - **Presented by**: Minister of Justice, Prison Affairs, and Constitutional Reforms
 - **Presentation Date**: December 7, 2023
