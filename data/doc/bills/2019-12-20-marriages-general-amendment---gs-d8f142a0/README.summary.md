@@ -1,7 +1,3 @@
-# 📄  Marriages (General) (Amendment) - GS
-
-Bill published on **2019-12-20**.
-
 - A bill to amend the Marriages (General) Ordinance No. 19 of 1907.
 - To be presented in Parliament by Hon. (Ven.) Athuraliye Rathana Thero, M.P.
 - Printed at the Department of Government Printing, Sri Lanka, with a purchase price of Rs. 6.00 and postage of Rs. 15.00.

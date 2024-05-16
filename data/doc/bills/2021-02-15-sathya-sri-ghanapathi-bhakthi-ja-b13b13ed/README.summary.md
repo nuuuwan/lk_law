@@ -1,7 +1,3 @@
-# 📄  Sathya Sri Ghanapathi Bhakthi Jana Sewa Foundation (Incorporation) - GS
-
-Bill published on **2021-02-15**.
-
 Here are the most important points summarized into bullets:
 
 - **Title**: Incorporation of the Sathya Sri Ghanapathi Bhakthi Jana Sewa Foundation.

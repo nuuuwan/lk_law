@@ -1,7 +1,3 @@
-# 📄  Judicature (Amendment) - GS
-
-Bill published on **2022-08-10**.
-
 - Judicature (Amendment) Bill to amend Judicature Act, No. 2 of 1978, published by Minister of Justice, Prison Affairs and Constitutional Reforms.
 - Clause 2: Amends Section 2 to recognize High Courts for Provinces and Small Claims Courts as Courts of First Instance.
 - Clause 3: Establishes District Court, Family Court, Small Claims Court, Magistrate's Court, and Primary Court in each judicial district; appointed Judges accordingly.

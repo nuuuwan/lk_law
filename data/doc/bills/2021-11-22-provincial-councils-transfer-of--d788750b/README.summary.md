@@ -1,7 +1,3 @@
-# 📄  Provincial Councils (Transfer of Stamp Duty)) (Amendment) - GS
-
-Bill published on **2021-11-22**.
-
 - **Amendment Act Title**: Provincial Councils (Transfer of Stamp Duty) (Amendment) Act, No. 13 of 2011.
 - **Legal Change**: The amendment addresses section 2 of the original Act.
 - **Main Amendment Details**:

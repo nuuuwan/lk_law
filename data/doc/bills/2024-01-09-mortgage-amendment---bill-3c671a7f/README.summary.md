@@ -1,7 +1,3 @@
-# 📄  Mortgage (Amendment) - Bill
-
-Bill published on **2024-01-09**.
-
 - Bill to amend the Mortgage Act (Chapter 89) in Sri Lanka.
 - Presented by the Minister of Finance, Economic Stabilization, and National Policies on January 9, 2024.
 - Published in the Gazette on November 10, 2023.

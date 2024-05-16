@@ -1,7 +1,3 @@
-# 📄  Appropriation - Bill
-
-Bill published on **2019-02-05**.
-
 - **Purpose of the Bill**: To authorize financial provisions and expenditures for the Government of Sri Lanka for the financial year 2019.
 - **Loans**: It authorizes raising loans both internally and externally and specifies conditions for such borrowing.
 - **Minister’s Authority**: The Minister of Finance and Mass Media can direct advances from the Consolidated Fund or any other government moneys.

@@ -1,7 +1,3 @@
-# 📄  Malaiyagha Student Higher Education Fund (Incorporation) - Bill
-
-Bill published on **2023-12-04**.
-
 - **Presented By**: Hon. Velu Kumar, M.P. for Mahanuwara District on December 4, 2023.
 - **Gazette Publication Date**: November 24, 2023. 
 - **Bill Identification**: Bill No. 219.
