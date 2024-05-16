@@ -1,7 +1,3 @@
-# 📄  Excise (Amendment) - Bill
-
-Bill published on **2019-08-08**.
-
 - Presented by the Minister of Finance on 08th August 2019.
 - Published in the Gazette on July 12, 2019.
 - Ordered by Parliament to be printed as Bill No. 292.

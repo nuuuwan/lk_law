@@ -1,7 +1,3 @@
-# 📄  Lions Clubs International District 306A- National Development Foundation Trust (Incorporation) (Amendment) -GS
-
-Bill published on **2019-07-29**.
-
 - Bill: Amendment to the Lions Clubs International District 306A - National Development Foundation Trust (Incorporation) Act, No. 28 of 1986.
 - Presented by: Hon. Wijepala Hettiarachchi, M.P. for Galle District.
 - Published in the Gazette of Sri Lanka, Part II on July 26, 2019, supplement issued on 29.07.2019.

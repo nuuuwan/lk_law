@@ -1,7 +1,3 @@
-# 📄  Walpola Piyananda Educational and Cultural Foundation (Incorporation) - GS
-
-Bill published on **2023-08-22**.
-
 - The document pertains to the incorporation of the Walpola Piyananda Educational and Cultural Foundation as a legal entity.
 - Presented as a Private Members’ Bill by Hon. Sanjeeva Edirimanna, M.P. for Kalutara District, in Sri Lankan Parliament.
 - The Foundation, originally established by Sri Maha Viharaya, aims to formalize its activities through incorporation.

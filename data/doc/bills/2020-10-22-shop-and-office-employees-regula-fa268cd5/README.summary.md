@@ -1,7 +1,3 @@
-# 📄  Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - Bill
-
-Bill published on **2020-10-22**.
-
 - Presented by the Minister of Labour on October 22, 2020.
 - Published in the Gazette on October 07, 2020.
 - The Bill is No. 8.

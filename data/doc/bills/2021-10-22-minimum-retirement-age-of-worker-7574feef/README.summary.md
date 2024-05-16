@@ -1,7 +1,3 @@
-# 📄  Minimum Retirement Age of Workers - Bill
-
-Bill published on **2021-10-22**.
-
 - Bill for the Minimum Retirement Age of Workers in Sri Lanka presented by the Minister of Labour on October 22, 2021.
 - Published in the Gazette on October 12, 2021, [Bill No. 83].
 - Minimum retirement age set at 60 years for workers under 52 years on the effective date or recruited after.

@@ -1,7 +1,3 @@
-# ⚖️  Industrial Disputes (Amendment)
-
-Act published on **2022-09-16**.
-
 - **Title and Context**: Industrial Disputes (Amendment) Act, No. 22 of 2022, certified on 16th September 2022, by the Parliament of Sri Lanka.
   
 - **Short Title**: The Act may be cited as the Industrial Disputes (Amendment) Act, No. 22 of 2022.

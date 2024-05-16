@@ -1,7 +1,3 @@
-# 📄  Kelaniya Buddhist Women's Charitable Soiety (incorporation) - GS
-
-Bill published on **2021-09-27**.
-
 - **Purpose**: Incorporate Kelaniya Buddhist Women's Charitable Society.
 - **Location**: Established in Kiribathgoda, Gampaha District, Sri Lanka.
 - **Bill Presented By**: Hon. (Ven.) Athuraliye Rathana Thero, M.P.
