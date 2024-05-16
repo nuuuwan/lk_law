@@ -1,7 +1,3 @@
-# 📄  Centre for Skills Development Studies (Incorporation) - GS
-
-Bill published on **2021-11-24**.
-
 - **Bill Introduction**: The Centre for Skills Development Studies (CSDC) incorporation bill, presented by Hon. Rohini Kumari Wijeratne, M.P. for Matale District, is included in the Gazette Supplement issued on November 24, 2021.
 - **Purpose**: The bill aims to formally incorporate the Centre for Skills Development Studies which has been operating successfully in Sri Lanka.
 - **Title and Effect**: The Act will be cited as the Centre for Skills Development Studies (Incorporation) Act, No. of 2021, and will make the current and future members a perpetual body corporate.

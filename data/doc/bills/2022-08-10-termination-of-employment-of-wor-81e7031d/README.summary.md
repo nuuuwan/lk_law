@@ -1,7 +1,3 @@
-# 📄  Termination of Employment of Workmen (Special Provisions) (Amendment) - Bill
-
-Bill published on **2022-08-10**.
-
 - **Bill Introduction**: The bill titled "TERMINATION OF EMPLOYMENT OF WORKMEN (SPECIAL PROVISIONS) (AMENDMENT)" is aimed at amending the existing act (No. 45 of 1971).
 - **Presented By**: The Minister of Labour and Foreign Employment on August 10, 2022.
 - **Publication**: Published in the Gazette on June 22, 2022, ordered by Parliament to be printed.

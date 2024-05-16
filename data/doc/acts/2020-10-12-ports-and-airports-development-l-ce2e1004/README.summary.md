@@ -1,7 +1,3 @@
-# ⚖️  ports and Airports Development Levy (Amendment)
-
-Act published on **2020-10-12**.
-
 - Title: Ports and Airports Development Levy (Amendment) Act, No. 5 of 2020
 - Certified on: 12th of October, 2020
 - Published in: Gazette of the Democratic Socialist Republic of Sri Lanka on October 16, 2020

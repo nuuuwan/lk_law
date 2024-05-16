@@ -1,7 +1,3 @@
-# 📄  Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment) - GS
-
-Bill published on **2021-05-20**.
-
 - Document title: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of May 13, 2021, issued on 20.05.2021.
 - Subject: Convention Against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment (Amendment).
 

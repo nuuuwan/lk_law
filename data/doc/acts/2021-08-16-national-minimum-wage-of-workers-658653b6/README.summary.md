@@ -1,7 +1,3 @@
-# ⚖️  National Minimum Wage of Workers (Amendment)
-
-Act published on **2021-08-16**.
-
 - National Minimum Wage of Workers (Amendment) Act, No. 16 of 2021 certified on August 16, 2021.
 
 - Published as a Supplement to the Gazette of Sri Lanka on August 20, 2021.

@@ -1,7 +1,3 @@
-# 📄  Employee's Provident Fund (Amendment) - GS
-
-Bill published on **2021-09-07**.
-
 - The document is titled "The Gazette of the Democratic Socialist Republic of Sri Lanka: Part II of September 03, 2021, Supplement."
 - It includes a bill to amend the Employees’ Provident Fund Act, No. 15 of 1958.
 - The amendment was ordered to be published by the Minister of Labour.

@@ -1,7 +1,3 @@
-# 📄  Marriages (General) (Amendment) - Bill
-
-Bill published on **2021-02-09**.
-
 - **Title of Document**: Marriages (General) (Amendment) Bill
 - **Purpose**: To amend the Marriages (General) Ordinance No. 19 of 1907
 - **Presented by**: Hon. (Ven.) Athuraliye Rathana Thero, M.P. on February 9, 2021

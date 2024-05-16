@@ -1,7 +1,3 @@
-# 📄  Shrama Vasana Fund (Amendment) (GS)
-
-Bill published on **2019-05-27**.
-
 - **Bill Overview:**
   - The "Bill to amend the Shrama Vasana Fund Act, No. 12 of 1998" was ordered to be published by the Minister of Labour and Trade Union Relations.
 
@@ -30,4 +26,3 @@ Bill published on **2019-05-27**.
 
 - **Miscellaneous:**
   - In case of inconsistency between Sinhala and Tamil texts of this Act, the Sinhala text prevails.
-

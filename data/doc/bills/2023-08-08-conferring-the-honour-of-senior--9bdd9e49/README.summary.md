@@ -1,7 +1,3 @@
-# 📄  Conferring the Honour of Senior Instructing Attorney-at-Law - Bill
-
-Bill published on **2023-08-08**.
-
 - Purpose: Provide recognition for Attorneys-at-Law practicing as Instructing Attorneys who have demonstrated eminence and high standards in the legal profession.
 - Presented by: Minister of Justice, Prison Affairs and Constitutional Reforms on August 8, 2023.
 - Publication: Published in the Gazette on July 19, 2023, and available for download at www.documents.gov.lk.

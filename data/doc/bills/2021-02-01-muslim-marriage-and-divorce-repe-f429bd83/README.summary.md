@@ -1,7 +1,3 @@
-# 📄  Muslim Marriage and Divorce (Repeal) - GS
-
-Bill published on **2021-02-01**.
-
 - Title: Muslim Marriage and Divorce (Repeal) Bill
 - Purpose: Repeal the Muslim Marriage and Divorce Act, No. 13 of 1951
 - Presented by: Hon. (Ven.) Athuraliye Rathana Thero, M.P
