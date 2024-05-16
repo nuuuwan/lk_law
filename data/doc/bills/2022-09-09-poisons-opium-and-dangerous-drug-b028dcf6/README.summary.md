@@ -1,7 +1,3 @@
-# 📄  Poisons, Opium and Dangerous Drugs (Amendment) - Bill
-
-Bill published on **2022-09-09**.
-
 - The document pertains to a Bill aimed at amending the Poisons, Opium, and Dangerous Drugs Ordinance (Chapter 218) in Sri Lanka.
 - **Presented by**: Minister of Justice, Prison Affairs, and Constitutional Reforms on September 9, 2022.
 - **Gazette Publication Date**: August 23, 2022.

@@ -1,7 +1,3 @@
-# 📄  Finance - GS
-
-Bill published on **2023-10-04**.
-
 - **Bill Purpose**: Amend the Finance Act No. 35 of 2018 and Finance Act No. 12 of 2012 and provide exemptions under the Imports and Exports (Control) Act No. 1 of 1969.
 - **Levy on Mobile Advertisements**: Introduce a levy of 25 cents per mobile short message for bulk advertisements sent via fixed telephone lines, paid by the advertiser.
 - **Definitions Update**: Amend definitions for "mobile short message" and "bulk advertisements" to include messages via fixed telephone lines.

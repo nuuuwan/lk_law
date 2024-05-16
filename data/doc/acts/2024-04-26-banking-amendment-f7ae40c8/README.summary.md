@@ -1,7 +1,3 @@
-# ⚖️  Banking (Amendment)
-
-Act published on **2024-04-26**.
-
 - The Banking (Amendment) Act, No. 24 of 2024 amends the Banking Act, No. 30 of 1988 in several significant ways.
 - **Effective Date**: The Act will come into operation on a date appointed by the Minister. 
 - **Inclusion of "Shell Banks"**: The amendment in Section 2 includes shell banks under entities that the term "bank" does not encompass.

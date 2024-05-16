@@ -1,7 +1,3 @@
-# ⚖️  Children and Young Persons (Amendment)
-
-Act published on **2022-11-17**.
-
 - Act No. 39 of 2022 amends the Children and Young Persons Ordinance (Chapter 23).
 - Certified and published in November 2022.
 - Act can be downloaded from the official government website.

@@ -1,7 +1,3 @@
-# 📄  Factories (Amendment) - GS
-
-Bill published on **2020-10-08**.
-
 - **Title**: Factories (Amendment) Bill to amend the Factories Ordinance (Chapter 128)
 - **Publication Date**: October 02, 2020
 - **Issued By**: Minister of Labour

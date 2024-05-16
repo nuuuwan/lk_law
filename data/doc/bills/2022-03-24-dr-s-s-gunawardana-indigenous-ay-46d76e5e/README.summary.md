@@ -1,7 +1,3 @@
-# 📄  Dr. S. S. Gunawardana Indigenous Ayurveda Development Foundation (Incorporation) - Bill
-
-Bill published on **2022-03-24**.
-
 - Bill to incorporate the Dr. S. S. Gunawardana Indigenous Ayurveda Development Foundation.
 - Presented by Hon. Rohana Bandara, M.P. for Anuradhapura District on March 24, 2022.
 - The foundation aims to promote indigenous Ayurvedic medicine through research, expanding medical facilities, preserving traditional practices, and developing educational resources.
