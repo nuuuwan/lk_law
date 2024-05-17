@@ -1,7 +1,3 @@
-# 📄  Animal Welfare - GS
-
-Bill published on **2022-02-07**.
-
 - A bill titled "Animal Welfare Act, No. of 2022" was introduced to promote animal welfare and prevent cruelty to animals.
 - The bill intends to replace the Prevention of Cruelty to Animals Ordinance (Chapter 475).
 - Key objectives include fostering compassion towards animals and ensuring their protection and well-being.

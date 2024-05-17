@@ -1,7 +1,3 @@
-# 📄  Special Commodity Levy (Amendment) - GS
-
-Bill published on **2023-07-07**.
-
 - The document is part of The Gazette of the Democratic Socialist Republic of Sri Lanka, dated July 07, 2023.
 - It includes a Private Members’ Bill to amend the Special Commodity Levy Act, No. 48 of 2007.
 - The bill is presented by Hon. Eran Wickramaratne, M.P.

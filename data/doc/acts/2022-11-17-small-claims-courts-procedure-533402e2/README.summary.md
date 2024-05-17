@@ -1,7 +1,3 @@
-# ⚖️  Small claims Courts' Procedure
-
-Act published on **2022-11-17**.
-
 - **Act Overview**: Small Claims Courts' Procedure Act, No. 33 of 2022, certified on November 17, 2022.
 - **Publication Info**: Available as a supplement in the Gazette of Sri Lanka on November 18, 2022; downloadable at www.documents.gov.lk.
 - **Purpose**: Establishes procedures for actions in Small Claims Courts, including associated and incidental matters.

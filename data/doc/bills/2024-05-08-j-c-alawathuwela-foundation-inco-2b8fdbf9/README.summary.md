@@ -1,7 +1,3 @@
-# 📄  J. C. Alawathuwela Foundation (Incorporation) - GS
-
-Bill published on **2024-05-08**.
-
 - Title: The Gazette of the Democratic Socialist Republic of Sri Lanka.
 - Date: Part II of May 03, 2024; Issued on 08.05.2024.
 - Subject: Incorporation of the J. C. Alawathuwela Foundation.

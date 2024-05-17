@@ -1,7 +1,3 @@
-# 📄  Securities and Exchange Commission of Sri Lanka - GS
-
-Bill published on **2021-06-28**.
-
 - Establishes the Securities and Exchange Commission of Sri Lanka.
 - Regulates market institutions, public offers of securities, and market intermediaries.
 - Protects investors and provides enforcement measures against market misconduct.

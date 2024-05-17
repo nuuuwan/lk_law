@@ -1,7 +1,3 @@
-# 📄  Approprlation 2021 - GS
-
-Bill published on **2020-10-06**.
-
 - **Purpose**: The document details a bill for the financial year 2021 in Sri Lanka.
 - **Key Provisions**:
   - Authorization for government financial activities.

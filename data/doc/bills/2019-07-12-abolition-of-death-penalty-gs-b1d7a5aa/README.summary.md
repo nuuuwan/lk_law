@@ -1,7 +1,3 @@
-# 📄  Abolition of Death Penalty (GS)
-
-Bill published on **2019-07-12**.
-
 - Issued on July 12, 2019, as a supplement to The Gazette of the Democratic Socialist Republic of Sri Lanka.
 - The document pertains to a Private Member’s Bill titled "Abolition of Death Penalty."
 - The Bill aims to abolish the death penalty and introduce consequential legal provisions.
