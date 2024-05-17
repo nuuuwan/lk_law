@@ -1,7 +1,3 @@
-# ⚖️  Intellectual Property (Amendment)
-
-Act published on **2021-01-18**.
-
 - Act title: Intellectual Property (Amendment) Act, No. 8 of 2021
 - Certified on: 18th January, 2021
 - Published as a supplement to the Gazette of Sri Lanka on January 22, 2021

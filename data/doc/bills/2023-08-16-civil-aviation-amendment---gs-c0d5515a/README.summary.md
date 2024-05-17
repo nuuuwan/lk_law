@@ -1,7 +1,3 @@
-# 📄  Civil Aviation (Amendment) - GS
-
-Bill published on **2023-08-16**.
-
 - A bill to amend the Civil Aviation Act, No. 14 of 2010 was ordered to be published by the Minister of Ports, Shipping, and Aviation.
 - The publication is printed at the Department of Government Printing, Sri Lanka, and available for purchase at the Government Publications Bureau in Colombo.
 - The publication price is Rs. 6.00 with postage costing Rs. 150.00.

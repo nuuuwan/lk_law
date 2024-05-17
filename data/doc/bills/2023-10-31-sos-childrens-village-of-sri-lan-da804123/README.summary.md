@@ -1,7 +1,3 @@
-# 📄  SOS Children's Village of Sri Lanka Organization (Incorporation) - GS
-
-Bill published on **2023-10-31**.
-
 - **Bill Overview**:
   - Title: S O S Children's Village of Sri Lanka Organization (Incorporation) Act, 2023.
   - Purpose: To incorporate the S O S Children's Village of Sri Lanka Organization.
@@ -47,4 +43,3 @@ Bill published on **2023-10-31**.
 
 - **Annual Reporting**:
   - Report Submission: Activities report and audited accounts to be submitted within six months to relevant authorities.
-

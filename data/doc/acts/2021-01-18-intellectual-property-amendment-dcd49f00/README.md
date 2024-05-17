@@ -1,3 +1,20 @@
 # ⚖️  Intellectual Property (Amendment)
 
 Act published on **2021-01-18**.
+
+- Act title: Intellectual Property (Amendment) Act, No. 8 of 2021
+- Certified on: 18th January, 2021
+- Published as a supplement to the Gazette of Sri Lanka on January 22, 2021
+- Printed and available for purchase at the Government Publications Bureau, Colombo 5
+- Price: Rs. 8.00, Postage: Rs. 15.00, Downloadable at www.documents.gov.lk
+- Purpose: To amend the Intellectual Property Act, No. 36 of 2003
+- Key amendments:
+  - Introduction of "accessible format" definition, enabling access for disabled individuals
+  - Definition of "beneficiary person" includes individuals who are blind or have visual, perceptual, or physical disabilities affecting reading
+  - New section 12A added for fair use of works by authorized entities to facilitate beneficiary persons
+- Authorized entities:
+  - Can reproduce works in accessible formats for beneficiary persons
+  - Must ensure works are used only by beneficiary persons and prevent commercial misuse
+  - Must operate on a non-profit basis
+- Requirement for notification to the World Intellectual Property Organization if works are not commercially available in accessible formats
+- Sinhala text to prevail in case of inconsistency between Sinhala and Tamil texts of the Act.

@@ -1,7 +1,3 @@
-# 📄  Partition (Amendment) - Bill
-
-Bill published on **2023-03-23**.
-
 - The Bill is to amend the Partition Law, No. 21 of 1977.
 - New section 2A allows "praveni nilakaraya" or related persons to initiate partition or sale actions for temple land.
 - Section 15 amended for public announcements via banners and loudspeakers.

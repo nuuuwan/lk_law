@@ -1,7 +1,3 @@
-# 📄  Milco Milk Producers' Foundation (Incorporation) - GS
-
-Bill published on **2021-07-05**.
-
 - **Title**: The Milco Milk Producers’ Foundation (Incorporation) Act, 2021.
 - **Presented by**: Hon. Samanpriya Herath, M.P. for Kurunegala District.
 - **Purpose**: 

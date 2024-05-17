@@ -1,7 +1,3 @@
-# 📄  Prohibition of Anti-Personnel Mines - GS
-
-Bill published on **2021-09-27**.
-
 - The bill is intended to implement the Convention on the Prohibition of the Use, Stockpiling, Production, and Transfer of Anti-Personnel Mines and their Destruction.
 - Announced for publication by the Minister of Justice and printed by the Department of Government Printing, Sri Lanka.
 - The Act applies to actions related to anti-personnel mines by any person within Sri Lanka or on Sri Lankan-registered ships and aircraft, as well as by Sri Lankan citizens abroad.
