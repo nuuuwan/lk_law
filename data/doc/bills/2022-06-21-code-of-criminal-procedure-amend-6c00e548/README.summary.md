@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - Bill
-
-Bill published on **2022-06-21**.
-
 - Bill to amend the Code of Criminal Procedure Act, No. 15 of 1979.
 - Presented by the Minister of Justice, Prison Affairs and Constitutional Reforms on June 21, 2022.
 - Published in the Gazette on March 31, 2022.

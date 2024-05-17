@@ -1,3 +1,17 @@
 # 📄  Provincial Council Elections (Amendment) - Bill
 
 Bill published on **2019-11-07**.
+
+- Bill to amend the Provincial Councils Elections Act, No. 2 of 1988.
+- Presented by Hon. M. A. Sumanthiran, M. P. for Jaffna District on 07th of November, 2019.
+- Published in the Gazette on October 14, 2019.
+- Ordered by Parliament to be printed.
+- Bill No. 310.
+- Printed at the Department of Government Printing, Sri Lanka.
+- The price of the printed bill is Rs. 6.00, with postage costing Rs. 15.00.
+- Bill can be downloaded from www.documents.gov.lk.
+- The Act may be cited as the Provincial Councils Elections (Amendment) Act, No.       of 2019.
+- Repeals the Provincial Councils Elections (Amendment) Act, No. 17 of 2017.
+- Restores the provisions of the Provincial Councils Elections Act, No. 2 of 1988 as they were on 21st September, 2017.
+- Any acts done after 22nd September, 2017, under the amended Act are considered valid as per the Act's provisions as of 21st September, 2017.
+- In the case of any inconsistency between the Sinhala and Tamil texts of the Act, the Sinhala text will prevail.

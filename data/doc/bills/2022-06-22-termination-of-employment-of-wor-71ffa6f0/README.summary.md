@@ -1,7 +1,3 @@
-# 📄  Termination of Employment of Workman (Special Provisions) (Amendment) - Bill
-
-Bill published on **2022-06-22**.
-
 - **Amendment Purpose**: A bill amending the Termination of Employment of Workmen (Special Provisions) Act, No. 45 of 1971.
 - **Issued by**: Published by the Minister of Labour and Foreign Employment.
 - **Key Clauses**:

@@ -1,7 +1,3 @@
-# 📄  Termination of Employment of Workmen (Special Provisions) (Amendment) - Bill
-
-Bill published on **2021-10-22**.
-
 - **Amendment Bill**: To amend the Termination of Employment of Workmen (Special Provisions) Act, No. 45 of 1971.
 - **Presentation**: Presented by the Minister of Labour on October 22, 2021.
 - **Publication**: Published in the Gazette on October 12, 2021.

@@ -1,7 +1,3 @@
-# 📄  Provincial Council Elections (Amendment) - Bill
-
-Bill published on **2019-11-07**.
-
 - Bill to amend the Provincial Councils Elections Act, No. 2 of 1988.
 - Presented by Hon. M. A. Sumanthiran, M. P. for Jaffna District on 07th of November, 2019.
 - Published in the Gazette on October 14, 2019.
