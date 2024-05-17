@@ -1,7 +1,3 @@
-# ⚖️  Dassana Bauddha Sanvidhanaya (Incorporation)
-
-Act published on **2024-02-19**.
-
 - **Act Title**: Dassana Bauddha Sanvidhanaya (Incorporation) Act, No. 14 of 2024
 - **Certification Date**: Certified on 19th of February, 2024.
 - **Publication**: Supplement to Part II of the Gazette of Sri Lanka on March 15, 2024.

@@ -1,7 +1,3 @@
-# ⚖️  Samadhi Community Development Foundation (Incorporation)
-
-Act published on **2024-02-19**.
-
 - **Certification and Publication**: Certified on February 19, 2024; published as a supplement to Sri Lanka's Gazette on March 01, 2024; printed at the Department of Government Printing in Sri Lanka.
 - **Purpose of Act**: To incorporate the Samadhi Community Development Foundation in Sri Lanka.
 - **Foundation Details**: Known as "Samadhi Community Development Foundation", established for social and educational activities.

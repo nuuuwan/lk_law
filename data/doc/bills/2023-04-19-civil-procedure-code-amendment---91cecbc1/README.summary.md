@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - GS
-
-Bill published on **2023-04-19**.
-
 - **Title and Details:**
   - Gazette of the Democratic Socialist Republic of Sri Lanka
   - Part II dated April 12, 2023; Supplement issued on April 19, 2023

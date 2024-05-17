@@ -1,7 +1,3 @@
-# 📄  National Hydrographic - GS
-
-Bill published on **2023-10-12**.
-
 - **Introduction** 
   - Purpose: Provide for Sri Lanka's obligations under the 1974 International Convention for the Safety of Life at Sea.
   - Establishment of the National Hydrographic Office.

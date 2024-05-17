@@ -1,7 +1,3 @@
-# 📄  Fauna and Flora Protection (Amendment) - GS
-
-Bill published on **2021-11-19**.
-
 - The document is part of the "Gazette of the Democratic Socialist Republic of Sri Lanka,” dated November 19, 2021.
 - It concerns an amendment to the Fauna and Flora Protection Ordinance (Chapter 469).
 - The amendment bill was ordered to be published by the Minister of Wildlife and Forest Conservation.

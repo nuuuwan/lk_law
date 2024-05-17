@@ -1,7 +1,3 @@
-# 📄  Coconut Development (Amendment) GS
-
-Bill published on **2019-02-18**.
-
 - **Publication Details:**
   - Issued in The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of February 15, 2019
   - Supplement issued on February 18, 2019

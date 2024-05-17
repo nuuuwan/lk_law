@@ -1,7 +1,3 @@
-# 📄  Jayamaga Development Social Services and Charity Foundation (Incorporation) - Bill
-
-Bill published on **2022-06-08**.
-
 - **Legislation Introduction:**
   - Title: Jayamaga Development, Social Services, and Charity Foundation (Incorporation) Bill.
   - Presented by: Hon. Hector Appuhamy, M.P. for Puttalam District on June 8, 2022.

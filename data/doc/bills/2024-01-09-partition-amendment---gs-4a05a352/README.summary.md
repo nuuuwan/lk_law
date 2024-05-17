@@ -1,7 +1,3 @@
-# 📄  Partition (Amendment) - GS
-
-Bill published on **2024-01-09**.
-
 - A bill to amend the Partition Law, No. 21 of 1977 has been ordered for publication by the Minister of Justice, Prison Affairs, and Constitutional Reforms.
 - The amendments are designed to provide clarity and procedural updates to the existing law.
 - Key clauses of the amendment include:

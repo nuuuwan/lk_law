@@ -1,7 +1,3 @@
-# 📄  Secured Transactions - Bill
-
-Bill published on **2019-10-23**.
-
 - Provides for the regulation of secured transactions in movable property in Sri Lanka.
 - Establishes the Secured Transactions Registration Authority (the Authority).
 - Defines the powers and duties of the Authority.
