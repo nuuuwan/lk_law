@@ -1,7 +1,3 @@
-# 📄  Recovery of Loans by Banks (Special Provisions) (Amendment) - Bill
-
-Bill published on **2024-03-21**.
-
 - **Title**: Recovery of Loans by Banks (Special Provisions) (Amendment) Bill presented by the Minister of Finance, Economic Stabilization, and National Policies.
 - **Presented Date**: March 21, 2024.
 - **Publication Date**: Gazette on March 13, 2024.

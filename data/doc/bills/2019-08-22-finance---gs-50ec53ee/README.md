@@ -1,3 +1,19 @@
 # 📄  Finance - GS
 
 Bill published on **2019-08-22**.
+
+- The bill amends the Finance Act, No. 35 of 2018.
+- Introduces a Foreign Commercial Transactions Levy (FCTL).
+- **Foreign Commercial Transactions Levy (FCTL):**
+  - Imposes a 3.5% levy on transactions made via payment cards with entities outside Sri Lanka.
+  - Collected at remittance time by financial institutions.
+  - Financial institutions must remit collected levies to the Commissioner-General monthly.
+  - Annual returns are required from financial institutions.
+- Specific exemptions can be granted by the Minister for economic development reasons.
+- **Financial Institution Obligations:**
+  - Financial institutions failing to pay the levy deemed defaulters.
+  - Related Inland Revenue Act provisions apply to defaulters.
+- **Specified Motor Vehicle Definition Update:**
+  - Different definitions based on the first registration date before or after July 1, 2019.
+- The Minister empowered to make regulations regarding the levy, requiring parliamentary approval.
+- Sinhala text prevails in case of inconsistency with Tamil text.

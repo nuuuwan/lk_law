@@ -1,7 +1,3 @@
-# 📄  Vanni Mann Charity Foundation (Incorporation) - Bill
-
-Bill published on **2023-12-07**.
-
 - A Bill to incorporate the Vanni Mann Charity Foundation in Sri Lanka.
 - Presented by Hon. Charles Nirmalanathan, M.P. for Vanni District on December 5, 2023.
 - Published in the Gazette on November 24, 2023.

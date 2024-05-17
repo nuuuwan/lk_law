@@ -1,7 +1,3 @@
-# 📄  Kidney and Diabetes Lions Hospital Trust (Incorporation) - GS
-
-Bill published on **2022-04-25**.
-
 - **Kidney and Diabetes Lions Hospital Trust (Incorporation) Act**: Establishes the Kidney and Diabetes Lions Hospital Trust as a legal entity.
 - **Presented by Hon. Sanjeeva Edirimanna, M.P.**: The bill was introduced by the Member of Parliament for Kalutara District.
 - **Purpose and Objects**: 

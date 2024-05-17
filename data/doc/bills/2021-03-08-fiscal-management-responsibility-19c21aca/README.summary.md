@@ -1,7 +1,3 @@
-# 📄  Fiscal Management (Responsibility) (Amendment) -  GS
-
-Bill published on **2021-03-08**.
-
 - The document is a supplement from the Gazette of the Democratic Socialist Republic of Sri Lanka, dated March 05, 2021.
 - The document is for a Bill to amend the Fiscal Management (Responsibility) Act, No. 3 of 2003.
 - The amendment was ordered to be published by the Minister of Finance.

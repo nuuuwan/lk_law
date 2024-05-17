@@ -1,7 +1,3 @@
-# 📄  Inland Revenue (Amendment) - Bill
-
-Bill published on **2022-10-21**.
-
 - Bill to amend the Inland Revenue Act, No. 24 of 2017.
 - Presented by the Prime Minister on October 21, 2022.
 - Section 5 amendment clarifies existing provisions.

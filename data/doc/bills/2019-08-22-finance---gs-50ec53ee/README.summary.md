@@ -1,7 +1,3 @@
-# 📄  Finance - GS
-
-Bill published on **2019-08-22**.
-
 - The bill amends the Finance Act, No. 35 of 2018.
 - Introduces a Foreign Commercial Transactions Levy (FCTL).
 - **Foreign Commercial Transactions Levy (FCTL):**
