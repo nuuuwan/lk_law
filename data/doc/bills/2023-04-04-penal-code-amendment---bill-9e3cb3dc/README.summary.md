@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - Bill
-
-Bill published on **2023-04-04**.
-
 - Presented by Hon. Premnath C. Dolawatte, M.P. for Colombo District on April 4, 2023.
 - Published in the Gazette on March 22, 2023.
 - Amends the Penal Code (Chapter 19) of Sri Lanka.

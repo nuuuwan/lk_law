@@ -1,7 +1,3 @@
-# 📄  Contempt of a Court,Tribunal or Institution - GS
-
-Bill published on **2023-06-27**.
-
 - **Purpose of the Act**: To standardize the law on contempt of court, tribunals, and institutions, including the procedure for punishment and related matters.
 - **Short Title**: Contempt of a Court, Tribunal or Institution Act, No.    of 2023.
 - **Objects of the Act**:

@@ -1,7 +1,3 @@
-# 📄  Twenty Second Amendment to the Constitution - Bill
-
-Bill published on **2024-02-21**.
-
 - Bill to amend the Constitution of the Democratic Socialist Republic of Sri Lanka.
 - Presented by Hon. Udaya Gammanpila, M.P. for Colombo District on February 21, 2024.
 - Published in the Gazette on February 13, 2024 (Bill No. 243).

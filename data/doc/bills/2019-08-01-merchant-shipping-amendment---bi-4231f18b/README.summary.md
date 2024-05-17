@@ -1,7 +1,3 @@
-# 📄  Merchant Shipping (Amendment) - Bill
-
-Bill published on **2019-08-01**.
-
 - The bill is intended to amend the Merchant Shipping Act, No. 52 of 1971.
 - Presented by the Minister of Ports & Shipping and Southern Development on August 1, 2019.
 - Published in the Gazette on July 1, 2019.

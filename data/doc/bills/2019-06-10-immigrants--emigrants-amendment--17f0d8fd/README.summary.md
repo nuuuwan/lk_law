@@ -1,7 +1,3 @@
-# 📄  Immigrants & Emigrants (Amendment) (GS)
-
-Bill published on **2019-06-10**.
-
 - The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II issued on June 7, 2019, and published on June 10, 2019.
 - Document title: IMMIGRANTS AND EMIGRANTS (AMENDMENT) BILL.
 - Purpose: To amend the Immigrants and Emigrants Act (Chapter 351).

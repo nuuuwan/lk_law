@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - GS
-
-Bill published on **2019-12-18**.
-
 - **Title**: Civil Procedure Code (Amendment)
 - **Type**: Private Member's Bill
 - **Presenter**: Hon. (Dr.) (Mrs.) Thusitha Wijemanna, M.P. for Kegalle District

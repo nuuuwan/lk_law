@@ -1,7 +1,3 @@
-# ⚖️  Personal Data Protection
-
-Act published on **2022-03-19**.
-
 - **Title and Certification**: 
   - Personal Data Protection Act, No. 9 of 2022, certified on March 19, 2022, published as a supplement on March 25, 2022.
 - **Purpose of the Act**:
@@ -29,4 +25,3 @@ Act published on **2022-03-19**.
 - **Personal Data Breach Notifications**: Controllers must notify the Authority of data breaches.
 - **Impact Assessments**: Controllers must conduct and submit data protection impact assessments for high-risk processing activities.
 - **Mitigating Risks**: Required to take measures to mitigate risks of harm to data subjects and consult the Authority if risks remain.
-
