@@ -1,7 +1,3 @@
-# ⚖️  Assistance to and Protection of Victims of Crime and Witnesses
-
-Act published on **2023-08-08**.
-
 - **Objective:** 
   - Protect and assist victims of crime and witnesses.
   - Establish rights and entitlements for victims and witnesses.

@@ -1,7 +1,3 @@
-# ⚖️  Petroleum Resources
-
-Act published on **2021-10-08**.
-
 - **Title and Certification:**
   - Petroleum Resources Act, No. 21 of 2021, certified on October 8, 2021.
 

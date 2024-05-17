@@ -1,7 +1,3 @@
-# 📄  National Minimum Wage of Workers (Amendment) - GS
-
-Bill published on **2019-10-11**.
-
 - The document is a supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka, issued on October 11, 2019.
 - It presents a bill to amend the National Minimum Wage of Workers Act, No. 3 of 2016.
 - The amendment is ordered to be published by the Minister of Labour and Trade Union Relations.

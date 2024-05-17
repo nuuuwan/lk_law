@@ -1,7 +1,3 @@
-# 📄  Marriage Registration (Amendment) - Bill
-
-Bill published on **2020-01-08**.
-
 - The document is a bill titled "Marriage Registration (Amendment)" to amend the Marriage Registration Ordinance of Sri Lanka.
 - Presented by Hon. (Dr.) (Mrs.) Thusitha Wijemanna, M.P. for Kegalle District on January 8, 2020.
 - Published in the Gazette on December 18, 2019, and printed by the Department of Government Printing, Sri Lanka.

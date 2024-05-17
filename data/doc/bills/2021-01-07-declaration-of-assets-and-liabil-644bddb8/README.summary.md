@@ -1,7 +1,3 @@
-# 📄  Declaration of Assets and Liabilities (Amendment) - Bill
-
-Bill published on **2021-01-07**.
-
 - Bill presented to amend the Declaration of Assets and Liabilities Law, No. 1 of 1975.
 - Presented by Hon. (Dr.) Wijeyadasa Rajapakshe, M.P. for Colombo District on January 7, 2021.
 - The Bill was published in the Gazette on December 21, 2020.

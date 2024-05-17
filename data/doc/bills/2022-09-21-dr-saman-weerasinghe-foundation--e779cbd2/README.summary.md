@@ -1,7 +1,3 @@
-# 📄  Dr. Saman Weerasinghe Foundation (Incorporation) - Bill
-
-Bill published on **2022-09-21**.
-
 - Bill introduced by Hon. Chandima Weerakkody, M.P. for Galle District on September 21, 2022.
 - Purpose: Incorporate the Dr. Saman Weerasinghe Foundation.
 - Foundation aims to:
