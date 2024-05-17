@@ -1,7 +1,3 @@
-# 📄  Petroleum Resources - GS
-
-Bill published on **2021-07-27**.
-
 - **Bill Overview**: Introduction of a bill to establish the Petroleum Development Authority of Sri Lanka, formulate a National Policy on Upstream Petroleum Industry, and repeal the Petroleum Resources Act No. 26 of 2003.
   
 - **Establishment of Authority**: Creation of the Petroleum Development Authority of Sri Lanka, responsible for recommending national policy, implementing the act’s provisions, and performing regulatory functions related to upstream petroleum industry.

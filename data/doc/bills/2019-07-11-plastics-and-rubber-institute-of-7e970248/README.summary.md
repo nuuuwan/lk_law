@@ -1,7 +1,3 @@
-# 📄  Plastics and Rubber Institute of Sri Lanka (Incorporation) - Bill
-
-Bill published on **2019-07-11**.
-
 - **Bill Introduction and Purpose**:
   - Presented by Hon. (Dr.) Thusitha Wijemanna, M.P. for Kegalle District on July 11, 2019.
   - Published in the Gazette on May 27, 2019.
@@ -42,5 +38,4 @@ Bill published on **2019-07-11**.
   - The seal of the corporation requires specific members' presence and signature.
   - The rights of the Republic or other bodies are preserved against this Act.
   - In case of discrepancies between Sinhala and Tamil texts, the Sinhala text prevails.
-
 

@@ -1,7 +1,3 @@
-# 📄  Daham Sewane Singiththo Lama Sanwardana Padanama (Incorporation) - Bill
-
-Bill published on **2023-12-13**.
-
 - **Presentation Details:**
   - Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on December 7, 2023.
   - Published in the Gazette on November 29, 2023.

@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Institute of Training and Development (Incorporation) - GS
-
-Bill published on **2023-02-06**.
-
 - Bill to incorporate the Sri Lanka Institute of Training and Development.
 - Presented in Parliament by Hon. (Mrs.) Kokila Gunawardene, M.P. for Gampaha District.
 - The Institute will be a corporate body with perpetual succession.

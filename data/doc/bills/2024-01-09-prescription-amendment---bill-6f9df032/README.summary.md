@@ -1,7 +1,3 @@
-# 📄  Prescription (Amendment) - Bill
-
-Bill published on **2024-01-09**.
-
 - **Title**: Prescription (Amendment) Bill
 - **Purpose**: To amend the Prescription Ordinance (Chapter 68) in Sri Lanka.
 - **Presented by**: The Minister of Finance, Economic Stabilization, and National Policies on January 9, 2024.

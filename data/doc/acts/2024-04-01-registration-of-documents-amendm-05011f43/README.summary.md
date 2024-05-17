@@ -1,7 +1,3 @@
-# ⚖️  Registration of Documents (Amendment)
-
-Act published on **2024-04-01**.
-
 - **Title and Identification:**
   - Parliament of the Democratic Socialist Republic of Sri Lanka
   - Registration of Documents (Amendment) Act, No. 18 of 2024
