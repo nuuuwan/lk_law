@@ -1,7 +1,3 @@
-# 📄  Janaraja Foundation (Incorporation) - Bill
-
-Bill published on **2023-08-10**.
-
 - **Bill Presentation:**
   - A bill presented by Hon. Harshana Rajakaruna on August 10, 2023, to incorporate the Janaraja Foundation.
 - **Foundation Overview:**

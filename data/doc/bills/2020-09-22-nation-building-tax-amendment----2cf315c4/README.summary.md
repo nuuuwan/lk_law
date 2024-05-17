@@ -1,7 +1,3 @@
-# 📄  Nation Building Tax (Amendment) - Bill
-
-Bill published on **2020-09-22**.
-
 - Proposed amendment to the Nation Building Tax Act, No. 9 of 2009.
 - Presented by the Prime Minister and Minister of Finance, among other responsibilities, on September 22, 2020.
 - Published in the Gazette on September 04, 2020.

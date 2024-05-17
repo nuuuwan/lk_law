@@ -1,7 +1,3 @@
-# 📄  Personal Data Protection - GS
-
-Bill published on **2021-11-25**.
-
 - Part II dated November 19, 2021, supplement issued on November 25, 2021.
 - Bill titled "Personal Data Protection" proposes regulations for processing personal data.
 - Aims to strengthen data subject rights and designate a Data Protection Authority.

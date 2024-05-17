@@ -1,7 +1,3 @@
-# 📄  Finance Leasing (Amendment) - Bill
-
-Bill published on **2019-10-23**.
-
 - The bill aims to amend the Finance Leasing Act, No. 56 of 2000.
 - Presented by the Minister of Finance on October 23, 2019.
 - Published in the Gazette on August 09, 2019.

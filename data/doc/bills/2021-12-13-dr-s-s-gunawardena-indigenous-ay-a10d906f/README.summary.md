@@ -1,7 +1,3 @@
-# 📄  Dr. S. S. Gunawardena Indigenous Ayurveda Development Foundation (Incorporation) - GS
-
-Bill published on **2021-12-13**.
-
 - **Foundation Incorporation:** The Dr. S. S. Gunawardana Indigenous Ayurveda Development Foundation is to be incorporated as a body corporate with perpetual succession.
 - **Short Title:** The Act will be cited as the Dr. S. S. Gunawardana Indigenous Ayurveda Development Foundation (Incorporation) Act, No. of 2021.
 - **Objectives:**

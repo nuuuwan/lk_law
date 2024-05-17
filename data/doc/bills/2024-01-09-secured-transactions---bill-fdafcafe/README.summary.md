@@ -1,7 +1,3 @@
-# 📄  Secured Transactions - Bill
-
-Bill published on **2024-01-09**.
-
 - Establishment of the Secured Transactions Registration Authority for regulating secured transactions in movable property.
 - Detailed powers, duties, and functions of the authority, including registering security rights and determining creditor priorities.
 - Provisions for determining priorities among creditors with competing security rights.

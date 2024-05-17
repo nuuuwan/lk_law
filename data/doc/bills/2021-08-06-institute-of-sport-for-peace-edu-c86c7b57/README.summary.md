@@ -1,7 +1,3 @@
-# 📄  Institute of Sport for Peace, Education, Empowerment and Development (Speed) (Incorporation) - Bill
-
-Bill published on **2021-08-06**.
-
 - **Bill Presentation and Printing:**
   - Presented by Hon. (Ven.) Athuraliye Rathana Thero, M.P. on August 6, 2021.
   - Published in the Gazette on July 28, 2021.

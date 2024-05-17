@@ -1,7 +1,3 @@
-# ⚖️  20th Amendment to the Constitution (NEW)
-
-Act published on **2020-10-29**.
-
 - The Twentieth Amendment to the Constitution of Sri Lanka was certified on October 29, 2020.
 - The Act is available for purchase or can be downloaded from a government website.
 - The Amendment revises several articles in the Constitution, with significant changes including:

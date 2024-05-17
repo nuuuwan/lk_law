@@ -1,7 +1,3 @@
-# 📄  Marriages (General)  (Amendment) -  Bill
-
-Bill published on **2020-01-08**.
-
 - A bill to amend the Marriages (General) Ordinance No. 19 of 1907.
 - Presented by Hon. (Ven.) Athuraliye Rathana Thero, M.P. on January 8, 2020.
 - Published in the Gazette on December 20, 2019.
