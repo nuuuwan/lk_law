@@ -1,7 +1,3 @@
-# 📄  Finance Leasing (Amendment)  (GS)
-
-Bill published on **2019-08-09**.
-
 - The document is a Gazette Supplement from Sri Lanka dated August 09, 2019.
 - It includes an amendment bill for the Finance Leasing Act, No. 56 of 2000.
 - Clauses of the amendment:

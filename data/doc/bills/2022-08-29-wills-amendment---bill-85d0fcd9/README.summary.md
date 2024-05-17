@@ -1,7 +1,3 @@
-# 📄  Wills (Amendment) - Bill
-
-Bill published on **2022-08-29**.
-
 - The document is a bill presented by the Minister of Justice, Prison Affairs and Constitutional Reforms to amend the Wills Ordinance of Sri Lanka (Chapter 60).
 - The bill was presented on August 29, 2022, and was published in the Gazette on April 29, 2022.
 - Key Clauses:

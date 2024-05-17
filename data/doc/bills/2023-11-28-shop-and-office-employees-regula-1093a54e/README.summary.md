@@ -1,7 +1,3 @@
-# 📄  Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - GS
-
-Bill published on **2023-11-28**.
-
 - **Document Context**: Amendment Bill for the Shop and Office Employees (Regulation of Employment and Remuneration) Act (Chapter 129) of Sri Lanka.
 - **Publication**: Issued in Part II of The Gazette of the Democratic Socialist Republic of Sri Lanka on November 24, 2023, and printed by the Department of Government Printing.
 - **Main Clauses**:

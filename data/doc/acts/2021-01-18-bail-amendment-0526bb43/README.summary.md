@@ -1,7 +1,3 @@
-# ⚖️  Bail (Amendment)
-
-Act published on **2021-01-18**.
-
 - **Title and Certification**: Bail (Amendment) Act, No. 7 of 2021, certified on January 18, 2021.
 - **Legislative Purpose**: Amends the Bail Act, No. 30 of 1997 to increase fines for specific offences.
 - **Amended Sections**: 

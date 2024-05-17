@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Land Development Corporation (Amendment)
-
-Act published on **2021-06-30**.
-
 - **Sri Lanka Land Development Corporation (Amendment) Act, No. 13 of 2021**
    - Certified on June 30, 2021
    - Published in the Sri Lanka Gazette on July 02, 2021

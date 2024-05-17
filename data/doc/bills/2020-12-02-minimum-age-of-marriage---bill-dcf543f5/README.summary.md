@@ -1,7 +1,3 @@
-# 📄  Minimum Age of Marriage - Bill
-
-Bill published on **2020-12-02**.
-
 - **Introduction**: This Bill aims to establish the Minimum Age of Marriage in Sri Lanka.
 - **Presented By**: Hon. Premitha Bandara Tennakoon, M.P. for Matale District.
 - **Publication & Access**: Published in the Gazette on September 25, 2020; downloadable from www.documents.gov.lk.
