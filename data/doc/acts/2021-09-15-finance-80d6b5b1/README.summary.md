@@ -1,7 +1,3 @@
-# ⚖️  Finance 
-
-Act published on **2021-09-15**.
-
 - The Finance Act, No. 18 of 2021 was certified on 15th September 2021.
 - The Act allows for the voluntary disclosure of previously undisclosed taxable supplies, income, and assets.
 - A tax is imposed on disclosed supplies, income, and assets.

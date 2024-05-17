@@ -1,7 +1,3 @@
-# 📄  S O S Children's Village of Sri Lanka Organization (Incorporation) - Bill
-
-Bill published on **2023-11-11**.
-
 - The bill seeks to incorporate the S O S Children's Village of Sri Lanka Organization.
 - Presented by Hon. Kumarasiri Rathnayake, M.P. for Monaragala District on November 09, 2023.
 - Published in the Gazette on October 31, 2023.

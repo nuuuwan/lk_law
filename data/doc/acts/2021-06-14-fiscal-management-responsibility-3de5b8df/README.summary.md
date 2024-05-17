@@ -1,7 +1,3 @@
-# ⚖️  Fiscal Management (Responsibility) (Amendment)
-
-Act published on **2021-06-14**.
-
 - Title: Fiscal Management (Responsibility) (Amendment) Act, No. 12 of 2021.
 - Certified on June 14, 2021.
 - Amends the Fiscal Management (Responsibility) Act, No. 3 of 2003.
