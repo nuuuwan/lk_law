@@ -1,7 +1,3 @@
-# ⚖️  Finance
-
-Act published on **2023-12-13**.
-
 - **Title and Certification:**
   - Title: Finance Act, No. 33 of 2023
   - Certified: 13th December 2023

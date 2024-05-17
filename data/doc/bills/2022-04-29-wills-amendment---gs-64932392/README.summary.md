@@ -1,7 +1,3 @@
-# 📄  Wills (Amendment) - (GS) 
-
-Bill published on **2022-04-29**.
-
 - **Gazette Information:**
   - Titled "The Gazette of the Democratic Socialist Republic of Sri Lanka"
   - Published on April 29, 2022

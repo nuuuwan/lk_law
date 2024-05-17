@@ -1,7 +1,3 @@
-# 📄  Siw Wanak Arana Foundation (Incorporation) - Bill
-
-Bill published on **2024-04-02**.
-
 - **Title**: Incorporation of the Siw Wanak Arana Foundation
 - **Presented by**: Hon. (Prof.) Charitha Hearath, M.P. on April 2, 2024
 - **Publication Details**: Published in the Gazette on March 15, 2024, Bill No. 249
@@ -27,5 +23,4 @@ Bill published on **2024-04-02**.
   - If dissolved, remaining properties are to be transferred to similar institutions
 - **Authority**: Seal of the Corporation to be used in the presence of two Committee members
 - **Language Clause**: Sinhala text prevails in case of inconsistency between Sinhala and Tamil texts
-
 

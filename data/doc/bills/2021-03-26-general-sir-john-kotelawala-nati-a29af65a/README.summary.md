@@ -1,7 +1,3 @@
-# 📄  General Sir John Kotelawala National Defence University - Bill
-
-Bill published on **2021-03-26**.
-
 - **Establishment:** General Sir John Kotelawala National Defence University (KDU) is established for higher education and training for future armed forces officers and public servants.
 - **Property:** Vestment of Kandawala Estate and its movable property to the university.
 - **Repeal:** The Bill repeals the Sir John Kotelawala Defence University Act, No. 58 of 1981.

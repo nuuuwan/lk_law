@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - Bill
-
-Bill published on **2021-09-10**.
-
 - **Document Title:**
   - The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, September 10, 2021, Supplement.
 

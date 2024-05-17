@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - Bill
-
-Bill published on **2021-10-21**.
-
 - Presented by the Minister of Finance on October 21, 2021
 - Published in the Gazette on October 7, 2021
 - Ordered by Parliament to be printed

@@ -1,7 +1,3 @@
-# 📄  Prevention of Offences Relating to Sports  - GS
-
-Bill published on **2019-08-26**.
-
 - The document is a bill titled "Prevention of Offences Relating to Sports" from the Democratic Socialist Republic of Sri Lanka.
 - It aims to prevent match-fixing, corruption, illegal manipulation, and illegal betting in sports.
 - The bill proposes the appointment of a Special Investigations Unit to investigate these offences.

@@ -1,7 +1,3 @@
-# 📄  Ruhunu Econmic Development Corporation of Sri Lanka - Bill 
-
-Bill published on **2019-08-21**.
-
 - Establishment of the Ruhunu Economic Development Corporation (REDC) for economic development in the Ruhunu area of Sri Lanka.
 - Focus on identifying, formulating, and implementing economic projects, plans, programs, or schemes.
 - Importance of national policy for rapid economic development, focusing on trade, exports, technology, tourism, agriculture, and employment opportunities.

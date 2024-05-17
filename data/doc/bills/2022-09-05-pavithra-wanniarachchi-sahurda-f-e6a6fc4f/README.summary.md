@@ -1,7 +1,3 @@
-# 📄  Pavithra Wanniarachchi Sahurda Foundation (Incorporation) - GS
-
-Bill published on **2022-09-05**.
-
 - **Title**: Incorporation of the Pavithra Wanniarachchi Sahurda Foundation through a Private Members’ Bill presented by Hon. Lalith Ellawala, M.P. for Kalutara District.
 - **Publication Details**: Printed by the Department of Government Printing, Sri Lanka, available for Rs. 18.00 plus Rs. 15.00 postage.
 - **Foundation Overview**: The Pavithra Wanniarachchi Sahurda Foundation has been formed in Sri Lanka with the aim of carrying out various socio-political and economic activities according to member rules.
@@ -21,5 +17,4 @@ Bill published on **2022-09-05**.
   - **Seal Usage**: Affixing the seal requires two Committee members' signatures.
   - **Legal Protection**: The Act does not affect the Republic's rights or those of other corporate bodies.
   - **Text Precedence**: In case of inconsistencies, the Sinhala text of the Act prevails.
-
 

@@ -1,7 +1,3 @@
-# ⚖️  Recovery of Loans by Banks (Special Provisions) (Amendment)
-
-Act published on **2024-05-08**.
-
 - Title of Act: Recovery of Loans by Banks (Special Provisions) (Amendment) Act, No. 26 of 2024.
 - Certified on: May 8, 2024.
 - Published in: Supplement to Part II of the Gazette of Sri Lanka on May 10, 2024.

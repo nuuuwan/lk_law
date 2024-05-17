@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - Bill
-
-Bill published on **2023-09-08**.
-
 - The Value Added Tax (Amendment) Bill aims to amend the Value Added Tax Act, No. 14 of 2002.
 - **Presented**: By the Minister of Finance, Economic Stabilization, and National Policies on September 8, 2023.
 - **Published**: In the Gazette on August 31, 2023.
