@@ -1,5 +1,5 @@
-# 📄  Registration of Electors (Amendment) - GS
+# 📄  Mortgage (GS)
 
-Bill published on **2021-03-16**.
+Bill published on **2019-08-09**.
 
 
