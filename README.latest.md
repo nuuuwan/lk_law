@@ -1,5 +1,5 @@
-# 📄  Companies (Amendment) - Bill
+# 📄  Judicature  (Amendment) (GS)
 
-Bill published on **2019-10-08**.
+Bill published on **2019-02-15**.
 
 
