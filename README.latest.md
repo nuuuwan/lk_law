@@ -1,5 +1,5 @@
-# 📄  Companies   Amendment (GS)
+# 📄  Mortgage (GS)
 
-Bill published on **2019-02-25**.
+Bill published on **2019-08-09**.
 
 
