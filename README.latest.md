@@ -1,5 +1,5 @@
-# 📄  Revival of  Underperforming Enterprises or Underutilized Assets (Repeal) - GS
+# ⚖️  Excise (Amendment) 
 
-Bill published on **2019-04-29**.
+Act published on **2019-10-31**.
 
 
