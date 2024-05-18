@@ -1,5 +1,5 @@
-# ⚖️  Excise (Amendment) 
+# 📄  Companies   Amendment (GS)
 
-Act published on **2019-10-31**.
+Bill published on **2019-02-25**.
 
 
