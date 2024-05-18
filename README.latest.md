@@ -1,5 +1,5 @@
-# 📄  Judicature  (Amendment) (GS)
+# 📄  Declaration of  Assets and  Liabilities  (Amendment) - Bill
 
-Bill published on **2019-02-15**.
+Bill published on **2020-01-08**.
 
 
