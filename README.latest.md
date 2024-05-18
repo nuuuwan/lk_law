@@ -1,5 +1,5 @@
-# 📄  Youthful Offenders (Training Schools) (Amendment) - Bill
+# 📄  Revival of  Underperforming Enterprises or Underutilized Assets (Repeal) - GS
 
-Bill published on **2021-09-10**.
+Bill published on **2019-04-29**.
 
 
