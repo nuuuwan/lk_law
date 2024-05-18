@@ -1,7 +1,3 @@
-# 📄  Anti-Corruption - Bill
-
-Bill published on **2023-04-27**.
-
 - **Purpose of the Bill:**
   - Align Sri Lanka's anti-corruption measures with the United Nations Convention against Corruption.
   - Establish an Independent Commission to handle bribery, corruption, and related offenses.

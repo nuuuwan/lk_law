@@ -1,7 +1,3 @@
-# 📄  Holidays (Amendment) 
-
-Bill published on **2019-07-03**.
-
 - Document title: THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA, Part II, June 28, 2019, issued on July 3, 2019.
 - Document type: Supplement (Private Member’s Bill) titled "HOLIDAYS (AMENDMENT)"
 - Purpose: To amend the Holidays Act, No. 29 of 1971.

@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - GS
-
-Bill published on **2023-09-12**.
-
 **Key Points Summary:**
 
 - **Subject**: Amendment to the Civil Procedure Code (Chapter 101) of Sri Lanka.
@@ -28,5 +24,4 @@ Bill published on **2023-09-12**.
 
 - **Transitional Provisions**:
   - Special provisions for pending cases that already have set dates for pre-trial hearings or steps taken are to be managed under the repealed provisions.
-
 
