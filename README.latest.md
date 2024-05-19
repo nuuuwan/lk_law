@@ -1,5 +1,5 @@
-# 📄  Plastics and Rubber Institute of Sri Lanka (Incorporation) - Bill
+# 📄  Judicature  (Amendment) (GS)
 
-Bill published on **2021-01-05**.
+Bill published on **2019-02-15**.
 
 
