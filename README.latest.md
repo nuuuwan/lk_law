@@ -1,5 +1,5 @@
-# 📄  Revival of  Underperforming Enterprises or Underutilized Assets (Repeal) - GS
+# 📄  Companies   Amendment (GS)
 
-Bill published on **2019-04-29**.
+Bill published on **2019-02-25**.
 
 
