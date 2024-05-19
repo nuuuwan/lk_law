@@ -1,5 +1,5 @@
-# 📄  Companies   Amendment (GS)
+# 📄  Code of Criminal Procedure (Amendment) - Bill
 
-Bill published on **2019-02-25**.
+Bill published on **2019-07-11**.
 
 
