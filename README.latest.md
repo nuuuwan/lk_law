@@ -1,5 +1,5 @@
-# 📄  Sri Shakyasingharama Viharastha Karyasadhaka Sanvidanaya (Incorporation) - GS
+# 📄  Minimum Wages (Indlan Labour) (Amendment) - GS
 
-Bill published on **2021-01-11**.
+Bill published on **2020-10-07**.
 
 
