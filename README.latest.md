@@ -1,5 +1,5 @@
-# 📄  Companies   Amendment (GS)
+# 📄  Special Goods and Services Tax - Bill
 
-Bill published on **2019-02-25**.
+Bill published on **2022-01-20**.
 
 
