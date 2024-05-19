@@ -1,5 +1,5 @@
-# 📄  Declaration of  Assets and  Liabilities  (Amendment) - Bill
+# 📄  Companies   Amendment (GS)
 
-Bill published on **2020-01-08**.
+Bill published on **2019-02-25**.
 
 
