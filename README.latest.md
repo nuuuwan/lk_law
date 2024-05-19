@@ -1,5 +1,5 @@
-# ⚖️  Prevention of  Offence Relating to Sports 
+# 📄  Lions  Clubs International District  306A National Development Foundation Trust (Incorporation) Amendment - Bill
 
-Act published on **2019-11-18**.
+Bill published on **2019-10-08**.
 
 
