@@ -1,5 +1,5 @@
-# 📄  Mahapola Higher Education Scholarship Trust Fund (Amendment) - GS
+# 📄  Kandyan Marriage and Divorce (Repeal) - GS
 
-Bill published on **2021-10-28**.
+Bill published on **2020-01-07**.
 
 
