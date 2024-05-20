@@ -1,5 +1,5 @@
-# 📄  Prevention of Offences Relating to Sports - Bill
+# 📄  Nation Building Tax (Amendment) - GS
 
-Bill published on **2019-10-08**.
+Bill published on **2019-07-31**.
 
 
