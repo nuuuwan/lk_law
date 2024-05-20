@@ -1,5 +1,5 @@
-# 📄  Value Added Tax (Amendment) - GS
+# 📄  Mahapola Higher Education Scholarship Trust Fund (Amendment) - GS
 
-Bill published on **2019-07-31**.
+Bill published on **2021-10-28**.
 
 
