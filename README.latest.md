@@ -1,5 +1,5 @@
-# 📄  Value Added Tax (Amendment) - Bill
+# 📄  Value Added Tax (Amendment) - GS
 
-Bill published on **2021-03-26**.
+Bill published on **2019-07-31**.
 
 
