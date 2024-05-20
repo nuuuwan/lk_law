@@ -1,7 +1,3 @@
-# ⚖️  Judicature (Amendment)
-
-Act published on **2022-11-17**.
-
 - **Act Overview:**
   - Title: JUDICATURE (AMENDMENT) ACT, No. 34 OF 2022
   - Certified: 17th of November, 2022

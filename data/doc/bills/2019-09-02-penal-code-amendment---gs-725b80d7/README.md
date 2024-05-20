@@ -1,3 +1,17 @@
 # 📄  Penal Code (Amendment) - GS
 
 Bill published on **2019-09-02**.
+
+- The document is a bill to amend the Penal Code (Chapter 19) of Sri Lanka.
+- Amendments include replacing outdated words and expressions to reflect contemporary positions.
+- Specific substitutions include:
+  - "Ceylon" replaced with "Sri Lanka" (excluding specific sections).
+  - "Queen" replaced with "Republic" (excluding specific sections).
+  - "Republic" defined as the Democratic Socialist Republic of Sri Lanka.
+  - "Government" clarified to mean the Government constituted by the 1978 Constitution.
+  - Terms like "this Island" and "President" updated to refer to the current definitions.
+  - Various sections updated to replace terms like "wife" with "spouse," "Governor-General" with "President," and other colonial terms with modern equivalents.
+- Provisions are aligned with the Republic's structure and the 1978 Constitution.
+- The Sinhala text prevails in case of inconsistency with the Tamil text.
+- The amended bill was scheduled to be published (Price: Rs. 17.00, Postage: Rs. 15.00) and can be downloaded from www.documents.gov.lk.
+- Issued by the Department of Government Printing, Sri Lanka, under the authority of the Minister of Justice and Prison Reforms.

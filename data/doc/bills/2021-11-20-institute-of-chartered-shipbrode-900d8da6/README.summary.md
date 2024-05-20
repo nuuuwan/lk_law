@@ -1,7 +1,3 @@
-# 📄  Institute of Chartered Shipbroders of Sri Lanka (Incorporation) - Bill
-
-Bill published on **2021-11-20**.
-
 - Bill to incorporate the Institute of Chartered Shipbrokers of Sri Lanka.
 - Presented by Hon. Buddhika Pathirana, M.P. for Matara District on November 20, 2021.
 - Published in the Gazette on November 08, 2021.

@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - GS
-
-Bill published on **2019-09-02**.
-
 - The document is a bill to amend the Penal Code (Chapter 19) of Sri Lanka.
 - Amendments include replacing outdated words and expressions to reflect contemporary positions.
 - Specific substitutions include:
