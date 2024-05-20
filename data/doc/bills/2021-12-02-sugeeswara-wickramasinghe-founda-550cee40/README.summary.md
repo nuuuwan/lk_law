@@ -1,7 +1,3 @@
-# 📄  Sugeeswara Wickramasinghe Foundation (Incorporation) - Bill
-
-Bill published on **2021-12-02**.
-
 - Purpose: Incorporate the Sugeeswara Wickramasinghe Foundation in Sri Lanka.
 - Bill presented by Hon. Weerasumana Weerasinghe, M.P. for Matara District on December 2, 2021.
 - Published in Gazette: November 23, 2021.

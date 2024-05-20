@@ -1,7 +1,3 @@
-# ⚖️  Judicature (Amendment)
-
-Act published on **2022-02-17**.
-
 - Title: Judicature (Amendment) Act, No. 4 of 2022, Parliament of the Democratic Socialist Republic of Sri Lanka.
 - Certification Date: February 17, 2022.
 - Publication: Supplement to Part II of the Gazette of Sri Lanka, February 18, 2022.

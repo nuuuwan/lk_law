@@ -1,7 +1,3 @@
-# 📄  Judicature  (Amendment) (GS)
-
-Bill published on **2019-02-15**.
-
 - **Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka (Judicature (Amendment))
 - **Issue Date**: February 15, 2019
 - **Published by**: Minister of Justice and Prison Reforms

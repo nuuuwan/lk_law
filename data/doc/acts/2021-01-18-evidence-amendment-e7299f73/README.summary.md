@@ -1,7 +1,3 @@
-# ⚖️  Evidence (Amendment)
-
-Act published on **2021-01-18**.
-
 - Act No. 6 of 2021 amends the Evidence Ordinance (Chapter 14) in Sri Lanka.
 - Certified on January 18, 2021, and published in the Gazette on January 22, 2021.
 - Replaces references to "the Queen" with "the Republic" in various sections.
