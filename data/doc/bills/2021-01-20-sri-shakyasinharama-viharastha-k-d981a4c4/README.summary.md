@@ -1,7 +1,3 @@
-# 📄  Sri Shakyasinharama Viharastha Karyasadhakasanvidanaya (Incorporation) - Bill
-
-Bill published on **2021-01-20**.
-
 - Bill to incorporate the "Sri Shakyasinharama Viharastha Karyasadhaka Sanvidanaya".
 - Presented by Hon. Yadamini Gunawardena, M.P., on January 20, 2021.
 - Published in the Gazette on January 11, 2021.

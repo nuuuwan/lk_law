@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - Bill
-
-Bill published on **2019-07-11**.
-
 - Amendment to the Code of Criminal Procedure Act, No. 15 of 1979
 - Bill presented by the Minister of Justice and Prison Reforms on July 11, 2019
 - Bill published in the Gazette on June 17, 2019
@@ -27,5 +23,4 @@ Bill published on **2019-07-11**.
   - Visit and report back on the well-being of the accused in detention
 - Superintendent of prison must cooperate with Magistrate visits and provide necessary facilities
 - Sinhala text prevails in case of inconsistency between Sinhala and Tamil texts of the Act
-
 

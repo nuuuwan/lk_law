@@ -1,7 +1,3 @@
-# 📄  Inland Trust Receipts (Amendment) - Bill
-
-Bill published on **2024-01-09**.
-
 - **Minister of Finance, Economic Stabilization, and National Policies** presented the bill on January 9, 2024.
 - **Bill No.**: 231
 - **Title**: Inland Trust Receipts (Amendment) Act.

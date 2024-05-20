@@ -1,7 +1,3 @@
-# 📄  Civil Aviation (Amendment) - Bill
-
-Bill published on **2023-09-05**.
-
 - **Bill Title**: Civil Aviation (Amendment)
 - **Purpose**: To amend the Civil Aviation Act, No. 14 of 2010
 - **Presented by**: Minister of Ports, Shipping and Aviation on September 5, 2023

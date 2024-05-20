@@ -1,7 +1,3 @@
-# ⚖️  Anti - Corruption (Amendment)
-
-Act published on **2023-11-17**.
-
 - The Anti-Corruption (Amendment) Act, No. 28 of 2023, was certified on November 17, 2023.
 - It amends the Anti-Corruption Act, No. 9 of 2023.
 - The Act is published as a supplement in the Gazette of the Democratic Socialist Republic of Sri Lanka.

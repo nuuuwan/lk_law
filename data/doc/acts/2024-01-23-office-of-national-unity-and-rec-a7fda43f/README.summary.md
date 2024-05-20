@@ -1,7 +1,3 @@
-# ⚖️  Office of National Unity and Reconciliation 
-
-Act published on **2024-01-23**.
-
 - **Establishment of the Office**:
   - Act establishes the Office for National Unity and Reconciliation.
   - Certified on January 23, 2024.
@@ -50,5 +46,4 @@ Act published on **2024-01-23**.
 
 - **Scheduled Programs**:
   - Includes public awareness, education reform, psychosocial support, preventing violent extremism, and socioeconomic integration initiatives.
-
 

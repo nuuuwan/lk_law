@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Society of Physiotherapy (Incorporation) - Bill
-
-Bill published on **2020-12-02**.
-
 - **Title and Introduction:**
   - Bill to incorporate the Sri Lanka Society of Physiotherapy.
   - Presented by Hon. S. M. Marikkar on December 2, 2020.

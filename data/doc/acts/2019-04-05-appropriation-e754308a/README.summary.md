@@ -1,7 +1,3 @@
-# ⚖️  Appropriation 
-
-Act published on **2019-04-05**.
-
 - Appropriation Act No. 6 of 2019 is certified on April 5, 2019.
 - Authorizes government expenditure of Rs. 2.121 trillion for the financial year 2019 (Jan 1, 2019 - Dec 31, 2019).
 - Funds are to be sourced from the Consolidated Fund, other government funds, and borrowing (up to Rs. 2.079 trillion borrowed).

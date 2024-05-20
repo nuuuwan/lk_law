@@ -1,3 +1,16 @@
 # ⚖️  Appropriation 
 
 Act published on **2019-04-05**.
+
+- Appropriation Act No. 6 of 2019 is certified on April 5, 2019.
+- Authorizes government expenditure of Rs. 2.121 trillion for the financial year 2019 (Jan 1, 2019 - Dec 31, 2019).
+- Funds are to be sourced from the Consolidated Fund, other government funds, and borrowing (up to Rs. 2.079 trillion borrowed).
+- Expenditures authorized by other laws are Rs. 2.232 trillion, detailed in the Second Schedule.
+- Government receipts are to be credited to specified activities, with minimum limits and net surplus directed to the Consolidated Fund.
+- Any insufficient activity receipts may be supplemented by government advances that must be repaid.
+- Unspent Recurrent Expenditure can be reallocated to Capital Expenditure within the same or different programs, as per approved guidelines.
+- Transfers between development and other departmental programs permitted, with reports required for parliamentary oversight.
+- Minister can reduce or withdraw funds released for government expenditure if tax/receipts are less than expected or initial allocation is no longer needed.
+- Minister can also adjust financial limits on activities, subject to parliamentary approval.
+- Certain expenditures, advances, and borrowings made under Article 150(2) resolutions are incorporated into this Act.
+- Sinhala text prevails in case of any inconsistencies between texts.

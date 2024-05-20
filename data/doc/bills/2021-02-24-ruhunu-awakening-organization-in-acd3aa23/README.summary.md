@@ -1,7 +1,3 @@
-# 📄  Ruhunu Awakening Organization (Incorporation) - Bill
-
-Bill published on **2021-02-24**.
-
 - **Bill Introduction:**
   - Bill to incorporate the Ruhunu Awakening Organization.
   - Presented by Hon. Buddhika Pathirana, M.P. for Matara District on February 24, 2021.
