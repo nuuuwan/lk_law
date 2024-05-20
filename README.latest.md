@@ -1,5 +1,5 @@
-# 📄  Appropriation 2020 - GS
+# 📄  State Land (Special Provisions) - GS
 
-Bill published on **2020-10-06**.
+Bill published on **2019-03-27**.
 
 
