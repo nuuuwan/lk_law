@@ -1,7 +1,3 @@
-# ⚖️  Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)
-
-Act published on **2024-05-13**.
-
 - **Title and Certification**: Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No. 28 of 2024, certified on May 13, 2024.
 - **Published Details**: Supplement to Part II of the Gazette of Sri Lanka, May 17, 2024.
 - **Availability**: Can be downloaded from www.documents.gov.lk.

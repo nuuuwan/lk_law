@@ -1,7 +1,3 @@
-# 📄  Employees' Provident Fund (Amendment) - Bill
-
-Bill published on **2021-09-21**.
-
 - The document is related to the Employees’ Provident Fund (Amendment) Bill in Sri Lanka.
 - It seeks to amend the Employees’ Provident Fund Act, No. 15 of 1958.
 - The Bill was presented by the Minister of Labour on September 21, 2021, and was published in the Gazette on September 07, 2021.

@@ -1,7 +1,3 @@
-# 📄  Central Bank of Sri Lanka - Bill
-
-Bill published on **2023-03-07**.
-
 - Bill for the establishment of the Central Bank of Sri Lanka, repealing the Monetary Law Act (Chapter 422).
 - Presented by the Prime Minister on 07th March 2023; published in Gazette on 23rd February 2023.
 - Establishes the Central Bank to oversee and regulate Sri Lanka's monetary, financial, and payment systems.

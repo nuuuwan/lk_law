@@ -1,7 +1,3 @@
-# 📄  Industrial Disputes (Special Provisions) - GS
-
-Bill published on **2022-03-25**.
-
 - The Industrial Disputes (Special Provisions) Bill designates Presidents of labour tribunals as Additional Magistrates.
 - These Presidents will handle suits or prosecutions under specified enactments.
 - The Bill is ordered by the Minister of Labour and printed by the Department of Government Printing, Sri Lanka.
