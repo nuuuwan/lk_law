@@ -1,5 +1,5 @@
-# 📄  Kandyan Marriage and Divorce (Repeal) - GS
+# 📄  Appropriation - GS
 
-Bill published on **2020-01-07**.
+Bill published on **2019-01-11**.
 
 
