@@ -1,5 +1,5 @@
-# 📄  Appropriation - GS
+# 📄  Appropriation 2020 - GS
 
-Bill published on **2019-01-11**.
+Bill published on **2020-10-06**.
 
 
