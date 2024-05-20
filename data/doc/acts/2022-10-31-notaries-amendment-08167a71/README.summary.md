@@ -1,7 +1,3 @@
-# ⚖️  Notaries (Amendment)
-
-Act published on **2022-10-31**.
-
 - The Notaries (Amendment) Act, No. 31 of 2022 was certified on October 31, 2022, and published as a supplement to the Gazette of November 04, 2022.
 - This Act amends the Notaries Ordinance (Chapter 107).
 - Main amendments:

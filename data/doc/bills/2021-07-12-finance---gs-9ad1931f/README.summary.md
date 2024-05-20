@@ -1,7 +1,3 @@
-# 📄  Finance - GS
-
-Bill published on **2021-07-12**.
-
 **Key Points from the Document:**
 
 - **Enactment Name and Date:** The Finance Act to be publicized on July 09, 2021, enabling voluntary disclosure of undisclosed taxable supplies, income, and assets.

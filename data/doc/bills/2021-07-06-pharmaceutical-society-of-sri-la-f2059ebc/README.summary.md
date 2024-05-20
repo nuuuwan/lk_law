@@ -1,7 +1,3 @@
-# 📄  Pharmaceutical Society of Sri Lanka (Incorporation) -Bill
-
-Bill published on **2021-07-06**.
-
 - **Bill Introduction**: A bill to incorporate the Pharmaceutical Society of Sri Lanka was presented by Hon. Madhura Withanage, M.P., for Colombo District on July 6, 2021, and published in the Gazette on June 28, 2021.
 - **Objectives of Incorporation**: The society aims to advance the science of pharmacy, promote pharmaceutical knowledge, education, research, and ensure high standards in professional activities.
 - **Corporate Powers**: The body corporate can purchase, rent, construct, manage lands/buildings, enter into contracts, raise funds, and manage staff.

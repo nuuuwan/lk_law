@@ -1,7 +1,3 @@
-# 📄  Ayurveda (Amendment) - Bill 
-
-Bill published on **2023-07-05**.
-
 - **Presented by:** Minister of Health on 05th July, 2023
 - **Published:** in the Gazette on June 12, 2023
 - **Price and Postage:** Rs. 60.00 and Postage Rs. 150.00
