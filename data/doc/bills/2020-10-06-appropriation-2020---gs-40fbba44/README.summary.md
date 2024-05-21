@@ -1,7 +1,3 @@
-# 📄  Appropriation 2020 - GS
-
-Bill published on **2020-10-06**.
-
 - The Appropriation Bill aims to authorize government expenditure and borrowing for the financial year 2020 in Sri Lanka.
 - It allows for the raising of loans domestically and internationally to fund government activities and services.
 - Provides mechanisms for the government to advance funds from the Consolidated Fund or other sources and stipulates their refund.

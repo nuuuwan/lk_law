@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - GS
-
-Bill published on **2019-07-31**.
-
 - **Amendments Overview**:
   - The document details amendments to the Value Added Tax Act, No. 14 of 2002 in Sri Lanka.
   
@@ -30,4 +26,3 @@ Bill published on **2019-07-31**.
   
 - **Language Clause**:
   - In case of any inconsistency, the Sinhala text will prevail.
-

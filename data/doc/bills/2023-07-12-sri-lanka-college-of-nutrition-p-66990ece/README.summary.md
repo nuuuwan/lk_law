@@ -1,7 +1,3 @@
-# 📄  Sri Lanka College of Nutrition Physicians (Incorporation) - GS
-
-Bill published on **2023-07-12**.
-
 - Incorporation of the Sri Lanka College of Nutrition Physicians
 - Private Members’ Bill presented by Hon. (Dr.) Upul Galappaththi, M.P. for Hambantota District
 - The college aims to carry out its objectives and related activities as per the members' agreed rules

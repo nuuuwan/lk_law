@@ -1,7 +1,3 @@
-# ⚖️  Inland Revenue (Amendment)
-
-Act published on **2021-05-13**.
-
 - Act No. 10 of 2021 amends the Inland Revenue Act No. 24 of 2017.
 - The Act is enacted by the Parliament of Sri Lanka and certified on May 13, 2021.
 - General commencement date: the date the Speaker's certificate is endorsed.

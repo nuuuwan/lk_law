@@ -1,7 +1,3 @@
-# 📄  Intellectual Property (Amendment) - Bill
-
-Bill published on **2022-02-23**.
-
 - The bill aims to amend the Intellectual Property Act, No. 36 of 2003.
 - Introduction of "Geographical Indications Registration System" for registration and administration of geographical indications.
 - Amendments to sections of the principal enactment to include geographical indications along with industrial designs, patents, and marks.
