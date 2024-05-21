@@ -1,7 +1,3 @@
-# ⚖️  Galaha Bhaddrawathie National Bhikku Care Centre Trust 
-
-Act published on **2023-11-24**.
-
 - **Establishment**: The Galaha Bhaddrawathie National Bhikkhu Care Centre Trust Act (No. 31 of 2023) establishes a Trust to provide care for sick and helpless Bhikkhus.
 - **Purpose**: The Trust aims to maintain and manage the Bhikkhu Care Centre, provide necessities and medical treatment to resident Bhikkhus, organize Buddhist and meditation programs, and maintain a library.
 - **Board of Management**: The Trust's administration is overseen by a Board consisting of both ex-officio and appointed members, with responsibilities specified for administration, finance, and other matters.

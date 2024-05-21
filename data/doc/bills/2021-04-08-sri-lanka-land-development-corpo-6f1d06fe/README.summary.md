@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Land Development Corporation (Amendment) - Bill
-
-Bill published on **2021-04-08**.
-
 - **Introduction**:
   - Bill to amend the Sri Lanka Land Development Corporation Act, No. 15 of 1968.
   - Presented by Prime Minister and Ministers on April 8, 2021.

@@ -1,7 +1,3 @@
-# 📄  Susarana Lanka Foundation (Incorporation) - Bill
-
-Bill published on **2023-09-22**.
-
 - **Purpose**: The bill aims to incorporate the Susarana Lanka Foundation.
 - **Presented By**: Hon. Asanka Navarathna, M. P., on September 22, 2023.
 - **Publication**: Published in the Gazette on September 14, 2023. 

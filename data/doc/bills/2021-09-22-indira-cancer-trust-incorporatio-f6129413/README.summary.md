@@ -1,7 +1,3 @@
-# 📄  Indira Cancer Trust (Incorporation) - Bill
-
-Bill published on **2021-09-22**.
-
 - **Purpose**: A bill to incorporate the Indira Cancer Trust in Sri Lanka.
 - **Presented by**: Hon. Manusha Nanayakkara, M.P. for Galle District on September 22, 2021.
 - **Publication Details**: Published in the Gazette on August 23, 2021. Bill No. 72.

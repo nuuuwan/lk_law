@@ -1,7 +1,3 @@
-# 📄  Securities and Exchange Commission of Sri Lanka -Bill
-
-Bill published on **2021-07-09**.
-
 - Establishment of the Securities and Exchange Commission (SEC) of Sri Lanka.
 - Regulation of market institutions, public offers of securities, and market intermediaries.
 - Investor protection and enforcement measures.

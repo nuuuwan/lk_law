@@ -1,7 +1,3 @@
-# 📄  Microfinance and Credit Regulatory Authority - Bill
-
-Bill published on **2024-01-09**.
-
 - Bill aims to establish the Microfinance and Credit Regulatory Authority of Sri Lanka.
 - Main purposes:
   - Regulate money lending and microfinance businesses.
