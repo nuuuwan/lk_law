@@ -1,7 +1,3 @@
-# ⚖️  Nation Building Tax (Amendment)
-
-Act published on **2020-10-12**.
-
 - The Nation Building Tax (Amendment) Act, No. 3 of 2020, was certified on October 12, 2020.
 - The Act is an amendment to the Nation Building Tax Act, No. 9 of 2009.
 - It was published as a supplement to the Gazette of Sri Lanka on October 16, 2020.

@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - Bill
-
-Bill published on **2021-11-22**.
-
 - **Bill Overview**: An amendment to the Civil Procedure Code (Chapter 101) of Sri Lanka.
 - **Presented by**: Minister of Justice on November 22, 2021.
 - **Published**: In the Gazette on October 07, 2021.

@@ -1,7 +1,3 @@
-# 📄  Commission for Truth, Unity and Reconciliation in Sri Lanka - GS
-
-Bill published on **2024-01-01**.
-
 - Establishment of the Commission for Truth, Unity, and Reconciliation in Sri Lanka.
 - Definition of powers and functions of the Commission.
 - Monitoring the implementation of the Commission's recommendations.

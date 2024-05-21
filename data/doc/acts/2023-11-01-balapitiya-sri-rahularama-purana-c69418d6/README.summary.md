@@ -1,7 +1,3 @@
-# ⚖️  Balapitiya Sri Rahularama Purana Viharastha Samanera Akalpa Sangwardena Bikshu Vidyalaya (Incorporation)
-
-Act published on **2023-11-01**.
-
 - Title: Balapitiya Sri Rahularama Purana Viharastha Samanera Akalpa Sangwardena Bikshu Vidyalaya (Incorporation) Act, No. 25 of 2023
 - Certification Date: November 1, 2023
 - Published as a supplement in the Gazette of Sri Lanka dated November 3, 2023

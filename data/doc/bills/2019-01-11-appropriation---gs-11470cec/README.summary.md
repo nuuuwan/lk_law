@@ -1,7 +1,3 @@
-# 📄  Appropriation - GS
-
-Bill published on **2019-01-11**.
-
 - **Purpose of the Bill:**
   - Provide for the service of the financial year 2019.
   - Authorize borrowing money in or outside Sri Lanka.

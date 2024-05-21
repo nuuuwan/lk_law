@@ -1,7 +1,3 @@
-# 📄  Prevention of Frauds (Amendment) - GS
-
-Bill published on **2023-11-29**.
-
 - **Amendment to Prevention of Frauds Ordinance**: The bill aims to amend the Prevention of Frauds Ordinance (Chapter 70).
 - **Objective**: Introduces procedures to facilitate the prevention of forgery in deed of transfer execution.
 - **Clause 2**: Amends section 2 of the Prevention of Frauds Ordinance to add new provisions.

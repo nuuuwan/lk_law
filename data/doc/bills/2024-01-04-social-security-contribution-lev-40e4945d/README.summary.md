@@ -1,7 +1,3 @@
-# 📄  Social Security Contribution Levy (Amendment) - GS
-
-Bill published on **2024-01-04**.
-
 - An amendment to the Social Security Contribution Levy Act, No. 25 of 2022
 - Ordered for publication by the Minister of Finance, Economic Stabilization, and National Policies
 - Decrease in turnover threshold for Social Security Contribution Levy registration from Rs. 120 million to Rs. 60 million per annum effective January 1, 2024
