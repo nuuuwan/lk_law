@@ -1,3 +1,25 @@
 # 📄  Inland Revenue (Amendment) - GS
 
 Bill published on **2021-03-18**.
+
+- Gazette Supplement dated March 12, 2021, issued on March 18, 2021.
+- A Bill to amend the Inland Revenue Act, No. 24 of 2017, ordered by the Minister of Finance.
+- Key amendments include:
+
+  - Clause 2: Excludes employer contributions to gratuity funds in individual gain/profit calculations.
+  - Clause 4: Grants tax exemptions under the Strategic Development Projects Act.
+  - Clause 6: Treats financial institution loan costs as allowable expenses.
+  - Clause 7: Allows repair expenditure deductions for income tax calculations.
+  - Clause 8: Allows deductions for marketing and communication expenditures.
+  - Clause 11: Allows unrelieved losses of small and medium enterprises as deductions.
+  - Clause 13: Allows apportioning costs/considerations for business assets with different tax rates.
+  - Clause 14: Simplifies computation of gains/profits from realization of investment assets.
+  - Clause 15 & 16: Introduces partnership income tax.
+  - Clause 18: Grants tax exemption on profits remitted by non-residents.
+  - Clause 26 to 30: Abolishes certain withholding taxes and introduces Advance Income Tax (AIT).
+  - Clause 32 to 48: Introduces electronic filing requirements, mandatory use of Tax Identification Numbers, and new definitions.
+  - Clause 52 to 56: Grants enhanced capital allowances and extends temporary concessions.
+  - Clause 57 to 60: Provides guidelines on tax computations and post-COVID-19 tax reliefs.
+
+- The Act may be cited as the Inland Revenue (Amendment) Act, 2021.
+- Specific provisions will commence either on the Speaker's certificate date, April 1, 2021, or dates specified in tables within the Amendment Act.

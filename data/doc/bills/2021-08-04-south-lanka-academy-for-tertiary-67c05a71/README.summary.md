@@ -1,7 +1,3 @@
-# 📄  South Lanka Academy for Tertiary Education and Leadership (Incorporation) - Bill
-
-Bill published on **2021-08-04**.
-
 - A Bill to incorporate the South Lanka Academy for Tertiary Education and Leadership.
 - Presented by Hon. Buddhika Pathirana, M.P., for Matara District on August 4, 2021.
 - Published in the Gazette on July 19, 2021.

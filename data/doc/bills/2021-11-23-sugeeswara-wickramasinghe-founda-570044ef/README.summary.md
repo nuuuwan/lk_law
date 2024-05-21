@@ -1,7 +1,3 @@
-# 📄  Sugeeswara Wickramasinghe Foundation (Incorporation) -GS
-
-Bill published on **2021-11-23**.
-
 - **Document Overview:**
   - Title: Gazette of the Democratic Socialist Republic of Sri Lanka (Part II - November 19, 2021).
   - Type: Supplement, released on November 23, 2021.

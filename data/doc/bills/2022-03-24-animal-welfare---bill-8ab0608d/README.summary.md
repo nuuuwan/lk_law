@@ -1,7 +1,3 @@
-# 📄  Animal Welfare - Bill
-
-Bill published on **2022-03-24**.
-
 - **Purpose of the Bill:**
   - Provide for animal welfare and prevent cruelty to animals.
   - Repeal the Prevention of Cruelty to Animals Ordinance (Chapter 475).

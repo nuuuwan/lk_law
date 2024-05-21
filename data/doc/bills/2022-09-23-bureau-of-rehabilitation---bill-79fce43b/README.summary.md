@@ -1,7 +1,3 @@
-# 📄  Bureau of Rehabilitation - Bill
-
-Bill published on **2022-09-23**.
-
 - Establishment of "Bureau of Rehabilitation" in Sri Lanka
 - Target groups: misguided combatants, individuals engaged in extreme/destructive acts, and drug dependents
 - Objective: rehabilitate and reintegrate individuals into society using various therapies

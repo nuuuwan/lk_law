@@ -1,7 +1,3 @@
-# 📄  Inland Revenue (Amendment) - GS
-
-Bill published on **2021-03-18**.
-
 - Gazette Supplement dated March 12, 2021, issued on March 18, 2021.
 - A Bill to amend the Inland Revenue Act, No. 24 of 2017, ordered by the Minister of Finance.
 - Key amendments include:

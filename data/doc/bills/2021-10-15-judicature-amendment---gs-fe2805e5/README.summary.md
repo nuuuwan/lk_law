@@ -1,7 +1,3 @@
-# 📄  Judicature (Amendment) - GS
-
-Bill published on **2021-10-15**.
-
 - **Document Title**: THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
 - **Part and Date**: Part II of October 15, 2021
 - **Type**: Supplement (Issued on 15.10.2021)

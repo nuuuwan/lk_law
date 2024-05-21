@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Rupavahini Corporation (Amendment) - Bill
-
-Bill published on **2022-08-10**.
-
 - **Bill Title**: Sri Lanka Rupavahini Corporation (Amendment) Bill.
 - **Presented by**: Minister of Transport and Highways and Minister of Mass Media on 10th August 2022.
 - **Purpose**: To amend the Sri Lanka Rupavahini Corporation Act, No. 6 of 1982.

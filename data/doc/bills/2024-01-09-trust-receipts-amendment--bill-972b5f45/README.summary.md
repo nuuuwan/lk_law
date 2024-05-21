@@ -1,7 +1,3 @@
-# 📄  Trust Receipts (Amendment) -Bill
-
-Bill published on **2024-01-09**.
-
 - **Amendment Overview**:
   - The bill is to amend the Trust Receipts Ordinance (Chapter 86).
   - Presented by the Minister of Finance, Economic Stabilization, and National Policies on January 9, 2024.
