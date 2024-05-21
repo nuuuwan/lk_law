@@ -1,7 +1,3 @@
-# 📄  Inland Revenue (Amendment) - GS
-
-Bill published on **2023-07-19**.
-
 - **Purpose of Bill**: 
   - To amend the Inland Revenue Act, No. 24 of 2017.
 

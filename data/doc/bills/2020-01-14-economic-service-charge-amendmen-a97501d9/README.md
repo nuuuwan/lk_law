@@ -1,3 +1,12 @@
 # 📄  Economic Service Charge (Amendment) - GS
 
 Bill published on **2020-01-14**.
+
+- Document titled "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA" from January 09, 2020.
+- Focuses on an amendment to the Economic Service Charge Act, No. 13 of 2006.
+- Ordered to be published by the Minister of Finance, Economic and Policy Development.
+- Available for purchase at the Government Publications Bureau, Colombo 5, and downloadable from www.documents.gov.lk.
+- Price details for printed document: Rs. 6.00; Postage: Rs. 15.00.
+- Clause 2 amends section 2 of the Act to remove the Economic Service Charge effective January 1, 2020.
+- The Act is officially titled as the Economic Service Charge (Amendment) Act, No.   of 2020.
+- In case of any inconsistency, the Sinhala text of the act will prevail over the Tamil text.

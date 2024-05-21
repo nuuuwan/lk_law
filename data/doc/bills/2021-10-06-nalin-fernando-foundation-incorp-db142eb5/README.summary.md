@@ -1,7 +1,3 @@
-# 📄  Nalin Fernando Foundation (Incorporation) - Bill
-
-Bill published on **2021-10-06**.
-
 - A bill presented by Hon. Nalin Fernando to incorporate the Nalin Fernando Foundation.
 - Published in the Gazette on September 21, 2021.
 - Bill No. 75, printed at the Department of Government Printing, Sri Lanka.

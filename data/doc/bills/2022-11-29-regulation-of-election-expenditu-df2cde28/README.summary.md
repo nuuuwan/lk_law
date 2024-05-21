@@ -1,7 +1,3 @@
-# 📄  Regulation of Election Expenditure - GS
-
-Bill published on **2022-11-29**.
-
 - **Title and Context**:
   - Bill to regulate election expenditure in Sri Lanka.
   - Applies to elections under Local Authorities Elections Ordinance, Provincial Councils Elections Act, Parliamentary Elections Act, and Presidential Elections Act.

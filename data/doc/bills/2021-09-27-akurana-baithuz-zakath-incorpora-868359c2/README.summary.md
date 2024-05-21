@@ -1,7 +1,3 @@
-# 📄  Akurana Baithuz Zakath (Incorporation) - GS
-
-Bill published on **2021-09-27**.
-
 - **Introduction**:
   - Bill titled "Akurana Baithuz Zakath (Incorporation)".
   - Presented by Hon. Imran Maharoof M.P. for Trincomalee District.

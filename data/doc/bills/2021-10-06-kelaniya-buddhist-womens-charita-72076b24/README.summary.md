@@ -1,7 +1,3 @@
-# 📄  Kelaniya Buddhist Women's Charitable Society (Incorporation) - Bill
-
-Bill published on **2021-10-06**.
-
 - **Title:** Bill for Incorporation of the Kelaniya Buddhist Women's Charitable Society.
 - **Presented by:** Hon. (Ven.) Athuraliye Rathana Thero, M.P., on October 6, 2021.
 - **Objective:** To incorporate the Kelaniya Buddhist Women's Charitable Society.
