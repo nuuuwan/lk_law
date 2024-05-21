@@ -1,7 +1,3 @@
-# 📄  Registration of Electors (Amendment) - GS
-
-Bill published on **2019-09-18**.
-
 - **Bill Introduction**: A bill to amend the Registration of Electors Act, No. 44 of 1980 in Sri Lanka.
 - **Publication**: Ordered to be published by the President, available for purchase at the Government Publications Bureau, Colombo.
 - **Price Information**: Priced at Rs. 12.00 with postage Rs. 15.00.

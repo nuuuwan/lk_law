@@ -1,7 +1,3 @@
-# 📄  Youthful Offenders (Training Schools) (Amendment) - Bill
-
-Bill published on **2021-09-10**.
-
 - **Document Title:** The Gazette of the Democratic Socialist Republic of Sri Lanka
 - **Date of Issue:** September 10, 2021
 - **Subject:** Youthful Offenders (Training Schools) (Amendment) Bill
