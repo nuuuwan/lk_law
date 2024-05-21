@@ -1,7 +1,3 @@
-# 📄  Inland Revenue (Amendment) - GS
-
-Bill published on **2023-03-16**.
-
 - The document outlines an amendment to the Inland Revenue Act, No. 24 of 2017.
 - The Bill is issued for publication by the Minister of Finance, Economic Stabilization, and National Policies.
 - Key amendments included:

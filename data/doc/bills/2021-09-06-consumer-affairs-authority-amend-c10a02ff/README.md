@@ -2,4 +2,14 @@
 
 Bill published on **2021-09-06**.
 
-
+- Parliament of the Democratic Socialist Republic of Sri Lanka presented an amendment bill for the Consumer Affairs Authority Act, No. 9 of 2003.
+- The bill was introduced by the Minister of Trade on September 6, 2021.
+- Published in the Gazette on August 19, 2021.
+- Ordered to be printed by Parliament.
+- The bill can be purchased at the Government Publications Bureau, Colombo 5, and downloaded from www.documents.gov.lk.
+- Clause 2 amends Section 60 of the original act to include a new penalty for violations of subsection (5) of Section 20.
+- A new subsection (4A) is added, detailing penalties for non-compliance with orders under subsection (5) of Section 20:
+  - Non-corporate individuals face fines from Rs. 100,000 to Rs. 500,000 or up to six months imprisonment for the first offense, and higher penalties for subsequent offenses.
+  - Corporate bodies face fines from Rs. 500,000 to Rs. 5 million for the first offense, and higher penalties for subsequent offenses.
+- Previous offenses committed under subsection (4A) before the amendment will not be subject to the new provisions.
+- In case of inconsistency between Sinhala and Tamil texts of the Act, the Sinhala text will prevail.

@@ -1,7 +1,3 @@
-# ⚖️  Powers of Attorney (Amendment)
-
-Act published on **2022-10-25**.
-
 - Title: Powers of Attorney (Amendment) Act, No. 28 of 2022.
 - Certified on: 25th October 2022.
 - Published as Supplement to the Gazette of Sri Lanka on October 28, 2022.
@@ -44,4 +40,3 @@ Act published on **2022-10-25**.
 
 ### Miscellaneous:
 - Resolution of inconsistencies between Sinhala and Tamil texts in favor of the Sinhala text.
-

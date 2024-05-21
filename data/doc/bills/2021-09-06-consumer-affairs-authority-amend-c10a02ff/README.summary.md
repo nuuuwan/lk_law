@@ -1,7 +1,3 @@
-# 📄  Consumer Affairs Authority (Amendment) - Bill
-
-Bill published on **2021-09-06**.
-
 - Parliament of the Democratic Socialist Republic of Sri Lanka presented an amendment bill for the Consumer Affairs Authority Act, No. 9 of 2003.
 - The bill was introduced by the Minister of Trade on September 6, 2021.
 - Published in the Gazette on August 19, 2021.
