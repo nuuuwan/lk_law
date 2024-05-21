@@ -1,7 +1,3 @@
-# ⚖️  Prevention of Terrorism (Temporary Provisions) (Amendment)
-
-Act published on **2022-03-29**.
-
 - Title: Prevention of Terrorism (Temporary Provisions) (Amendment) Act, No. 12 of 2022.
 - Certified on: 29th of March, 2022.
 - Published as a Supplement to the Gazette of Sri Lanka on April 01, 2022.

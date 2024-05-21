@@ -1,7 +1,3 @@
-# 📄  Social Security Contribution Levy - (GS)
-
-Bill published on **2022-06-21**.
-
 - **Document Title:** The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of June 17, 2022, Supplement (Issued on 21.06.2022).
 - **Primary Focus:** Introduction of the Social Security Contribution Levy Bill.
   

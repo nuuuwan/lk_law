@@ -1,7 +1,3 @@
-# 📄  Trust Receipts (Amendment) - GS
-
-Bill published on **2023-11-10**.
-
 - **Title and Context:**
   - The document is a supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka, issued on November 10, 2023.
   - It details a bill to amend the Trust Receipts Ordinance (Chapter 86).
@@ -28,4 +24,3 @@ Bill published on **2023-11-10**.
 
 - **Language Precedence:**
   - In case of any inconsistency between Sinhala and Tamil texts, the Sinhala text shall prevail.
-

@@ -1,7 +1,3 @@
-# 📄  Abolition of Death Penalty - Bill
-
-Bill published on **2019-08-01**.
-
 - **Parliament Title**: Parliament of the Democratic Socialist Republic of Sri Lanka
 - **Bill Title**: Abolition of Death Penalty Bill
 - **Presented by**: Hon. Bandula Lal Bandarigoda, M.P. for Galle District

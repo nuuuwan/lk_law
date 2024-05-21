@@ -1,7 +1,3 @@
-# ⚖️  Dangerous Animals (Amendment)
-
-Act published on **2022-11-17**.
-
 - Act titled "Dangerous Animals (Amendment) Act, No. 40 of 2022," certified on November 17, 2022.
 - Amends the Dangerous Animals Ordinance (Chapter 49).
 - Published in the Gazette of Sri Lanka on November 18, 2022.

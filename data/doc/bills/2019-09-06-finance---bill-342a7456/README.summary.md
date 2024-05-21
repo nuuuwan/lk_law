@@ -1,7 +1,3 @@
-# 📄  Finance - Bill
-
-Bill published on **2019-09-06**.
-
 - The bill aims to amend the Finance Act, No. 35 of 2018.
 - It introduces a Foreign Commercial Transactions Levy.
 - Presented by the Minister of Finance on September 6, 2019.
