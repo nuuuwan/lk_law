@@ -1,7 +1,3 @@
-# 📄  Heart to Heart Trust Fund (Incorporation) - Bill
-
-Bill published on **2021-03-25**.
-
 - **Act Introduction**: Bill to incorporate the Heart to Heart Trust Fund in Sri Lanka, presented by Hon. (Prof.) Tissa Vitarana on March 25, 2021.
 - **Incorporation**: Establishes the Trust Fund as a body corporate with perpetual succession to be recognized as the "Heart to Heart Trust Fund."
 - **General Objects**:

@@ -1,7 +1,3 @@
-# 📄  Registration of Documents (Amendment) - Bill
-
-Bill published on **2024-01-09**.
-
 - **Amendment Overview**: A bill to amend the Registration of Documents Ordinance (Chapter 117).
 - **Presented by**: Minister of Finance, Economic Stabilization, and National Policies on January 9, 2024.
 - **Clause 2**: Excludes transactions under the Secured Transactions Act, 2023 from the principal enactment.
