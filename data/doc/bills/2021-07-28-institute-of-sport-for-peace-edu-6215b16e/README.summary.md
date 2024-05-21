@@ -1,7 +1,3 @@
-# 📄  Institute of Sport for Peace, Education, Empowerment and Development (speed) (Incorporation) - GS
-
-Bill published on **2021-07-28**.
-
 - **Bill Overview**: A bill to incorporate the Institute of Sport for Peace, Education, Empowerment, and Development (SPEED) in Sri Lanka.
 - **Purpose**: To formalize the existing institute and enhance its ability to achieve its objectives through incorporation.
 - **Short Title**: This Act may be cited as the Institute of Sport for Peace, Education, Empowerment, and Development (Incorporation) Act, No. of 2021.

@@ -1,7 +1,3 @@
-# ⚖️  Termination of Employment of Workmen (Special Provisions) (Amendment)
-
-Act published on **2022-09-16**.
-
 - Title: Termination of Employment of Workmen (Special Provisions) (Amendment) Act, No. 23 of 2022 
 - Certified on: 16th of September, 2022
 - Purpose: Amending the Termination of Employment of Workmen (Special Provisions) Act, No. 45 of 1971

@@ -1,7 +1,3 @@
-# 📄  Microfinance and Credit Regulatory Authority - GS
-
-Bill published on **2023-10-30**.
-
 - **Establishment of Authority**: Creation of the Microfinance and Credit Regulatory Authority of Sri Lanka.
 - **Regulation**: The Authority will regulate and supervise moneylenders and microfinance institutions.
 - **Protection**: Protection for customers of moneylending and microfinance businesses.

@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - GS
-
-Bill published on **2023-12-14**.
-
 - **Gazette Overview:**
   - Issued by the Democratic Socialist Republic of Sri Lanka.
   - Part II dated December 08, 2023, supplement issued on December 14, 2023.

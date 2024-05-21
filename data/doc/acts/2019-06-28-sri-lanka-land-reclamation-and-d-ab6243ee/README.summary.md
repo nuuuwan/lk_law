@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Land Reclamation and Development Corporation (Amendment)
-
-Act published on **2019-06-28**.
-
 - **Title and Certification**: The document pertains to the "Sri Lanka Land Reclamation and Development Corporation (Amendment) Act, No. 11 of 2019" and was certified on June 28, 2019.
 
 - **Distribution**: Published as a supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka, dated June 28, 2019.
