@@ -1,3 +1,25 @@
 # 📄  Wages Board (Amendment) 
 
 Bill published on **2019-06-07**.
+
+- **Document Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka - Part II, June 07, 2019
+- **Amendment**: Proposed amendments to the Wages Boards Ordinance (Chapter 136)
+- **Publishing Authority**: Ordered by the Minister of Labour and Trade Union Relations
+- **Available for Purchase**: Government Publications Bureau, Colombo 5; Online at www.documents.gov.lk
+- **Important Clauses and Amendments**:
+  - **Clause 2**: Enhanced punishment for defaulting employers.
+  - **Clause 3**: Employers must preserve worker registers for six years.
+  - **Clause 4**: Enhanced punishment for non-payment of wages.
+  - **Clause 5**: Increased period for making complaints for recovery of sums.
+  - **Clauses 6-8, 10**: Enhanced punishments for various offenses.
+  - **Clause 9**: Extended time frame to initiate a suit for money recovery.
+  - **Clause 11**: Regulate contracts or work arrangements to prevent disguised employment relationships.
+  - **Clause 12**: Establishment of a Special Employment Relations Tribunal for appeal and adjudication.
+- **Tribunal Details**:
+  - **Composition**: Three members with expertise in labor laws, including a retired judge.
+  - **Functions**: Determining appeals related to employment relationships and issuing decisions.
+  - **Support Structure**: Secretary to maintain records; additional officers can be appointed to assist.
+- **Legal Consistency**: In case of textual inconsistencies, the Sinhala text prevails.
+- **Penalties**: Various fines and imprisonment terms specified for different offenses.
+
+

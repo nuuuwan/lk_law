@@ -1,7 +1,3 @@
-# 📄  Anti-Corruption (Amendment) - Bill
-
-Bill published on **2023-10-20**.
-
 - Bill to amend the Anti-Corruption Act, No. 9 of 2023.
 - Presented by the Minister of Justice, Prison Affairs and Constitutional Reforms on October 20, 2023.
 - Published in the Gazette on October 12, 2023.

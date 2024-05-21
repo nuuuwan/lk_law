@@ -1,7 +1,3 @@
-# ⚖️  Excise (Amendment) 
-
-Act published on **2019-10-31**.
-
 - Title: Excise (Amendment) Act, No. 18 of 2019
 - Certified Date: October 31, 2019
 - Published: November 1, 2019, in the Gazette of Democratic Socialist Republic of Sri Lanka

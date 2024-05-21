@@ -1,7 +1,3 @@
-# 📄  Wages Board (Amendment) 
-
-Bill published on **2019-06-07**.
-
 - **Document Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka - Part II, June 07, 2019
 - **Amendment**: Proposed amendments to the Wages Boards Ordinance (Chapter 136)
 - **Publishing Authority**: Ordered by the Minister of Labour and Trade Union Relations
@@ -21,5 +17,4 @@ Bill published on **2019-06-07**.
   - **Support Structure**: Secretary to maintain records; additional officers can be appointed to assist.
 - **Legal Consistency**: In case of textual inconsistencies, the Sinhala text prevails.
 - **Penalties**: Various fines and imprisonment terms specified for different offenses.
-
 

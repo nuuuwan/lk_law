@@ -1,7 +1,3 @@
-# 📄  Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers and Container Operators (Amendment) - Bill
-
-Bill published on **2023-01-05**.
-
 - **Bill Introduction**:
   - The bill aims to amend the Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers, and Container Operators Act, No. 10 of 1972.
   - Presented by the Minister of Ports, Shipping, and Aviation on January 5, 2023.

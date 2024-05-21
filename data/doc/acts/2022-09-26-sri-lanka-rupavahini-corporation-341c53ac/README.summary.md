@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Rupavahini Corporation (Amendment)
-
-Act published on **2022-09-26**.
-
 - **Title**: Sri Lanka Rupavahini Corporation (Amendment) Act, No. 26 of 2022.
 - **Certification Date**: September 26, 2022.
 - **Publication**: Supplement to Part II of the Gazette, September 30, 2022.

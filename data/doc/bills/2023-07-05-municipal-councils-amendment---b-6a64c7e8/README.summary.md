@@ -1,7 +1,3 @@
-# 📄  Municipal Councils (Amendment) - Bill
-
-Bill published on **2023-07-05**.
-
 - Proposed Bill to amend the Municipal Councils Ordinance (Chapter 252)
 - Presented by Hon. Jayantha Ketagoda, M.P. on July 5, 2023
 - Bill published in the Gazette on June 26, 2023

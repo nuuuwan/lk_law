@@ -1,7 +1,3 @@
-# 📄  Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation (Incorporation) - GS
-
-Bill published on **2021-10-18**.
-
 - **Title:** The Gazette of the Democratic Socialist Republic of Sri Lanka
 - **Date:** Part II of October 15, 2021 (Issued on 18.10.2021)
 - **Bill Introduction:** Private Member’s Bill by Hon. Asanka Navarathna, M. P. for Kurunegala District to incorporate the Mabotuwana Sri Piyarathana Nayaka Thero Suwasevana Foundation.

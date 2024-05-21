@@ -1,7 +1,3 @@
-# 📄  Nation Building Tax - GS
-
-Bill published on **2020-09-04**.
-
 - Title: Nation Building Tax (Amendment) Bill of Sri Lanka.
 - Purpose: Amend the Nation Building Tax Act, No. 9 of 2009.
 - Ordered by: Prime Minister and Minister of Finance, Minister of Buddhasasana, Religious & Cultural Affairs, and Minister of Urban Development & Housing.

@@ -1,7 +1,3 @@
-# ⚖️  Fauna and Flora Protection (Amendment)
-
-Act published on **2022-03-02**.
-
 - Parliament of Sri Lanka certified the Fauna and Flora Protection (Amendment) Act, No. 7 of 2022 on March 2, 2022.
 - The Act amends the Fauna and Flora Protection Ordinance (Chapter 469).
 - The Act provides for the protection and conservation of Sri Lanka's fauna and flora and their habitats.
