@@ -1,7 +1,3 @@
-# ⚖️  Kandyan Marriage and Divorce (Amendment)
-
-Act published on **2022-11-17**.
-
 - **Title:** Kandyan Marriage and Divorce (Amendment) Act, No. 37 of 2022
 - **Certification Date:** 17th November 2022
 - **Publication Date:** November 18, 2022, as a supplement to Part II of the Gazette of Sri Lanka

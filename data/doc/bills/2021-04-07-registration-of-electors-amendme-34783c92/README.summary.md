@@ -1,7 +1,3 @@
-# 📄  Registration of Electors (Amendment) - Bill
-
-Bill published on **2021-04-07**.
-
 - Amendment to the Registration of Electors Act, No. 44 of 1980.
 - Presented by the Prime Minister and other ministers on April 07, 2021.
 - Published in the Gazette on March 16, 2021.

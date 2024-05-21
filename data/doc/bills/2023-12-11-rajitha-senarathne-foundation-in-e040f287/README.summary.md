@@ -1,7 +1,3 @@
-# 📄  Rajitha Senarathne Foundation (Incorporation) - Bill
-
-Bill published on **2023-12-11**.
-
 - **Bill Details:**
   - Rajitha Senarathne Foundation (Incorporation) Bill presented by Hon. (Ven.) Athuraliye Rathana Thero, M.P. on 11th December 2023.
   - Published in the Gazette on November 13, 2023.
