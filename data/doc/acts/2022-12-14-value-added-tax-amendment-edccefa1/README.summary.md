@@ -1,7 +1,3 @@
-# ⚖️  Value Added Tax (Amendment)
-
-Act published on **2022-12-14**.
-
 - Certified on December 14, 2022.
 - Printed under the order of the Government of Sri Lanka and published in the Gazette on December 16, 2022.
 - Available for download from www.documents.gov.lk.

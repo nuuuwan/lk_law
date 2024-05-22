@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - GS
-
-Bill published on **2022-11-04**.
-
 - The document is a supplement to The Gazette of the Democratic Socialist Republic of Sri Lanka, issued on November 04, 2022.
 - The content pertains to the Appropriation (Amendment) Bill intended to amend the Appropriation Act, No. 30 of 2021.
 - The publication cost is Rs. 6.00, and postage is Rs. 15.00.

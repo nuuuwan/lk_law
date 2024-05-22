@@ -1,7 +1,3 @@
-# 📄  ''Matara Season'' Organization (Incorporation) - GS
-
-Bill published on **2021-03-01**.
-
 - **Bill Introduction**: The "Matara Season" Organization is to be incorporated by an Act presented in Parliament by Hon. Buddhika Pathirana, M.P. for Matara District.
 - **Purpose of Incorporation**: To formalize the organization which has been effectively operating to achieve its objectives.
 - **Corporate Structure**: The Act will create a body corporate with perpetual succession, allowing the organization to sue and be sued, use a common seal, and alter it as needed.

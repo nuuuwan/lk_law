@@ -1,7 +1,3 @@
-# 📄  Elections (Special Provisions) - GS
-
-Bill published on **2023-07-11**.
-
 - **Title**: Gazette of the Democratic Socialist Republic of Sri Lanka, Supplement Part II of July 07, 2023
 - **Purpose**: Bill to extend the time period for the presentation of an election petition, increase fines, and amend four election-related acts.
 - **Acts Amended**:
