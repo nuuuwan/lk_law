@@ -1,7 +1,3 @@
-# ⚖️  Institute of Valuers of Sri Lanka (Amendment)
-
-Act published on **2019-06-18**.
-
 - The document pertains to the **"Institute of Valuers of Sri Lanka (Amendment) Act, No. 9 of 2019,"** certified on June 18, 2019.
 - The long title of the original Act **Law, No. 33 of 1975** is repealed and replaced to specify the establishment of the Institute, its Council for management, maintenance of professional standards, and public interest protection.
 - Major amendments include:

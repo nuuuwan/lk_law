@@ -1,7 +1,3 @@
-# 📄  Youthful Offenders (Training Schools) (Amendment) - Bill
-
-Bill published on **2021-10-07**.
-
 - **Bill Title**: Youthful Offenders (Training Schools) (Amendment) Bill.
 - **Purpose**: To amend the Youthful Offenders (Training Schools) Ordinance (Chapter 25).
 - **Presented by**: Minister of Justice on 07th October 2021.

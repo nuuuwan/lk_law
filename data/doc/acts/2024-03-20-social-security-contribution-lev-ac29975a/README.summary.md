@@ -1,7 +1,3 @@
-# ⚖️  Social Security Contribution Levy (Amendment)
-
-Act published on **2024-03-20**.
-
 - Title: Social Security Contribution Levy (Amendment) Act, No. 15 of 2024.
 - Certified on: March 20, 2024.
 - Published as a Supplement to Part II of the Gazette of Sri Lanka, March 22, 2024.

@@ -1,7 +1,3 @@
-# 📄  Institute of Facilities Management Sri Lanka (Incorporation) - GS
-
-Bill published on **2024-02-20**.
-
 - Title: The Gazette of the Democratic Socialist Republic of Sri Lanka - Part II of February 16, 2024
 - Supplement: Issued on 20.02.2024
 - Focus: Incorporation of the Institute of Facilities Management Sri Lanka (Private Members’ Bill by Hon. D. Weerasingha, M.P. for Digamadulla District)

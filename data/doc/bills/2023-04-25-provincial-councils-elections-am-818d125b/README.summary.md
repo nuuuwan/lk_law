@@ -1,7 +1,3 @@
-# 📄  Provincial Councils Elections (Amendment) - Bill
-
-Bill published on **2023-04-25**.
-
 - Bill to amend the Provincial Councils Elections Act, No. 2 of 1988, of Sri Lanka.
 - Introduced by Hon. M. A. Sumanthiran, M.P., for Jaffna District on April 25, 2023.
 - Published in the Gazette on April 10, 2023.

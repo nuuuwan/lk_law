@@ -1,7 +1,3 @@
-# 📄  Prescription (Amendment) (GS)
-
-Bill published on **2019-07-15**.
-
 - The Gazette is from the Democratic Socialist Republic of Sri Lanka, dated July 12, 2019.
 - The supplement was issued on July 15, 2019.
 - The document pertains to a bill to amend the Prescription Ordinance (Chapter 68).

@@ -1,7 +1,3 @@
-# 📄  Conferring the Honour of Senior Instructing - GS
-
-Bill published on **2023-07-19**.
-
 - **Purpose:** The bill aims to confer the honour of Senior Instructing Attorneys-at-Law to recognize and appreciate the distinguished service of Attorneys-at-Law who have demonstrated high standards and eminence in the legal profession.
 - **Publication Information:** Part II of the Gazette dated July 14, 2023, (issued on July 19, 2023). Printed by the Department of Government Printing, Sri Lanka, purchasable at the Government Publications Bureau, Colombo 5. The supplement is available for download from the government's website.
 - **Short Title:** Referred to as the "Conferring the Honour of Senior Instructing Attorneys-at-Law Act, No. ……. of 2023."

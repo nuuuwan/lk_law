@@ -1,7 +1,3 @@
-# 📄  Parliamentary Elections (Amendment) - GS
-
-Bill published on **2024-05-08**.
-
 - Title: Parliamentary Elections (Amendment) Bill
 - Date: May 03, 2024
 - Presented by: Hon. (Dr.) (Mrs.) Sudarshini Fernandopulle, M.P.
