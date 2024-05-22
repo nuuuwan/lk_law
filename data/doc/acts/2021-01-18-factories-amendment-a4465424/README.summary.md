@@ -1,7 +1,3 @@
-# ⚖️  Factories (Amendment)
-
-Act published on **2021-01-18**.
-
 - The Factories (Amendment) Act, No. 4 of 2021, was certified on January 18, 2021.
 - Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka on January 22, 2021.
 - Available for purchase at the Government Publications Bureau and can be downloaded from www.documents.gov.lk.
