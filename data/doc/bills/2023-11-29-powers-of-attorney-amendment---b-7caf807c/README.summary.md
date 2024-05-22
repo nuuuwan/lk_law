@@ -1,7 +1,3 @@
-# 📄  Powers of Attorney (Amendment) - Bill
-
-Bill published on **2023-11-29**.
-
 - Bill to amend the Powers of Attorney Ordinance (Chapter 122).
 - Presented by the Minister of Justice on November 29, 2023.
 - Published in the Gazette on November 15, 2023.
