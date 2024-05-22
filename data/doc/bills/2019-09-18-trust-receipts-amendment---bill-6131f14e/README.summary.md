@@ -1,7 +1,3 @@
-# 📄  Trust Receipts (Amendment) - Bill
-
-Bill published on **2019-09-18**.
-
 - Trust Receipts (Amendment) is a bill to amend the Trust Receipts Ordinance (Chapter 86).
 - Presented by the Minister of Justice and Prison Reforms on September 18, 2019.
 - Published in the Gazette on July 15, 2019 (Bill No. 299).

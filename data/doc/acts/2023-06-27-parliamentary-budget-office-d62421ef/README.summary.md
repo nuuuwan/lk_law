@@ -1,7 +1,3 @@
-# ⚖️  Parliamentary Budget Office
-
-Act published on **2023-06-27**.
-
 - **Establishment of the Parliamentary Budget Office**:
   - Independent entity established under the Parliamentary Budget Office Act, No. 6 of 2023.
   - Certified on June 27, 2023, and published as a supplement to Sri Lanka's Gazette on June 30, 2023.
@@ -37,4 +33,3 @@ Act published on **2023-06-27**.
   
 - **Operational Authority**:
   - The PBO can recruit staff, enter into agreements for expert assistance, and manage data and information related to budget analyses.
-

@@ -1,7 +1,3 @@
-# 📄  Coronavirus Disease 2019 (COVID 19) (Temporary Provisions) - GS
-
-Bill published on **2021-05-20**.
-
 - The document outlines a bill titled "Coronavirus Disease 2019 (COVID-19) (Temporary Provisions)".
 - The bill includes temporary provisions due to COVID-19 circumstances affecting people's ability to perform legally required actions within prescribed time periods.
 - Key provisions include:

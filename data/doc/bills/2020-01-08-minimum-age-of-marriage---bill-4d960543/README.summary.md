@@ -1,7 +1,3 @@
-# 📄  Minimum Age of Marriage - Bill
-
-Bill published on **2020-01-08**.
-
 - The bill was introduced by Hon. (Dr.) (Mrs.) Thusitha Wijemanna on January 8, 2020, and published in the Gazette on December 16, 2019.
 - The bill establishes the minimum legal age for marriage in Sri Lanka as 18 years.
 - Child marriages, those where either party is under 18, are voidable at the option of the underage party.
