@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Land Development Corporation (Amendment) - GS
-
-Bill published on **2021-02-10**.
-
 - **Title and Purpose**:
   - Amendment of the Sri Lanka Land Development Corporation Act, No. 15 of 1968.
   - Ordered by the State Minister of Urban Development, Coast Conservation, Waste Disposal, and Community Cleanliness.

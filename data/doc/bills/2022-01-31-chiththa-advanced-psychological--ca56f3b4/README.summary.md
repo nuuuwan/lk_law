@@ -1,7 +1,3 @@
-# 📄  Chiththa Advanced Psychological Studies Open Institute of Sri Lanka (Incorporation) - GS
-
-Bill published on **2022-01-31**.
-
 - The bill seeks to incorporate the Chiththa Advanced Psychological Studies Open Institute of Sri Lanka.
 - Proposed by Hon. Buddhika Pathirana, M.P. for Matara District.
 - Objectives include:
@@ -22,4 +18,3 @@ Bill published on **2022-01-31**.
 - Provisions for dissolution ensure remaining property is transferred to similar institutions.
 - Indemnity clause protects individuals acting in good faith under this Act.
 - Priority of the Sinhala text in case of inconsistencies between Sinhala and Tamil texts.
-

@@ -1,7 +1,3 @@
-# 📄  Office for National Unity and Reconciliation - Bill
-
-Bill published on **2023-10-17**.
-
 - **Establishment of the Office**: The Office for National Unity and Reconciliation is established to promote national unity and reconciliation in Sri Lanka.
 - **Functions and Duties**:
   - Promote national unity, reconciliation, and peaceful coexistence.

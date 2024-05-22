@@ -1,7 +1,3 @@
-# 📄  Susarana Lanka Foundation (Incorporation) - GS
-
-Bill published on **2023-09-14**.
-
 - Bill titled "Susarana Lanka Foundation (Incorporation) Act, No. of 2023".
 - Presented in Parliament by Hon. Asanka Navarathna, M. P. for Kurunegala District.
 - Incorporates the Susarana Lanka Foundation as a body corporate.

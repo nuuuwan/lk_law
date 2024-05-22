@@ -1,7 +1,3 @@
-# 📄  Samadhi Mebitation and Yoga Centre (Incorporation) - Bill
-
-Bill published on **2021-08-04**.
-
 - **Bill Presentation:**
   - Presented by Hon. Buddhika Pathirana, M.P. for Matara District on 04th August 2021.
   - Published in the Gazette on July 19, 2021.

@@ -1,7 +1,3 @@
-# 📄  People's Bank (Amendment) - Bill
-
-Bill published on **2019-05-24**.
-
 - Amendments to the People's Bank Act, No. 29 of 1961.
 - Bill presented by the Minister of Finance on May 24, 2019.
 - Published in the Gazette on July 09, 2018.
