@@ -1,7 +1,3 @@
-# 📄  Twenty Second (Amendment) to the Constitution - GS
-
-Bill published on **2022-06-29**.
-
 - Amendment to the Constitution of the Democratic Socialist Republic of Sri Lanka, known as the Twenty Second Amendment.
 - Establishment of the Constitutional Council:
   - Members include the Prime Minister, Speaker, Leader of the Opposition, and others.

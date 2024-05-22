@@ -1,7 +1,3 @@
-# 📄  High Court of the Provinces (Special Provisions) (Amendment) - Bill
-
-Bill published on **2022-08-31**.
-
 - The document is a bill presented to the Parliament of the Democratic Socialist Republic of Sri Lanka.
 - The title of the bill is "High Court of the Provinces (Special Provisions) (Amendment)".
 - The bill intends to amend Act No. 19 of 1990, which pertains to the High Court of the Provinces.

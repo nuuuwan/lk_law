@@ -1,7 +1,3 @@
-# 📄  Appropriation 2020 - Bill
-
-Bill published on **2020-10-20**.
-
 - **Purpose of the Appropriation Bill:**
   - To provide financial services for Sri Lanka for the fiscal year 2020.
   - To authorize raising of loans domestically or internationally.
