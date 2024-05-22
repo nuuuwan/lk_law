@@ -1,7 +1,3 @@
-# 📄  Sri Lanka National Commission for UNESCO - GS
-
-Bill published on **2024-01-17**.
-
 - **Introduction**:
   - Establishment of the Sri Lanka National Commission for UNESCO.
   - Aim to align with UNESCO's vision for peace, eradication of poverty, sustainable development, and inter-cultural dialogue.

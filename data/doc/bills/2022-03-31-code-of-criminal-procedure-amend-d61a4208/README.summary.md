@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - GS
-
-Bill published on **2022-03-31**.
-
 - Amendment to the Code of Criminal Procedure Act, No. 15 of 1979.
 - Issued by the Minister of Justice on March 25, 2022.
 - Published on March 31, 2022.

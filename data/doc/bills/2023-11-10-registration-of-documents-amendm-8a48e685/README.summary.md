@@ -1,7 +1,3 @@
-# 📄  Registration of Documents (Amendment) - GS
-
-Bill published on **2023-11-10**.
-
 - **Title and Date:** Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, November 10, 2023.
 - **Document Type:** Bill to amend the Registration of Documents Ordinance (Chapter 117).
 - **Ordered By:** Minister of Finance, Economic Stabilization, and National Policies.

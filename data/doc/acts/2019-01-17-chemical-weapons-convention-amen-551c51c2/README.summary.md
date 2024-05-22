@@ -1,7 +1,3 @@
-# ⚖️  Chemical Weapons Convention (Amendment)
-
-Act published on **2019-01-17**.
-
 - **Chemical Weapons Convention (Amendment) Act, No. 1 of 2019**: Certified on January 17, 2019, and published as a supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka on January 18, 2019.
 - **Amendment Details**: 
   - **Short Title**: The Act is cited as the Chemical Weapons Convention (Amendment) Act, No. 1 of 2019.

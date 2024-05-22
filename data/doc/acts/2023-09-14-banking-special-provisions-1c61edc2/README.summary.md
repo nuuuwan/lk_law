@@ -1,7 +1,3 @@
-# ⚖️  Banking (Special Provisions)
-
-Act published on **2023-09-14**.
-
 - Act certified on 14th September 2023 and available for download.
 - Central Bank established as the resolution authority for licensed banks.
 - Central Bank to create a department for proper implementation of resolution authority.
