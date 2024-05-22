@@ -1,7 +1,3 @@
-# 📄  Companies (Amendment) - Bill
-
-Bill published on **2024-01-09**.
-
 - An amendment to the Companies Act, No. 07 of 2007, is proposed by the Minister of Finance, Economic Stabilization, and National Policies on January 9, 2024.
 - The bill is published in the Gazette on November 10, 2023, and ordered by Parliament to be printed.
 - This bill includes amendments to sections 427, 428, and 431, and adds a new section 433A to the principal enactment.

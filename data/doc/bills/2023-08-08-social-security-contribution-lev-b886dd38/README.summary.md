@@ -1,7 +1,3 @@
-# 📄  Social Security Contribution Levy (Amendment) - Bill
-
-Bill published on **2023-08-08**.
-
 - Bill to amend the Social Security Contribution Levy Act, No. 25 of 2022.
 - Presented by the Minister of Finance on August 8, 2023.
 - Published in the Gazette on July 4, 2023.

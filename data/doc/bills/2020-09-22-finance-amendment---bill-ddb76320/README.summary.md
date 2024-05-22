@@ -1,7 +1,3 @@
-# 📄  Finance (Amendment) - Bill
-
-Bill published on **2020-09-22**.
-
 - Presented by the Prime Minister and Minister of Finance, Minister of Buddhasasana, Religious & Cultural Affairs, and Minister of Urban Development & Housing on 22nd of September, 2020.
 - Published in the Gazette on September 7, 2020.
 - Ordered by Parliament to be printed.

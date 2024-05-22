@@ -1,7 +1,3 @@
-# 📄  Provincial Councils Elections (Amendment) - Bill
-
-Bill published on **2022-07-06**.
-
 ### Key Points from the Document:
 
 - **Document Title:** Provincial Councils Elections (Amendment) Bill.

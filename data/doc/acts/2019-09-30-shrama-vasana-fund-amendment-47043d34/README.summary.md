@@ -1,7 +1,3 @@
-# ⚖️  Shrama Vasana Fund (Amendment)
-
-Act published on **2019-09-30**.
-
 - **Act Title and Certification**: Shrama Vasana Fund (Amendment) Act, No. 15 of 2019, certified on September 30, 2019.
 - **Purpose**: To amend the Shrama Vasana Fund Act, No. 12 of 1998.
 - **Board Composition**:

@@ -1,3 +1,25 @@
 # ⚖️  Shrama Vasana Fund (Amendment)
 
 Act published on **2019-09-30**.
+
+- **Act Title and Certification**: Shrama Vasana Fund (Amendment) Act, No. 15 of 2019, certified on September 30, 2019.
+- **Purpose**: To amend the Shrama Vasana Fund Act, No. 12 of 1998.
+- **Board Composition**:
+  - **Ex-officio Members**: Secretary to the Ministry (Chairman), Commissioner General of Labour, General Manager of the National Lotteries Board, representative from the Ministry of Finance.
+  - **Appointed Members**: Four persons appointed by the Minister.
+- **Tenure of Ex-officio Members**: They will hold office as long as they hold their corresponding positions.
+- **Section 6 Amendment**:
+  - Includes dependents of employees.
+  - Provides financial relief for employees needing legal assistance in employment-related disputes.
+- **Section 7 Amendment**:
+  - National Lotteries Board to conduct a Lottery with "Shrama Vasana" on tickets.
+  - Promotes and propagates lotteries for the Fund's purpose.
+- **Section 13 Amendment**:
+  - Lottery tickets must include the "Shrama Vasana" expression.
+  - Agreement details between Fund and Lotteries Board about prizes, handling unclaimed prizes, and fund allocation from lottery proceeds.
+- **Section 14 Amendment**:
+  - Boards' rule-making powers expanded.
+  - Rules must be Minister-approved, published in the Gazette, take effect upon publication, and presented to Parliament within six months.
+- **Section 21 Amendment**: Defines "Minister" as the one assigned the Act’s implementation.
+- **Language Clause**: Sinhala text prevails in case of inconsistency with Tamil text.
+- **Availability**: Acts can be purchased at specified government printing offices and downloaded from the government website.
