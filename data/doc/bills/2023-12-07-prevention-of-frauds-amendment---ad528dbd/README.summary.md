@@ -1,7 +1,3 @@
-# 📄  Prevention of Frauds (Amendment) - Bill
-
-Bill published on **2023-12-07**.
-
 - **Bill to Amend Prevention of Frauds Ordinance**: The bill aims to amend the Prevention of Frauds Ordinance (Chapter 70).
 - **Presented by Minister**: Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on December 7, 2023.
 - **Publication Details**: Published in the Gazette on November 29, 2023, and printed by the Department of Government Printing, Sri Lanka.

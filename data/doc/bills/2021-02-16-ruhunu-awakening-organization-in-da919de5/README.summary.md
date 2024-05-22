@@ -1,7 +1,3 @@
-# 📄  Ruhunu Awakening Organization (Incorporation) - GS
-
-Bill published on **2021-02-16**.
-
 - Publication: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, February 12, 2021.
 - Purpose: Incorporation of the Ruhunu Awakening Organization through a Private Members’ Bill.
 - Proposed by: Hon. Buddhika Pathirana, M.P. for Matara District.

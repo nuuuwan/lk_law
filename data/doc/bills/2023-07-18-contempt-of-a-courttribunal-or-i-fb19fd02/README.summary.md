@@ -1,7 +1,3 @@
-# 📄  Contempt of a Court,Tribunal or Institution - Bill
-
-Bill published on **2023-07-18**.
-
 - **Purpose**: The Bill aims to provide a uniform application of the law for contempt of court, tribunal, or institution, outlining procedures for punishment and related matters.
 - **Presented by**: Minister of Justice, Prison Affairs and Constitutional Reforms on July 18, 2023.
 - **Objects of the Act**:

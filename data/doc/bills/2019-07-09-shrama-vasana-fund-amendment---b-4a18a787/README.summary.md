@@ -1,7 +1,3 @@
-# 📄  Shrama Vasana Fund (Amendment) - Bill
-
-Bill published on **2019-07-09**.
-
 - Bill presented by the Non Cabinet Minister of Labour and Trade Union Relations on July 9, 2019.
 - Published in the Gazette on May 27, 2019.
 - Printed by the Department of Government Printing, Sri Lanka; available for purchase at Government Publications Bureau, Colombo 5.

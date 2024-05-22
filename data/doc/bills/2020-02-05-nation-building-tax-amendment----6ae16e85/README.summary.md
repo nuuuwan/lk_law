@@ -1,7 +1,3 @@
-# 📄  Nation Building Tax (Amendment) - Bill
-
-Bill published on **2020-02-05**.
-
 - **Title and Purpose**: Amendment Bill for the Nation Building Tax Act, No. 9 of 2009.
 - **Presented By**: The Prime Minister and other Ministers on February 5, 2020.
 - **Initial Publication**: Published in the Gazette on January 14, 2020.

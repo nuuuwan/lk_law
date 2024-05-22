@@ -1,7 +1,3 @@
-# 📄  Minimum  Age of  Marriage  -  GS
-
-Bill published on **2019-12-16**.
-
 - **Bill Introduction:**
   - Title: Minimum Age of Marriage Act, No. __ of 2019.
   - Presented by: Hon. (Dr.) (Mrs.) Thusitha Wijemanne, M.P. for Kegalle District.
