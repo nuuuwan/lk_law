@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Ports Authority (Amendment) - GS
-
-Bill published on **2023-07-28**.
-
 - The document is titled "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA" and is a supplement issued on July 28, 2023.
 - It references the Sri Lanka Ports Authority (Amendment) Bill, which aims to amend the Sri Lanka Ports Authority Act, No. 51 of 1979.
 - The amendment is ordered to be published by the Minister of Ports, Shipping, and Aviation.
