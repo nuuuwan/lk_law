@@ -1,7 +1,3 @@
-# ⚖️  Code of Criminal Procedure (Amendment)
-
-Act published on **2022-06-23**.
-
 - Title: Code of Criminal Procedure (Amendment) Act, No. 18 of 2022
 - Date of Certification: June 23, 2022
 - Repeal and Replacement of Section 442 of the Act No. 15 of 1979: Persons affected by judgments can request copies upon payment of a fee. Complainants and accused persons receive one certified copy free of cost.

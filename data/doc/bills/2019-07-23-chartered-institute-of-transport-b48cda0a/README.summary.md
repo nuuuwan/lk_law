@@ -1,7 +1,3 @@
-# 📄  Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment) - Bill
-
-Bill published on **2019-07-23**.
-
 - **Title**: Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment) Bill
 - **Presentation**: Presented by Hon. Sunil Handunnetti, M.P. on July 23, 2019
 - **Publication**: Published in the Gazette on July 03, 2019

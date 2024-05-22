@@ -1,7 +1,3 @@
-# 📄  Notaries (Amendment) - GS
-
-Bill published on **2022-07-18**.
-
 - **Published by**: Minister of Justice, Prison Affairs, and Constitutional Reforms.
 - **Download**: Available at www.documents.gov.lk.
 - **Price & Postage**: Rs. 30.00 and Rs. 15.00 respectively.

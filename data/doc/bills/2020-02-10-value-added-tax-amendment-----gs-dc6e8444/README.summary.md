@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment)  -  GS
-
-Bill published on **2020-02-10**.
-
 - The document is a Gazette from Sri Lanka issued on February 07, 2020, with a supplement released on February 10, 2020.
 - It is a bill to amend the Value Added Tax (VAT) Act, No. 14 of 2002.
 - The bill is enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka.

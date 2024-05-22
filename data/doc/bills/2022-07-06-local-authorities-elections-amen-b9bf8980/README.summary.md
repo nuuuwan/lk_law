@@ -1,7 +1,3 @@
-# 📄  Local Authorities Elections (Amendment) - Bill
-
-Bill published on **2022-07-06**.
-
 - Bill to amend the Local Authorities Elections Ordinance No. 53 of 1946, presented by Hon. Imthiaz Bakeer Markar, M.P. on July 6, 2022.
 - Published in the Gazette on June 2, 2022.
 - Printed by the Department of Government Printing, Sri Lanka.
