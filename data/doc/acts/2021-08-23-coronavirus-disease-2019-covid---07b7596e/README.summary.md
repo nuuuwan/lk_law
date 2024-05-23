@@ -1,7 +1,3 @@
-# ⚖️  Coronavirus Disease 2019 (Covid - 19) (Temporary Provisions)
-
-Act published on **2021-08-23**.
-
 - **Title & Certification**: Coronavirus Disease 2019 (COVID-19) (Temporary Provisions) Act, No. 17 of 2021, certified on 23rd August 2021.
 - **Objective**: To provide temporary legal provisions due to COVID-19 circumstances, particularly addressing the inability to meet prescribed time periods, alternative court assignments, and remote court proceedings.
 - **Duration**: The Act is effective for two years starting from March 1, 2020. Extensions can be granted for up to two additional years.

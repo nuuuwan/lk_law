@@ -1,7 +1,3 @@
-# 📄  Petroleum Resources - Bill
-
-Bill published on **2021-08-05**.
-
 - Establishment of the Petroleum Development Authority of Sri Lanka.
 - Formulation of a National Policy on Upstream Petroleum Industry.
 - Regulation and management of domestic petroleum resources for maximum economic value through modern practices.

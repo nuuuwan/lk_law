@@ -1,7 +1,3 @@
-# 📄  Sri Seelananda Foundation (Incorporation) - GS
-
-Bill published on **2022-10-10**.
-
 - **Bill Overview:**
   - Title: Incorporate the Sri Seelananda Foundation.
   - Presented by: Hon. Weerasumana Weerasinghe, M.P. for Matara District.

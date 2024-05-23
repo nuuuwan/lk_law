@@ -1,7 +1,3 @@
-# 📄  Institute of Chartered Shipbrokers of Sri Lanka (Incorporation) - GS
-
-Bill published on **2021-11-08**.
-
 - Bill to incorporate the Institute of Chartered Shipbrokers of Sri Lanka.
 - Introduced by Hon. Buddhika Pathirana, M.P. for Matara District.
 - Objectives include promoting professionalism in the shipping industry through education, organizing training, and collaborating with educational institutions.

@@ -1,7 +1,3 @@
-# 📄  Motor Traffic (Amendment) - Bill
-
-Bill published on **2019-05-07**.
-
 - Presented by the Minister of Transport and Civil Aviation on May 07, 2019
 - Published in the Gazette on April 01, 2019
 - Bill No. 279 available for Rs. 17.00 and postage Rs. 15.00
