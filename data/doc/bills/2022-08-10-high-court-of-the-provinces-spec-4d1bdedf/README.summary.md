@@ -1,7 +1,3 @@
-# 📄  High Court of the Provinces (Special Provisions) (Amendment) - GS
-
-Bill published on **2022-08-10**.
-
 - Gazette Supplement of the Democratic Socialist Republic of Sri Lanka (Part II, August 05, 2022)
 - Bill to amend the High Court of the Provinces (Special Provisions) Act, No. 19 of 1990
 - Ordered for publication by the Minister of Justice, Prison Affairs, and Constitutional Reforms

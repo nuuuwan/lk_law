@@ -1,7 +1,3 @@
-# 📄  Central Bank of Sri Lanka - GS
-
-Bill published on **2023-02-23**.
-
 - Establishment of the Central Bank of Sri Lanka (CBSL) and repeal of the Monetary Law Act (Chapter 422).
 - Act may be cited as the Central Bank of Sri Lanka Act, No. of 2023.
 - The appointed date shall be within six months of the Certificate endorsement per Article 79 of the Constitution.

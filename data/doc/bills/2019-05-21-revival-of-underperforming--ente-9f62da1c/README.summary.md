@@ -1,7 +1,3 @@
-# 📄  Revival of Underperforming  Enterprises of Underutilized Assets (Repeal) - Bill
-
-Bill published on **2019-05-21**.
-
 - Bill to repeal the Revival of Underperforming Enterprises or Underutilized Assets Act, No. 43 of 2011.
 - Presented by the Minister of Public Enterprise, Kandyan Heritage, and Kandy Development on May 21, 2019.
 - Published in the Gazette on April 29, 2019.

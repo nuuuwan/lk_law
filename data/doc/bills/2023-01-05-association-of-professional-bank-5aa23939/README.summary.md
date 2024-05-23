@@ -1,7 +1,3 @@
-# 📄  Association of Professional Bankers Sri Lanka (Incorporation) - Bill
-
-Bill published on **2023-01-05**.
-
 - **Bill Title:** Incorporation of the Association of Professional Bankers - Sri Lanka.
 - **Presenter:** Hon. (Prof.) Charitha Herath on January 5, 2023.
 - **Publication Date:** Gazette on December 26, 2022.

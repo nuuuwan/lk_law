@@ -1,7 +1,3 @@
-# 📄  Veemansaa Dhammaguptha Foundation (Incorporation) - GS
-
-Bill published on **2022-10-10**.
-
 - **Title and Context**: The document is a bill for the incorporation of the Veemansaa Dhammaguptha Foundation, presented in the Parliament of Sri Lanka by Hon. Gunathilaka Rajapaksha.
 - **Short Title**: The act may be cited as the Veemansaa Dhammaguptha Foundation (Incorporation) Act, No. of 2022.
 - **Incorporation Details**: The foundation will become a body corporate with perpetual succession, able to sue and be sued, use a common seal, and be considered a voluntary social service organization.

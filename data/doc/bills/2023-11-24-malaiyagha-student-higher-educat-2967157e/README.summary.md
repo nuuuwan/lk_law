@@ -1,7 +1,3 @@
-# 📄  Malaiyagha Student Higher Education Fund (Incorporation) - GS
-
-Bill published on **2023-11-24**.
-
 - The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, issued on November 24, 2023.
 - Private Members’ Bill to incorporate the Malaiyagha Student Higher Education Fund, presented by Hon. Velu Kumar, M.P. for Mahanuwara District.
 - Act to incorporate the Malaiyagha Student Higher Education Fund:
