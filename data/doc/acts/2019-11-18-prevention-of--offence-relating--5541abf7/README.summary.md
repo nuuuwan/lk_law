@@ -1,7 +1,3 @@
-# ⚖️  Prevention of  Offence Relating to Sports 
-
-Act published on **2019-11-18**.
-
 - **Title and Certification:**
   - Prevention of Offences Relating to Sports Act, No. 24 of 2019.
   - Certified on 18th November 2019.

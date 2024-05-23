@@ -1,7 +1,3 @@
-# 📄  Parliamentary Elections (Amendment) - GS
-
-Bill published on **2022-06-09**.
-
 - Introduction of a bill to amend the Parliamentary Elections Act, No. 1 of 1981, presented by Hon. Imthiaz Bakeer Markar.
 - The new amendment mandates that at least one-fourth of nominated candidates from each political party or independent group must be youth candidates (35 years or younger).
 - The Commissioner of Elections will specify the number of youth candidates required for each administrative district during the call for nominations.

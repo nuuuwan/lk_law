@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Foundation (Incorporation) - Bill
-
-Bill published on **2022-10-19**.
-
 - Presentation and introduction of a bill to incorporate the Sri Seelananda Foundation in Sri Lanka.
 - The bill is presented by Hon. Weerasumana Weerasinghe, M.P. for Matara District on October 19, 2022, and published in the Gazette on October 10, 2022.
 - The act provides for the incorporation of the Sri Seelananda Foundation as a body corporate with perpetual succession.
