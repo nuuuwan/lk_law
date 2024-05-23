@@ -1,7 +1,3 @@
-# 📄  Finance (Amendment)  -  GS
-
-Bill published on **2020-02-10**.
-
 - **Amendment Proposal**: Bill to amend the Finance Act, No. 35 of 2018.
   
 - **Publication Information**:

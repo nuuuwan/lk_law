@@ -1,7 +1,3 @@
-# 📄  UnV Foundation (Incorporation) - GS
-
-Bill published on **2021-08-02**.
-
 - The "UnV Foundation (Incorporation)" Bill aims to incorporate the UnV Foundation in Sri Lanka.
 - Presented in Parliament by Hon. Velu Kumar, M.P. for Kandy District.
 - The Act is to be titled as the UnV Foundation (Incorporation) Act, No. of 2021.

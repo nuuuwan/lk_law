@@ -1,7 +1,3 @@
-# 📄  Registration of Documents (GS)
-
-Bill published on **2019-08-26**.
-
 - Gazette of Democratic Socialist Republic of Sri Lanka, Part II of August 23, 2019.
 - Bill to amend the Registration of Documents Ordinance (Chapter 117).
 - Ordered by the Minister of Internal and Home Affairs and Provincial Councils and Local Government.

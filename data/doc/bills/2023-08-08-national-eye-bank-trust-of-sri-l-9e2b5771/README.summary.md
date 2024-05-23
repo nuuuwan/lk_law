@@ -1,7 +1,3 @@
-# 📄  National Eye Bank Trust of Sri Lanka - Bill
-
-Bill published on **2023-08-08**.
-
 - The document is a bill for establishing the National Eye Bank Trust of Sri Lanka.
 - The trust aims to provide corneal tissues, artificial devices, and other tissues for ophthalmic surgery, scientific and technical research, and education.
 - It allows sharing excess tissues with other countries.
