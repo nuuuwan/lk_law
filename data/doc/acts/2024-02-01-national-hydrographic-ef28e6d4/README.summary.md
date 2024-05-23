@@ -1,7 +1,3 @@
-# ⚖️  National Hydrographic
-
-Act published on **2024-02-01**.
-
 - **National Hydrographic Act, No. 7 of 2024**
   - Certified on February 1, 2024
   - Aims to give effect to Sri Lanka’s obligations under the International Convention for the Safety of Life at Sea, 1974
@@ -45,5 +41,4 @@ Act published on **2024-02-01**.
   - Establishing and regulating pension and provident funds
   - Publish updates and instructions for maritime safety
   - Coordination with other educational and professional institutions in related fields
-
 

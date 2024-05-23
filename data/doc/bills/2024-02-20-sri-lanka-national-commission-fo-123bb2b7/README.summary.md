@@ -1,7 +1,3 @@
-# 📄  Sri Lanka National Commission for UNESCO - Bill
-
-Bill published on **2024-02-20**.
-
 - Establishment of the Sri Lanka National Commission for UNESCO.
 - Presented by the Minister of Education on February 20, 2024, and published in the Gazette on January 17, 2024.
 - The Commission will be a body corporate with perpetual succession and a common seal.

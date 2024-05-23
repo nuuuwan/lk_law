@@ -1,7 +1,3 @@
-# 📄  Land Development (Amendment) - Bill
-
-Bill published on **2022-01-21**.
-
 - The Land Development (Amendment) Bill aims to amend the Land Development Ordinance (Chapter 464).
 - Presented by the Minister of Lands on January 21, 2022.
 - Amendments include changing terminology from "Land Commissioner" to "Commissioner-General of Lands."

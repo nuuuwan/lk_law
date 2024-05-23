@@ -1,7 +1,3 @@
-# 📄  Anti Terrorism - Bill
-
-Bill published on **2024-01-10**.
-
 - **Purpose**: Legislation aimed at protecting Sri Lanka’s national security and its people from terrorism.
 - **Scope**: Applies to acts of terrorism committed both within and outside Sri Lanka.
 - **Key Provisions**:

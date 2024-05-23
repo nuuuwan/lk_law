@@ -1,7 +1,3 @@
-# 📄  Balangoda Ananda Maitreya Foundation (Incorporation) - GS
-
-Bill published on **2021-07-19**.
-
 - **Purpose**: Incorporation of the Balangoda Ananda Maitreya Foundation via a Private Members’ Bill.
 - **Promoter**: Presented in Parliament by Hon. Sarathi Dushmantha, M.P. for Kegalle District.
 - **Publication**: Available from the Government Publications Bureau and online at www.documents.gov.lk.

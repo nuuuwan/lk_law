@@ -2,4 +2,28 @@
 
 Bill published on **2021-07-19**.
 
-
+- **Purpose**: Incorporation of the Balangoda Ananda Maitreya Foundation via a Private Members’ Bill.
+- **Promoter**: Presented in Parliament by Hon. Sarathi Dushmantha, M.P. for Kegalle District.
+- **Publication**: Available from the Government Publications Bureau and online at www.documents.gov.lk.
+- **Short Title**: "Balangoda Ananda Maitreya Foundation (Incorporation) Act, No. of 2021".
+- **Legal Entity**: Upon commencement, members of the Foundation will form a body corporate called "Balangoda Ananda Maitreya Foundation" with authority to sue, be sued, and use a common seal.
+- **Objectives**:
+  - Disseminating Buddhist philosophy.
+  - Publishing materials related to the Thero and Buddhism.
+  - Establishing and maintaining international and information liaison centers.
+  - Establishing language schools and funds for Bhikkhus (monks).
+  - Conducting conferences and seminars.
+  - Promoting peace and harmony within communities.
+  - Organizing leadership programs.
+- **Management**: Governed by a Committee of Management of up to nine members, including a Chairman, Secretary, and Treasurer.
+- **Founder Member**: Ven. Ananda Mangala Thero as Chairman for life.
+- **Powers**: The Corporation can manage property, bank accounts, borrow money, and employ staff as needed.
+- **Rule Making**: Ability to create rules concerning membership, management, and operational procedures, amendable with majority approval.
+- **Financial Management**: 
+  - Maintain all liabilities and assets of the previous foundation.
+  - Funds to be deposited in banks and used for corporate purposes.
+  - Capable of acquiring and disposing of property.
+  - Financial year as the calendar year with proper audited accounts.
+- **Seal Usage**: Affixed in the presence of two members.
+- **Rights Protection**: Act does not affect rights of the Republic or other entities.
+- **Language**: In cases of inconsistency, the Sinhala text prevails.
