@@ -1,7 +1,3 @@
-# 📄  Social Security Contribution Levy (Amendment) - Bill
-
-Bill published on **2024-01-04**.
-
 - **Presented By**: Minister of Finance, Economic Stabilization, and National Policies.
 - **Presentation Date**: January 23, 2024.
 - **Publication Date in Gazette**: January 04, 2024.
@@ -34,4 +30,3 @@ Bill published on **2024-01-04**.
 
 ### Summary:
 - The Bill primarily adjusts the financial threshold for Social Security Contribution Levy registration to ensure more scalable policy administration and compliance.
-

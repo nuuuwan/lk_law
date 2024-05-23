@@ -1,7 +1,3 @@
-# 📄  Anti - Corruption - GS
-
-Bill published on **2023-10-12**.
-
 - **Publication Details:**
   - The document is part of the Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of October 06, 2023, issued on October 12, 2023.
   - It is printed by the Department of Government Printing and available for purchase at the Government Publications Bureau in Colombo.

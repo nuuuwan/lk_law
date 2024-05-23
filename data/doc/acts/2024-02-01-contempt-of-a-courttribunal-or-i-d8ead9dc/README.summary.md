@@ -1,7 +1,3 @@
-# ⚖️  Contempt of a Court,Tribunal or Institution
-
-Act published on **2024-02-01**.
-
 - Enactment titled "Contempt of a Court, Tribunal, or Institution Act, No. 8 of 2024" by the Parliament of Sri Lanka.
 - Certified and published in the Gazette on February 1, 2024.
 - Aims to ensure uniform application of laws related to contempt of court, tribunals, and institutions.

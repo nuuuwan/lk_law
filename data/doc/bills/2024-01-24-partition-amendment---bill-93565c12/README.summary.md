@@ -1,7 +1,3 @@
-# 📄  Partition (Amendment) - Bill
-
-Bill published on **2024-01-24**.
-
 - **Presented by**: Minister of Justice, Prison Affairs, and Constitutional Reforms
 - **Presentation Date**: January 24, 2024
 - **Gazette Publication Date**: January 09, 2024

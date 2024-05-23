@@ -1,7 +1,3 @@
-# ⚖️  Value Added Tax (Amendment)
-
-Act published on **2022-03-31**.
-
 - **Act Title and Purpose**: 
   - Value Added Tax (Amendment) Act, No. 13 of 2022.
   - Amends the Value Added Tax Act, No. 14 of 2002.

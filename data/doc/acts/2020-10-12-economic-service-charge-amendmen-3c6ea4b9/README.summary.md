@@ -1,7 +1,3 @@
-# ⚖️  Economic Service Charge (Amendment)
-
-Act published on **2020-10-12**.
-
 - Title: Economic Service Charge (Amendment) Act, No. 4 of 2020, certified on October 12, 2020.
 - Promulgated by the Parliament of the Democratic Socialist Republic of Sri Lanka.
 - Published as a supplement to the Gazette of Sri Lanka on October 16, 2020.
