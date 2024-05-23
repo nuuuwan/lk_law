@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - Bill
-
-Bill published on **2021-03-24**.
-
 - Title: Code of Criminal Procedure (Amendment) Bill to amend the Code of Criminal Procedure Act, No. 15 of 1979.
 - Presented by the Minister of Justice on March 24, 2021, and published in the Gazette on March 08, 2021.
 - Bill No. 38.

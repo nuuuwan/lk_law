@@ -1,7 +1,3 @@
-# 📄  Poisons, Opium and Dangerous Drugs (Amendment) - GS
-
-Bill published on **2022-08-23**.
-
 - **Amendment Overview**: The Bill aims to amend the Poisons, Opium and Dangerous Drugs Ordinance (Chapter 218).
 
 - **Clause 2**:
@@ -31,4 +27,3 @@ Bill published on **2022-08-23**.
 
 - **Administrative Information**:
   - Document purchase price: Rs. 60.00, Postage: Rs. 35.00.
-

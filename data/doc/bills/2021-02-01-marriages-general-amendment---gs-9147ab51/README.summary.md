@@ -1,7 +1,3 @@
-# 📄  Marriages (General) (Amendment) - GS
-
-Bill published on **2021-02-01**.
-
 - **Bill Introduction**: Private Member's Bill to amend the Marriages (General) Ordinance No. 19 of 1907.
 - **Presented by**: Hon. (Ven.) Athuraliye Rathana Thero, M.P.
 - **Amendment Details**:

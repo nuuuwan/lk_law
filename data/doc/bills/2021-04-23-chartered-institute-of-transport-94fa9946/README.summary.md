@@ -1,7 +1,3 @@
-# 📄  Chartered Institute of Transport of Sri Lanka (Incorporation) (Amendment) - (Bill)
-
-Bill published on **2021-04-23**.
-
 - **Bill Purpose**: To amend the Chartered Institute of Transport of Sri Lanka (Incorporation) Act, No. 8 of 2000.
 - **Presented by**: Hon. (Dr.) (Ms.) Harini Amarasuriya, M.P. on April 23, 2021.
 - **Key Change**: Proposed change of name from "Chartered Institute of Transport of Sri Lanka" to "Chartered Institute of Logistics and Transport of Sri Lanka".

@@ -2,4 +2,15 @@
 
 Bill published on **2021-02-01**.
 
-
+- **Bill Introduction**: Private Member's Bill to amend the Marriages (General) Ordinance No. 19 of 1907.
+- **Presented by**: Hon. (Ven.) Athuraliye Rathana Thero, M.P.
+- **Amendment Details**:
+  - **Short Title**: Marriages (General) (Amendment) Act, No. of 2021.
+  - **Preamble Amendment**: Deletion of "other than the marriages of Muslims".
+  - **Ordinance Precedence**: Marriages (General) Ordinance No. 19 of 1907 prevails over any contradictory provisions or other laws.
+  - **Text Inconsistency**: In case of inconsistencies, the Sinhala text shall prevail over the Tamil text.
+- **Publication and Access**:
+  - Printed by the Department of Government Printing, Sri Lanka.
+  - Available for purchase at the Government Publications Bureau, Colombo 5.
+  - Price: Rs. 6.00, Postage: Rs. 15.00.
+  - Downloadable from www.documents.gov.lk.

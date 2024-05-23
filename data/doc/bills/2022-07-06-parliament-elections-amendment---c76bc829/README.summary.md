@@ -1,7 +1,3 @@
-# 📄  Parliament Elections (Amendment) - Bill
-
-Bill published on **2022-07-06**.
-
 - Title: Parliamentary Elections (Amendment) Bill to amend the Parliamentary Elections Act, No. 1 of 1981.
 - Presented by: Hon. Imthiaz Bakeer Markar, M.P.
 - Presentation date: July 6, 2022.

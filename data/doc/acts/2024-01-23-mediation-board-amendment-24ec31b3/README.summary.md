@@ -1,7 +1,3 @@
-# ⚖️  Mediation Board (Amendment)
-
-Act published on **2024-01-23**.
-
 - **Act Title**: Mediation Board (Amendment) Act, No. 2 of 2024
 - **Certified Date**: January 23, 2024
 - **Purpose**: Amendment to the Mediation Board Act, No. 72 of 1988

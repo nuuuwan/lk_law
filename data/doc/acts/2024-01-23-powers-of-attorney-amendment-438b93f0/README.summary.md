@@ -1,7 +1,3 @@
-# ⚖️  Powers of Attorney (Amendment)
-
-Act published on **2024-01-23**.
-
 - **Act Details**:
   - Title: Powers of Attorney (Amendment) Act, No. 3 of 2024
   - Certification Date: January 23, 2024

@@ -1,7 +1,3 @@
-# ⚖️  Minimum Retirement Age of Workers
-
-Act published on **2021-11-17**.
-
 - **Act Title**: Minimum Retirement Age of Workers Act, No. 28 of 2021
 - **Certification Date**: November 17, 2021
 - **Key Provisions**:
