@@ -1,7 +1,3 @@
-# ⚖️  Employees Provident Fund (Amendment) 
-
-Act published on **2021-10-13**.
-
 - Title: Employees’ Provident Fund (Amendment) Act, No. 23 of 2021
 - Certifed on: October 13, 2021
 - Published: Supplement to Part II of the Gazette of Sri Lanka, October 15, 2021

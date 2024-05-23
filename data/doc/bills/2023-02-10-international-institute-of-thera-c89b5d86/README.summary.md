@@ -1,7 +1,3 @@
-# 📄  International Institute of Theravadha (Incorporation) - Bill
-
-Bill published on **2023-02-10**.
-
 - **Title & Purpose:**
   - The document is a Bill to incorporate the International Institute of Theravadha.
   
