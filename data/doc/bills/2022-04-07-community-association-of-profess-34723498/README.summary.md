@@ -1,7 +1,3 @@
-# 📄  Community Association of Professionals (Incorporation) - Bill
-
-Bill published on **2022-04-07**.
-
 - **Bill Introduction**:
   - Presented by Hon. S. M. M. Muszhaaraff, M. P. for Digamadulla District on April 7, 2022
   - Published in the Gazette on March 28, 2022

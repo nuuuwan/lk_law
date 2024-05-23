@@ -1,7 +1,3 @@
-# 📄  Recovery of Possession of Premises given on Lease - GS
-
-Bill published on **2022-11-04**.
-
 - **Purpose of the Bill**:
   - Establish procedures for recovering possession of leased premises.
   - Regulate recovery of arrears of lease rentals, service charges, and liquidated damages.

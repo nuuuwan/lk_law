@@ -1,7 +1,3 @@
-# 📄  Mahapola Higher Education Scholarship Trust Fund (Amendment) - Bill
-
-Bill published on **2021-11-08**.
-
 - **Bill Presentation**: Presented by the Minister of Trade on November 8, 2021. Published in the Gazette on October 28, 2021. Bill No. 85.
   
 - **Title Amendment**: Amend the Mahapola Higher Education Scholarship Trust Fund Act, No. 66 of 1981, to rename it “LALITH ATHULATHMUDALI MAHAPOLA HIGHER EDUCATION SCHOLARSHIP TRUST FUND ACT”.

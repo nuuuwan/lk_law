@@ -1,7 +1,3 @@
-# 📄  Bail (Amendment) - Bill
-
-Bill published on **2020-11-26**.
-
 - Bail (Amendment) Bill presented by the Minister of Justice on November 26, 2020.
 - Published in the Gazette on November 03, 2020 and ordered by Parliament to be printed.
 - Aims to amend the Bail Act, No. 30 of 1997.
@@ -14,4 +10,3 @@ Bill published on **2020-11-26**.
   - Section 6(2): Fine increased from one thousand to fifteen thousand rupees.
   - Section 12(2): Fine increased from one thousand to ten thousand rupees.
   - Section 18(5): Fine increased from one thousand five hundred to twenty-five thousand rupees.
-

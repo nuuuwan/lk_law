@@ -1,7 +1,3 @@
-# 📄  Dangerous Animals (Amendment) - Bill
-
-Bill published on **2022-08-29**.
-
 - The Bill is titled "Dangerous Animals (Amendment)".
 - It proposes amendments to the Dangerous Animals Ordinance (Chapter 49).
 - Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on August 29, 2022.

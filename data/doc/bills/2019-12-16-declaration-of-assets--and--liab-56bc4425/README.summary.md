@@ -1,7 +1,3 @@
-# 📄  Declaration of Assets  and  Liabilities (Amendment) - GS
-
-Bill published on **2019-12-16**.
-
 - **Title and Introduction**
   - The document is a supplement of "The Gazette of the Democratic Socialist Republic of Sri Lanka" from December 13, 2019.
   - Issued on December 16, 2019.

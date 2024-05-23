@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - GS
-
-Bill published on **2024-05-03**.
-
 - **Document Title and Date:**
   - THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA
   - Part II of May 03, 2024
