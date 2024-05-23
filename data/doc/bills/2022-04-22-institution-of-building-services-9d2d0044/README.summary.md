@@ -1,7 +1,3 @@
-# 📄  Institution of Building Services Engineering & Technology of Sri Lanka (Incorporation) - Bill
-
-Bill published on **2022-04-22**.
-
 - Introduction of the Institution of Building Services Engineering & Technology of Sri Lanka (IBSE&TSL) Bill.
 - Presented by Hon. Uddika Premarathne, M.P., on April 22, 2022.
 - Purpose of the Bill: To legally incorporate the Institution of Building Services Engineering & Technology of Sri Lanka.
