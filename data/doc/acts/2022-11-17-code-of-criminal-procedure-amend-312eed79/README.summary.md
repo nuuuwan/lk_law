@@ -1,7 +1,3 @@
-# ⚖️  Code of Criminal Procedure (Amendment)
-
-Act published on **2022-11-17**.
-
 - Title: Code of Criminal Procedure (Amendment) Act, No. 38 of 2022
 - Certified on: November 17, 2022
 - Published as a supplement in the Gazette of Sri Lanka on November 18, 2022
@@ -12,4 +8,3 @@ Act published on **2022-11-17**.
   - Section 286: Minor textual change for clarity
   - Section 288: Replace with new regulations for the detention of persons under 18 years sentenced under section 53 of the Penal Code
 - In case of inconsistency, the Sinhala text will prevail over the Tamil text
-

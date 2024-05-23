@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - Bill
-
-Bill published on **2023-07-20**.
-
 - The Appropriation (Amendment) Bill aims to amend the Appropriation Act, No. 43 of 2022.
 - Presented by the Minister of Finance, Economic Stabilization, and National Policies on July 20, 2023.
 - Published in the Gazette on July 12, 2023.

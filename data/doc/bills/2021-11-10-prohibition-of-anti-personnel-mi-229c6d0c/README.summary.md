@@ -1,7 +1,3 @@
-# 📄  Prohibition of Anti-Personnel Mines - Bill
-
-Bill published on **2021-11-10**.
-
 - **Purpose:** Implement the Convention banning use, stockpiling, production, transfer, and destruction of anti-personnel mines in Sri Lanka.
 - **Offences:** Prohibits receiving, using, developing, producing, importing, exporting, selling, exposing for sale, purchasing, supplying, transporting, acquiring, possessing, retaining, stockpiling, or transferring anti-personnel mines. Penalties include fines up to 500,000 rupees or imprisonment up to 10 years, or both.
 - **Exceptions:** Armed forces or police can handle mines for mine detection, clearance, deactivation, or training purposes with Ministerial authorization.

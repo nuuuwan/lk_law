@@ -1,7 +1,3 @@
-# 📄  Employees’ Provident Fund (Amendment) - Bill
-
-Bill published on **2024-05-07**.
-
 - **Bill Proposal**: Amendment to the Employees’ Provident Fund Act, No. 15 of 1958.
 - **Presented By**: Hon. M. A. Sumanthiran, M.P. for Jaffna District on May 7, 2024.
 - **Publication**: Published in the Gazette on March 22, 2024.

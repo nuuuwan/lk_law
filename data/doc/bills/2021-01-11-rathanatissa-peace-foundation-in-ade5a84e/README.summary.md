@@ -1,7 +1,3 @@
-# 📄  Rathanatissa Peace Foundation (Incorporation) - GS
-
-Bill published on **2021-01-11**.
-
 - **Bill Overview**: The document presents a bill to incorporate the Rathanatissa Peace Foundation, introduced in Parliament by Hon. U. K. Sumith Udukumbura, M. P. for the Kurunegala District.
 - **Incorporation Details**:
   - The Foundation will become a body corporate with perpetual succession.

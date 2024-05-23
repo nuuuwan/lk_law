@@ -1,7 +1,3 @@
-# 📄  Companies (Amendment) - Bill
-
-Bill published on **2019-10-08**.
-
 - **Purpose**: Amend the Companies Act, No. 07 of 2007.
 - **Presented by**: Minister of Industry and Commerce, Resettlement of Protracted Displaced Persons, Co-operative Development, and Vocational Training and Skills Development.
 - **Date Presented**: October 8, 2019.
@@ -13,4 +9,3 @@ Bill published on **2019-10-08**.
   - **Clause 5**: Introduces section 433A to define “floating charge” within the context of the new Act.
 - **Short Title**: The Act will be known as the Companies (Amendment) Act, 2019.
 - **Legal Precedence**: In case of inconsistencies between Sinhala and Tamil texts, the Sinhala text will prevail.
-
