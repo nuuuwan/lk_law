@@ -1,7 +1,3 @@
-# 📄   Dedigama Sri Maithri Pragnartha Bouddha Educational  Daham Sabawa (Incorporation) - Bill
-
-Bill published on **2020-02-18**.
-
 - Bill presented by Hon. Ashoka Priyantha, M. P. for Puttalam District on February 18, 2020.
 - The bill's purpose is to incorporate the Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa.
 - Foundation has been successfully operating and seeks incorporation for public benefit.

@@ -1,7 +1,3 @@
-# 📄  Online Safety - Bill
-
-Bill published on **2023-10-03**.
-
 - **Purpose of the Bill:**
   - Establish the Online Safety Commission.
   - Prohibit online communication of false statements in Sri Lanka.

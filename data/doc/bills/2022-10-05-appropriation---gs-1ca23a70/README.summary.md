@@ -1,7 +1,3 @@
-# 📄  Appropriation - GS
-
-Bill published on **2022-10-05**.
-
 - **Purpose of the Bill:**
   - Provide for the financial service of the year 2023.
   - Authorize loan raising within and outside Sri Lanka.

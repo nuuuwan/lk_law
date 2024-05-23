@@ -1,7 +1,3 @@
-# 📄  Kandyan Marriage and Divorce (Repeal) - GS
-
-Bill published on **2020-01-07**.
-
 - Bill to repeal the Kandyan Marriage and Divorce Act, No. 44 of 1952.
 - Presented in Parliament by Hon. (Ven.) Athuraliye Rathana Thero, M.P.
 - Printed by the Department of Government Printing, Sri Lanka.

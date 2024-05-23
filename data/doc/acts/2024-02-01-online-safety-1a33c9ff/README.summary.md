@@ -1,7 +1,3 @@
-# ⚖️  Online Safety
-
-Act published on **2024-02-01**.
-
 - Certified on 01st February 2024, the Online Safety Act establishes the Online Safety Commission.
 - Provides safety from prohibited statements made online and prevents misuse of online accounts and bots for prohibited purposes.
 - Identifies and declares online locations used for prohibited purposes.

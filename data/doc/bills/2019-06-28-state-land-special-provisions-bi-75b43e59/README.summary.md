@@ -1,7 +1,3 @@
-# 📄  State Land Special Provisions Bill 
-
-Bill published on **2019-06-28**.
-
 - **Purpose of Bill**: To grant absolute title to state lands held by citizens with grants or instruments of disposition and related matters.
 - **Presented**: By the Minister of Lands and Parliamentary Reforms on June 28, 2019.
 - **Eligibility**: Applies to holders of specific grants or instruments of disposition for more than ten years.
