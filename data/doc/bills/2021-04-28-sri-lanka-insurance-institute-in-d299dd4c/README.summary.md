@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Insurance Institute (Incorporation) - GS
-
-Bill published on **2021-04-28**.
-
 - The Sri Lanka Insurance Institute (SLII) is proposed to be incorporated via the "Sri Lanka Insurance Institute (Incorporation) Act, No. of 2021."
 - The bill is presented by Hon. Mayantha Dissanayake, MP.
 - The SLII will be a corporate body with limited liability, with powers to sue and be sued, own movable and immovable property, and change its common seal.

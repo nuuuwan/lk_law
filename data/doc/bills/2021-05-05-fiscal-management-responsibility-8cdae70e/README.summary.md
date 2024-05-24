@@ -1,7 +1,3 @@
-# 📄  Fiscal Management (Responsibility) (Amendment) - Bill
-
-Bill published on **2021-05-05**.
-
 - The bill aims to amend the Fiscal Management (Responsibility) Act, No. 3 of 2003.
 - The bill was presented by the Prime Minister and multiple ministers on May 5, 2021.
 - Published in the Gazette on April 28, 2021 and ordered by Parliament to be printed.

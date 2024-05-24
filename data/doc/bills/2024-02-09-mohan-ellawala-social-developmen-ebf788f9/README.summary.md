@@ -1,7 +1,3 @@
-# 📄  Mohan Ellawala Social Development Foundation (Incorporation) - Bill
-
-Bill published on **2024-02-09**.
-
 - **Bill Introduction:** Presented by Hon. Akila Ellawala, M.P. for Ratnapura District.
 - **Purpose:** To incorporate the Mohan Ellawala Social Development Foundation.
 - **Foundation Formation:** Known as "Mohan Ellawala Social Development Foundation," established to carry out its objectives based on agreed rules.

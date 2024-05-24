@@ -1,7 +1,3 @@
-# 📄  Arundika Fernando Relief Services and Godfrey Fernando Memorial Foundation (Incorporation) - GS
-
-Bill published on **2021-07-19**.
-
 **Key Points:**
 
 - **Date and Issue:** Gazette issued on July 19, 2021.

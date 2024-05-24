@@ -1,7 +1,3 @@
-# 📄  Land Development (Amendment) - Bill
-
-Bill published on **2020-02-05**.
-
 - A bill to amend the Land Development Ordinance (Chapter 464) of Sri Lanka.
 - Presented by Hon. (Dr.) Mrs. Thusitha Wijemanne, M.P. for Kegalle District on February 5, 2020.
 - Published in the official Gazette on January 13, 2020.

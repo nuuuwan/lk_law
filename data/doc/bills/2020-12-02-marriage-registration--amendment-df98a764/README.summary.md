@@ -1,7 +1,3 @@
-# 📄  Marriage Registration  (Amendment) - Bill
-
-Bill published on **2020-12-02**.
-
 - **Title of Bill**: Marriage Registration (Amendment) Act, No. of 2020
 - **Presented by**: Hon. Premitha Bandara Tennakoon, M.P. for Matale District
 - **Presentation Date**: December 2, 2020

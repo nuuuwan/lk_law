@@ -1,7 +1,3 @@
-# ⚖️  Bureau of Rehabilitation
-
-Act published on **2023-01-24**.
-
 - Establishment of the Bureau of Rehabilitation by Act No. 2 of 2023.
 - The objective is to rehabilitate drug-dependent persons and others identified by law.
 - The Bureau will provide treatment, enhance employability, advise the Minister, monitor reintegration, and receive grants.

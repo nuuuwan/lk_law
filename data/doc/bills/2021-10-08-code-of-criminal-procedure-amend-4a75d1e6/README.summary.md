@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - GS
-
-Bill published on **2021-10-08**.
-
 - **Amendment to Code of Criminal Procedure Act**: The bill proposes amendments to the Code of Criminal Procedure Act, No. 15 of 1979.
 - **New Sections**: 
   - **Section 144A**: Empowers Magistrate to dispense with a suspect’s or accused's personal attendance in court under specified circumstances.

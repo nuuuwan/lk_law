@@ -1,7 +1,3 @@
-# 📄  Mortgage (Amendment) - GS
-
-Bill published on **2023-11-10**.
-
 - Title: Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, November 10, 2023 Supplement
 - Issued on: 10.11.2023
 - Subject: Mortgage (Amendment) Bill to amend the Mortgage Act (Chapter 89)
