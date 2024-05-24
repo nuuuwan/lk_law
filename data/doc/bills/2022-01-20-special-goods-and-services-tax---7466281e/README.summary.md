@@ -1,7 +1,3 @@
-# 📄  Special Goods and Services Tax - Bill
-
-Bill published on **2022-01-20**.
-
 - The Bill proposes a Special Goods and Services Tax (SGST) on specified goods and services, replacing other taxes, duties, levies, or charges.
 - Aims to promote self-compliance and enhance efficiency in tax collection, simplifying the multiple tax regime on these goods and services.
 - SGST applies to specified goods like liquor, cigarettes, vehicles, and services like telecommunications, betting, and gaming.

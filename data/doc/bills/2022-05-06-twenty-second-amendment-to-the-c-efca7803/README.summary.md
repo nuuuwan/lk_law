@@ -1,7 +1,3 @@
-# 📄  Twenty Second Amendment to the Constitution - GS
-
-Bill published on **2022-05-06**.
-
 - **Title and Context**:
   - **Document Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka.
   - **Date**: May 6, 2022.
@@ -36,4 +32,3 @@ Bill published on **2022-05-06**.
   - Enhance governance and accountability.
   - Ensure a diverse and professionally integrated Constitutional Council.
   - Safeguard the unbiased and lawful appointment and removal processes.
-

@@ -1,7 +1,3 @@
-# ⚖️  National Innovation Agency
-
-Act published on **2019-11-15**.
-
 - **Title and Context:**
   - National Innovation Agency Act, No. 22 of 2019, Sri Lanka.
   - Certified on 15th November 2019.

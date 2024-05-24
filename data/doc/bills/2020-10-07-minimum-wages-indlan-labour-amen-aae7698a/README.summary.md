@@ -1,7 +1,3 @@
-# 📄  Minimum Wages (Indlan Labour) (Amendment) - GS
-
-Bill published on **2020-10-07**.
-
 - **Amendment Bill**: A bill to amend the Minimum Wages (Indian Labour) Ordinance (Chapter 135) has been ordered to be published.
 - **Minister of Labour**: The publication order was given by the Minister of Labour.
 - **Downloadable**: The supplement can be downloaded from www.documents.gov.lk.
