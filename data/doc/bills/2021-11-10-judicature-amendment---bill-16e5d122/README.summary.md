@@ -1,7 +1,3 @@
-# 📄  Judicature (Amendment) - Bill
-
-Bill published on **2021-11-10**.
-
 - The bill is titled "Judicature (Amendment)" and aims to amend the Judicature Act, No. 2 of 1978.
 - Presented by the Minister of Justice on November 10, 2021.
 - Published in the Gazette on October 15, 2021, under Bill No. 89.
