@@ -1,7 +1,3 @@
-# ⚖️  Petroleum Products (Special Provisions) (Amendment)
-
-Act published on **2022-10-21**.
-
 - **Title and Certification:**
   - Petroleum Products (Special Provisions) (Amendment) Act, No. 27 of 2022.
   - Certified on October 21, 2022.

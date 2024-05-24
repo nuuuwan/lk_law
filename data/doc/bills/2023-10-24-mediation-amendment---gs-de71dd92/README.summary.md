@@ -1,7 +1,3 @@
-# 📄  Mediation (Amendment) - GS
-
-Bill published on **2023-10-24**.
-
 - **Mediation (Amendment) Bill**: A bill to amend the Mediation Board Act, No. 72 of 1988, ordered to be published by the Minister of Justice, Prison Affairs, and Constitutional Reforms.
 - **Legal Effect Statements**:
   - **Clause 2**: Replaces section 2 to enhance the provisions.

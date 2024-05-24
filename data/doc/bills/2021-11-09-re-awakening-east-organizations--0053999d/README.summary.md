@@ -1,7 +1,3 @@
-# 📄  Re-awakening East Organizations (Incorporation) - Bill
-
-Bill published on **2021-11-09**.
-
 - Presentation of the Bill:
   - Presented by Hon. Buddhika Pathirana, M.P. for Matara District on November 9, 2021.
   - Published in the Gazette on October 18, 2021.

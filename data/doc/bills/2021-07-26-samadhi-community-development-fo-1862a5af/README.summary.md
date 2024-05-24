@@ -1,7 +1,3 @@
-# 📄  Samadhi Community Development Foundation (Incorporation) - GS
-
-Bill published on **2021-07-26**.
-
 - A bill to incorporate the Samadhi Community Development Foundation (SCDF) was presented in Parliament by Hon. Buddhika Pathirana, M.P. for Matara District.
 - The bill aims to establish the SCDF as a corporate body with perpetual succession under the name "Samadhi Community Development Foundation".
 - The SCDF has been involved in various educational and welfare activities and seeks incorporation for public advantage.

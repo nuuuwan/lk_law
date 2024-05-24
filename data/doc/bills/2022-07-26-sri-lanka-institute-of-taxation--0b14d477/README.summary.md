@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Institute of Taxation (Incorporation) (Amendment) - GS
-
-Bill published on **2022-07-26**.
-
 - Bill to amend the Sri Lanka Institute of Taxation (Incorporation) Act, No. 21 of 2000.
 - Presented in Parliament by Hon. Madhura Withanage, M.P. for Colombo District.
 - Change in name from "Sri Lanka Institute of Taxation" to "Chartered Institute of Taxation of Sri Lanka."

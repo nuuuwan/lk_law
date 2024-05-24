@@ -1,7 +1,3 @@
-# 📄  Banking (Amendment) - Bill
-
-Bill published on **2024-02-21**.
-
 - Presented on February 21, 2024, to amend the Banking Act, No. 30 of 1988.
 - The bill introduces amendments aiming at enhancing the regulatory framework and operational standards for banks.
 - Clause 2: Excludes shell banks from the definition of “company.”
