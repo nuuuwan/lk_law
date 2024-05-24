@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - GS
-
-Bill published on **2024-01-09**.
-
 - Amendment to Penal Code (Chapter 19) ordered by the Minister of Justice, Prison Affairs and Constitutional Reforms.
 - Document available for purchase or download from government platforms.
 - Key purpose: Increase penalties for specified offences in the Penal Code.

@@ -1,7 +1,3 @@
-# 📄  Kandian Marriage & Divorce (Repeal) - Bill
-
-Bill published on **2020-01-21**.
-
 - Bill to repeal the Kandyan Marriage and Divorce Act, No. 44 of 1952.
 - Presented by Hon. (Ven.) Athuraliye Rathana Thero, M.P. on January 21, 2020.
 - Published in the Gazette on January 07, 2020.

@@ -1,7 +1,3 @@
-# 📄  Sri Balabhivurdhi Wardana Samithiya (Incorporation) - GS
-
-Bill published on **2021-02-16**.
-
 - **Introduction**:
   - Official Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, February 12, 2021.
   - Supplement issued on February 16, 2021.

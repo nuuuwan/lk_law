@@ -1,7 +1,3 @@
-# ⚖️  Employment of Women, Young Persons and Children (Amendment) 
-
-Act published on **2021-01-18**.
-
 The document text can be summarized into the following key points:
 
 - Title: Employment of Women, Young Persons, and Children (Amendment) Act, No. 2 of 2021.
@@ -26,5 +22,4 @@ Key Amendments:
   
 - Language Consistency: In the event of any inconsistency between the Sinhala and Tamil texts, the Sinhala text shall prevail.
 - Purchasing Info: English Acts can be bought at the Department of Government Printing in Colombo.
-
 

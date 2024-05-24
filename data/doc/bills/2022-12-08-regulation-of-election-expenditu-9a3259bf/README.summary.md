@@ -1,7 +1,3 @@
-# 📄  Regulation of Election Expenditure - Bill
-
-Bill published on **2022-12-08**.
-
 Here are the most important points from the document summarized into bullet points:
 
 - **Bill Introduction**: Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on December 8, 2022.

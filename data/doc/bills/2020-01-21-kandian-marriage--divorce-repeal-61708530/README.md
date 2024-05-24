@@ -1,3 +1,16 @@
 # 📄  Kandian Marriage & Divorce (Repeal) - Bill
 
 Bill published on **2020-01-21**.
+
+- Bill to repeal the Kandyan Marriage and Divorce Act, No. 44 of 1952.
+- Presented by Hon. (Ven.) Athuraliye Rathana Thero, M.P. on January 21, 2020.
+- Published in the Gazette on January 07, 2020.
+- Ordered by Parliament to be printed.
+- Bill No. 317.
+- Printed at the Department of Government Printing, Sri Lanka.
+- Available for purchase at the Government Publications Bureau, Colombo 5.
+- Price: Rs. 6.00; Postage: Rs. 15.00.
+- Downloadable from www.documents.gov.lk.
+- Short title: Kandyan Marriage and Divorce (Repeal) Act, No. _ of 2020.
+- Repeals the Kandyan Marriage and Divorce Act, No. 44 of 1952.
+- In case of inconsistency between Sinhala and Tamil texts, the Sinhala text shall prevail.

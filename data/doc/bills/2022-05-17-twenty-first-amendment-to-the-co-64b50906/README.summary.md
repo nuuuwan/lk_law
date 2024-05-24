@@ -1,7 +1,3 @@
-# 📄  Twenty First Amendment to the Constitution - Bill
-
-Bill published on **2022-05-17**.
-
 - **Amendment Overview**: The bill aims to amend several key articles of the Sri Lankan Constitution, affecting the roles and responsibilities of the President and the establishment of a Constitutional Council.
 - **Presented by**: R. M. Ranjith Madduma Bandara, M.P., on May 17, 2022.
 - **Amendments to Article 4**:
