@@ -1,7 +1,3 @@
-# 📄  Petroleum Products (Special Provisions) (Amendment) - GS
-
-Bill published on **2022-08-12**.
-
 - A bill to amend the Petroleum Products (Special Provisions) Act, No. 33 of 2002.
 - Ordered to be published by the Minister of Power and Energy.
 - Details and amendments include:
