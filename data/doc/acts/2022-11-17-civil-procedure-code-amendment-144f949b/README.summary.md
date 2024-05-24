@@ -1,7 +1,3 @@
-# ⚖️  Civil Procedure Code (Amendment)
-
-Act published on **2022-11-17**.
-
 - The Civil Procedure Code (Amendment) Act, No. 36 of 2022, was certified on November 17, 2022.
 - Published as a Supplement to the Sri Lankan Government Gazette on November 18, 2022.
 - Act can be downloaded from the official government website www.documents.gov.lk.

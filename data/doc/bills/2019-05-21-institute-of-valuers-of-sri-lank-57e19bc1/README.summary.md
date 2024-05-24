@@ -1,7 +1,3 @@
-# 📄  Institute of Valuers of Sri Lanka (Amendment)  - Bill
-
-Bill published on **2019-05-21**.
-
 - **Purpose:** Amends the Institute of Valuers of Sri Lanka Law, No. 33 of 1975.
 - **Minister of Finance:** Presented on May 21, 2019.
 - **Publication:** Gazette on September 11, 2018.

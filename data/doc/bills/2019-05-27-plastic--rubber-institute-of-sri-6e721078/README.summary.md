@@ -1,7 +1,3 @@
-# 📄  Plastic & Rubber Institute of Sri Lanka  (GS)
-
-Bill published on **2019-05-27**.
-
 - **Document Title:** The Gazette of the Democratic Socialist Republic of Sri Lanka (Part II of May 24, 2019, Supplement issued on 27.05.2019).
   
 - **Bill Introduction:**

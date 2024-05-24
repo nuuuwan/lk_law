@@ -1,7 +1,3 @@
-# 📄  Powers of Attorney (Amendment) - GS
-
-Bill published on **2023-11-15**.
-
 - **Publication Details:**
   - Title: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, November 10, 2023 (Issued on 15.11.2023).
   - Subject: Powers of Attorney (Amendment) Bill.

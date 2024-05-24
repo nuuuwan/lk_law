@@ -1,7 +1,3 @@
-# ⚖️  Inland Revenue (Amendment)
-
-Act published on **2023-09-08**.
-
 - Inland Revenue (Amendment) Act, No. 14 of 2023 certified on September 8, 2023.
 - Amends the Inland Revenue Act, No. 24 of 2017.
 - Effective retroactively from April 1, 2023.
