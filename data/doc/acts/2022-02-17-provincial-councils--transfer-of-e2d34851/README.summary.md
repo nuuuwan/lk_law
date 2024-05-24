@@ -1,7 +1,3 @@
-# ⚖️  Provincial Councils  (Transfer of Stamp Duty) (Amendment)
-
-Act published on **2022-02-17**.
-
 - Title: Provincial Councils (Transfer of Stamp Duty) (Amendment) Act, No. 6 of 2022
 - Enacted by: Parliament of the Democratic Socialist Republic of Sri Lanka
 - Certification Date: February 17, 2022

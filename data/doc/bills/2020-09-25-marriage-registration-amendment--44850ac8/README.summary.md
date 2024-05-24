@@ -1,7 +1,3 @@
-# 📄  Marriage Registration (Amendment) - GS
-
-Bill published on **2020-09-25**.
-
 - Title: Marriage Registration (Amendment) Bill
 - Presented by: Hon. Premitha Bandara Tennakoon, M.P. for Matale District
 - Published in: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of September 25, 2020, Supplement
