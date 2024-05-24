@@ -1,7 +1,3 @@
-# ⚖️  Chamber of Construction Industry of Sri Lanka (Incorporation)
-
-Act published on **2019-11-18**.
-
 - **Act Title and Certification:**
   - Chamber of Construction Industry of Sri Lanka (Incorporation) Act, No. 23 of 2019.
   - Certified on 18th November 2019.
