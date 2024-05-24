@@ -1,7 +1,3 @@
-# 📄  United Christian Fellowship of Sri Lanka (Incorporation) - GS
-
-Bill published on **2021-05-18**.
-
 - **Title:** Incorporation of the United Christian Fellowship of Sri Lanka
 - **Presented by:** Hon. Buddhika Pathirana, M.P. for Matara District
 - **Publication Details:** Printed at the Department of Government Printing, Sri Lanka; Available at Government Publications Bureau, Colombo 5; Price: Rs. 12.00, Postage: Rs. 15.00
@@ -31,4 +27,3 @@ Bill published on **2021-05-18**.
   9. Protocol for affixing the Corporation’s seal on instruments.
   10. Protection of rights of the Republic and other entities.
   11. Sinhala text to prevail in case of inconsistency between Sinhala and Tamil texts.
-

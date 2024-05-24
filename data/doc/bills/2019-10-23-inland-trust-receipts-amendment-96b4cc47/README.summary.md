@@ -1,7 +1,3 @@
-# 📄  Inland Trust Receipts (Amendment)
-
-Bill published on **2019-10-23**.
-
 - Bill presented by the Minister of Finance on October 23, 2019.
 - Published in the Gazette on August 09, 2019.
 - Bill No. 306.

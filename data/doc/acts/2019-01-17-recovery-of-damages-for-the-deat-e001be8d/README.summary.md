@@ -1,7 +1,3 @@
-# ⚖️  Recovery of Damages for the Death of a Person
-
-Act published on **2019-01-17**.
-
 - **Act Name and Date:**
   - Recovery of Damages for the Death of a Person Act, No. 2 of 2019.
   - Certified on January 17, 2019.

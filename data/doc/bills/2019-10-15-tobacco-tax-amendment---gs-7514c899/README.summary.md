@@ -1,7 +1,3 @@
-# 📄  Tobacco Tax (Amendment) - GS
-
-Bill published on **2019-10-15**.
-
 - **Intention of the Document**: To amend the Tobacco Tax Act, No. 08 of 1999.
   
 - **Presenter**: Hon. (Dr) Wijeyadasa Rajapakshe, M.P. for Colombo District.

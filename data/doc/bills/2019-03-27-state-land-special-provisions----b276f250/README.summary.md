@@ -1,7 +1,3 @@
-# 📄  State Land (Special Provisions) - GS
-
-Bill published on **2019-03-27**.
-
 - The State Land (Special Provisions) Bill aims to grant absolute title to state lands held by citizens with grants or instruments of disposition.
 - The Act will be in operation for seven years from the appointed date.
 - Eligibility criteria: Holders of grants under the Land Development Ordinance, instruments under the Land Grants (Special Provisions) Act, or the Crown Lands Ordinance, held for more than ten years.

@@ -1,7 +1,3 @@
-# 📄  Powers of Attorney (Amendment) - (GS)
-
-Bill published on **2019-08-27**.
-
 - **Bill Overview**: Amendments to the Powers of Attorney Ordinance (Chapter 122).
 - **Clause 2**: Expands the definition of the term "power of attorney."
 - **Clause 3**: Compels registration for certain transactions per the Prevention of Frauds Ordinance.
