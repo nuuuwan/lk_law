@@ -1,7 +1,3 @@
-# 📄  Daham Sewane Singiththo Lama Sanwardana - GS
-
-Bill published on **2023-12-05**.
-
 - Incorporation of the "Daham Sewane Singiththo Lama Sanwardana Padanama" via a Private Members’ Bill.
 - Presented by Hon. Gamini Lokuge, M.P. for Colombo District.
 - Objectives:

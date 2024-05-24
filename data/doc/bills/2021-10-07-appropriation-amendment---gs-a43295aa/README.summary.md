@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - GS
-
-Bill published on **2021-10-07**.
-
 - The document is from "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA", Part II of October 01, 2021.
 - This is an Appropriation (Amendment) Bill to amend the Appropriation Act, No. 7 of 2020.
 - The Bill was ordered to be published by the Minister of Finance.

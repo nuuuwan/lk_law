@@ -1,3 +1,17 @@
 # 📄  Evidence (Amendment) - Bill
 
 Bill published on **2020-11-26**.
+
+- Evidence (Amendment) Bill presented by the Minister of Justice on November 26, 2020.
+- Bill aims to amend the Evidence Ordinance (Chapter 14).
+- Major amendments include replacing outdated words and expressions with contemporary terms.
+- Specific changes:
+  - Section 6: Replace "waging war against the Queen" with "waging war against the Republic".
+  - Section 10: Update conspiracy language similar to Section 6.
+  - Section 37: Broaden relevant facts to local and foreign laws.
+  - Section 57: Update references from "Ceylon" to "Sri Lanka" and replace terms such as "Her Majesty" with relevant Sri Lankan terms.
+  - Section 65, 69, 90B, and 91: Replace "Ceylon" with "Sri Lanka".
+  - Section 74, 78, 79, 81, and 100: Update terms from British references to Sri Lankan context.
+  - Section 90A: Align company definition with the Companies Act, No. 7 of 2007.
+  - Sections 111, 126, 127, 128, 132, 149, and 150: Replace terms like "proctor" and "advocate" with "attorney-at-law".
+- Sinhala text to prevail in case of inconsistency with Tamil text.

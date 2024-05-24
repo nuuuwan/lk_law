@@ -1,7 +1,3 @@
-# 📄  Evidence (Amendment) - Bill
-
-Bill published on **2020-11-26**.
-
 - Evidence (Amendment) Bill presented by the Minister of Justice on November 26, 2020.
 - Bill aims to amend the Evidence Ordinance (Chapter 14).
 - Major amendments include replacing outdated words and expressions with contemporary terms.
