@@ -1,7 +1,3 @@
-# 📄  Industrial Disputes (Amendment) - Bill
-
-Bill published on **2022-08-10**.
-
 - Title: "Industrial Disputes (Amendment) Bill"
 - Presented by: Minister of Labour and Foreign Employment on August 10, 2022
 - Publication: Published in the Gazette on July 04, 2022

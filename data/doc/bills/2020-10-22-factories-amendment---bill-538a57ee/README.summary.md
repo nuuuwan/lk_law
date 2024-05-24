@@ -1,7 +1,3 @@
-# 📄  Factories (Amendment) - Bill
-
-Bill published on **2020-10-22**.
-
 - **Bill Introduction:**
   - Presented by the Minister of Labour on October 22, 2020.
   - Published in the Gazette on October 08, 2020.

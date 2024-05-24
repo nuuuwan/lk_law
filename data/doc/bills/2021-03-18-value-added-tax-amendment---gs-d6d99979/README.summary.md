@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - GS
-
-Bill published on **2021-03-18**.
-
 - **Reduction of VAT Rate**: The VAT rate is reduced from 15% to 8% for goods and services supplied or imported from December 1, 2019.
 - **Registration Threshold**: Conditions for calculating the registration threshold for wholesale and retail are removed to prevent discrimination.
 - **Exporter Refund Provisions**: Provisions are made to determine refunds for exporters.

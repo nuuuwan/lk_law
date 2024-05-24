@@ -1,7 +1,3 @@
-# 📄  Institution of Building Services Engineering & Technology of Sri Lanka (Incorporation) - GS
-
-Bill published on **2022-03-30**.
-
 - **Bill Introduction:**
   - Title: Incorporation of the Institution of Building Services Engineering & Technology of Sri Lanka.
   - Presented by: Hon. Uddika Premarathne, M. P. for Anuradhapura District.
