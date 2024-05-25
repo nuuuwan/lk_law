@@ -1,3 +1,19 @@
 # ⚖️  National Eye Bank Trust of Sri Lanka
 
 Act published on **2023-10-17**.
+
+- Establishment of the National Eye Bank Trust of Sri Lanka.
+- The Trust aims to alleviate and prevent avoidable blindness, function as a national eye tissue bank, harvest, process, and distribute corneal tissues and other tissues for ophthalmic surgery.
+- Train tissue coordinators and enhance public awareness on the benefits of tissue donation.
+- Provide tissues free of charge to public hospitals, share excess with other countries for a fee.
+- Managed by a Board comprising ex-officio and appointed members with specific qualifications and term limits.
+- Board empowered to carry out various functions related to eye tissue banking and set standards.
+- Establishment of the National Eye Bank Trust Fund to manage finances, receive grants, and cover expenses.
+- Financial year aligns with the calendar year, requiring annual audits and submission of reports to the minister.
+- Appointment of a Chief Executive Director and Medical Director, both with specific qualifications and roles.
+- Public officers can be temporarily or permanently appointed to the Trust.
+- The Trust and its officers are granted certain protections under law.
+- Selling or dealing with corneal tissues for profit is prohibited and punishable.
+- Ministerial power to make regulations for the Trust's operations.
+- Sections of the Transplantation of Human Tissues Act apply to this Act.
+- Existing funds in the National Eye Bank of Sri Lanka under the National Health Development Fund to be transferred to the new Trust Fund.

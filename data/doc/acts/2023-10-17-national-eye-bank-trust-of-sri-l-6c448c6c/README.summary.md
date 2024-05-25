@@ -1,7 +1,3 @@
-# ⚖️  National Eye Bank Trust of Sri Lanka
-
-Act published on **2023-10-17**.
-
 - Establishment of the National Eye Bank Trust of Sri Lanka.
 - The Trust aims to alleviate and prevent avoidable blindness, function as a national eye tissue bank, harvest, process, and distribute corneal tissues and other tissues for ophthalmic surgery.
 - Train tissue coordinators and enhance public awareness on the benefits of tissue donation.

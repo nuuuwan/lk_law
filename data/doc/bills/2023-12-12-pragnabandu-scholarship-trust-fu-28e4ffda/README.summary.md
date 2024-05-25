@@ -1,7 +1,3 @@
-# 📄  Pragnabandu Scholarship Trust Fund (Incorporation) - Bill
-
-Bill published on **2023-12-12**.
-
 - Bill to incorporate the Pragnabandu Scholarship Trust Fund.
 - Presented by Hon. (Major) Pradeep Undugoda, M.P. for Colombo District on December 12, 2023.
 - Purpose: Advancing education in Sri Lanka, via the "Pragnabandu Scholarship Trust Fund," established by Deed No. 78.
