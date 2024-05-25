@@ -1,7 +1,3 @@
-# 📄  Intellectual Property (Amendment) - GS
-
-Bill published on **2022-02-10**.
-
 - **Title**: Intellectual Property (Amendment) Bill of the Democratic Socialist Republic of Sri Lanka
 - **Issue Date**: February 03, 2022 (Published: 10.02.2022)
 - **Purpose**: Amending the Intellectual Property Act, No. 36 of 2003 to introduce a “Geographical Indications Registration System”.

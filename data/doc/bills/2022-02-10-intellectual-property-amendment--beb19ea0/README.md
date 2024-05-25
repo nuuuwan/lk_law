@@ -2,4 +2,23 @@
 
 Bill published on **2022-02-10**.
 
-
+- **Title**: Intellectual Property (Amendment) Bill of the Democratic Socialist Republic of Sri Lanka
+- **Issue Date**: February 03, 2022 (Published: 10.02.2022)
+- **Purpose**: Amending the Intellectual Property Act, No. 36 of 2003 to introduce a “Geographical Indications Registration System”.
+- **Key Amendments**:
+  - **Section 2**: Including “Geographical Indications” alongside Industrial Designs, Patents, and Marks.
+  - **Section 4 & 101**: Amendments and repeal concerning definitions and scopes related to geographical indications.
+  - **Section 160, 160A-160E**: Detailed definitions, responsibilities, and provisions for geographical indications, producers, authorized users, and control plans.
+  - **Section 161**: Amendments and addition of new subsections dealing with application, admissibility, opposition, and renewal processes for geographical indications.
+  - **Sections 161F-161J**: Introduction of certificates, registration procedures, rights of registered owners, non-generic status, and cancellation protocols.
+  - **Section 161K**: Provision for the registration of foreign geographical indications.
+  - **Section 161L**: Alteration protocols for registered geographical indications.
+  - **Section 161M**: Option to register certification marks as geographical indications.
+- **Procedural Provisions**:
+  - **Publication**: Procedures for the Gazette publication of applications.
+  - **Opposition**: Framework for submitting and handling opposition to registrations.
+  - **Renewal**: Processes and conditions for renewing registration, including grace periods and associated fees.
+  - **Enforcement**: Rights of registered owners to prevent misuse or misleading use of geographical indications.
+- **Miscellaneous Amendments**:
+  - **Sections 162, 168, 170, 172, 186A, 212**: Comprehensive updates aligning other sections to include geographical indications regarding rules, regulations, offences, and penalties.
+- **Prevailing Text**: In case of inconsistency between Sinhala and Tamil texts, the Sinhala text will prevail.
