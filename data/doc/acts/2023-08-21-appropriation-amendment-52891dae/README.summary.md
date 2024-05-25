@@ -1,7 +1,3 @@
-# ⚖️  Appropriation (Amendment)
-
-Act published on **2023-08-21**.
-
 - The document is an official publication of the Parliament of Sri Lanka.
 - It details the Appropriation (Amendment) Act, No. 12 of 2023, certified on August 21, 2023.
 - The Act amends the Appropriation Act, No. 43 of 2022.

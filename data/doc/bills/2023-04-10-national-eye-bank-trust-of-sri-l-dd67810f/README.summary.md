@@ -1,7 +1,3 @@
-# 📄  National Eye Bank Trust of Sri Lanka - GS
-
-Bill published on **2023-04-10**.
-
 - **Establishment of the Trust**: The bill provides for the establishment of the National Eye Bank Trust of Sri Lanka to supply corneal tissues and artificial devices for ophthalmic surgeries, and to share excess resources internationally.
   
 - **Objectives**: The main aims are to alleviate blindness in Sri Lanka, function as a national eye tissue bank, harvest and distribute tissues for surgeries, enhance public awareness regarding donations, and provide training and free tissue supplies to government hospitals.
@@ -19,5 +15,4 @@ Bill published on **2023-04-10**.
 - **Regulations and Rules**: The Minister and the Board are empowered to make regulations and rules regarding procedures for tissue collection, quality standards, and other operational guidelines.
 
 - **Miscellaneous**: The Trust and its employees are provided protections under the law, and provisions are included to facilitate international cooperation and prevent conflicts of interest.
-
 

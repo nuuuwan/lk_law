@@ -1,7 +1,3 @@
-# ⚖️  Companies (Amendment) Act
-
-Act published on **2019-08-06**.
-
 - **Title and Certification:**
   - Companies (Amendment) Act No. 13 of 2019.
   - Certified on 06th of August, 2019.

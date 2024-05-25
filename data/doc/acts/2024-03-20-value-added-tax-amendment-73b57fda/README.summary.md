@@ -1,7 +1,3 @@
-# ⚖️  Value Added Tax (Amendment)
-
-Act published on **2024-03-20**.
-
 - **Title:** Value Added Tax (Amendment) Act, No. 16 of 2024.
 - **Certification Date:** March 20, 2024.
 - **Publication Details:** Supplement to Part II of the Gazette of Sri Lanka dated March 22, 2024, available for purchase at Rs. 12.00 with a postage of Rs. 150.00.

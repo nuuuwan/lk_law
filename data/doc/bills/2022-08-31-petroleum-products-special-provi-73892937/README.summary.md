@@ -1,7 +1,3 @@
-# 📄  Petroleum Products (Special Provisions) (Amendment) - Bill
-
-Bill published on **2022-08-31**.
-
 - **Bill Information**: 
   - Amending the Petroleum Products (Special Provisions) Act, No. 33 of 2002
   - Presented by the Minister of Power and Energy on August 31, 2022
