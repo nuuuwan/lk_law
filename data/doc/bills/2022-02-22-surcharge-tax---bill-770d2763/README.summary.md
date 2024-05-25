@@ -1,7 +1,3 @@
-# 📄  Surcharge Tax - (Bill)
-
-Bill published on **2022-02-22**.
-
 - **Introduction**:
   - Presented by the Minister of Finance on February 22, 2022.
   - Published in the Gazette on February 07, 2022.

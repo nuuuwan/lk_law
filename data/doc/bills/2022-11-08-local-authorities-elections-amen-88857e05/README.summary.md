@@ -1,7 +1,3 @@
-# 📄  Local Authorities Elections (Amendment) - Bill
-
-Bill published on **2022-11-08**.
-
 - The bill seeks to amend the Local Authorities Elections Ordinance (Chapter 262).
 - Presented by Hon. Premnath C. Dolawatte on November 8, 2022.
 - Published in the Gazette on October 14, 2022.

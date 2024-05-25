@@ -1,7 +1,3 @@
-# 📄  Powers of Attorney (Amendment) - Bill
-
-Bill published on **2022-08-29**.
-
 - Bill to amend the Powers of Attorney Ordinance (Chapter 122)
 - Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on August 29, 2022
 - Published in the Gazette on July 18, 2022

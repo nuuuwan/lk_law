@@ -1,7 +1,3 @@
-# 📄  National Innovation Agency - GS
-
-Bill published on **2019-10-09**.
-
 - Bill proposes the establishment of the National Innovation Agency in the Democratic Socialist Republic of Sri Lanka.
 - It aims to promote understanding and support for various types of innovation, including social, technological, defense, ecological, and service innovations.
 - The Agency will recommend national policies on innovation and ensure national research aligns with economic goals.
