@@ -1,7 +1,3 @@
-# 📄  Finance - Bill
-
-Bill published on **2023-10-18**.
-
 - The bill aims to amend the Finance Act, No. 35 of 2018 and the Finance Act, No. 12 of 2012.
 - Introduced by the Minister of Finance, Economic Stabilization, and National Policies on October 18, 2023.
 - Includes an amendment to Section 48 of the Finance Act, No. 35 of 2018, introducing a levy of 25 cents per mobile short message for bulk advertisements sent through fixed telephone lines.

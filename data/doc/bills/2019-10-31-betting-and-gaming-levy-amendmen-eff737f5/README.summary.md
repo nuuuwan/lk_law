@@ -1,7 +1,3 @@
-# 📄  Betting and Gaming Levy (Amendment) - GS
-
-Bill published on **2019-10-31**.
-
 - **Betting and Gaming Levy (Amendment) Bill**: The bill aims to amend the Betting and Gaming Levy Act, No. 40 of 1988.
   
 - **Legal Effects**:
