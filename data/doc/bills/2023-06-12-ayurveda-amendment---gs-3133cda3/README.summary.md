@@ -1,7 +1,3 @@
-# 📄  Ayurveda (Amendment) - GS
-
-Bill published on **2023-06-12**.
-
 - Document details: Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of June 9, 2023.
 - Bill to amend the Ayurveda Act, No. 31 of 1961.
 - Minister of Health ordered publication.

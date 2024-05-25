@@ -1,7 +1,3 @@
-# 📄  Ananda Aluthgamage Development, Social Services and Charity Foundation (Incorporation) - GS
-
-Bill published on **2021-11-08**.
-
 - The Gazette contains the text of the incorporation bill for the "Ananda Aluthgamage Development, Social Services and Charity Foundation."
 - The bill is presented in Parliament by Hon. Rohana Bandara, M.P. for Anuradhapura District.
 - The Act is formally named the Ananda Aluthgamage Development, Social Services and Charity Foundation (Incorporation) Act, No. of 2021.

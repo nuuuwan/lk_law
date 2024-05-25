@@ -1,7 +1,3 @@
-# 📄  National Minimum Wage of Workers (Amendment) - Bill
-
-Bill published on **2021-03-24**.
-
 - The bill is titled "National Minimum Wage of Workers (Amendment)".
 - It aims to amend the National Minimum Wage of Workers Act, No. 3 of 2016.
 - The bill was presented by the Minister of Labour on March 24, 2021.

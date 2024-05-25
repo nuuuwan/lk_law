@@ -1,7 +1,3 @@
-# 📄  Banking (Special Provisions) - GS
-
-Bill published on **2023-05-12**.
-
 - **Purpose of the Bill**: 
   - Establishes the Resolution Authority of the Central Bank.
   - Specifies resolution measures for managing distressed licensed banks.
@@ -51,4 +47,3 @@ Bill published on **2023-05-12**.
 
 - **Implementation of Resolution**:
   - Notification to the bank and commencement of resolution measures within 30 days.
-

@@ -1,7 +1,3 @@
-# 📄  Provincial Councils Elections (Amendment) - GS
-
-Bill published on **2023-05-10**.
-
 - Title: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, April 06, 2023 Supplement (Issued on 10.04.2023)
 - Subject: Provincial Councils Elections (Amendment) (Private Members’ Bill)
 - Presenter: Hon. M. A. Sumanthiran, M. P. for Jaffna District
