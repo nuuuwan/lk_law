@@ -1,7 +1,3 @@
-# 📄  Sri Balabhivurdhi Wardana Samithiya (Incorporatio) - Bill
-
-Bill published on **2021-02-24**.
-
 - **Introduction & Presentation:**
   - Bill to incorporate the Sri Balabhivurdhi Wardana Samithiya.
   - Presented by Hon. Buddhika Pathirana on February 24, 2021.

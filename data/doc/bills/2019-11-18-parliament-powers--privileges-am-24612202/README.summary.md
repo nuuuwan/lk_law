@@ -1,7 +1,3 @@
-# 📄  Parliament (Powers & Privileges) Amendment - GS
-
-Bill published on **2019-11-18**.
-
 - **Title and Publication**:
   - Gazette of the Democratic Socialist Republic of Sri Lanka, Supplement to Part II of November 15, 2019.
   - Document pertains to a Bill to amend the Parliament (Powers and Privileges) Act (Chapter 383).
