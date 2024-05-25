@@ -1,7 +1,3 @@
-# 📄  Institute of Quantity Surveyors, Sri Lanka (Incorporation) (Amendment) - GS
-
-Bill published on **2024-05-20**.
-
 - The document pertains to the DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA's Gazette, Part II, dated May 17, 2024.
 - It includes a Private Members’ Bill presented by Hon. Chandima Weerakkody to amend the Institute of Quantity Surveyors, Sri Lanka (Incorporation) Act, No. 20 of 2007.
 - The amendment aims to alter Corporate Membership categories and associated names of members.

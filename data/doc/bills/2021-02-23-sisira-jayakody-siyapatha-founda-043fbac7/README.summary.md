@@ -1,7 +1,3 @@
-# 📄  Sisira Jayakody Siyapatha Foundation (Incorporation) - Bill
-
-Bill published on **2021-02-23**.
-
 - Bill to incorporate the Sisira Jayakody Siyapatha Foundation.
 - Presented by Hon. Premnath C. Dolawatte M.P. for Colombo District on February 23, 2021.
 - Published in the Gazette on February 15, 2021.

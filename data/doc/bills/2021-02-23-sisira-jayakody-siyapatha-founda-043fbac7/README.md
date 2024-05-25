@@ -1,3 +1,27 @@
 # 📄  Sisira Jayakody Siyapatha Foundation (Incorporation) - Bill
 
 Bill published on **2021-02-23**.
+
+- Bill to incorporate the Sisira Jayakody Siyapatha Foundation.
+- Presented by Hon. Premnath C. Dolawatte M.P. for Colombo District on February 23, 2021.
+- Published in the Gazette on February 15, 2021.
+- The Foundation is to be a body corporate with perpetual succession.
+- The general objects of the Corporation include:
+  - Conducting studies and seminars to encourage self-employment.
+  - Rehabilitating neglected religious places.
+  - Implementing the “Jana Sahana” mobile service program to address public issues.
+  - Offering scholarships and job market preparation for undergraduate students.
+  - Supporting senior citizens and providing assistance programs.
+  - Training and sponsoring the unemployed for self-employment.
+  - Developing relationships with national and international organizations with similar goals.
+  - Performing activities necessary to attain the above objectives.
+- The Corporation can raise funds, acquire property, manage financial transactions, and enter agreements.
+- The Corporation will be managed by a Board of Directors consisting of a Chairman, Secretary, Treasurer, and eight other members.
+- The Corporation can create rules at general meetings with a two-thirds majority vote.
+- The Corporation will have its own fund, and the funds must be used solely for its objectives.
+- Financial accounts must be audited by a qualified auditor.
+- The seal of the Corporation requires the signatures of the Chairman and Secretary.
+- All debts and liabilities prior to the Act's commencement will be carried forward by the Corporation.
+- Upon dissolution, any remaining property will be transferred to similar organizations.
+- Members' liability is limited to their annual subscription.
+- In case of inconsistencies, the Sinhala text of the Act will prevail.

@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **814** documents, as of *2024-05-25 11:39:26*.
+Downloaded **816** documents, as of *2024-05-25 13:39:33*.
 
 ## 2024
 
@@ -16,13 +16,16 @@ Downloaded **814** documents, as of *2024-05-25 11:39:26*.
 
 * ⚖️ [[2024-05-13] Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/doc/acts/2024-05-13-shop-and-office-employees-regula-6cd29c49)
 * ⚖️ [[2024-05-13] Partition (Amendment)](data/doc/acts/2024-05-13-partition-amendment-b46079a6)
+* 📄 [[2024-05-13] Civil Procedure Code (Amendment) - Bill](data/doc/bills/2024-05-13-civil-procedure-code-amendment---97c9c000)
+* 📄 [[2024-05-10] Sri Lanka Telecommunications (Amendment) - Bill](data/doc/bills/2024-05-10-sri-lanka-telecommunications-ame-17050e2d)
 * ⚖️ [[2024-05-08] Recovery of Loans by Banks (Special Provisions) (Amendment)](data/doc/acts/2024-05-08-recovery-of-loans-by-banks-speci-14db01d1)
+
 * 📄 [[2024-05-08] Parliamentary Elections (Amendment) - GS](data/doc/bills/2024-05-08-parliamentary-elections-amendmen-5c23aeaa)
 * 📄 [[2024-05-08] J. C. Alawathuwela Foundation (Incorporation) - GS](data/doc/bills/2024-05-08-j-c-alawathuwela-foundation-inco-2b8fdbf9)
-
 * 📄 [[2024-05-07] Employees’ Provident Fund (Amendment) - Bill](data/doc/bills/2024-05-07-employees-provident-fund-amendme-b506d654)
 * ⚖️ [[2024-05-03] Code of Criminal Procedure (Amendment)](data/doc/acts/2024-05-03-code-of-criminal-procedure-amend-d88d739e)
 * 📄 [[2024-05-03] Civil Procedure Code (Amendment) - GS](data/doc/bills/2024-05-03-civil-procedure-code-amendment---83867b5f)
+
 * 📄 [[2024-05-02] Sri Lanka Telecommunications (Amendment) - GS](data/doc/bills/2024-05-02-sri-lanka-telecommunications-ame-e5b549d5)
 
 ### 2024-04
