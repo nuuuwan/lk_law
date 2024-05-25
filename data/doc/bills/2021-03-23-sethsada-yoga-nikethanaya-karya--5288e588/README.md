@@ -2,4 +2,25 @@
 
 Bill published on **2021-03-23**.
 
-
+- **Bill Information**: Presented by Hon. Uddika Premarathne, M.P. for Anuradhapura District on March 23, 2021.
+- **Purpose**: To incorporate Sethsada Yoga Nikethanaye Karya Baraya.
+- **Short Title**: Sethsada Yoga Nikethanaye Karya Baraya (Incorporation) Act, No. 2021.
+- **Incorporation**: The association will be a body corporate known as Sethsada Yoga Nikethanaye Karya Baraya, with perpetual succession.
+- **General Objects**:
+  - Expand branches to provide training for meditation/Yoga.
+  - Provide training for Sri Lanka Police Department.
+  - Provide aid to Tsunami/Flood victims.
+  - Provide vocational training to youth.
+  - Maximize use of young labor for nation development.
+- **Management**: The Corporation will be managed by a Board of Directors including Chairman, Vice Chairman, Secretary, Assistant Secretary, Treasurer, and other members.
+- **Powers**: The Corporation can acquire and hold property, operate bank accounts, raise money, and manage its operations.
+- **Rules**: Members can make rules related to membership, meetings, officers, and property management, amendable via majority vote.
+- **Debts and Liabilities**: Existing debts/liabilities of the Foundation will be transferred to the Corporation.
+- **Fund Management**: Moneys received will be credited to the Corporation's account. Funds will be used to cover expenses.
+- **Property Rights**: The Corporation can acquire property and is responsible for its management and disposal.
+- **Member Liability**: Limited to unpaid membership fees.
+- **Dissolution**: Remaining property after liabilities are settled will be transferred to a similar institution, not distributed among members.
+- **Audit and Accounts**: Annual audit by Chartered Accountants; financial year is the calendar year.
+- **Seal**: Must be affixed in the presence of two authorized persons who will sign as witnesses.
+- **Legal Rights**: This Act does not affect the rights of the Republic or other entities.
+- **Language**: In case of inconsistency, the Sinhala text prevails.

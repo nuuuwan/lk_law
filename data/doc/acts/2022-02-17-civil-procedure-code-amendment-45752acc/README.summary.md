@@ -1,7 +1,3 @@
-# ⚖️  Civil Procedure Code (Amendment)
-
-Act published on **2022-02-17**.
-
 - Certified on 17th February, 2022.
 - Published as a Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka on February 18, 2022.
 - Print and distribution managed by the Department of Government Printing, available for purchase at the Government Publications Bureau, Colombo 5.
