@@ -1,7 +1,3 @@
-# 📄  South Lanka Academy for Tertiary Education and Leadership (Incorporation) - GS
-
-Bill published on **2021-07-19**.
-
 - **Gazette Information**
   - Democratic Socialist Republic of Sri Lanka
   - Part II of July 16, 2021, issued on July 19, 2021

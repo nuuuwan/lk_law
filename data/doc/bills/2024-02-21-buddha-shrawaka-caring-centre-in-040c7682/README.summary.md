@@ -1,7 +1,3 @@
-# 📄  Buddha Shrawaka Caring Centre (Incorporation) - GS
-
-Bill published on **2024-02-21**.
-
 - The Buddha Shrawaka Caring Centre is being incorporated through a Private Members’ Bill.
 - The Bill is presented by Hon. Madhura Withanage, M.P. for Colombo District.
 - The Act names it the "Buddha Shrawaka Caring Centre (Incorporation) Act, No.    of 2024."

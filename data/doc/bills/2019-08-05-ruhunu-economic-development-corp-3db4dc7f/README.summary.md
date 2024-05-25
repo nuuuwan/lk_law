@@ -1,7 +1,3 @@
-# 📄  Ruhunu Economic Development Corporation of Sri Lanka - GS
-
-Bill published on **2019-08-05**.
-
 - Establishment of the Ruhunu Economic Development Corporation of Sri Lanka to facilitate economic growth within the Ruhunu Development Area.
 - The Corporation focuses on identifying, formulating, and coordinating the implementation of economic development projects, plans, programs, or schemes.
 - The corporation aims to foster rapid and sustainable economic development, specifically focusing on trade, exports, technology, tourism, and modern agriculture.

@@ -1,7 +1,3 @@
-# 📄  Inland Trust Receipts - GS
-
-Bill published on **2019-08-09**.
-
 - **Bill Title**: Inland Trust Receipts (Amendment) Bill
 - **Purpose**: To amend the Inland Trust Receipts Act, No. 14 of 1990
 - **Publication**: Ordered to be published by the Minister of Finance
