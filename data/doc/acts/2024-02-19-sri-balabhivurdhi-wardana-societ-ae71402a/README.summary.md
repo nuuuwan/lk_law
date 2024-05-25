@@ -1,7 +1,3 @@
-# ⚖️  Sri Balabhivurdhi Wardana Society (Incorporation)
-
-Act published on **2024-02-19**.
-
 - Act No. 12 of 2024 aims to incorporate the Sri Balabhivurdhi Wardana Society.
 - Certified on February 19, 2024, and published in the Gazette on March 1, 2024.
 - The Society is established for commemorative activities in memory of Arahath Mahinda, aiding relevant authorities in development, and promoting Buddhism.

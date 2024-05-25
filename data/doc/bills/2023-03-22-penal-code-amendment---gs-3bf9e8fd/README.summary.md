@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - GS
-
-Bill published on **2023-03-22**.
-
 - Issued March 17, 2023, as a supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka.
 - The document concerns a Private Members’ Bill to amend the Penal Code (Chapter 19).
 - Presented in Parliament by Hon. Premnath C. Dolawatte, M.P. for Colombo District.

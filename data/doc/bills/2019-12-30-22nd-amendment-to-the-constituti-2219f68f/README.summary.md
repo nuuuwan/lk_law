@@ -1,7 +1,3 @@
-# 📄  22nd Amendment to the Constitution - GS
-
-Bill published on **2019-12-30**.
-
 - Title: Twenty Second Amendment to the Constitution of Sri Lanka
 - Presented by: Hon. (Dr.) Wijeyadasa Rajapakshe, M.P. for Colombo District
 - Amends specific articles in the Constitution:
