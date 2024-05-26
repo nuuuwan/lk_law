@@ -1,7 +1,3 @@
-# ⚖️  Mahapola Higher Education Scholarship Trust Fund (Amendment) 
-
-Act published on **2022-02-14**.
-
 - The Mahapola Higher Education Scholarship Trust Fund (Amendment) Act, No. 1 of 2022 was certified on February 14, 2022.
 - The long title of the principal Act, No. 66 of 1981, has been amended to "Lalith Athulathmudali Mahapola Higher Education Scholarship Trust Fund."
 - General amendments were made to substitute the previous fund name with "Lalith Athulathmudali Mahapola Higher Education Scholarship Trust Fund" in all applicable legal documents.

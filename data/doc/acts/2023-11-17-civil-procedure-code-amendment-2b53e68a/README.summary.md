@@ -1,7 +1,3 @@
-# ⚖️  Civil Procedure Code (Amendment)
-
-Act published on **2023-11-17**.
-
 - Title: Civil Procedure Code (Amendment) Act, No. 29 of 2023.
 - Certified on November 17, 2023.
 - Published as a Supplement to Part II of the Gazette of Sri Lanka.
@@ -43,4 +39,3 @@ Act published on **2023-11-17**.
 
 9. **Time-sensitive Actions**:
    - Strict timelines set for filing and responding to motions related to pre-trial and electronic documentation issues.
-
