@@ -1,7 +1,3 @@
-# 📄  Balangoda Ananda Maitreya Foundation (Incorporation) -Bill
-
-Bill published on **2021-08-03**.
-
 - **Document Overview:**
   - Bill to incorporate the Balangoda Ananda Maitreya Foundation in Sri Lanka.
   - Presented by Hon. Sarathi Dushmantha, M.P. for Kegalle District on August 3, 2021.

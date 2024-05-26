@@ -1,7 +1,3 @@
-# ⚖️  Penal Code (Amendment)
-
-Act published on **2021-01-18**.
-
 Below are the most important points from the Penal Code (Amendment) Act, No. 5 of 2021 in bullet form:
 
 - Title: Penal Code (Amendment) Act, No. 5 of 2021

@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - Bill
-
-Bill published on **2021-09-21**.
-
 - **Title**: Code of Criminal Procedure (Amendment) Bill
 - **Presented By**: Minister of Justice on September 21, 2021
 - **Publication**: Gazette on July 20, 2021
