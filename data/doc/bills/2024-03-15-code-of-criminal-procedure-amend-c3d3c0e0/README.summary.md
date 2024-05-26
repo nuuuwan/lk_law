@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - Bill
-
-Bill published on **2024-03-15**.
-
 - **Introduction**: Bill to amend the Code of Criminal Procedure Act, No. 15 of 1979, presented on March 5, 2024, and published on February 13, 2024.
 - **Clause 2**: Amends section 185 to allow Magistrates to consider time spent in custody prior to conviction as part of the sentence.
 - **Clause 3**: Amends section 203 to allow Judges to consider pre-conviction custody time as part of the sentence.
