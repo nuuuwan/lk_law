@@ -1,7 +1,3 @@
-# 📄  Nation Building Tax (Amendment) - GS
-
-Bill published on **2019-07-31**.
-
 - **Document Details:**
   - Title: The Gazette of the Democratic Socialist Republic of Sri Lanka
   - Publication Date: July 26, 2019 (Issued on 31.07.2019)

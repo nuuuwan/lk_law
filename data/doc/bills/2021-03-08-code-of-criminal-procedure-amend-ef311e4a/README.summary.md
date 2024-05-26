@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment)  - GS
-
-Bill published on **2021-03-08**.
-
 - The document is issued as a Gazette Supplement in the Democratic Socialist Republic of Sri Lanka.
 - Issued on March 08, 2021, related to Part II published on March 05, 2021.
 - Details about a Bill to amend the Code of Criminal Procedure Act, No. 15 of 1979.

@@ -1,7 +1,3 @@
-# 📄  Immigrants & Emigrants (Amendment) - Bill
-
-Bill published on **2019-09-04**.
-
 - Title: Immigrants and Emigrants (Amendment) Bill to amend the Immigrants and Emigrants Act (Chapter 351)
 - Presented by: Minister of Internal & Home Affairs and Provincial Councils & Local Government on September 4, 2019
 - Published: Gazette on June 10, 2019

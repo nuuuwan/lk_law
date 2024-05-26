@@ -1,7 +1,3 @@
-# ⚖️  Appropriation
-
-Act published on **2022-12-08**.
-
 **Appropriation Act, No. 43 of 2022 - Key Points Summary:**
 
 - **Certification and Publication:**

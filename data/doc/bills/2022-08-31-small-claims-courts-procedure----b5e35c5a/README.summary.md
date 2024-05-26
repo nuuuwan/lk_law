@@ -1,7 +1,3 @@
-# 📄  Small Claims Courts' Procedure - Bill
-
-Bill published on **2022-08-31**.
-
 - **Title and Purpose**: The document outlines the Small Claims Courts’ Procedure Act of Sri Lanka, aimed at detailing the procedures to be followed in Small Claims Courts.
 - **Presentation & Publication Details**: Presented by the Minister of Justice on August 31, 2022, and published in the Gazette on August 10, 2022.
 - **Key Sections**:

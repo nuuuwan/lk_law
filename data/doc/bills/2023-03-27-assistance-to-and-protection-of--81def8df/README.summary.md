@@ -1,7 +1,3 @@
-# 📄  Assistance to and Protection of Victims of Crime and Witnesses - GS
-
-Bill published on **2023-03-27**.
-
 - A Bill aimed at:
   - Setting out and protecting the rights and entitlements of victims of crime and witnesses.
   - Promoting international norms and best practices for the assistance and protection of victims and witnesses.
