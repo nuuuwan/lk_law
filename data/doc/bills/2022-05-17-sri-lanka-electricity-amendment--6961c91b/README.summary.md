@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Electricity (Amendment) - Bill
-
-Bill published on **2022-05-17**.
-
 - **Document Title:** Sri Lanka Electricity (Amendment) Bill
 - **Purpose:** To amend the Sri Lanka Electricity Act, No. 20 of 2009
 - **Presented:** By the Minister of Power and Energy on May 17, 2022

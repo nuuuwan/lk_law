@@ -1,7 +1,3 @@
-# ⚖️  Rathanatissa Peace Foundation (Incorporation)
-
-Act published on **2023-05-26**.
-
 - **Title and Certification:**
   - Rathanatissa Peace Foundation (Incorporation) Act, No. 5 of 2023.
   - Certified on 23rd of May, 2023.

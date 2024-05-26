@@ -1,3 +1,19 @@
 # 📄  Sri Lanka Electricity (Amendment) - Bill
 
 Bill published on **2022-05-17**.
+
+- **Document Title:** Sri Lanka Electricity (Amendment) Bill
+- **Purpose:** To amend the Sri Lanka Electricity Act, No. 20 of 2009
+- **Presented:** By the Minister of Power and Energy on May 17, 2022
+- **Published:** In the Gazette on May 04, 2022
+- **Key Amendments:**
+  - **Clause 2:** Amends Section 8 to allow any person to participate in the bidding process for electricity generation.
+  - **Clause 3:** Amends Section 9 to:
+    - Allow any person to apply for a generation license.
+    - Remove the restriction on applying for a license based on a generation capacity above 25 MW.
+  - **Clause 4:** Amends Section 43 to:
+    - Repeal subsection (3) as a consequence of amendments in Section 9.
+    - Expand application of provisions to any existing or to be developed generation plant and rectify an omission.
+- **Additional Note:** In cases of inconsistencies between the Sinhala and Tamil texts, the Sinhala text shall prevail.
+- **Printing and Availability:** Printed at the Department of Government Printing, Sri Lanka, and available for purchase at the Government Publications Bureau, Colombo 5. The bill can also be downloaded from www.documents.gov.lk.
+- **Cost:** Price Rs. 12.00, Postage Rs. 15.00.

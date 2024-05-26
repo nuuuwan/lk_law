@@ -1,7 +1,3 @@
-# 📄  Licensing of Shipping Agents, freight forwarders, Non- Vessel Operating Common Carriers and Container Operators (Amendment) - GS
-
-Bill published on **2022-11-10**.
-
 - The document is a supplement to "The Gazette of the Democratic Socialist Republic of Sri Lanka" issued on November 10, 2022.
 - It details an amendment bill to the Licensing of Shipping Agents, Freight Forwarders, Non-Vessel Operating Common Carriers, and Container Operators Act, No. 22 of 1972.
 - The amendment is ordered to be published by the Minister of Ports, Shipping and Aviation.
