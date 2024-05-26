@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Electricity - Bill
-
-Bill published on **2024-04-25**.
-
 - Implementation of reforms to the electricity industry in Sri Lanka.
 - Establishment of the National Electricity Advisory Council.
 - Public Utilities Commission of Sri Lanka appointed as the regulator for the electricity industry.

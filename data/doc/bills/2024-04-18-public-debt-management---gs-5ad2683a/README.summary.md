@@ -1,7 +1,3 @@
-# 📄  Public Debt Management - GS
-
-Bill published on **2024-04-18**.
-
 - **Enactment and Purpose:**
   - A bill for Public Debt Management, empowering the government to borrow, issue, and service public debt, providing guarantees, on-lending, and entering into financial agreements.
   - Establishment of the Public Debt Management Office (PDMO).

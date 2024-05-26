@@ -1,7 +1,3 @@
-# 📄  International Institute of Theravadha (Incorporation) GS
-
-Bill published on **2023-01-17**.
-
 - **Document Title & Details:**
   - Gazette of the Democratic Socialist Republic of Sri Lanka
   - Part II of January 13, 2023

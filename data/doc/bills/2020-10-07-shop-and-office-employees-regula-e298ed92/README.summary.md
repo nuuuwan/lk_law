@@ -1,7 +1,3 @@
-# 📄  Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - GS
-
-Bill published on **2020-10-07**.
-
 - **Document Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of October 02, 2020, Supplement.
 
 - **Type of Document**: Bill to amend the Shop and Office Employees (Regulation of Employment and Remuneration) Act, Chapter 129.
