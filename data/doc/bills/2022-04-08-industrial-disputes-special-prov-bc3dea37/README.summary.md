@@ -1,7 +1,3 @@
-# 📄  Industrial Disputes (Special Provisions) - Bill
-
-Bill published on **2022-04-08**.
-
 - **Purpose**: To enable Presidents of Labour Tribunals to act as Additional Magistrates to handle suits or prosecutions under certain enactments.
 - **Presented by**: The Prime Minister and various other ministers on April 8, 2022.
 - **Gazette Publication**: March 25, 2022.

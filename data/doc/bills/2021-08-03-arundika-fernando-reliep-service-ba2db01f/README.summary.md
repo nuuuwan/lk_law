@@ -1,7 +1,3 @@
-# 📄  Arundika Fernando Reliep Services and Godfrey Fernando Memorial Foundation (Incorpatasion) -Bill
-
-Bill published on **2021-08-03**.
-
 - A bill to incorporate the Arundika Fernando Relief Services and Godfrey Fernando Memorial Foundation.
 - Presented by Hon. Anura Priyadharshana Yapa, MP for Kurunegala District, on August 3, 2021.
 - Objectives include supporting pre-school education, technical expertise for industry, preserving cultural arts, improving farmers' and fishermen's livelihoods, promoting religious places, and activities aligned with the Foundation's goals.

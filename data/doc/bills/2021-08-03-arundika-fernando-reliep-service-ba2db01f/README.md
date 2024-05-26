@@ -1,3 +1,14 @@
 # 📄  Arundika Fernando Reliep Services and Godfrey Fernando Memorial Foundation (Incorpatasion) -Bill
 
 Bill published on **2021-08-03**.
+
+- A bill to incorporate the Arundika Fernando Relief Services and Godfrey Fernando Memorial Foundation.
+- Presented by Hon. Anura Priyadharshana Yapa, MP for Kurunegala District, on August 3, 2021.
+- Objectives include supporting pre-school education, technical expertise for industry, preserving cultural arts, improving farmers' and fishermen's livelihoods, promoting religious places, and activities aligned with the Foundation's goals.
+- The Corporation will have a Board of Directors led by the founder member Mr. Arundika Fernando for life, with succession rules for filling vacancies.
+- The Corporation has the authority to acquire and hold property, manage assets, employ staff, and perform acts necessary for its objectives.
+- Rules for membership, meetings, officer duties, and property management can be established and amended by members.
+- All debts and assets of the existing Foundation will be transferred to the new Corporation.
+- Financial management includes maintaining a fund, audited accounts, and fiscal discipline.
+- Property on dissolution to be transferred to similar organizations, not members.
+- Legal and procedural provisions including the use of a common seal, limitation of member liabilities, and language preference (Sinhala) in case of inconsistencies.
