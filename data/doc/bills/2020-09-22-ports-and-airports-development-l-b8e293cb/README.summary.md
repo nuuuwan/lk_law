@@ -1,7 +1,3 @@
-# 📄  Ports and Airports Development Levy (Amendment) - Bill
-
-Bill published on **2020-09-22**.
-
 - **Bill Introduction**: The Ports and Airports Development Levy (Amendment) Bill aims to amend the Ports and Airports Development Levy Act, No. 18 of 2011.
 - **Presentation Date**: Presented on 22nd September 2020 by the Prime Minister and other ministers.
 - **Publication**: Published in the official Gazette on 4th September 2020.

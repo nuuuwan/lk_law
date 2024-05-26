@@ -1,7 +1,3 @@
-# 📄  Powers of Attorney (Amendment) - GS
-
-Bill published on **2022-07-18**.
-
 - **Document Title**: THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA - Part II of July 15, 2022, SUPPLEMENT (Issued on 18.07.2022).
 - **Subject**: Amendment of the Powers of Attorney Ordinance (Chapter 122).
 - **Publication Order**: Ordered by the Minister of Justice, Prison Affairs, and Constitutional Reforms.
@@ -45,4 +41,3 @@ Bill published on **2022-07-18**.
 
 ### Final Notes:
 - The Sinhala text prevails in case of inconsistencies between Sinhala and Tamil texts.
-

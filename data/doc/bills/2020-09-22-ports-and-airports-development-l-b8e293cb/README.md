@@ -1,3 +1,16 @@
 # 📄  Ports and Airports Development Levy (Amendment) - Bill
 
 Bill published on **2020-09-22**.
+
+- **Bill Introduction**: The Ports and Airports Development Levy (Amendment) Bill aims to amend the Ports and Airports Development Levy Act, No. 18 of 2011.
+- **Presentation Date**: Presented on 22nd September 2020 by the Prime Minister and other ministers.
+- **Publication**: Published in the official Gazette on 4th September 2020.
+- **Clause 2 Amendment**: Amends section 3 of the original Act to increase the levy on the cost, insurance, and freight value of certain articles.
+- **Levy Rates**:
+  - 5.0% from January 1, 2011 to December 31, 2015
+  - 7.5% from January 1, 2016 to December 5, 2019
+  - 10% from December 6, 2019 onwards
+- **Director-General of Customs**: Authorized to charge or collect the levy during the period from December 6, 2019, until the Act's certification by the Speaker.
+- **Validation**: Actions by the Director-General during this period are deemed valid and indemnified against legal action.
+- **Language Consistency**: In case of inconsistency between Sinhala and Tamil texts of the Act, the Sinhala text prevails.
+- **Availability**: Bill available for download from the official government documents website.

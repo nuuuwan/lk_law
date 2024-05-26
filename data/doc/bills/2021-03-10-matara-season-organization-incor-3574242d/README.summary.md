@@ -1,7 +1,3 @@
-# 📄  "Matara Season" Organization (Incorporation) - Bill
-
-Bill published on **2021-03-10**.
-
 - Introduction:
   - Bill to incorporate the “Matara Season” Organization.
   - Presented by Hon. Buddhika Pathirana, M.P. for Matara District on March 10, 2021.

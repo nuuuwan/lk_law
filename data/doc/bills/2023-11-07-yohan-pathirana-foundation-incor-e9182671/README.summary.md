@@ -1,7 +1,3 @@
-# 📄  Yohan Pathirana Foundation (Incorporation) - GS
-
-Bill published on **2023-11-07**.
-
 - The Yohan Pathirana Foundation is scheduled to be incorporated as a body corporate.
 - The Bill for incorporation is presented by Hon. Udayana Kirindigoda, M.P. for Mahanuwara District.
 - The foundation aims to:

@@ -1,7 +1,3 @@
-# 📄  Mediation Board (Amendment) - GS
-
-Bill published on **2022-12-23**.
-
 - **Purpose**: Amendment to the Mediation Board Act, No. 72 of 1988.
 - **Issued Date**: December 23, 2022.
 - **Authorized by**: Minister of Justice, Prison Affairs, and Constitutional Reforms.

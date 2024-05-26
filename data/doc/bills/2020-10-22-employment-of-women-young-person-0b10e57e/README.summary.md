@@ -1,7 +1,3 @@
-# 📄  Employment of Women, Young Persons and Children (Amendment) - Bill
-
-Bill published on **2020-10-22**.
-
 - **Document Title**: Employment of Women, Young Persons, and Children (Amendment) Bill
 - **Presented**: Minister of Labour on October 22, 2020
 - **Publication**: Gazette on October 07, 2020, ordered by Parliament to be printed
