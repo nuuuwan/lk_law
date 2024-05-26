@@ -1,3 +1,21 @@
 # 📄  Banking (Amendment) - GS
 
 Bill published on **2024-02-06**.
+
+- The document is a bill to amend the Banking Act, No. 30 of 1988 in Sri Lanka.
+- Updates are proposed to various sections of the principal enactment to modernize and adapt the regulatory framework.
+- Clauses address numerous aspects including licensing requirements, financial statements, and operational regulations for banks.
+- Key amendments include:
+  - Exclusion of shell banks from the definition of "company."
+  - Introduction of minimum licensing requirements and an application fee.
+  - Transfer of certain functions from the Monetary Board to the Central Bank.
+  - Elimination of the demarcation between domestic and offshore banking.
+  - Provisions for license cancellations under specific conditions.
+  - Involvement of the Central Bank in the approval and oversight of bank operations, including mergers, acquisitions, and relocations.
+  - Requirements for licensed banks to divest from non-financial subsidiaries and maintain appropriate capital levels.
+  - Specification of criteria for directors and the process for declaring dividends.
+- Clauses 17 and 29 explicitly reference the applicability of provisions from the Banking (Special Provisions) Act, No.17 of 2023.
+- Introduction of provisions for administrative fines for non-compliance and Central Bank's power delegation.
+- Savings provisions to ensure continuity of liabilities and creditor settlements post-amendment.
+- Several sections are repealed and replaced to integrate changes and ensure consistency with new regulatory norms.
+- Document emphasizes extensive oversight and regulatory improvement by the Central Bank for stability and compliance within the financial sector.

@@ -1,7 +1,3 @@
-# 📄  Banking (Amendment) - GS
-
-Bill published on **2024-02-06**.
-
 - The document is a bill to amend the Banking Act, No. 30 of 1988 in Sri Lanka.
 - Updates are proposed to various sections of the principal enactment to modernize and adapt the regulatory framework.
 - Clauses address numerous aspects including licensing requirements, financial statements, and operational regulations for banks.
