@@ -1,7 +1,3 @@
-# ⚖️  Wills (Amendment)
-
-Act published on **2022-10-25**.
-
 - Title: Wills (Amendment) Act, No. 29 of 2022
 - Certified on: October 25, 2022
 - Published: as a Supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka on October 28, 2022

@@ -2,4 +2,14 @@
 
 Act published on **2022-10-25**.
 
-
+- Title: Wills (Amendment) Act, No. 29 of 2022
+- Certified on: October 25, 2022
+- Published: as a Supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka on October 28, 2022
+- Available for download at: www.documents.gov.lk
+- Key provisions:
+  - The amendment replaces Section 2 of the Wills Ordinance (Chapter 60), allowing persons aged eighteen and over, residing within or outside Sri Lanka, to execute a will for movable and immovable property.
+  - Individuals can exclude any heirs or relatives from their will without providing a reason.
+  - Section 3 and Section 4 of the principal enactment are repealed.
+  - Amends Section 7 to outline how testamentary proceedings should be instituted upon the demise of a testator in a joint last will.
+  - Updates Section 9 to include "condominium parcel or any land parcel" in the properties that can be bequeathed.
+- In case of inconsistency between Sinhala and Tamil texts, Sinhala will prevail.

@@ -1,7 +1,3 @@
-# 📄  Appropriation - Bill
-
-Bill published on **2023-10-05**.
-
 - **Purpose of the Bill**: 
   - Provide services for the financial year 2024.
   - Authorize raising loans inside and outside Sri Lanka for these services.
