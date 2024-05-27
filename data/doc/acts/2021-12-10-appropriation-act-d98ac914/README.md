@@ -1,3 +1,39 @@
 # ⚖️  Appropriation Act
 
 Act published on **2021-12-10**.
+
+- **Document Title**: Appropriation Act, No. 30 of 2021
+- **Main Purpose**: 
+  - To provide for the financial services for the year 2022.
+  - Authorizes raising loans within and outside Sri Lanka.
+  - Provides financial provisions for specific government activities.
+  - Enables advance payments from the Consolidated Fund or other government funds.
+  - Provides for the refund of advanced money and associated matters.
+- **Key Provisions**: 
+  - **Short Title**: The Act may be cited as the Appropriation Act, No. 30 of 2021.
+  - **Financial Year Expenditure**:
+    - Government expenditure estimated at LKR 2,796,446,558,000 for 2022.
+    - Funding sources: Consolidated Fund, other funds, and loans.
+    - Borrowing cap set at LKR 3,200 billion.
+  - **Receipts and Surplus Handling**:
+    - Government receipts for specified activities must meet minimum limits.
+    - Net surplus must be paid to the Consolidated Fund within six months post financial year.
+  - **Advance Payments**:
+    - Insufficient activity receipts may lead to advances from government funds.
+    - Advanced sums must be refunded as directed by the Minister.
+  - **Transfer of Funds**:
+    - Unspent moneys for recurrent expenditure can be reallocated within specified limits.
+    - Money allocated for development can be transferred between programs as per guidelines.
+  - **Expenditure Limitation**:
+    - The Minister may limit previously authorized expenditures based on actual receipts and necessity.
+  - **Modification Authority**:
+    - The Minister can vary financial limits in the Third Schedule with government and parliamentary approval.
+  - **Parliamentary Amendments**:
+    - Parliament can amend the Third Schedule by resolution for additional activities and limits.
+  - **Text Precedence**:
+    - The Sinhala text prevails in case of inconsistency between texts.
+- **Schedules**:
+  - **First Schedule**: Specifies estimated sums payable for general services, broken down by government departments and activities.
+  - **Financial Summary**:
+    - Major heads of expenditure include the President's Office, Prime Minister's Office, Cabinet, Ministry of Defence, etc.
+    - Allocations cover both recurrent and capital expenditures.

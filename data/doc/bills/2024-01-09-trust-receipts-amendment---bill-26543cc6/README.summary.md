@@ -1,7 +1,3 @@
-# 📄  Trust Receipts (Amendment) - Bill
-
-Bill published on **2024-01-09**.
-
 - **Bill Details**:
   - Title: Trust Receipts (Amendment) Bill.
   - Amend the Trust Receipts Ordinance (Chapter 86).

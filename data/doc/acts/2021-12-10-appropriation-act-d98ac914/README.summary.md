@@ -1,7 +1,3 @@
-# ⚖️  Appropriation Act
-
-Act published on **2021-12-10**.
-
 - **Document Title**: Appropriation Act, No. 30 of 2021
 - **Main Purpose**: 
   - To provide for the financial services for the year 2022.

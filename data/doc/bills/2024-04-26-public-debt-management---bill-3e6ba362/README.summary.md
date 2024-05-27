@@ -1,7 +1,3 @@
-# 📄  Public Debt Management - Bill
-
-Bill published on **2024-04-26**.
-
 - Bill for Public Debt Management in Sri Lanka presented by the Minister of Finance on April 26, 2024.
 - Establishes the Public Debt Management Office within the Ministry of Finance.
 - Covers authorization to borrow, issue debt, service public debt, and manage guarantees.

@@ -1,7 +1,3 @@
-# 📄  Parliamentary Budget Office - GS
-
-Bill published on **2023-05-02**.
-
 - Establishment of the **Parliamentary Budget Office (PBO)** in Sri Lanka to assist Parliament with public finance responsibilities.
 - The PBO will provide **independent, non-partisan budget analyses** and costings.
 - The PBO aims to help Parliament make responsible financial decisions and **ensure fiscal transparency and efficiency**.
