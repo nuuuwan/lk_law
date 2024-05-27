@@ -1,7 +1,3 @@
-# ⚖️  Value Added Tax (Amendment)
-
-Act published on **2021-05-13**.
-
 - Act No. 9 of 2021 amends the Value Added Tax Act No. 14 of 2002.
 - Certified and published on May 13, 2021.
 - Amendments to Section 2 include changes for taxable periods from December 1, 2019.
