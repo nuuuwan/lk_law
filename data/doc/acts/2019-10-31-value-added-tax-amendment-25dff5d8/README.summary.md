@@ -1,7 +1,3 @@
-# ⚖️  Value Added Tax (Amendment) 
-
-Act published on **2019-10-31**.
-
 - Title: Value Added Tax (Amendment) Act, No. 19 of 2019
 - Certified on: October 31, 2019
 - Published as a Supplement to Part II of the Gazette of Sri Lanka: November 01, 2019
@@ -35,4 +31,3 @@ Act published on **2019-10-31**.
 
 ### Additional Information:
 - English Acts of Parliament available at the Government Printing Department, Colombo.
-

@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - Bill
-
-Bill published on **2020-12-02**.
-
 - Amendment to the Civil Procedure Code (Section 627) proposed.
 - Presented by Hon. Premitha Bandara Tennakoon, M.P. for Matale District on December 2, 2020.
 - Published in the Gazette on September 25, 2020.
