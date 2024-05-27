@@ -1,7 +1,3 @@
-# ⚖️  Securities and Exchange Commission of Sri Lanka
-
-Act published on **2021-09-21**.
-
 - The Act is the Securities and Exchange Commission of Sri Lanka Act, No. 19 of 2021.
 - Enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka.
 - Certified on September 21, 2021, and published as a Supplement to the Gazette on September 24, 2021.
