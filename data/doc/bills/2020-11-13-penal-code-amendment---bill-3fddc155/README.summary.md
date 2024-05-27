@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - Bill
-
-Bill published on **2020-11-13**.
-
 - The bill proposes amendments to the Penal Code (Chapter 19) of Sri Lanka.
 - Presented by the Minister of Justice on 13th November 2020.
 - Intended to replace outdated words and expressions with contemporary equivalents.

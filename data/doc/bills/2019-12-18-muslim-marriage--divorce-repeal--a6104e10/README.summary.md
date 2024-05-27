@@ -1,7 +1,3 @@
-# 📄  Muslim Marriage & Divorce (Repeal) - GS
-
-Bill published on **2019-12-18**.
-
 - Title: Repeal of the Muslim Marriage and Divorce Act, No. 13 of 1951.
 - Document: Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka, Supplement issued on December 18, 2019.
 - Presented in Parliament by Hon. (Ven.) Athuraliye Rathana Thero, M.P.
