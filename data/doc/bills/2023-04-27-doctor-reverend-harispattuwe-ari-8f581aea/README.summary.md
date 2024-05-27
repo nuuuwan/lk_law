@@ -1,7 +1,3 @@
-# 📄  Doctor Reverend Harispattuwe Ariyawangshalankara Thero Foundation (Incorporation) - Bill
-
-Bill published on **2023-04-27**.
-
 - A bill to incorporate the Doctor Reverend Harispattuwe Ariyawangshalankara Thero Foundation in Sri Lanka.
 - Presented by Hon. Premnath C. Dolawatte, Attorney at Law, M.P. for Colombo District on 27th April, 2023.
 - The Foundation aims to operate as a not-for-profit voluntary social service organization.

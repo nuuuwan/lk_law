@@ -1,7 +1,3 @@
-# 📄  Siw Wanak Arana Foundation (Incorporation) - GS
-
-Bill published on **2024-03-15**.
-
 - The document is a bill to incorporate the Siw Wanak Arana Foundation in Sri Lanka.
 - The bill is presented in Parliament by Hon. (Prof.) Charitha Hearath, M.P.
 - The foundation has been successfully operating and seeks incorporation for public benefit.

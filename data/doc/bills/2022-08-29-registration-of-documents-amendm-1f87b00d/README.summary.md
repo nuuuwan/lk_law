@@ -1,7 +1,3 @@
-# 📄  Registration of Documents (Amendment) - Bill
-
-Bill published on **2022-08-29**.
-
 - **Bill Introduction**
   - Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on 29th August 2022.
   - Published in the Gazette on 18th July 2022 and ordered by Parliament to be printed.
