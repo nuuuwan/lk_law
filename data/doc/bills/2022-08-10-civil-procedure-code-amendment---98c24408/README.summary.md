@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - GS
-
-Bill published on **2022-08-10**.
-
 - **Publication Details**: Issued on August 10, 2022, part of the Gazette of the Democratic Socialist Republic of Sri Lanka, price Rs. 6.00, postage Rs. 15.00, and downloadable from www.documents.gov.lk.
 
 - **Purpose**: A bill to amend the Civil Procedure Code (Chapter 101).
