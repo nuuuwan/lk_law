@@ -1,7 +1,3 @@
-# 📄  Rajitha Senarathne Foundation (Incorporation) - GS
-
-Bill published on **2023-11-13**.
-
 - The Rajitha Senarathne Foundation is being incorporated through a Private Members’ Bill presented by Hon. (Ven.) Athuraliye Rathana Thero, M.P.
 - The official bill title is the Rajitha Senarathne Foundation (Incorporation) Act, No. of 2023.
 - The foundation was previously established to handle various objectives and is now being formally incorporated for public advantage.
@@ -23,4 +19,3 @@ Bill published on **2023-11-13**.
 - The Corporation’s seal use requires signatures from the President, Secretary, or Treasurer.
 - The rights of the Republic or other bodies are protected and not affected by this act.
 - In case of textual inconsistencies, the Sinhala text will prevail.
-

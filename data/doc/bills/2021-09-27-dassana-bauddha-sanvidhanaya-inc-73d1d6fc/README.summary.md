@@ -1,7 +1,3 @@
-# 📄  Dassana Bauddha Sanvidhanaya (Incorporation) - GS
-
-Bill published on **2021-09-27**.
-
 - **Title and Presentation**:
   - The document is titled "The Gazette of the Democratic Socialist Republic of Sri Lanka" from September 24, 2021.
   - It includes a Private Members’ Bill for the incorporation of the Dassana Bauddha Sanvidhanaya.

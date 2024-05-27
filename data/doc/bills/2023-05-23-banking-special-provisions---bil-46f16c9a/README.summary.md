@@ -1,7 +1,3 @@
-# 📄  Banking (Special Provisions) - Bill
-
-Bill published on **2023-05-23**.
-
 - Establishes the Resolution Authority of the Central Bank of Sri Lanka to resolve licensed banks facing capital, liquidity, insolvency, or risk issues.
 - Aims to revive troubled banks to ensure the interests of depositors and creditors and maintain financial system stability.
 - Introduces a deposit insurance scheme and a winding-up process for licensed banks.

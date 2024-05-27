@@ -1,7 +1,3 @@
-# 📄  Minimum Age of Marriage - GS
-
-Bill published on **2020-09-25**.
-
 - **Document Type**: Private Member’s Bill presented in the Gazette of the Democratic Socialist Republic of Sri Lanka.
 - **Date**: Issued on September 25, 2020.
 - **Purpose**: Introduce the Minimum Age of Marriage in Sri Lanka.

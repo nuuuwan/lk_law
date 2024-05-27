@@ -1,7 +1,3 @@
-# 📄  Motor Traffic (Amendment) - GS
-
-Bill published on **2019-04-01**.
-
 - The Gazette of the Democratic Socialist Republic of Sri Lanka issued a Motor Traffic Act amendment on April 1, 2019.
 - It's a bill ordered by the Minister of Transport and Civil Aviation to amend Chapter 203 (Motor Traffic Act).
 - Key amendments:

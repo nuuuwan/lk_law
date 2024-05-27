@@ -1,7 +1,3 @@
-# 📄  Revocation of Irrevocable Deeds of Gift on the Ground of Gross Ingratitude (Amendment) -GS
-
-Bill published on **2022-04-29**.
-
 - **Amendment of 2017 Act:** Bill to amend the Revocation of Irrevocable Deeds of Gift on the ground of Gross Ingratitude Act, No. 5 of 2017.
 - **Clause Amendments:**
   - **Clause 2:** Revocation of deed only possible by a competent court's order.

@@ -1,7 +1,3 @@
-# 📄  Prevention of Terrorism (Temporary Provisions) (Amendment) - Bill
-
-Bill published on **2022-02-10**.
-
 - Amendment to the Prevention of Terrorism (Temporary Provisions) Act, No. 48 of 1979
 - Presented by the Foreign Minister on February 10, 2022
 - Published in the Gazette on January 27, 2022

@@ -1,7 +1,3 @@
-# ⚖️  Sri Shakyasinharama Viharastha Karyasadhaka Sanvidanaya (Incorporation)
-
-Act published on **2022-05-18**.
-
 - **Act Certification & Availability:**
   - Certified on May 18, 2022.
   - Available for download from www.documents.gov.lk.

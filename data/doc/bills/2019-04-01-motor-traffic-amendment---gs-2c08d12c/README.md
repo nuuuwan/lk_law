@@ -1,3 +1,17 @@
 # 📄  Motor Traffic (Amendment) - GS
 
 Bill published on **2019-04-01**.
+
+- The Gazette of the Democratic Socialist Republic of Sri Lanka issued a Motor Traffic Act amendment on April 1, 2019.
+- It's a bill ordered by the Minister of Transport and Civil Aviation to amend Chapter 203 (Motor Traffic Act).
+- Key amendments:
+  - **Clause 2:** Updates section 123 to enforce lawful driving age and increases fines for driving without a license.
+  - **Clause 3:** Adds section 141A for penalties for excessive speeding.
+  - **Clause 4:** Adds section 148A for penalties regarding railway crossing violations.
+  - **Clause 5:** Adds section 152A to prohibit and penalize the use of mobile phones while driving.
+  - **Clause 6-8:** Amends sections 196, 216, 216A, 216B to increase fines related to driving under the influence and penalties for causing injuries or death.
+  - **Clause 10:** Amends section 217 to increase fines for reckless or dangerous driving.
+  - **Clause 11:** Replaces section 218, detailing penalties for driving without insurance.
+  - **Clause 12:** Amends section 224 to update general penalty terms.
+  - **Clause 13:** Amends the Second Schedule to allow on-the-spot fines for new sections 141A and 152A.
+- The document specifies that the Sinhala text prevails in case of any inconsistencies.

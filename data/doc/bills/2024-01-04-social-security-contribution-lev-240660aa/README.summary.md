@@ -1,7 +1,3 @@
-# 📄  Social Security Contribution Levy (Amendment) - GS
-
-Bill published on **2024-01-04**.
-
 - **Title & Issue Date**: Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, December 29, 2023 (Supplement issued on 04.01.2024).
 
 - **Subject**: Amendment Bill to the Social Security Contribution Levy Act, No. 25 of 2022.
