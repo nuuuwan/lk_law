@@ -1,7 +1,3 @@
-# ⚖️  Mortgage (Amendment)
-
-Act published on **2024-04-01**.
-
 - **Act Name and Number**: Mortgage (Amendment) Act, No. 20 of 2024.
 - **Certification Date**: April 1, 2024.
 - **Publication**: Supplement to Part II of the Gazette of Sri Lanka, April 5, 2024.

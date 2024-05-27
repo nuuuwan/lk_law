@@ -1,7 +1,3 @@
-# 📄  Public Health Emergency - (Bill)
-
-Bill published on **2021-04-23**.
-
 - Declaration and management of a State of Public Health Emergency in Sri Lanka.
 - Adoption of measures to combat pandemics like COVID-19.
 - The Act may be cited as the Public Health Emergency Act, No. 47 of 2021.
