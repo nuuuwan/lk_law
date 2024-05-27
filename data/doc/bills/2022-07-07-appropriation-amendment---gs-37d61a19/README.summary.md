@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - GS
-
-Bill published on **2022-07-07**.
-
 - Issued as a supplement to the Gazette of the Democratic Socialist Republic of Sri Lanka on July 01, 2022.
 - The bill is aimed at amending the Appropriation Act, No. 30 of 2021.
 - Ordered by the Prime Minister and Minister of Finance, Economic Stabilization, and National Policies.
