@@ -1,7 +1,3 @@
-# ⚖️  Appropriation
-
-Act published on **2020-12-10**.
-
 - **Certification and Publication Details:**
   - Certified on 10th of December, 2020.
   - Published in the Gazette of Sri Lanka on December 11, 2020.

@@ -1,7 +1,3 @@
-# 📄  Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa (Incorporation) - Bill
-
-Bill published on **2021-04-06**.
-
 - Bill presented by Hon. Ashoka Priyantha for the incorporation of Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa.
 - Published in the Gazette on March 19, 2021, and presented to Parliament on April 6, 2021.
 - To be printed and distributed by the Department of Government Printing, Sri Lanka.

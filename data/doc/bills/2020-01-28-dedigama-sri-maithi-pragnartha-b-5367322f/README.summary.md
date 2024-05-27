@@ -1,7 +1,3 @@
-# 📄  Dedigama Sri Maithi Pragnartha Bouddha Educational Dham Sabawa (Incorporation)   - GS
-
-Bill published on **2020-01-28**.
-
 - Incorporation of Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa into a body corporate.
 - Introduction of a Bill by Hon. Ashoka Priyantha, M.P. for Puttalam District.
 - Purpose: To enhance Buddhist teachings and practices.
