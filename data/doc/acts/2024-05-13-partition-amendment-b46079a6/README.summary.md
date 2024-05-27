@@ -1,7 +1,3 @@
-# ⚖️  Partition (Amendment)
-
-Act published on **2024-05-13**.
-
 - Act No. 27 of 2024 amends the Partition Law, No. 21 of 1977.
 - Certified on May 13, 2024, and published in the Gazette supplement on May 17, 2024.
 - Available for download at www.documents.gov.lk.

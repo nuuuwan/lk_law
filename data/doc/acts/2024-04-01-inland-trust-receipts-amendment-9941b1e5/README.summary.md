@@ -1,7 +1,3 @@
-# ⚖️  Inland Trust Receipts (Amendment)
-
-Act published on **2024-04-01**.
-
 - Title: INLAND TRUST RECEIPTS (AMENDMENT) ACT, No. 22 OF 2024
 - Certified on: April 1, 2024
 - Published in the Gazette of Sri Lanka on April 5, 2024

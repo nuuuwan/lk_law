@@ -1,7 +1,3 @@
-# ⚖️  Civil Aviation (Amendment)
-
-Act published on **2023-10-17**.
-
 - The document details the "Civil Aviation (Amendment) Act, No. 24 of 2023" of the Parliament of the Democratic Socialist Republic of Sri Lanka.
 - Certified on October 17, 2023, and published as a supplement to the Gazette of Sri Lanka on October 20, 2023.
 - The Act amends the Civil Aviation Act, No. 14 of 2010.

@@ -1,7 +1,3 @@
-# 📄  Judicature (Amendment) - Bill
-
-Bill published on **2022-08-31**.
-
 - **Introduction:**
   - Amends the Judicature Act, No. 2 of 1978.
   - Presented by the Minister of Justice on August 31, 2022.

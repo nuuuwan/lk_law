@@ -1,3 +1,50 @@
 # 📄  Judicature (Amendment) - Bill
 
 Bill published on **2022-08-31**.
+
+- **Introduction:**
+  - Amends the Judicature Act, No. 2 of 1978.
+  - Presented by the Minister of Justice on August 31, 2022.
+  - Bill No. 144 can be downloaded from the official government site.
+- **Key Clauses and Amendments:**
+  - **Clause 2:**
+    - Revises section 2 to include Provincial High Courts and Small Claims Courts as Courts of First Instance.
+  - **Clause 3:**
+    - Replaces section 5 to establish District, Family, Small Claims, Magistrate’s, and Primary Courts in each judicial district.
+  - **Clause 4:**
+    - Replaces section 5B to allow the appointment of a Pre-Trial Judge for civil jurisdiction.
+  - **Clause 5:**
+    - Amends section 6, empowering the Judicial Service Commission to appoint judges for various courts.
+  - **Clause 6:**
+    - Amends section 8 to enable the appointment of additional judges for Family and Primary Courts.
+  - **Clause 7:**
+    - Replaces section 19, detailing the jurisdiction of the District Court, excluding matrimonial and minor’s estates jurisdiction.
+  - **Clause 8:**
+    - Replaces section 19A, omitting prior civil jurisdiction provisions of the District Courts.
+  - **Clause 9:**
+    - Replaces Chapter V, focusing on Family Courts’ jurisdiction and responsibilities.
+  - **Clause 10:**
+    - Adds Chapter VA, introducing Small Claims Courts and outlining their jurisdiction and procedures.
+  - **Clause 11:**
+    - Adds Chapter VII, introducing Primary Courts with limited civil and criminal jurisdiction.
+  - **Clause 12:**
+    - Amends section 37, establishing the right to appeal to the Supreme Court from lower courts’ judgments.
+  - **Clause 13:**
+    - Amends section 45, detailing oaths of office for various judges.
+  - **Clause 14:**
+    - Amends section 49, addressing scenarios where judges are personally interested in cases.
+  - **Clause 15:**
+    - Amends section 52, incorporating Family and Primary Courts into existing provisions.
+  - **Clause 16:**
+    - Amends section 54, including Family Courts in targeted sections.
+  - **Clause 17:**
+    - Replaces section 55, covering contempt proceedings for various courts.
+  - **Clause 18:**
+    - Adds section 57, providing for cases where a Primary Court Judge is not appointed.
+  - **Clause 19:**
+    - Adds Third and Fourth Schedules, relating to Family and Primary Courts jurisdiction.
+  - **Clause 20:**
+    - Adds a Seventh Schedule, listing actions referred to in the amended principal enactment.
+- **General Provisions:**
+  - Act to be cited as Judicature (Amendment) Act, No. of 2022.
+  - Provisions come into effect on dates appointed by the Minister.
