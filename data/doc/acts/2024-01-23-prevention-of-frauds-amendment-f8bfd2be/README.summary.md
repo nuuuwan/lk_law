@@ -1,7 +1,3 @@
-# ⚖️  Prevention of Frauds (Amendment)
-
-Act published on **2024-01-23**.
-
 - Title: Prevention of Frauds (Amendment) Act, No. 4 of 2024, certified on January 23, 2024.
 - Published in the Gazette of Sri Lanka on January 26, 2024.
 - Amendment to the Prevention of Frauds Ordinance (Chapter 70).
