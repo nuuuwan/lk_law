@@ -1,7 +1,3 @@
-# ⚖️  Companies (Amendment)
-
-Act published on **2024-04-01**.
-
 - Title: Companies (Amendment) Act, No. 23 of 2024
 - Certification Date: Certified on April 1, 2024
 - Legislative Body: Parliament of the Democratic Socialist Republic of Sri Lanka

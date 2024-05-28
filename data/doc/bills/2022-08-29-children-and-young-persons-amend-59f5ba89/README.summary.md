@@ -1,7 +1,3 @@
-# 📄  Children and Young Persons (Amendment) - Bill
-
-Bill published on **2022-08-29**.
-
 - **Bill Details**:
   - Title: "Children and Young Persons (Amendment)"
   - Presented by the Minister of Justice, Prison Affairs and Constitutional Reforms on August 29, 2022.
