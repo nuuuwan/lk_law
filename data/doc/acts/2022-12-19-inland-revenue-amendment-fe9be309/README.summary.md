@@ -1,7 +1,3 @@
-# ⚖️  Inland Revenue (Amendment)
-
-Act published on **2022-12-19**.
-
 - Inland Revenue (Amendment) Act, No. 45 of 2022 certified on December 19, 2022.
 - Highlights amendments to the Inland Revenue Act, No. 24 of 2017.
 - Act provisions have different effective dates as specified: April 1, 2022 (Table A), October 1, 2022 (Table B), and specific dates in Table C.

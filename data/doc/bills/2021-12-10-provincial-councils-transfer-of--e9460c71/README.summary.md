@@ -1,7 +1,3 @@
-# 📄  Provincial Councils (Transfer of Stamp Duty) (Amendment) - Bill
-
-Bill published on **2021-12-10**.
-
 - **Title of the Bill**: Provincial Councils (Transfer of Stamp Duty) (Amendment) Bill
 - **Purpose**: To amend the Provincial Councils (Transfer of Stamp Duty) Act, No. 13 of 2011
 - **Presented by**: The Minister of Finance on December 10, 2021

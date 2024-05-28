@@ -1,7 +1,3 @@
-# 📄  Al Falah Foundation (Incorporation) - GS
-
-Bill published on **2024-04-04**.
-
 - **Bill Overview**:
   - Title: Al Falah Foundation (Incorporation) Bill
   - To be presented in Parliament by Hon. A. H. M. Fowzie, M.P. for Colombo District

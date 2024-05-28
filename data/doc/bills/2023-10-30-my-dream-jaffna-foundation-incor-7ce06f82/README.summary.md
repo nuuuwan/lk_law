@@ -1,7 +1,3 @@
-# 📄  My Dream Jaffna Foundation (Incorporation) - GS
-
-Bill published on **2023-10-30**.
-
 - The Gazette of the Democratic Socialist Republic of Sri Lanka is issuing a supplement related to a private members' bill.
 - The bill seeks to incorporate the "My Dream Jaffna Foundation," presented by Hon. Sarathi Dushmantha, M.P. for Kegalle District.
 - The foundation is recognized as a Voluntary Social Service Organization under the Voluntary Social Services Organizations (Registration and Supervision) Act, No. 31 of 1980.

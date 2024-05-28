@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - GS
-
-Bill published on **2023-08-31**.
-
 - **Purpose**: Amendments to the Value Added Tax (VAT) Act, No. 14 of 2002.
   
 - **Key Clauses**:
