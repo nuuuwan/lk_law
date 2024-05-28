@@ -1,7 +1,3 @@
-# 📄  Association of Professional Bankers - Sri Lanka (Incorporation) - GS
-
-Bill published on **2022-12-26**.
-
 - The document is a bill to incorporate the Association of Professional Bankers-Sri Lanka, presented by Hon. (Prof.) Charitha Herath, M.P.
 - The bill was issued on December 26, 2022, and aims to provide legal status to the Association of Professional Bankers-Sri Lanka.
 - The act will enable the association to function as a body corporate with perpetual succession.

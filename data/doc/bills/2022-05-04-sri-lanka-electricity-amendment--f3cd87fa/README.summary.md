@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Electricity (Amendment) - GS
-
-Bill published on **2022-05-04**.
-
 - Document titled "Gazette of the Democratic Socialist Republic of Sri Lanka".
 - Issued on May 4, 2022, as a supplement to the Gazette Part II of April 29, 2022.
 - Concerns a bill to amend the Sri Lanka Electricity Act, No. 20 of 2009.

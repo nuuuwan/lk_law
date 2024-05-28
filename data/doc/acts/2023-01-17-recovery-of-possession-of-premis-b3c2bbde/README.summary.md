@@ -1,7 +1,3 @@
-# ⚖️  Recovery of Possession of Premises Given on Lease
-
-Act published on **2023-01-17**.
-
 - **Act Enacted**: Recovery of Possession of Premises Given on Lease Act, No. 1 of 2023, certified on January 17, 2023.
 - **Purpose**: To regulate the recovery process of leased premises, arrears of lease rentals, service charges, and liquidated damages.
 - **Action by Lessor**: Lessors can institute legal actions to recover premises in court where premises are located, lessee resides, the cause of action arose, or where the lease agreement was executed.
@@ -16,4 +12,3 @@ Act published on **2023-01-17**.
 - **Compensation**: Court may award compensation to defendants if decree is obtained through suppression or non-disclosure of material facts.
 - **Settlement**: Defendants can agree to terms for surrendering possession or settling dues, resulting in an absolute decree that stays execution proceedings unless breached.
 - **No Bar for Subsequent Actions**: Discharge of decree nisi or action dismissal doesn’t bar other actions for premises recovery by entitled persons.
-
