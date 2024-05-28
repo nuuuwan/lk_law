@@ -1,7 +1,3 @@
-# 📄  Samadhi Community Development Foundation (Incorporation) - Bill
-
-Bill published on **2021-08-04**.
-
 - **Incorporation Act:** This Bill aims to incorporate the Samadhi Community Development Foundation.
 - **Presented by:** The Bill was presented by Hon. Buddhika Pathirana, M.P. for Matara District on August 4, 2021.
 - **Publication:** Published in the Government Gazette on July 26, 2021.
