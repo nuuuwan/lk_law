@@ -1,7 +1,3 @@
-# ⚖️  Industrial Disputes 
-
-Act published on **2022-06-23**.
-
 - **General Information:**
   - The Act is titled "Industrial Disputes (Special Provisions) Act, No. 19 of 2022."
   - Certified on June 23, 2022.

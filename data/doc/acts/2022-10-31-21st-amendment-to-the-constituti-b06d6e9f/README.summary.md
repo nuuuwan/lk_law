@@ -1,7 +1,3 @@
-# ⚖️  21st Amendment to the Constitution
-
-Act published on **2022-10-31**.
-
 - Certified on October 31, 2022, and published as a supplement on November 04, 2022.
 - The Act:
   - Repeals Chapter VIIA and substitutes it with "Chapter VIIA: The Constitutional Council".

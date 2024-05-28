@@ -1,7 +1,3 @@
-# 📄  Sisira Jayakody Siyapatha Foundation (Incorporation) - GS
-
-Bill published on **2021-02-15**.
-
 - **Sisira Jayakody Siyapatha Foundation (Incorporation) Bill**: A Private Member's Bill presented by Hon. Premnath C. Dolawatte M.P. for Colombo District to incorporate the foundation.
 - **Purpose of the Foundation**: Formed in Sri Lanka to carry out various objectives and transactions as per members' agreement.
 - **Public Advantage**: Incorporation is deemed beneficial for public interests.

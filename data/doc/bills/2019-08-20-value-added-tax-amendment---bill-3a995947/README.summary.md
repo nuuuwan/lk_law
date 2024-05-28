@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - BIll
-
-Bill published on **2019-08-20**.
-
 - **Amendment Overview:**
   - The bill amends the Value Added Tax Act, No. 14 of 2002.
   - Presented by the Minister of Finance on August 20, 2019.
