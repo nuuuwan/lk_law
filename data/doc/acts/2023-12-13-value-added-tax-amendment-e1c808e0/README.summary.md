@@ -1,7 +1,3 @@
-# ⚖️  Value Added Tax (Amendment)
-
-Act published on **2023-12-13**.
-
 - **Act Title and Certification**: "Value Added Tax (Amendment) Act, No. 32 of 2023," certified on December 13, 2023.
 - **Purpose of the Act**: Amends the Value Added Tax Act, No. 14 of 2002.
 - **Key Amendments**:

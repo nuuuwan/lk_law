@@ -1,3 +1,22 @@
 # ⚖️  Value Added Tax (Amendment)
 
 Act published on **2023-12-13**.
+
+- **Act Title and Certification**: "Value Added Tax (Amendment) Act, No. 32 of 2023," certified on December 13, 2023.
+- **Purpose of the Act**: Amends the Value Added Tax Act, No. 14 of 2002.
+- **Key Amendments**:
+  - **Section 22 Modifications**:
+    - Allows registered persons engaged in supplying goods or services to Strategic Development Projects or special projects to claim input tax on related purchases.
+    - Establishes that output tax must be computed on the deemed taxable supply value related to such projects.
+  - **Section 83 Update**: Defines “Minister” as the Minister assigned the subject of Finance per articles 44 or 45 of the Constitution.
+  - **First Schedule Adjustments**:
+    - Specifies effective dates for taxable periods.
+    - Adds "PART III" starting January 1, 2024, listing various exemptions for imported goods and supplied services.
+- **New Schedule Exemptions (PART III)**:
+  - Exemption for a variety of goods including wheat, infant milk powder, pharmaceuticals, crude petroleum, medical aids, biofertilizers, and specific agricultural and manufacturing inputs.
+  - Exemption for services such as educational services, public passenger transport, electricity, burial and cremation services, and financial services.
+  - Exemptions for goods and services provided to missions or funded projects by foreign entities, local handloom textiles, rice, and unprocessed local agricultural products.
+- **Specific Project Exemptions**: Covers goods/services for Strategic Development Projects and specified infrastructure projects funded through foreign loans or donations.
+- **Duty-Free Provisions**: Exemptions on imports and supplies at duty-free shops.
+- **Language Clause**: In cases of inconsistency between Sinhala and Tamil texts, the Sinhala text shall prevail.
+- **Availability**: The Act can be downloaded from the government's website and purchased at designated government locations.

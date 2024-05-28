@@ -1,0 +1,11 @@
+# 📄  Parliamentary Elections (Amendment) - Bill
+
+Bill published on **2024-05-22**.
+
+- The bill presented is titled "Parliamentary Elections (Amendment)."
+- It seeks to amend the existing Parliamentary Elections Act, No. 1 of 1981.
+- The bill was presented by Hon. (Dr.) (Mrs.) Sudarshini Fernandopulle, M.P. for Gampaha District on May 22, 2024, and was published in the Gazette on May 08, 2024.
+- The specific amendment involves Section 7 of the principal enactment, specifically subsection 4(d).
+- The key point of the amendment is to mandate that recognized political parties include at least thirty percent women office bearers in decision-making capacities.
+- If any inconsistency arises between the Sinhala and Tamil texts of the Act, the Sinhala text shall prevail.
+- The bill is printed by the Department of Government Printing, Sri Lanka, and it is available for purchase and download.
