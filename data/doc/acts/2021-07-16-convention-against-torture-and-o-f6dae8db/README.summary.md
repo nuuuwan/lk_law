@@ -1,7 +1,3 @@
-# ⚖️  Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment)
-
-Act published on **2021-07-16**.
-
 - **Act Title and Number:** Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (Amendment) Act, No. 15 of 2021.
 - **Date Certified:** July 15, 2021.
 - **Publication:** Supplement to Part II of the Gazette of the Democratic Socialist Republic of Sri Lanka (July 16, 2021).

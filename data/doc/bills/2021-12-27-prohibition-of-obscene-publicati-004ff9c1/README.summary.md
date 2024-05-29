@@ -1,7 +1,3 @@
-# 📄  Prohibition of Obscene Publications - GS
-
-Bill published on **2021-12-27**.
-
 - **Title**: Prohibition of Obscene Publications Act
 - **Purpose**: Prohibits the publication, distribution, sale, import, and export of obscene materials.
 - **Repeal**: Repeals the Obscene Publications Ordinance (Chapter 30).

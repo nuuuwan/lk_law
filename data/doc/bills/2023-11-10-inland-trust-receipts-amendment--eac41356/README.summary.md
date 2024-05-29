@@ -1,7 +1,3 @@
-# 📄  Inland Trust Receipts (Amendment) - GS
-
-Bill published on **2023-11-10**.
-
 - Bill to amend the Inland Trust Receipts Act, No. 14 of 1990.
 - Ordered by the Minister of Finance, Economic Stabilization, and National Policies.
 - Amendments aim to align with the Secured Transactions Act, No. ... of 2023.

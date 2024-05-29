@@ -1,7 +1,3 @@
-# 📄  Companies   Amendment (GS)
-
-Bill published on **2019-02-25**.
-
 - Amendments proposed to the Companies Act, No. 07 of 2007.
 - Presented by Hon. Tharaka Balasuriya for Kegalle District.
 - Aim to promote corporate gender equality.
