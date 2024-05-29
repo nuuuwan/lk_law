@@ -1,3 +1,23 @@
 # 📄  Veemansaa Dhammaguptha Foundation (Incorporation) - Bill
 
 Bill published on **2022-10-19**.
+
+- **Purpose:** The bill aims to incorporate the Veemansaa Dhammaguptha Foundation in Sri Lanka.
+- **Presented by:** Hon. Gunathilaka Rajapaksha, M.P. for Mahanuwara District on October 19, 2022.
+- **Publication:** Published in the Gazette on October 10, 2022.
+- **Foundation History:** Already formed and functioning successfully, now seeking incorporation.
+- **Legislation:** The Act will establish the foundation as a body corporate with perpetual succession.
+- **Non-Discrimination:** Implementation of the objects will be non-discriminatory across various grounds such as race, religion, and gender.
+- **Conflict Avoidance:** The foundation’s work must not conflict with any government ministry or department activities.
+- **Board of Management:** The foundation will be managed by a Board of Management, with members serving three-year terms and provisions for filling vacancies.
+- **Powers:** The foundation can acquire property, raise funds, manage financial activities, and employ staff.
+- **Rulemaking:** It can make rules on membership, office bearers, meetings, and property management.
+- **Financial Management:** Must maintain a register of members and fund, with proper accounts audited annually.
+- **Annual Report:** An annual report of activities and financial statements must be submitted to the Secretary of the Ministry assigned to Social Services.
+- **Debts and Assets:** Existing debts are to be paid by the new body corporate, and all assets will be transferred to it.
+- **Property Handling:** The foundation can hold and manage both movable and immovable property for its purposes.
+- **Application of Funds:** Money and property must be used solely to promote the foundation’s objectives.
+- **Seal Usage:** The corporate seal usage must follow specific protocols.
+- **Dissolution:** Upon dissolution, remaining property will transfer to a similar institution.
+- **Legal Rights:** Any inconsistencies in the Sinhala and Tamil texts of the Act will favor the Sinhala version.
+- **Government Rights:** The Act does not affect the rights of the Republic or any corporate bodies.

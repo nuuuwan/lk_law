@@ -1,7 +1,3 @@
-# 📄  Veemansaa Dhammaguptha Foundation (Incorporation) - Bill
-
-Bill published on **2022-10-19**.
-
 - **Purpose:** The bill aims to incorporate the Veemansaa Dhammaguptha Foundation in Sri Lanka.
 - **Presented by:** Hon. Gunathilaka Rajapaksha, M.P. for Mahanuwara District on October 19, 2022.
 - **Publication:** Published in the Gazette on October 10, 2022.

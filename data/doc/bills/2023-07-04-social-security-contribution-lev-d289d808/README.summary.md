@@ -1,7 +1,3 @@
-# 📄  Social Security Contribution Levy (Amendment) - GS
-
-Bill published on **2023-07-04**.
-
 - A bill to amend the Social Security Contribution Levy Act, No. 25 of 2022.
 - Amendment ordered by the Minister of Finance, Economic Stabilization, and National Policies.
 - The document can be purchased at the Government Publications Bureau or downloaded from www.documents.gov.lk.

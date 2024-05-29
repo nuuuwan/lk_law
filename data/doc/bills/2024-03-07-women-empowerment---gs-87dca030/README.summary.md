@@ -1,7 +1,3 @@
-# 📄  Women Empowerment - GS
-
-Bill published on **2024-03-07**.
-
 - **Bill Objective**:
   - Empowerment of Women.
   - Formulation and implementation of national policy for women’s advancement.
