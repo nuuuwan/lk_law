@@ -1,7 +1,3 @@
-# 📄  Employment of Women, Young Persons and Children (Amendment) - GS
-
-Bill published on **2020-10-07**.
-
 Here are the most important points summarized into bullets:
 
 - The document is part of the Gazette of the Democratic Socialist Republic of Sri Lanka, dated October 02, 2020.

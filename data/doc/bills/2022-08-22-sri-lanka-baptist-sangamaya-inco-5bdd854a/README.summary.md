@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Baptist Sangamaya (Incorporation) (Amendment) - GS
-
-Bill published on **2022-08-22**.
-
 - This document is a Bill to amend the Sri Lanka Baptist Sangamaya (Incorporation) Act, No. 54 of 1944.
 - It will be presented in Parliament by Hon. (Dr.) Harsha de Silva, M.P. for the Colombo District.
 - The Sri Lanka Baptist Sangamaya, previously known as the Ceylon Baptist Council, has decided to change its name as per a passed resolution.
