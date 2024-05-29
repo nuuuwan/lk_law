@@ -1,7 +1,3 @@
-# 📄  20th Amendment to the Constitution - GS
-
-Bill published on **2020-09-03**.
-
 - The Twentieth Amendment to the Constitution of Sri Lanka was ordered by the Minister of Justice and is available for purchase and download.
 - The amendment affects several articles of the Constitution, primarily regarding the presidency and parliamentary procedures.
 - Article 31 is amended to limit the President to a second term.

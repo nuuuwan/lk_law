@@ -1,7 +1,3 @@
-# 📄  Intellectual Property (Amendment) - Bill
-
-Bill published on **2020-11-26**.
-
 - Presented by the Minister of Trade on November 26, 2020.
 - Published in the Gazette on August 27, 2018.
 - Contains amendments to the Intellectual Property Act, No. 36 of 2003.
