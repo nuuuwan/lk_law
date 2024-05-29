@@ -2,4 +2,25 @@
 
 Bill published on **2023-09-15**.
 
-
+- **Title and Date**: The document is "The Gazette of the Democratic Socialist Republic of Sri Lanka" dated September 15, 2023.
+- **Subject**: An Anti-Terrorism Bill aimed at protecting national security and the people of Sri Lanka from acts of terrorism both within and outside Sri Lanka.
+- **Objectives**:
+  - Protect national security and sovereignty.
+  - Prevent the use of Sri Lankan territory for terrorism abroad.
+  - Detection, identification, arrest, detention, investigation, prosecution, and punishment of terrorism-related offenses.
+- **Repeal**: Repeals the Prevention of Terrorism (Temporary Provisions) Act, No.48 of 1979.
+- **Application**: The Act applies to offenses committed by:
+  - Sri Lankan citizens, inside or outside the country.
+  - Any person committing offenses within or related to Sri Lankan territory or property.
+  - Persons habitually residing in Sri Lanka involved in terrorism.
+- **Key Definitions**:
+  - "Habitual residence" and "State-owned property" are clarified.
+- **Offenses and Penalties**:
+  - Defines severe penalties for acts of terrorism, including life imprisonment and fines.
+  - Specific crimes detailed include murder, causing damage to public places, robbery, and interference with technological systems.
+  - Emphasis on crimes related to supporting terrorist organizations, disseminating terrorist publications, and training for terrorism.
+  - Encouragement of terrorism or distribution of terrorist propaganda is penalized.
+- **Investigations**:
+  - Empower police, armed forces, and coast guard to arrest and investigate terrorism-related activities.
+  - Specific procedures for arrest and detention, particularly by non-police officers.
+- **International Compliance**: Ensures domestic laws align with international counter-terrorism treaties.

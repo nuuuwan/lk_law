@@ -1,7 +1,3 @@
-# 📄  Anti Terrorism - GS
-
-Bill published on **2023-09-15**.
-
 - **Title and Date**: The document is "The Gazette of the Democratic Socialist Republic of Sri Lanka" dated September 15, 2023.
 - **Subject**: An Anti-Terrorism Bill aimed at protecting national security and the people of Sri Lanka from acts of terrorism both within and outside Sri Lanka.
 - **Objectives**:
