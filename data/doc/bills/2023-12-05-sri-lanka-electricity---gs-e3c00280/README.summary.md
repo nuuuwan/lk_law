@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Electricity - GS
-
-Bill published on **2023-12-05**.
-
 - **Purpose of the Bill**: To implement reforms in the electricity industry in Sri Lanka.
 - **Key Components**:
   - Establishment of the **National Electricity Advisory Council**.
