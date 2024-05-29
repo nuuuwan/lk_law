@@ -1,0 +1,20 @@
+# 📄  Women Empowerment - Bill
+
+Bill published on **2024-05-07**.
+
+- A Bill for Women Empowerment in Sri Lanka presented on May 7, 2024.
+- Formulation and implementation of the national policy on women's advancement.
+- Establishment of a National Commission on Women.
+- Mechanisms for the protection of women’s rights and prosecution of violations.
+- Empowerment goals include securing women's rights, preventing discrimination and violence, and promoting participation in decision-making.
+- Ensuring economic empowerment with special attention to women with disabilities.
+- Public education programs on women's empowerment.
+- Composition of the Commission: appointed by the President, with a majority of women members.
+- The President appoints a Chairperson from the women members.
+- Commission powers include inquiry, investigation, public education, mediation, and filing legal actions.
+- Mechanism for formulating, approving, and publishing the National Policy.
+- Participation rules and terms for Commission members including tenure, disqualification, and resignation.
+- Detailed procedures for handling complaints/infringements through inquiry, investigation, and mediation.
+- Guidelines for mediation and enforcement of settlements.
+- Appeal process against the Commission's decisions to the Court of Appeal.
+- Oversight and support functions like receiving grants, public awareness, research, and law reforms.

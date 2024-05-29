@@ -1,7 +1,3 @@
-# ⚖️  Finance Leasing (Amendment)
-
-Act published on **2024-04-01**.
-
 - **Title**: Finance Leasing (Amendment) Act, No. 21 of 2024.
 - **Certification Date**: April 1, 2024.
 - **Publication**: Supplement to the Gazette of Sri Lanka, April 5, 2024.
@@ -16,4 +12,3 @@ Act published on **2024-04-01**.
   - The short title and date of operation provisions take effect when the Bill becomes an Act of Parliament.
 - **Language Clause**: In case of inconsistency, the Sinhala text prevails.
 - **Price/Distribution**: Available for purchase at Rs. 12.00 plus Rs. 150.00 postage at the Government Publications Bureau, Colombo 5.
-
