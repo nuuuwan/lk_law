@@ -1,7 +1,3 @@
-# 📄  Dangerous Animals (Amendment) - GS
-
-Bill published on **2022-06-02**.
-
 - Title: Dangerous Animals (Amendment) Bill to amend the Dangerous Animals Ordinance (Chapter 49).
 - Published by the Minister of Justice, Prison Affairs, and Constitutional Reforms.
 - Gazette Supplement downloadable from www.documents.gov.lk.

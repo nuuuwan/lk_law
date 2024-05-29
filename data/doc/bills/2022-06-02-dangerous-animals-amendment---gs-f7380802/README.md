@@ -2,4 +2,12 @@
 
 Bill published on **2022-06-02**.
 
-
+- Title: Dangerous Animals (Amendment) Bill to amend the Dangerous Animals Ordinance (Chapter 49).
+- Published by the Minister of Justice, Prison Affairs, and Constitutional Reforms.
+- Gazette Supplement downloadable from www.documents.gov.lk.
+- Price: Rs. 6.00; Postage: Rs. 15.00.
+- **Key Amendments:**
+  - Clause 2: Amends Section 7 of the principal enactment to raise the bond amount to two hundred and fifty thousand rupees.
+  - Clause 3: Amends Section 8 by detailing the procedure for the humane destruction of a dangerous animal by a registered veterinary surgeon or practitioner.
+- Short title: Dangerous Animals (Amendment) Act, No. ___ of 2022.
+- Provision for Sinhala text to prevail in case of inconsistency between Sinhala and Tamil texts.
