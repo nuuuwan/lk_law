@@ -1,7 +1,3 @@
-# 📄  Ananda Aluthgamage Development, Social Services and Charity Foundation (Incorporation) - Bill
-
-Bill published on **2021-11-16**.
-
 - **Bill Overview**: Incorporation of the Ananda Aluthgamage Development, Social Services and Charity Foundation (Bill No. 93).
 - **Presentation Date**: Presented on November 16, 2021, by Hon. Rohana Bandara, M.P.
 - **Publication**: Published in the Gazette on November 08, 2021.

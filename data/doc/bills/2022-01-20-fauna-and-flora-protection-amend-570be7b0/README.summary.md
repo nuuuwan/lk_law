@@ -1,7 +1,3 @@
-# 📄  Fauna and Flora Protection (Amendment) - Bill
-
-Bill published on **2022-01-20**.
-
 - **Presented by the Minister of Wildlife and Forest Conservation on 20th January, 2022**
 - **Published in the Gazette on November 19, 2021**
 - **Purpose**: To amend the Fauna and Flora Protection Ordinance (Chapter 469)

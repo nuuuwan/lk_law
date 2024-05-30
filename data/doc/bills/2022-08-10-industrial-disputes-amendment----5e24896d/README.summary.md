@@ -1,7 +1,3 @@
-# 📄  Industrial Disputes (Amendment) - Bill 
-
-Bill published on **2022-08-10**.
-
 - **Presented By:** Minister of Labour and Foreign Employment on August 10, 2022
 - **Publication Date:** Published in the Gazette on June 22, 2022
 - **Price:** Rs. 12.00, Postage: Rs. 15.00

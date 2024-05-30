@@ -1,7 +1,3 @@
-# 📄  Land Development (Amendment) - GS
-
-Bill published on **2021-12-27**.
-
 - **Publication Information**:
   - Title: "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA, Part II of December 24, 2021".
   - Supplement issued on 27.12.2021.

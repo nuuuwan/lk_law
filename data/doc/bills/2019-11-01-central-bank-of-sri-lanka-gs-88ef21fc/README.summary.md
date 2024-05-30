@@ -1,7 +1,3 @@
-# 📄  Central Bank of Sri Lanka (GS)
-
-Bill published on **2019-11-01**.
-
 **Key Points in the Document:**
 
 - **Title and Publication**:
