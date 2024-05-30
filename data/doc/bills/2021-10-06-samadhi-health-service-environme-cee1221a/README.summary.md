@@ -1,7 +1,3 @@
-# 📄  Samadhi Health Service, Environment, Agricultural, Cultural and Sport Centre (Incorporation) - Bill
-
-Bill published on **2021-10-06**.
-
 - The bill aims to incorporate the "Samadhi Health Service, Environment, Agricultural, Cultural and Sport Centre" in Sri Lanka.
 - Presented by Hon. Buddhika Pathirana, MP for Matara District, on October 6, 2021; published in the Gazette on September 27, 2021.
 - Official title: Samadhi Health Service, Environment, Agricultural, Cultural and Sport Centre (Incorporation) Act, No. of 2021.

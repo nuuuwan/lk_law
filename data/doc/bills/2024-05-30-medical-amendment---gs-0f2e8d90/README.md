@@ -1,0 +1,20 @@
+# 📄  Medical (Amendment) - GS
+
+Bill published on **2024-05-30**.
+
+- Bill to amend the Medical Ordinance (Chapter 105).
+- Published by the Minister of Health in the Gazette of Sri Lanka.
+- Price: Rs. 12.00, Postage: Rs. 150.00.
+- Available for download at www.documents.gov.lk.
+- **Clause 2:** Amendments to section 19 to include regulations for:
+  - Recognition and renewal of medical qualifications.
+  - Adoption of international rankings for university recognition.
+  - Approval procedures for medical qualifications.
+  - Criteria for examinations to practice medicine/dentistry in Sri Lanka.
+- **Clause 3:** Amendments to section 19C:
+  - Introducing a committee to advise the Minister.
+  - Committee includes health officials and medical professors.
+  - Minister can declare a qualification non-compliant based on committee recommendations.
+- **Clause 4:** Redefines "recognized university or institution" in section 19E, including affiliated institutions.
+- **Clause 5:** Amendments to section 29 for consistency in recognition by the Medical Council.
+- Sinhala text prevails in case of inconsistency between Sinhala and Tamil texts.
