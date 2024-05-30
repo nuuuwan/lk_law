@@ -1,7 +1,3 @@
-# 📄  Registration of Electors (Amendment) - GS
-
-Bill published on **2021-03-16**.
-
 - **Amendment Act Overview:**
   - Introduction of a bill to amend the Registration of Electors Act, No. 44 of 1980.
   - Aim: Update regulations related to the registration of electors.

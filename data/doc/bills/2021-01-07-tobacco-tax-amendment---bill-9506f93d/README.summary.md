@@ -1,7 +1,3 @@
-# 📄  Tobacco Tax (Amendment) - Bill
-
-Bill published on **2021-01-07**.
-
 - The Bill amends the Tobacco Tax Act, No. 08 of 1999.
 - Presented by Hon. (Dr.) Wijeyadasa Rajapakshe, M.P. for Colombo District on January 7, 2021.
 - Published in the Gazette on December 21, 2020.
