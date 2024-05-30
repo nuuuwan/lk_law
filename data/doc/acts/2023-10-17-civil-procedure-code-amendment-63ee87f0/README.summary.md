@@ -1,7 +1,3 @@
-# ⚖️  Civil Procedure Code (Amendment)
-
-Act published on **2023-10-17**.
-
 - The **Civil Procedure Code (Amendment) Act, No. 20 of 2023** was certified on **October 17, 2023**.
 - This Act can be found in the supplement to Part II of the **Gazette of October 20, 2023**.
 - The price of the printed version is Rs. 12.00, with postage costing Rs. 150.00.

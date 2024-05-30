@@ -1,3 +1,22 @@
 # ⚖️  Civil Procedure Code (Amendment)
 
 Act published on **2023-10-17**.
+
+- The **Civil Procedure Code (Amendment) Act, No. 20 of 2023** was certified on **October 17, 2023**.
+- This Act can be found in the supplement to Part II of the **Gazette of October 20, 2023**.
+- The price of the printed version is Rs. 12.00, with postage costing Rs. 150.00.
+- The Act is available for download on the website: **www.documents.gov.lk**.
+- **Amendment details**:
+  - The **Civil Procedure Code (Chapter 101)** is amended, specifically **section 205**.
+  - **Registrar's duties**:
+    - Must issue certified copies of judgments and final decrees to respective parties free of charge upon application.
+    - Can provide certified copies for a fee determined by the Ministry of Justice, upon an application accompanied by necessary stamps.
+    - Can certify copies made by individuals upon receiving the necessary stamps.
+  - Restrictions on non-parties:
+    - Non-parties to matrimonial actions, adoption applications, or custody applications cannot obtain certified copies of proceedings or documents.
+    - Exceptions made if the court is satisfied with the need of the applicant.
+  - Electronic documents:
+    - Documents issued or transmitted electronically are considered authenticated if they contain the electronic signature and seal of the Registrar or authorized officer.
+    - Converted electronic copies from paper must include the signature and seal of the Registrar or authorized officer.
+- In case of any inconsistency between Sinhala and Tamil texts of the Act, the **Sinhala text shall prevail**.
+- English Acts can be purchased at the **Department of Government Printing in Colombo**.
