@@ -1,3 +1,20 @@
 # ⚖️  Colombo Port City Economic Commission
 
 Act published on **2021-05-27**.
+
+- Establishment of the Colombo Port City Special Economic Zone and the Colombo Port City Economic Commission.
+- The Commission is empowered to grant registrations, licenses, authorizations, and other approvals within the Zone.
+- Identification of a Single Window Investment Facilitator to promote ease of doing business.
+- Provision of incentives and exemptions for businesses of strategic importance.
+- Facilitation of international trade, shipping logistics, offshore banking, financial services, IT, business process outsourcing, corporate headquarters, tourism, and ancillary services.
+- Establishment of an International Dispute Resolution Centre.
+- Promotion of urban amenities and residential community settlement within the Zone.
+- The President appoints the Commission’s Chairperson and members, ensuring a majority are Sri Lankans with relevant expertise.
+- The Commission oversees the implementation of the Master Plan in consultation with the President or assigned Minister.
+- Powers of the Commission include issuing business approvals, regulatory supervision, leasing, real estate transactions, and facilitating international exchanges.
+- Objectives include promoting Colombo Port City as a leading economic zone, attracting foreign investment, creating employment, ensuring sustainable development, and promoting tourism.
+- The Commission is responsible for managing its Fund, including making investments and borrowing funds.
+- Annual financial audits to be conducted by a qualified auditor, with reports submitted to the President or relevant Minister.
+- The Commission's meetings require a quorum of four members, and decisions are made by majority vote.
+- Special provisions for conflict of interest among Commission members.
+- Commission’s financial year is the calendar year, and it must comply with International Financial Reporting Standards.

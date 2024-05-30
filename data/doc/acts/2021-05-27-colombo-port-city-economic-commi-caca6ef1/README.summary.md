@@ -1,7 +1,3 @@
-# ⚖️  Colombo Port City Economic Commission
-
-Act published on **2021-05-27**.
-
 - Establishment of the Colombo Port City Special Economic Zone and the Colombo Port City Economic Commission.
 - The Commission is empowered to grant registrations, licenses, authorizations, and other approvals within the Zone.
 - Identification of a Single Window Investment Facilitator to promote ease of doing business.

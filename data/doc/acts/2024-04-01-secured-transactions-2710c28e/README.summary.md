@@ -1,7 +1,3 @@
-# ⚖️  Secured Transactions
-
-Act published on **2024-04-01**.
-
 - **Title and Administration**:
   - Enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka.
   - Act No. 17 of 2024, certified on April 1, 2024.

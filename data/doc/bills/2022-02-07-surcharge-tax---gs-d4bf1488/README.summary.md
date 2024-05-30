@@ -1,7 +1,3 @@
-# 📄  Surcharge Tax - GS
-
-Bill published on **2022-02-07**.
-
 - **Title:** Surcharge Tax Bill in the Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, February 3, 2022.
 - **Purpose:** To impose a surcharge tax and related regulatory measures.
 - **Publication:** Ordered by the Minister of Finance, available for Rs. 18 plus Rs. 15 postage.
