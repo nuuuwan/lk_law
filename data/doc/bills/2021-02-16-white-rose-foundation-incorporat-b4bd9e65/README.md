@@ -1,3 +1,24 @@
 # 📄  White Rose Foundation (Incorporation) - GS
 
 Bill published on **2021-02-16**.
+
+- Incorporation of the White Rose Foundation through a private member's bill presented by Hon. Buddhika Pathirana, M.P. for Matara District.
+- The Foundation aims to provide a variety of services and support, including: 
+  - Opportunities for children and youth in creative arts.
+  - Financial and developmental assistance for individuals with varied talents.
+  - Skill acquisition, job training, and support for small-scale business setup for youth.
+  - Professional support and advisement for communities in Sri Lanka.
+  - Promotion of social, spiritual, and cultural activities to integrate and increase awareness among different communities.
+  - Establishment of IT centres for scientific studies.
+  - Assistance to the agricultural and fisheries industries.
+  - Support for employment generation among youth.
+  - Securing and providing grants and financial assistance for projects.
+  - Coordination with local and foreign organizations for related activities.
+  - Organizing exhibitions, lectures, seminars, and workshops.
+- The foundation will have the powers to acquire and hold property, manage funds, and engage in activities necessary for fulfilling its objectives.
+- Governance will be managed by a Board of Directors consisting of elected office bearers.
+- The corporation may make rules pertaining to membership, election of office bearers, meeting procedures, and property administration.
+- All debts and liabilities of the previous association will be transferred to the new corporation.
+- Members of the corporation are only liable for their membership fees.
+- The corporation is empowered to handle all forms of property and operate with a seal as per its rules.
+- In the event of linguistic inconsistencies, the Sinhala text shall prevail.

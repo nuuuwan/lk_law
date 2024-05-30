@@ -1,7 +1,3 @@
-# 📄  Inland Revenue (Amendment) - Bill
-
-Bill published on **2021-03-26**.
-
 - **Overview:**
   - The bill intends to amend the Inland Revenue Act, No. 24 of 2017.
   - Presented on March 26, 2021, and published in the Gazette on March 18, 2021.

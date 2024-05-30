@@ -1,7 +1,3 @@
-# 📄  White Rose Foundation (Incorporation) - GS
-
-Bill published on **2021-02-16**.
-
 - Incorporation of the White Rose Foundation through a private member's bill presented by Hon. Buddhika Pathirana, M.P. for Matara District.
 - The Foundation aims to provide a variety of services and support, including: 
   - Opportunities for children and youth in creative arts.

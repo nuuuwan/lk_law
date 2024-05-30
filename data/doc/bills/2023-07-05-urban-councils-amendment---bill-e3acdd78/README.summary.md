@@ -1,7 +1,3 @@
-# 📄  Urban Councils (Amendment) - Bill
-
-Bill published on **2023-07-05**.
-
 - Bill titled "Urban Councils (Amendment)" to amend the Urban Councils Ordinance (Chapter 255).
 - Presented by Hon. Jayantha Ketagoda, M.P. on July 5, 2023.
 - Published in the Gazette on June 26, 2023; ordered by Parliament to be printed.

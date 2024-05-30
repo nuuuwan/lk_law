@@ -1,7 +1,3 @@
-# 📄  Sethsada Yoga Nikethanaye Karya Baraya (Incorporation) - GS
-
-Bill published on **2021-03-15**.
-
 - **Bill Details**: Incorporation of the Sethsada Yoga Nikethanaye Karya Baraya presented by Hon. Uddika Premarathne, M.P. for Anuradhapura District.
 - **Short Title**: The Act is titled "Sethsada Yoga Nikethanaye Karya Baraya (Incorporation) Act, No.       2021."
 - **Incorporation**: Establishes the association as a corporate entity with perpetual succession under the name "Sethsada Yoga Nikethanaye Karya Baraya."
