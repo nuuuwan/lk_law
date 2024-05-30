@@ -1,7 +1,3 @@
-# 📄  Value Added Tax (Amendment) - Bill
-
-Bill published on **2022-10-18**.
-
 - **Presented Date:** October 18, 2022
 - **Published in Gazette:** September 27, 2022
 - **Bill No.:** 155

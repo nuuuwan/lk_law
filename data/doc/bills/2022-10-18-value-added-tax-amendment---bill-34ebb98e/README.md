@@ -1,3 +1,23 @@
 # 📄  Value Added Tax (Amendment) - Bill
 
 Bill published on **2022-10-18**.
+
+- **Presented Date:** October 18, 2022
+- **Published in Gazette:** September 27, 2022
+- **Bill No.:** 155
+- **Purpose:** To amend the Value Added Tax Act, No. 14 of 2002
+- **Key Amendments:**
+  - **Clause 2:** 
+    - Increase VAT rate from 8% to 12% (June 1, 2022 to August 31, 2022)
+    - Increase VAT rate from 12% to 15% effective September 1, 2022
+  - **Clause 3:** 
+    - Decrease VAT registration threshold from Rs. 300 million to Rs. 80 million per annum, effective October 1, 2022
+  - **Clause 4:** 
+    - Remove VAT exemption on condominium residential apartments effective October 1, 2022 
+- **Legal Note:**
+  - The Sinhala text prevails in case of any inconsistency between the Sinhala and Tamil texts of the Act
+- **Location of Printing:** Printed at the Department of Government Printing, Sri Lanka
+- **Availability:** Bill can be downloaded from www.documents.gov.lk
+- **Costs:**
+  - Price: Rs. 12.00
+  - Postage: Rs. 15.00
