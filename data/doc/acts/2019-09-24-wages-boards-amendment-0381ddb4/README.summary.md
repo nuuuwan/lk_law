@@ -1,7 +1,3 @@
-# ⚖️  Wages Boards (Amendment)  
-
-Act published on **2019-09-24**.
-
 - **Short Title**: Act cited as Wages Boards (Amendment) Act, No. 14 of 2019.
 - **Certification Date**: Certified on September 24, 2019.
 - **Price and Postage**: Rs. 12.00 for the Act and Rs. 15.00 for postage.

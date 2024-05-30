@@ -1,7 +1,3 @@
-# 📄  Civil Procedure Code (Amendment) - Bill
-
-Bill published on **2023-09-21**.
-
 - **Presented By:** Minister of Justice, Prison Affairs, and Constitutional Reforms on September 21, 2023.
 - **Published Date:** Gazette on September 12, 2023.
 - **Bill Number:** 204.

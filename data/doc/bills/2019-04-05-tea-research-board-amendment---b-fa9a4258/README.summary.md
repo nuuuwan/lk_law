@@ -1,7 +1,3 @@
-# 📄  Tea Research Board (Amendment) - Bill
-
-Bill published on **2019-04-05**.
-
 - **Presentation & Publication Details:**
   - Bill presented by the Minister of Plantation Industries on April 5, 2019
   - Published in the Gazette on September 28, 2018
