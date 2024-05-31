@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - GS
-
-Bill published on **2021-07-20**.
-
 - The document is a bill to amend the Code of Criminal Procedure Act, No. 15 of 1979.
 - The bill is published by the Minister of Justice of Sri Lanka and printed by the Department of Government Printing.
 - The amendment introduces pre-trial conferences to the High Court to expedite trials.

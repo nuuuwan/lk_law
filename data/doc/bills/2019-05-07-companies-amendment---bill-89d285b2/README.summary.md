@@ -1,7 +1,3 @@
-# 📄  Companies (Amendment) - Bill
-
-Bill published on **2019-05-07**.
-
 - **Title & Context:**
   - Companies (Amendment) Bill presented by the Minister of Industry & Commerce, Resettlement of Protracted Displaced Persons, Co-operative Development, and Vocational Training & Skills Development on May 7, 2019.
   - Bill No. 277, intended to amend the Companies Act, No. 07 of 2007.
