@@ -1,7 +1,3 @@
-# ⚖️  Intellectual Property (Amendment)
-
-Act published on **2022-03-16**.
-
 - **Title and Certification:**
   - The document is the Intellectual Property (Amendment) Act, No. 8 of 2022, certified on 16th March 2022.
   - It amends the Intellectual Property Act, No. 36 of 2003.
