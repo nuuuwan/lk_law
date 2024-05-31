@@ -1,3 +1,14 @@
 # 📄  Personal Data Protection - Bill
 
 Bill published on **2022-01-20**.
+
+- Personal Data Protection Bill aims to regulate the processing of personal data, strengthen the rights of data subjects, and designate a Data Protection Authority in Sri Lanka.
+- Presented by the Prime Minister on January 20, 2022, and published in the Gazette on November 25, 2021.
+- Applies to personal data processing both within and outside Sri Lanka under specific conditions.
+- Controllers must comply with specified data protection obligations, including accuracy, proportionality, and lawful processing.
+- Data subjects have the right to access, rectify, and erase their personal data, and to withdraw consent or object to data processing.
+- Controllers must ensure transparency and maintain internal records demonstrating compliance.
+- Data Protection Officers must be appointed under certain conditions to ensure compliance and provide training.
+- Controllers and processors have additional obligations, including confidentiality and data breach notifications.
+- Data protection impact assessments are required for specific processing activities, and measures must be taken to mitigate risks to data subjects.
+- The Data Protection Authority can issue guidelines and enforce compliance, with a mechanism for data subjects to appeal decisions.
