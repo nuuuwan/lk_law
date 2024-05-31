@@ -2,4 +2,12 @@
 
 Bill published on **2023-05-23**.
 
-
+- Carriage by Air (Amendment) Bill presented by the Minister of Ports, Shipping, and Aviation on May 23, 2023.
+- Published in the Gazette on April 03, 2023.
+- Amends the Carriage by Air Act, No. 29 of 2018.
+- Focuses on amending section 5 to allow the Minister to specify limits of liability for domestic air carriage.
+- Higher liability thresholds for international air carriage will not apply to domestic air carriage.
+- Bill can be downloaded from www.documents.gov.lk.
+- Prices for printed copy: Rs. 10.00 with postage at Rs. 150.00.
+- Short title: Carriage by Air (Amendment) Act, No. of 2023.
+- In case of textual inconsistency, the Sinhala text will prevail.

@@ -1,7 +1,3 @@
-# 📄  Carriage by Air (Amendment) - Bill
-
-Bill published on **2023-05-23**.
-
 - Carriage by Air (Amendment) Bill presented by the Minister of Ports, Shipping, and Aviation on May 23, 2023.
 - Published in the Gazette on April 03, 2023.
 - Amends the Carriage by Air Act, No. 29 of 2018.
