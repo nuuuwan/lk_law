@@ -1,7 +1,3 @@
-# 📄  White  Rose Founndation (Incorporation) - Bill
-
-Bill published on **2021-02-24**.
-
 - **Bill Presented**: By the Hon. Buddhika Pathirana, M.P. for Matara District on February 24, 2021.
 - **Bill Publication**: Published in the Gazette on February 16, 2021.
 - **Objective**: Incorporation of the “White Rose Foundation”.

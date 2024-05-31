@@ -1,3 +1,31 @@
 # 📄  White  Rose Founndation (Incorporation) - Bill
 
 Bill published on **2021-02-24**.
+
+- **Bill Presented**: By the Hon. Buddhika Pathirana, M.P. for Matara District on February 24, 2021.
+- **Bill Publication**: Published in the Gazette on February 16, 2021.
+- **Objective**: Incorporation of the “White Rose Foundation”.
+- **Legal Status**: Foundation to become a body corporate with ability to sue and be sued, use a common seal, and have perpetual succession.
+- **General Objectives**:
+  - Impact lives of children and youth through creative arts.
+  - Provide opportunities and financial assistance to talented individuals.
+  - Offer skills training, job training, and support small business setups.
+  - Offer accounting, financial, and legal support to communities.
+  - Promote social, spiritual, and cultural activities for community integration.
+  - Establish IT centers for scientific study and development.
+  - Support agricultural and fisheries industries.
+  - Assist governmental and nongovernmental agencies in youth employment.
+  - Obtain and provide grants for project advancement.
+  - Coordinate with local and foreign organizations for seminars, conferences, and meetings.
+  - Organize exhibitions, lectures, and workshops and publish related materials.
+- **Powers of Corporation**: Acquisition of property, operating bank accounts, borrowing money, collecting funds, constructing buildings, and employing staff necessary for its objectives.
+  
+- **Management**: Administered by a Board of Directors, initially composed of current association board members, transitioning to elected members.
+- **Rules**: The Corporation can make rules regarding membership, election processes, meeting procedures, and property management.
+- **Funds**: Supported by gifts, donations, subscriptions, and grants; funds to be managed and invested as determined by the Board.
+- **Liabilities**: Existing debts of the association to be handled by the Corporation; members' liability limited to membership fees.
+- **Property Holding**: Corporation can acquire and manage both movable and immovable property.
+- **Legal Provisions**:
+  - The seal usage protocol.
+  - Rights of Republic and other entities remain unaffected.
+  - Sinhala text prevails in case of disputes between language texts of the Act.
