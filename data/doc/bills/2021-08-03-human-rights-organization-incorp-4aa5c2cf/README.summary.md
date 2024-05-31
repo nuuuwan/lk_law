@@ -1,7 +1,3 @@
-# 📄  Human Rights Organization (Incorporation) -Bill
-
-Bill published on **2021-08-03**.
-
 - **Bill Proposal**: To incorporate the Human Rights Organization in Sri Lanka.
 - **Presented by**: Hon. Tissa Attanayake, M.P. on August 3, 2021.
 - **Publication**: Published in the Gazette on July 20, 2021; printable from the Department of Government Printing.

@@ -2,4 +2,30 @@
 
 Bill published on **2021-08-03**.
 
-
+- **Bill Proposal**: To incorporate the Human Rights Organization in Sri Lanka.
+- **Presented by**: Hon. Tissa Attanayake, M.P. on August 3, 2021.
+- **Publication**: Published in the Gazette on July 20, 2021; printable from the Department of Government Printing.
+- **Title**: Human Rights Organization (Incorporation) Act, No. of 2021.
+- **Location**: Human Rights Organization based at No. 10, Mosque Lane, Galle Road, Colombo 3.
+- **Purpose**: To officially incorporate the already established Human Rights Organization to further its objectives per agreed rules.
+- **Legal Framework**: Formation of a body corporate with perpetual succession that can sue and be sued, use a common seal.
+- **General Objects**:
+  - Protect and promote human rights.
+  - Encourage humanities, sports, and social services.
+  - Provide relief for disaster-affected individuals.
+  - Conduct seminars and cultural programs.
+  - Organize leadership programs.
+  - Collaborate with local and international organizations.
+  - Establish libraries and publish educational materials.
+- **Management**: Controlled by a Board of Directors including office bearers and elected members per corporate rules.
+- **Powers**: Open/close bank accounts, handle finances, build structures, employ staff.
+- **Rules**: Membership classifications, election of office bearers, financial management, meeting procedures, and property administration.
+- **Engagement Rights**: Dialogue with authorities to resolve disputes, engage in community welfare.
+- **Funding**: Corporation has its own fund, managed through bank accounts, supported by gifts and donations.
+- **Property Rights**: Can hold movable and immovable property.
+- **Member Liability Limit**: Members' financial contribution limited to their annual subscription.
+- **Dissolution Clause**: Remaining property post-dissolution to be transferred to similar organizations.
+- **Financials**: Proper accounts to be kept and audited by qualified auditors.
+- **Seal Usage**: Affixed in the presence of authorized persons.
+- **Legal Immunity**: Act does not prejudice the Republic’s or others' rights.
+- **Language Clause**: In case of inconsistency, the Sinhala text prevails.
