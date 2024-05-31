@@ -1,7 +1,3 @@
-# 📄  Public Financial Management - Bill
-
-Bill published on **2024-05-22**.
-
 - **Purpose of the Bill:** Strengthen accountability, oversight, management, and control of public funds in Sri Lanka's financial management framework to improve fiscal policy and macroeconomic management.
 - **Repeals:** Sections 8 and 14 of the Finance Act, No. 38 of 1971, and the Fiscal Management (Responsibility) Act, No. 3 of 2003.
 - **Implementation Date:** Provisions come into effect when the Bill becomes an Act, with specific dates set by the Minister of Finance for certain sections.

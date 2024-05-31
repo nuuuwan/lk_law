@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **825** documents, as of *2024-05-31 11:40:41*.
+Downloaded **826** documents, as of *2024-05-31 13:40:13*.
 
 ## 2024
 
@@ -15,29 +15,30 @@ Downloaded **825** documents, as of *2024-05-31 11:40:41*.
 * 📄 [[2024-05-29] Anti-Dumping and Countervailing Duties (Amendment) - GS](data/doc/bills/2024-05-29-anti-dumping-and-countervailing--ab330dcd)
 
 * 📄 [[2024-05-22] Twenty Second Amendment to the Constitution - Bill](data/doc/bills/2024-05-22-twenty-second-amendment-to-the-c-ad6226d1)
+* 📄 [[2024-05-22] Public Financial Management - Bill](data/doc/bills/2024-05-22-public-financial-management---bi-6fc9869a)
 * 📄 [[2024-05-22] Parliamentary Elections (Amendment) - Bill](data/doc/bills/2024-05-22-parliamentary-elections-amendmen-b40008d7)
 * 📄 [[2024-05-20] Institute of Quantity Surveyors, Sri Lanka (Incorporation) (Amendment) - GS](data/doc/bills/2024-05-20-institute-of-quantity-surveyors--c4b21f10)
 * ⚖️ [[2024-05-17] Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/doc/acts/2024-05-17-shop-and-office-employees-regula-992ddfba)
-* 📄 [[2024-05-14] Public Financial Management - GS](data/doc/bills/2024-05-14-public-financial-management---gs-a5cd6fea)
 
+* 📄 [[2024-05-14] Public Financial Management - GS](data/doc/bills/2024-05-14-public-financial-management---gs-a5cd6fea)
 * 📄 [[2024-05-14] Economic Transformation - GS](data/doc/bills/2024-05-14-economic-transformation---gs-a1c29066)
 * 📄 [[2024-05-13] Twenty Second Amendment to the Constitution - GS](data/doc/bills/2024-05-13-twenty-second-amendment-to-the-c-98019e85)
 * ⚖️ [[2024-05-13] Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/doc/acts/2024-05-13-shop-and-office-employees-regula-6cd29c49)
 * ⚖️ [[2024-05-13] Partition (Amendment)](data/doc/acts/2024-05-13-partition-amendment-b46079a6)
-* 📄 [[2024-05-13] Civil Procedure Code (Amendment) - Bill](data/doc/bills/2024-05-13-civil-procedure-code-amendment---97c9c000)
 
+* 📄 [[2024-05-13] Civil Procedure Code (Amendment) - Bill](data/doc/bills/2024-05-13-civil-procedure-code-amendment---97c9c000)
 * 📄 [[2024-05-10] Sri Lanka Telecommunications (Amendment) - Bill](data/doc/bills/2024-05-10-sri-lanka-telecommunications-ame-17050e2d)
 * 📄 [[2024-05-09] Gender Equality - Bill](data/doc/bills/2024-05-09-gender-equality---bill-e62b6b40)
 * ⚖️ [[2024-05-08] Recovery of Loans by Banks (Special Provisions) (Amendment)](data/doc/acts/2024-05-08-recovery-of-loans-by-banks-speci-14db01d1)
 * 📄 [[2024-05-08] Parliamentary Elections (Amendment) - GS](data/doc/bills/2024-05-08-parliamentary-elections-amendmen-5c23aeaa)
-* 📄 [[2024-05-08] J. C. Alawathuwela Foundation (Incorporation) - GS](data/doc/bills/2024-05-08-j-c-alawathuwela-foundation-inco-2b8fdbf9)
 
+* 📄 [[2024-05-08] J. C. Alawathuwela Foundation (Incorporation) - GS](data/doc/bills/2024-05-08-j-c-alawathuwela-foundation-inco-2b8fdbf9)
 * 📄 [[2024-05-07] Women Empowerment - Bill](data/doc/bills/2024-05-07-women-empowerment---bill-81af8849)
 * 📄 [[2024-05-07] Employees’ Provident Fund (Amendment) - Bill](data/doc/bills/2024-05-07-employees-provident-fund-amendme-b506d654)
 * ⚖️ [[2024-05-03] Code of Criminal Procedure (Amendment)](data/doc/acts/2024-05-03-code-of-criminal-procedure-amend-d88d739e)
 * 📄 [[2024-05-03] Civil Procedure Code (Amendment) - GS](data/doc/bills/2024-05-03-civil-procedure-code-amendment---83867b5f)
-* 📄 [[2024-05-02] Sri Lanka Telecommunications (Amendment) - GS](data/doc/bills/2024-05-02-sri-lanka-telecommunications-ame-e5b549d5)
 
+* 📄 [[2024-05-02] Sri Lanka Telecommunications (Amendment) - GS](data/doc/bills/2024-05-02-sri-lanka-telecommunications-ame-e5b549d5)
 
 ### 2024-04
 
