@@ -1,7 +1,3 @@
-# 📄  Hector Appuhary Helping Hand Charity Foundation (Incorporation) - GS
-
-Bill published on **2021-10-18**.
-
 - **Bill Introduction**: Hector Appuhamy Helping Hand Charity Foundation to be incorporated as per a Private Members’ Bill presented by Hon. J. C. Alawathuwala, M.P. for Kurunegale District.
 - **Name and Validity**: The Act's short title is Hector Appuhamy Helping Hand Charity Foundation (Incorporation) Act, 2021.
 - **Corporate Status**: Members of the existing Foundation are to form a body corporate with perpetual succession, capable of suing, being sued, and using a common seal.
