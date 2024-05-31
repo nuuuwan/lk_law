@@ -1,7 +1,3 @@
-# 📄  Inland  Revenue (Amendment)  - GS
-
-Bill published on **2019-11-19**.
-
 - Gazette of the Democratic Socialist Republic of Sri Lanka published on November 15, 2019.
 - Bill to amend the Inland Revenue Act, No. 24 of 2017.
 - Key clauses and their effects:

@@ -1,7 +1,3 @@
-# 📄  Terination of Employment of Workmen (Special Provisions) (Amendment) - GS
-
-Bill published on **2021-10-12**.
-
 - A bill to amend the Termination of Employment of Workmen (Special Provisions) Act, No. 45 of 1971.
 - Ordered to be published by the Minister of Labour.
 - Printed at the Department of Government Printing, Sri Lanka.

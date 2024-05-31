@@ -1,3 +1,22 @@
 # 📄  Inland  Revenue (Amendment)  - GS
 
 Bill published on **2019-11-19**.
+
+- Gazette of the Democratic Socialist Republic of Sri Lanka published on November 15, 2019.
+- Bill to amend the Inland Revenue Act, No. 24 of 2017.
+- Key clauses and their effects:
+  - **Clause 2**: Exempts employer contributions to a gratuity fund.
+  - **Clause 3**: Expands business investment incentives and temporary concessions.
+  - **Clause 4**: Disallows tax deduction of tax paid by employer on behalf of the employee.
+  - **Clause 7**: Specifies the deductible amount of a company's financial cost.
+  - **Clause 8**: Disallows the deduction of loss from a gain of an investment asset.
+  - **Clause 9**: Allows a trust or company to change its year of assessment.
+  - **Clause 10**: Requires NGOs to pay additional tax.
+  - **Clause 12**: Expands withholding tax exemption conditions.
+  - **Clause 18**: Broadens the definition of “agricultural businesses.”
+  - **Clauses 19-21**: Amend schedules related to income tax, capital allowances, royalties, and investment exemptions.
+  - **Clause 24**: Grants retrospective effect to certain amendments from April 1, 2018.
+
+- Changes to schedules for enhanced capital allowances, tax exemptions for charitable institutions, interest on sovereign bonds, and specific business dividends.
+- Price for the Gazette: Rs. 28.00, with postage at Rs. 15.00.
+- Document accessible on www.documents.gov.lk.
