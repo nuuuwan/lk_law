@@ -1,7 +1,3 @@
-# 📄  Mahapola Higher Education Scholarship Trust Fund (Amendment) - GS
-
-Bill published on **2021-10-28**.
-
 - The document is a Gazette supplement from the Democratic Socialist Republic of Sri Lanka, dated October 22, 2021, related to a bill to amend the Mahapola Higher Education Scholarship Trust Fund Act, No. 66 of 1981.
 - The bill is issued by the Minister of Trade and printed by the Department of Government Printing.
 - The document includes a statement of legal implications of the amendments:
