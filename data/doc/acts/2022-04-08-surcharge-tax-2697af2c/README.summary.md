@@ -1,7 +1,3 @@
-# ⚖️  Surcharge Tax
-
-Act published on **2022-04-08**.
-
 - The Surcharge Tax Act, No. 14 of 2022 was certified on April 8, 2022.
 - The Act imposes a surcharge tax on individuals, partnerships, and companies with taxable income exceeding 2 billion rupees for the year starting April 1, 2020.
 - The tax rate is set at 25% on the taxable income.

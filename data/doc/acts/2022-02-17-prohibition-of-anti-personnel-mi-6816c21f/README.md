@@ -2,4 +2,27 @@
 
 Act published on **2022-02-17**.
 
-
+- **Act Title:** Prohibition of Anti-Personnel Mines Act, No. 3 of 2022.
+- **Certified Date:** 17th February 2022.
+- **Purpose:** Implement the Convention on the Prohibition of the Use, Stockpiling, Production, and Transfer of Anti-Personnel Mines and their destruction.
+- **Application:** Applies to any person within Sri Lanka, on board any Sri Lankan ship or aircraft, or any Sri Lankan citizen outside Sri Lanka.
+- **Offences Defined:**
+  - Receiving, using, developing, producing, importing, exporting, selling, exposing for sale, purchasing, supplying, transporting, acquiring, possessing, retaining, stockpiling, or transferring anti-personnel mines.
+  - Modifying or converting an anti-personnel mine.
+- **Penalties:** Up to Rs. 500,000 in fines or up to 10 years in prison, or both.
+- **Exceptions:** Members of armed forces and police can handle mines for mine detection, clearance, deactivation, or destruction with ministerial authorization.
+- **Reporting Requirements:** Members of armed forces or police must report their activities related to anti-personnel mines to the Minister and keep records and send periodic reports.
+- **Destruction**:
+  - The Secretary is responsible for the destruction of all anti-personnel mines owned or possessed by the government, except those for training purposes authorized by the Minister.
+  - Efforts must be made to identify and mark areas with anti-personnel mines on state land to exclude the public until their destruction.
+- **Private Premises:** Armed forces or police can enter private premises to deal with anti-personnel mines with the owner’s consent or a warrant.
+- **Offences Related to Reporting and Obstruction:**
+  - Failing to inform authorities about finding mines.
+  - Resisting or obstructing officials in performing their duties.
+- **Legal Jurisdiction:** The High Court in Colombo has exclusive jurisdiction over offences under this Act.
+- **General Penalty:** Up to Rs. 500,000 in fines or up to 5 years in prison, or both.
+- **Forfeiture:** Courts can order the forfeiture of articles involved in the offence.
+- **Regulations:** The Minister can make regulations related to search and seizure, detention, and record-keeping.
+- **Mutual Assistance:** The Mutual Assistance in Criminal Matters Act applies for international cooperation.
+- **Interpretation:** Detailed definitions provided for terms such as "anti-personnel mine," "armed forces," "convention," "government institution," "minister," and "transfer."
+- **Official Text:** In the event of inconsistency between Sinhala and Tamil texts, the Sinhala text prevails.

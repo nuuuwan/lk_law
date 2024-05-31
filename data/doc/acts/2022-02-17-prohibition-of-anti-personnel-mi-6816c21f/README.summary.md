@@ -1,7 +1,3 @@
-# ⚖️  Prohibition of Anti-Personnel Mines
-
-Act published on **2022-02-17**.
-
 - **Act Title:** Prohibition of Anti-Personnel Mines Act, No. 3 of 2022.
 - **Certified Date:** 17th February 2022.
 - **Purpose:** Implement the Convention on the Prohibition of the Use, Stockpiling, Production, and Transfer of Anti-Personnel Mines and their destruction.
