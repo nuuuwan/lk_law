@@ -1,7 +1,3 @@
-# 📄  Gender Equality - GS
-
-Bill published on **2024-04-17**.
-
 - **Purpose of the Bill**: To formulate and implement a National Policy on Gender Equality and Empowerment of Women.
 - **Appointment of Gender Focal Point**: Designation of individuals in public and private institutions to address gender equality issues.
 - **Objects of the Act**:

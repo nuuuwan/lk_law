@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Electricity - GS
-
-Bill published on **2024-04-17**.
-
 - **Purpose of Bill**: Implement reforms in the electricity industry.
 - **Key Provisions**:
   - **Establishment of the National Electricity Advisory Council**: A body to advise on national electricity policy.
@@ -34,5 +30,4 @@ Bill published on **2024-04-17**.
 - **Encouragement of Renewable Energy**:
   - Implements measures to promote energy efficiency and reduce dependence on fossil fuels.
   - Encourages private investment in renewable energy technologies.
-
 
