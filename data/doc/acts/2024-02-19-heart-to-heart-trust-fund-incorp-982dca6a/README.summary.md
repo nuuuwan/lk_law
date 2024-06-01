@@ -1,7 +1,3 @@
-# ⚖️  Heart to Heart Trust Fund (Incorporation)
-
-Act published on **2024-02-19**.
-
 - The Heart to Heart Trust Fund (Incorporation) Act, No. 10 of 2024 was certified on February 19, 2024.
 - The Act has been established to incorporate the Heart to Heart Trust Fund, originally set up by a Trust Deed in 2014.
 - The objectives of the body corporate include promoting awareness on heart diseases and providing financial assistance to heart patients.

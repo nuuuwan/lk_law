@@ -1,7 +1,3 @@
-# 📄  Appropriation - GS
-
-Bill published on **2021-09-29**.
-
 - **Purpose**: The bill aims to provide for the financial service of the year 2022, authorizing loan raising inside or outside Sri Lanka, and making financial provisions for governmental activities.
 - **Estimated Government Expenditure**: Sri Lankan Government's estimated expenditure for 2022 is LKR 2,505.346 billion.
 - **Funding Sources**: Expenditures will be met from the Consolidated Fund, other government funds, or loans (both internal and external). Borrowing limits are capped at LKR 3,184.470 billion.

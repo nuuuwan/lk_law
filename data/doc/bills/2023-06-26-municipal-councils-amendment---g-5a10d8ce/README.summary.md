@@ -1,7 +1,3 @@
-# 📄  Municipal Councils (Amendment) - GS
-
-Bill published on **2023-06-26**.
-
 - Amendment to the Municipal Councils Ordinance (Chapter 252).
 - Bill to be presented in Parliament by Hon. Jayantha Ketagoda, M.P.
 - Printed at the Department of Government Printing, Sri Lanka.
