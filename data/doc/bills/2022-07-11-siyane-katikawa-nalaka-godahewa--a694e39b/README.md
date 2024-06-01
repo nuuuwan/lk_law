@@ -1,3 +1,16 @@
 # 📄  Siyane Katikawa Nalaka Godahewa Foundation (Incorporation) - GS
 
 Bill published on **2022-07-11**.
+
+- A bill is proposed to incorporate the Siyane Katikawa Nalaka Godahewa Foundation.
+- The bill is presented in Parliament by Hon. Premnath C. Dolawatte, M.P., for Colombo District.
+- The foundation aims to support family units, protect human rights, and promote social order without discrimination.
+- The management of the foundation will transition to a Board of Management with specific rules for the election and roles of office bearers.
+- The corporation will have the power to acquire properties, raise funds, manage finances, and undertake lawful trusts.
+- Rules may be created and amended regarding membership, management, and meetings.
+- The foundation will maintain a register of members and have its own fund for financial transactions.
+- Financial accounts will be audited annually by the Auditor-General or a qualified auditor.
+- The Board must submit annual reports including financial statements to relevant governmental authorities.
+- Upon dissolution, any remaining property must go to an institution with similar objectives.
+- The foundation’s seal and legal processes are regulated to ensure proper handling.
+- The rights of the Republic or other bodies will not be prejudiced by this Act, and in the event of language inconsistencies, the Sinhala text prevails.

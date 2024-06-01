@@ -1,7 +1,3 @@
-# 📄  Siyane Katikawa Nalaka Godahewa Foundation (Incorporation) - GS
-
-Bill published on **2022-07-11**.
-
 - A bill is proposed to incorporate the Siyane Katikawa Nalaka Godahewa Foundation.
 - The bill is presented in Parliament by Hon. Premnath C. Dolawatte, M.P., for Colombo District.
 - The foundation aims to support family units, protect human rights, and promote social order without discrimination.
