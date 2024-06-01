@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - Bill
-
-Bill published on **2024-03-13**.
-
 - **Presented and Publishing Information:**
   - Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on March 5, 2024.
   - Published in the Gazette on February 13, 2024.

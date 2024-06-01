@@ -1,7 +1,3 @@
-# 📄  Workmen's Compensation (Amendment) - Bill
-
-Bill published on **2022-02-08**.
-
 - **Bill Presented**: By the Minister of Labour on February 8, 2022.
 - **Publication**: Published in the Gazette on January 24, 2022 [Bill No. 104].
 - **Amendment Focus**: Amends the Workmen’s Compensation Ordinance (Chapter 139).

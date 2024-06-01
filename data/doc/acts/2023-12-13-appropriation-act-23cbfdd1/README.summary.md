@@ -1,7 +1,3 @@
-# ⚖️  Appropriation Act
-
-Act published on **2023-12-13**.
-
 - **Appropriation Act, No. 34 of 2023**: Certified on December 13, 2023.
 - **Purpose**: 
   - Provides financial services authorization for 2024.

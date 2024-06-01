@@ -1,7 +1,3 @@
-# 📄  Coconut Development (Amendment) - Bill
-
-Bill published on **2019-03-19**.
-
 - Title: Coconut Development (Amendment) Bill
 - Purpose: Amend the Coconut Development Act, No. 46 of 1971
 - Presented by: Minister of Plantation Industries
