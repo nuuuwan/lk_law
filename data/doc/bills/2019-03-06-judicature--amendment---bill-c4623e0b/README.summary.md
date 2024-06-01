@@ -1,7 +1,3 @@
-# 📄  Judicature  (Amendment)  -Bill
-
-Bill published on **2019-03-06**.
-
 - The document is a Bill to amend the Judicature Act, No. 2 of 1978 of Sri Lanka.
 - Presented by the Minister of Justice and Prison Reforms on March 6, 2019.
 - Published in the Gazette on February 15, 2019.

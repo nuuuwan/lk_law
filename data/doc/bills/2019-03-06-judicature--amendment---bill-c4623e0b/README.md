@@ -2,4 +2,18 @@
 
 Bill published on **2019-03-06**.
 
-
+- The document is a Bill to amend the Judicature Act, No. 2 of 1978 of Sri Lanka.
+- Presented by the Minister of Justice and Prison Reforms on March 6, 2019.
+- Published in the Gazette on February 15, 2019.
+- Bill is identified as [Bill No. 273].
+- The price for printing is Rs. 12.00; postage is Rs. 15.00.
+- The Bill can be downloaded from www.documents.gov.lk.
+- Clause 2 amends Section 45 of the Judicature Act:
+  - Enables the appointment of Justices of the Peace for any Administrative District.
+  - Existing appointments deemed as made for the Administrative District containing their residence.
+  - Allows the Minister to regulate suspension, cancellation, and termination of office of Justices of the Peace.
+- This amendment introduces new subsections:
+  - “(2)” specifies the appointment process by the Minister.
+  - “(2A)” defines "administrative district" as per the Administrative Districts Act (Chapter 392).
+  - “(6)” provides the Minister the power to make regulations.
+- In case of inconsistency between Sinhala and Tamil texts, the Sinhala text will prevail.
