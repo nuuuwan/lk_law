@@ -1,7 +1,3 @@
-# 📄  Excise (Amendment) (GS) 
-
-Bill published on **2019-07-12**.
-
 - The document is a supplement to "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA," issued on July 12, 2019.
 - It includes a bill to amend the Excise Ordinance (Chapter 52), ordered by the Minister of Finance.
 - The document is printed by the Department of Government Printing, Sri Lanka, and available for purchase.

@@ -1,3 +1,17 @@
 # 📄  Excise (Amendment) (GS) 
 
 Bill published on **2019-07-12**.
+
+- The document is a supplement to "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA," issued on July 12, 2019.
+- It includes a bill to amend the Excise Ordinance (Chapter 52), ordered by the Minister of Finance.
+- The document is printed by the Department of Government Printing, Sri Lanka, and available for purchase.
+- Legal effect statements:
+  - Clause 2 amends section 35 to expand provisions for arresting offenders without a warrant.
+  - Clause 3 amends section 52 to empower Magistrates to take cognizance of more offenses.
+- Key amendments:
+  - Section 35 modifications involve expanding the list of offenses for arrest without a warrant.
+  - Section 52 changes include:
+    - Repealing and substituting paragraph (a) of subsection (1).
+    - Amending paragraph (b) in subsection (1) for better clarity on complaints or reports.
+    - Inserting a new paragraph (c) for knowledge or suspicion-based actions under section 50.
+- If there is any inconsistency, the Sinhala text of the Act will prevail.

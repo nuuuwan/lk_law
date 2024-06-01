@@ -1,7 +1,3 @@
-# 📄  Minimum Retirement Age of Workers _ GS
-
-Bill published on **2021-10-12**.
-
 - **Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka (Part II, October 08, 2021)
 - **Subject**: Bill on Minimum Retirement Age of Workers
 - **Issued Date**: 12.10.2021
