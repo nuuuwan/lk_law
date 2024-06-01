@@ -1,7 +1,3 @@
-# 📄  Industrial Disputes (Amendment) - Bill
-
-Bill published on **2022-06-22**.
-
 - The Gazette of the Democratic Socialist Republic of Sri Lanka includes an amendment to the Industrial Disputes Act (Chapter 131).
 - The amendment is ordered to be published by the Minister of Labour and Foreign Employment.
 - New clauses have been inserted to require employers to furnish security in cash when appealing against certain court decisions.
