@@ -1,7 +1,3 @@
-# ⚖️  Debt Conciliation (Amendment)
-
-Act published on **2019-02-05**.
-
 - Amendment to the Debt Conciliation Ordinance (Chapter 81).
 - Act certified on February 5, 2019, as Act No. 4 of 2019.
 - Published in the Gazette of the Democratic Socialist Republic of Sri Lanka on February 8, 2019.

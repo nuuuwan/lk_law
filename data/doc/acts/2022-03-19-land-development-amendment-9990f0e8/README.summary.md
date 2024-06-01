@@ -1,7 +1,3 @@
-# ⚖️  Land Development (Amendment)
-
-Act published on **2022-03-19**.
-
 - **Short Title:** Cited as the Land Development (Amendment) Act, No. 11 of 2022.
 - **Certification Date:** Certified on March 19, 2022.
 - **Amendments:**
