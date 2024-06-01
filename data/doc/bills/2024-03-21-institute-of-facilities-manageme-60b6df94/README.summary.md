@@ -1,7 +1,3 @@
-# 📄  Institute of Facilities Management Sri Lanka - Bill
-
-Bill published on **2024-03-21**.
-
 **Summary of Key Points:**
 
 - **Title and Purpose:** Bill to incorporate the Institute of Facilities Management Sri Lanka (IFMSL).
@@ -38,4 +34,3 @@ Bill published on **2024-03-21**.
   - Property and funds management.
   - Seal regulations.
   - Sinhala text prevails in case of inconsistency.
-

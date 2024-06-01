@@ -1,3 +1,36 @@
 # ⚖️  Institute of Environmental Professionals, Sri Lanka (Incorporation) 
 
 Act published on **2020-02-26**.
+
+- **Act Certification Date:** Certified on February 26, 2020.
+- **Purpose of Act:** Incorporate the Institute of Environmental Professionals, Sri Lanka.
+- **Institute Objectives:**
+  - Uphold dignity and reputation of environmental professionals.
+  - Disseminate environmental knowledge to the public.
+  - Foster communication among environmental professionals.
+  - Encourage interdisciplinary research on environmental issues.
+  - Provide a platform for discussing environmental and developmental issues.
+  - Promote environmental publications.
+  - Assist government bodies in environmental conservation and training programs.
+- **Structure:**
+  - Governing Council manages the affairs.
+  - Interim Council functions until the first Council is elected within a year.
+  - Office bearers serve one-year terms and can be re-elected.
+- **Powers of the Body Corporate:**
+  - Ability to purchase, rent, construct, and renovate properties.
+  - Enter into contracts and agreements.
+  - Raise funds and receive donations (foreign donations need approval from the Department of External Resources).
+  - Make investments, execute trusts, and manage financial instruments and bank accounts.
+- **Financial Management:**
+  - Maintain own Fund with deposits in approved banks.
+  - Accounts are audited annually by the Auditor-General or a qualified auditor.
+  - Annual reports and financial accounts submitted to relevant government bodies.
+- **Property and Funds Use:** 
+  - Assets used solely for promoting corporate objectives, with no distribution of profits to members.
+  - Proper management of assets and funds, including upon dissolution.
+- **Miscellaneous:**
+  - The corporate seal is used with strict protocols.
+  - Rules made by the corporate body must be published and managed per the Act.
+  - Maintenance of a register of members.
+  - Rights of the Republic are unaffected by the Act.
+  - Sinhala text prevails in case of inconsistency between language versions of the Act.

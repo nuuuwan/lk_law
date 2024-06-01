@@ -1,7 +1,3 @@
-# 📄  The Recognition and Enforcement of International Settlement Agreements - GS
-
-Bill published on **2023-10-16**.
-
 - The document pertains to a bill titled "The Recognition and Enforcement of International Settlement Agreements Resulting from Mediation."
 - The bill aims to give effect to the United Nations Convention on International Settlement Agreements resulting from Mediation, known as the Singapore Convention on Mediation.
 - It includes provisions for the recognition and enforcement of international settlement agreements and matters incidental thereto.

@@ -1,7 +1,3 @@
-# ⚖️  Institute of Environmental Professionals, Sri Lanka (Incorporation) 
-
-Act published on **2020-02-26**.
-
 - **Act Certification Date:** Certified on February 26, 2020.
 - **Purpose of Act:** Incorporate the Institute of Environmental Professionals, Sri Lanka.
 - **Institute Objectives:**
