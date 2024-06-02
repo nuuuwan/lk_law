@@ -1,3 +1,37 @@
 # 📄  Sahana Community Development Foundation (Incorporation) - GS
 
 Bill published on **2021-10-04**.
+
+- **Bill Title and Presentation:**
+  - Bill to incorporate the Sahana Community Development Foundation.
+  - Presented by Hon. Buddhika Pathirana, M.P. for Matara District.
+- **Publication Details:**
+  - Printed at the Department of Government Printing, Sri Lanka.
+  - Available for purchase and download online.
+- **Objectives of Incorporation:**
+  - Conduct educational workshops, discussions, and seminars.
+  - Promote cultural talents and award certificates to talented school children.
+  - Implement training programs for children focusing on values, good conduct, and leadership qualities.
+  - Conduct leadership camps and practical programs to develop patriotism and physical capabilities.
+  - Organize educational tours, shramadanas, and environmental protection workshops.
+  - Support services provided by senior citizens' movements and various educational programs.
+  - Encourage farmers in agricultural activities and support the 'Ranaviru' programs.
+  - Provide self-employment training and coordinate with local/foreign institutions.
+  - Assist in the development of religious places and welfare activities for pensioners.
+- **Operational Structure:**
+  - Managed by a Board of Directors consisting of a Chairman, Secretary, Treasurer, and five elected members.
+  - Members to hold office for four years, with provisions for filling vacancies.
+- **Powers and Functions:**
+  - Authorized to perform acts necessary for its objectives, including acquiring and managing property, opening bank accounts, borrowing money, and employing staff.
+- **Rule-Making Authority:**
+  - Corporation can make rules regarding membership, meetings, officers’ duties, and property management.
+  - Rules can be amended by a two-thirds majority of the members.
+- **Financial Provisions:**
+  - Corporation to maintain its own fund, with all monies deposited in bank accounts as decided by the Board.
+  - Proper accounts to be maintained and audited annually by a qualified auditor.
+- **Miscellaneous Provisions:**
+  - Limitation of members' liability to their membership fees.
+  - Property remaining after dissolution to be transferred to similar institutions.
+  - Seal of the Corporation to be affixed in presence of the Chairman and Secretary.
+  - Act does not affect the rights of the Republic or any body corporate.
+  - Sinhala text to prevail in case of any inconsistency with Tamil text.

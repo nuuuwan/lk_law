@@ -1,7 +1,3 @@
-# 📄  Sahana Community Development Foundation (Incorporation) - GS
-
-Bill published on **2021-10-04**.
-
 - **Bill Title and Presentation:**
   - Bill to incorporate the Sahana Community Development Foundation.
   - Presented by Hon. Buddhika Pathirana, M.P. for Matara District.
