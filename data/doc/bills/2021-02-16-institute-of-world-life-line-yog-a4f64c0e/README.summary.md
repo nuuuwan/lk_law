@@ -1,7 +1,3 @@
-# 📄  Institute of World Life Line Yoga (Incorporation) - GS
-
-Bill published on **2021-02-16**.
-
 - A bill to incorporate the Institute of World Life Line Yoga, a private entity in Sri Lanka.
 - The bill is presented by Hon. Buddhika Pathirana, M.P. for Matara District.
 - The incorporated Institute aims to:

@@ -2,4 +2,19 @@
 
 Bill published on **2021-02-16**.
 
-
+- A bill to incorporate the Institute of World Life Line Yoga, a private entity in Sri Lanka.
+- The bill is presented by Hon. Buddhika Pathirana, M.P. for Matara District.
+- The incorporated Institute aims to:
+  - Expand branches for Yoga and meditation training.
+  - Provide vocational training to improve youth leadership and personality.
+  - Offer free Yoga and Bawana programs to maintain physical and mental spirituality.
+- A Board of Directors will manage the Corporation’s affairs, initially consisting of the current Board of Administration.
+- The Corporation has the authority to:
+  - Acquire and manage property.
+  - Operate bank accounts.
+  - Engage and manage staff.
+- The Corporation can amend its rules regarding membership, meetings, and property management through a majority vote.
+- All debts and liabilities of the existing Foundation will be carried over to the new Corporation.
+- Proper accounts are to be maintained and audited annually.
+- Any remaining property upon dissolution will be transferred to similar institutions.
+- The Sinhala text of the Act takes precedence in case of any inconsistency between the Sinhala and Tamil versions.
