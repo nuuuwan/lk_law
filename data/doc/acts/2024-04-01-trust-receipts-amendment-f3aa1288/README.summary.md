@@ -1,7 +1,3 @@
-# ⚖️  Trust Receipts (Amendment)
-
-Act published on **2024-04-01**.
-
 - Trust Receipts (Amendment) Act, No. 19 of 2024 certified on April 1, 2024.
 - Published in the Gazette of Sri Lanka on April 5, 2024.
 - Can be downloaded from www.documents.gov.lk.

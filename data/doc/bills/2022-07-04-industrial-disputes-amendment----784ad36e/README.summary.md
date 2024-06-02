@@ -1,7 +1,3 @@
-# 📄  Industrial Disputes (Amendment) - GS
-
-Bill published on **2022-07-04**.
-
 - **Document Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of July 01, 2022 (Supplement issued on 04.07.2022)
 - **Subject**: Industrial Disputes (Amendment) Bill
 - **Purpose**: To amend the Industrial Disputes Act (Chapter 131)
