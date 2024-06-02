@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - GS
-
-Bill published on **2021-12-27**.
-
 - The document is a government publication from Sri Lanka.
 - It mentions an amendment to the Penal Code (Chapter 19).
 - The publication date is December 27, 2021.
@@ -12,4 +8,3 @@ Bill published on **2021-12-27**.
 - Clause 2 of the amendment repeals sections 285, 286, and 286A of the Penal Code.
 - The repeal is related to the new Prohibition of Obscene Publications Bill.
 - The Sinhala text of the amendment prevails in case of inconsistencies between the Sinhala and Tamil texts.
-
