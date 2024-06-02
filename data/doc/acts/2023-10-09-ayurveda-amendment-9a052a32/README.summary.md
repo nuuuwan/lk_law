@@ -1,7 +1,3 @@
-# ⚖️  Ayurveda (Amendment)
-
-Act published on **2023-10-09**.
-
 - The Ayurveda (Amendment) Act, No. 19 of 2023, was certified on October 9, 2023.
 - The Act amends the principal Ayurveda Act, No. 31 of 1961.
 - The amendments include:
