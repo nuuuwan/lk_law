@@ -1,3 +1,23 @@
 # 📄  Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa (Incorporation) - GS
 
 Bill published on **2021-03-19**.
+
+- **Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of March 19, 2021, Supplement.
+- **Bill for Incorporation**: Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa Incorporation Bill, presented by Hon. Ashoka Priyantha, M.P. for Puttalam District.
+- **Purpose**: Incorporate Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa, formed for carrying out Buddhist educational and religious activities.
+- **General Objects**:
+  - Produce Buddhist practicing laymen and clergy.
+  - Publish religious books and conduct dhamma sermons.
+  - Safeguard and practice traditions of Dedigama Sri Maithri Pragnartha Thero.
+  - Provide infrastructure for quality education for novice monks.
+  - Establish equality among Sri Sambodhi Aranya Senasanas and manage religious resources.
+  - Conduct meditation and religious programs.
+  - Facilitate educational opportunities and enhance quality knowledge in Buddhist practices.
+- **Management**: Administered by a Committee of Management including Chairman, Secretary, Treasurer, and eleven members.
+- **Powers**: Ability to operate bank accounts, receive donations, invest funds, employ staff, and manage property.
+- **Funding**: Funds from gifts, donations, fees, and grants; managed and audited annually.
+- **Property**: Corporation can acquire, hold, and dispose of property.
+- **Dissolution**: Remaining property to be transferred to similar institutions.
+- **Seal**: Affixed in the presence of two management committee members.
+- **Legal Rights**: The Act does not prejudice the rights of the Republic or other entities.
+- **Language**: In case of inconsistency, the Sinhala text prevails.

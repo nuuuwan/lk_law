@@ -1,7 +1,3 @@
-# 📄  Urban Councils (Amendment) - GS
-
-Bill published on **2023-06-26**.
-
 - Document title: "THE GAZETTE OF THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA"
 - Date: Issued on 26.06.2023
 - Subject: Urban Councils (Amendment) Bill

@@ -1,7 +1,3 @@
-# 📄  Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa (Incorporation) - GS
-
-Bill published on **2021-03-19**.
-
 - **Title**: The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II of March 19, 2021, Supplement.
 - **Bill for Incorporation**: Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa Incorporation Bill, presented by Hon. Ashoka Priyantha, M.P. for Puttalam District.
 - **Purpose**: Incorporate Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa, formed for carrying out Buddhist educational and religious activities.
