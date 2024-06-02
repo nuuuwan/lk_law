@@ -1,7 +1,3 @@
-# 📄  Minimum Wages (Indlan Labour) (Amendment) - Bill
-
-Bill published on **2020-10-22**.
-
 - **Bill Introduction:**
   - Presented by Sri Lankan Minister of Labour on October 22, 2020.
   - Published in the Gazette on October 7, 2020.
