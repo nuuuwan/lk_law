@@ -1,3 +1,14 @@
 # 📄  Land (Restrictions on Alienation) (Amendment) - GS
 
 Bill published on **2019-10-15**.
+
+- **Date of Gazette Publication**: Part II of October 11, 2019, issued on 15.10.2019.
+- **Subject**: Amendment to the Land (Restrictions on Alienation) Act, No. 38 of 2014.
+- **Title**: Land (Restrictions on Alienation) (Amendment) Bill.
+- **Authority**: Ordered to be published by the Minister of Finance.
+- **Availability**: Print copies from the Department of Government Printing and Government Publications Bureau, Colombo 5. Also downloadable from www.documents.gov.lk.
+- **Cost**: Rs. 6.00 for the document, Rs. 15.00 for postage.
+- **Key Amendment Description**:
+  - **Clause 2**: Amends Section 3 of the 2014 Act, extending the exemption for land transactions to relevant companies which acquired lands before April 1, 2018.
+  - **Repeal and Substitution**: Paragraph (i) of subsection (1) in Section 3 of Act No. 38 is repealed and replaced with: "any land, the title of which is transferred to a company referred to in paragraph (b) of subsection (1) of section 2, listed in the Colombo Stock Exchange."
+  - **Language Precedence**: In case of inconsistency between the Sinhala and Tamil texts, the Sinhala text shall prevail.

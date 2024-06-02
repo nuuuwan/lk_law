@@ -1,7 +1,3 @@
-# 📄  Land (Restrictions on Alienation) (Amendment) - GS
-
-Bill published on **2019-10-15**.
-
 - **Date of Gazette Publication**: Part II of October 11, 2019, issued on 15.10.2019.
 - **Subject**: Amendment to the Land (Restrictions on Alienation) Act, No. 38 of 2014.
 - **Title**: Land (Restrictions on Alienation) (Amendment) Bill.
