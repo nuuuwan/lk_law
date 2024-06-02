@@ -1,7 +1,3 @@
-# 📄  Shaili Edutainment Foundation (Incorporation) - GS
-
-Bill published on **2021-10-25**.
-
 - **Bill Introduction:**
   - Presented by Hon. (Dr.) (Ms.) Harini Amarasuriya, MP.
   - Printed by the Department of Government Printing, Sri Lanka.
