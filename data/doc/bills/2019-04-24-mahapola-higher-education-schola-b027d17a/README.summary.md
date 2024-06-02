@@ -1,7 +1,3 @@
-# 📄  Mahapola Higher Education Scholarship Trust Fund (Amendment) - GS
-
-Bill published on **2019-04-24**.
-
 - The Mahapola Higher Education Scholarship Trust Fund Act, No. 66 of 1981, is being amended.
 - The amendments will rename the act and the fund to the "Lalith Athulathmudali Mahapola Higher Education Scholarship Trust Fund Act" and "Lalith Athulathmudali Mahapola Higher Education Scholarship Trust Fund."
 - Section 15 of the principal enactment is amended to include Trustees of the Fund along with officers and servants.
