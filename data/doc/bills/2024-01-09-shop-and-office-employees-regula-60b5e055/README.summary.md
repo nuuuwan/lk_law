@@ -1,7 +1,3 @@
-# 📄  Shop And Office Employees (Regulation of Employment and Remuneration) (Amendment) - Bill
-
-Bill published on **2024-01-09**.
-
 - Bill to amend the Shop and Office Employees (Regulation of Employment and Remuneration) Act, Chapter 129.
 - Presented by the Minister of Labour and Foreign Employment on January 9, 2024.
 - Published in the Gazette on November 28, 2023.

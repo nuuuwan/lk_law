@@ -1,7 +1,3 @@
-# 📄  Appropriation - Bill
-
-Bill published on **2022-10-18**.
-
 **Key Points from the Document:**
 
 - **Purpose of the Bill:**

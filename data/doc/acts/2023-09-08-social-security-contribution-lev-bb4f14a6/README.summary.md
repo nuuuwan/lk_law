@@ -1,7 +1,3 @@
-# ⚖️  Social Security Contribution Levy (Amendment)
-
-Act published on **2023-09-08**.
-
 - The document pertains to the “Social Security Contribution Levy (Amendment) Act, No. 15 of 2023,” certified on September 8, 2023.
 - The amendment modifies the Social Security Contribution Levy Act, No. 25 of 2022.
 - Changes in the First Schedule include:
