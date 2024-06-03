@@ -1,5 +1,5 @@
-# 📄  Prevention of Offences Relating to Sports - Bill
+# 📄  Betting and Gaming Levy (Amendment) - GS
 
-Bill published on **2019-10-08**.
+Bill published on **2023-03-24**.
 
 
