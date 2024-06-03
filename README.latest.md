@@ -1,5 +1,5 @@
-# ⚖️  Youthful Offenders (Training Schools) (Amendment)
+# 📄  Code of Criminal Procedure (Amendment) - GS
 
-Act published on **2021-10-26**.
+Bill published on **2024-02-13**.
 
 
