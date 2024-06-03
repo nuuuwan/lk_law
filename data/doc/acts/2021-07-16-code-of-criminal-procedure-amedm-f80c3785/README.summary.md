@@ -1,7 +1,3 @@
-# ⚖️  Code of Criminal Procedure (Amedment)
-
-Act published on **2021-07-16**.
-
 - Title: Code of Criminal Procedure (Amendment) Act, No. 14 of 2021
 - Certified on: 15th of July, 2021
 - Published as Supplement to Part II of Sri Lanka Gazette on July 16, 2021

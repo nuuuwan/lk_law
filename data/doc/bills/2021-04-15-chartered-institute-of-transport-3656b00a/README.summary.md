@@ -1,7 +1,3 @@
-# 📄  Chartered Institute of Transport of Sri Lanka (Incorporation)  (Amendment) - (GS)
-
-Bill published on **2021-04-15**.
-
 - The document is a supplement from "The Gazette of the Democratic Socialist Republic of Sri Lanka", Part II, issued on April 15, 2021.
 - It contains a Private Members’ Bill to amend the Chartered Institute of Transport of Sri Lanka (Incorporation) Act, No. 8 of 2000.
 - The bill is presented in Parliament by Hon. (Dr.) (Ms.) Harini Amarasuriya, M.P.
