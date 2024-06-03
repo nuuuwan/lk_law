@@ -1,5 +1,5 @@
-# 📄  Code of Criminal Procedure (Amendment) - GS
+# 📄  Prevention of Offences Relating to Sports - Bill
 
-Bill published on **2024-02-13**.
+Bill published on **2019-10-08**.
 
 
