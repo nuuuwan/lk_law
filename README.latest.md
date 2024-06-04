@@ -1,5 +1,5 @@
-# 📄  Declaration of Assets and Liabilities (Amendment) - GS
+# 📄  UnV Foundation (Incorporation) - Bill
 
-Bill published on **2020-12-21**.
+Bill published on **2021-10-07**.
 
 
