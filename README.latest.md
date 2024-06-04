@@ -1,5 +1,5 @@
-# ⚖️  Appropriation (Amendment)
+# 📄  Dassana Bauddha Sanvidhanaya (Incorporation) - Bill
 
-Act published on **2021-11-12**.
+Bill published on **2021-10-21**.
 
 
