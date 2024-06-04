@@ -1,5 +1,5 @@
-# 📄  Twenty Second Amendment to the Constitution - Bill
+# ⚖️  Appropriation (Amendment)
 
-Bill published on **2022-08-10**.
+Act published on **2021-11-12**.
 
 
