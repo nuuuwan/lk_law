@@ -1,5 +1,5 @@
-# 📄  Betting and Gaming Levy (Amendment) - GS
+# 📄  Companies (Amendment) (GS)
 
-Bill published on **2023-03-24**.
+Bill published on **2019-07-23**.
 
 
