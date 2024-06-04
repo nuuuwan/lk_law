@@ -1,5 +1,5 @@
-# ⚖️  Motor Traffic (Amendment)	
+# 📄  Declaration of Assets and Liabilities (Amendment) - GS
 
-Act published on **2019-06-20**.
+Bill published on **2020-12-21**.
 
 
