@@ -1,5 +1,5 @@
-# 📄  Contempt of Courts - GS
+# ⚖️  Registration of Documents (Amendment)
 
-Bill published on **2021-07-12**.
+Act published on **2022-10-31**.
 
 
