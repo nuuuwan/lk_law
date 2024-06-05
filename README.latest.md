@@ -1,5 +1,5 @@
-# 📄  Dassana Bauddha Sanvidhanaya (Incorporation) - Bill
+# 📄  Code of Criminal Procedure (Amendment) -GS
 
-Bill published on **2021-10-21**.
+Bill published on **2019-06-17**.
 
 
