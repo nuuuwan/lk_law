@@ -1,5 +1,5 @@
-# 📄  Saweera Foundation (Incorporation) - Bill
+# 📄  Prescription (Amendment) - GS
 
-Bill published on **2022-06-10**.
+Bill published on **2023-11-10**.
 
 
