@@ -1,5 +1,5 @@
-# 📄  Code of Criminal Procedure (Amendment) -GS
+# 📄  Contempt of Courts - GS
 
-Bill published on **2019-06-17**.
+Bill published on **2021-07-12**.
 
 
