@@ -1,5 +1,5 @@
-# ⚖️  Nation Building Tax (Amendment)
+# 📄  Civil Procedure Code (Amendment) - GS
 
-Act published on **2019-10-20**.
+Bill published on **2023-07-19**.
 
 
