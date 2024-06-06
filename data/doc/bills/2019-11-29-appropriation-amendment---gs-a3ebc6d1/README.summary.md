@@ -1,7 +1,3 @@
-# 📄  Appropriation (Amendment) - GS
-
-Bill published on **2019-11-29**.
-
 - **Title:** Appropriation (Amendment) Act for the Democratic Socialist Republic of Sri Lanka.
 - **Date Issued:** November 29, 2019.
 - **Purpose:** To amend the Appropriation Act, No. 6 of 2019.

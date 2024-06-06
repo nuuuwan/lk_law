@@ -1,7 +1,3 @@
-# 📄  Pragnabandu Scholarship Trust Fund (Incorporation) - GS
-
-Bill published on **2023-12-05**.
-
 - Private Members’ Bill to incorporate the Pragnabandu Scholarship Trust Fund.
 - Presented by Hon. (Major) Pradeep Undugoda, M.P. for Colombo District.
 - Established for advancing education in Sri Lanka, originally by Deed of Trust No. 78.

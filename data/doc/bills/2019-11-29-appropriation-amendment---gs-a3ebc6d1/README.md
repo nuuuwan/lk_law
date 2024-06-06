@@ -1,3 +1,17 @@
 # 📄  Appropriation (Amendment) - GS
 
 Bill published on **2019-11-29**.
+
+- **Title:** Appropriation (Amendment) Act for the Democratic Socialist Republic of Sri Lanka.
+- **Date Issued:** November 29, 2019.
+- **Purpose:** To amend the Appropriation Act, No. 6 of 2019.
+- **Ordered By:** Minister of Finance, Economic and Policy Development.
+- **Publication:** Printed at the Department of Government Printing, Sri Lanka, and available for purchase at the Government Publications Bureau, Colombo 5.
+- **Price and Postage:** Rs. 6.00 and Rs. 15.00 respectively.
+- **Download:** Available at www.documents.gov.lk.
+- **Legal Effect - Clause 2:** 
+  - Amend paragraph (b) of subsection (1) of section 2.
+  - Increase the borrowing limit from rupees 2,079 billion to rupees 2,279 billion.
+- **Section 2 Amendment:** 
+  - Specific change in wording to reflect the new borrowing limit.
+- **Text Consistency Clause:** In case of inconsistencies between the Sinhala and Tamil texts, the Sinhala text shall prevail.
