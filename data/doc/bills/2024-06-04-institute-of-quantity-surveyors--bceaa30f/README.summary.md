@@ -1,7 +1,3 @@
-# 📄  Institute of Quantity Surveyors, Sri Lanka (Incorporation) (Amendment) - Bill
-
-Bill published on **2024-06-04**.
-
 - **Bill Introduction and Presentation**:
   - Bill presented by Hon. Chandima Weerakkody, MP for Galle District on June 4, 2024, to amend the Institute of Quantity Surveyors, Sri Lanka (Incorporation) Act, No. 20 of 2007.
   - Published in the Gazette on May 20, 2024.
