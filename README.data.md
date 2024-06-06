@@ -2,9 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **827** documents, as of *2024-06-06 09:39:31*.
+Downloaded **828** documents, as of *2024-06-06 11:40:16*.
 
 ## 2024
+
+### 2024-06
+
+* 📄 [[2024-06-06] Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/doc/bills/2024-06-06-colombo-association-of-language--1e6c0f7c)
 
 ### 2024-05
 

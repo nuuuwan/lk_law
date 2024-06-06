@@ -1,5 +1,5 @@
-# 📄  Hector Appuhamy Helping Hand Charity Foundation (Incorporation) - Bill
+# ⚖️  Nation Building Tax (Amendment)
 
-Bill published on **2021-11-09**.
+Act published on **2019-10-20**.
 
 
