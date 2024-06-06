@@ -1,7 +1,3 @@
-# 📄  United Christian Fellowship of Sri Lanka (Incorporation) - Bill
-
-Bill published on **2021-06-23**.
-
 - Bill to incorporate the United Christian Fellowship of Sri Lanka.
 - Presented by Hon. Buddhika Pathirana, M. P. for Matara District on June 23, 2021.
 - Published in Gazette on May 18, 2021.

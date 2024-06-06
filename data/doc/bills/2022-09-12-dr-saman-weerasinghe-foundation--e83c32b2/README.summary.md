@@ -1,7 +1,3 @@
-# 📄  Dr. Saman Weerasinghe Foundation (Incorporation) - GS
-
-Bill published on **2022-09-12**.
-
 - **Bill Introduction:** A Private Members’ Bill to incorporate the Dr. Saman Weerasinghe Foundation was presented to Parliament by Hon. Chandima Weerakkody, M.P. for Galle District.
 
 - **Purpose:** To incorporate an already established foundation as a corporate entity for public advantage.
