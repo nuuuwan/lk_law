@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Institute of Taxation (Incorporation) (Amendment)
-
-Act published on **2023-08-21**.
-
 - The act amends the Sri Lanka Institute of Taxation (Incorporation) Act, No. 21 of 2000.
 - Certified on August 21, 2023.
 - Published as a Supplement to Part II of the Gazette on August 25, 2023.
