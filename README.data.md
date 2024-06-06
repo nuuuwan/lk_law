@@ -2,13 +2,14 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **828** documents, as of *2024-06-06 15:39:44*.
+Downloaded **829** documents, as of *2024-06-06 17:41:18*.
 
 ## 2024
 
 ### 2024-06
 
 * 📄 [[2024-06-06] Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/doc/bills/2024-06-06-colombo-association-of-language--1e6c0f7c)
+* 📄 [[2024-06-04] Institute of Quantity Surveyors, Sri Lanka (Incorporation) (Amendment) - Bill](data/doc/bills/2024-06-04-institute-of-quantity-surveyors--bceaa30f)
 
 ### 2024-05
 
