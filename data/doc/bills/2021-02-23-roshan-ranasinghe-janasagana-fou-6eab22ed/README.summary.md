@@ -1,7 +1,3 @@
-# 📄  Roshan Ranasinghe Janasagana Foundation (Incorporation) - Bill
-
-Bill published on **2021-02-23**.
-
 - **Bill Introduction**: Presented by Hon. Amarakeerthi Athukorala, M.P., for Polonnaruwa District, on February 23, 2021.
 - **Purpose**: To incorporate the Roshan Ranasinghe Janasahana Foundation.
 - **Location**: Foundation located at No. 829/1/B, Hospital Junction, Polonnaruwa, Sri Lanka.

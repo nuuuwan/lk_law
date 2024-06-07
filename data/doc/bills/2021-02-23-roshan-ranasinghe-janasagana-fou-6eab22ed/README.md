@@ -1,3 +1,38 @@
 # 📄  Roshan Ranasinghe Janasagana Foundation (Incorporation) - Bill
 
 Bill published on **2021-02-23**.
+
+- **Bill Introduction**: Presented by Hon. Amarakeerthi Athukorala, M.P., for Polonnaruwa District, on February 23, 2021.
+- **Purpose**: To incorporate the Roshan Ranasinghe Janasahana Foundation.
+- **Location**: Foundation located at No. 829/1/B, Hospital Junction, Polonnaruwa, Sri Lanka.
+- **Foundation's Objectives**:
+  - Promote Buddhism, Catholicism, Hinduism, and Islam.
+  - Support traditional and export agricultural activities.
+  - Provide relief in natural disasters and distress.
+  - Offer vocational training and self-employment assistance.
+  - Engage in industrial and commercial ventures.
+  - Set up welfare insurance schemes for members.
+  - Coordinate with similar local and foreign institutions.
+- **Management**: 
+  - Administered by a Board of Directors including a Chairman, Secretary, Treasurer, and eleven other members.
+  - Mr. Roshan Ranasinghe as the lifelong Chairman; succession within his family.
+  - Terms of office are four years for other Board members.
+- **Powers of Corporation**: 
+  - Acquire and manage property.
+  - Open and manage bank accounts.
+  - Accept and collect funds.
+  - Employ staff and engage in commercial activities.
+- **Rules and Regulations**:
+  - Membership classification, meeting procedures, administration, and property management.
+  - Rules can be amended by a general meeting majority.
+- **Financial Provisions**:
+  - Establishment of a Corporation fund.
+  - Proper accounting and annual auditing.
+  - Fund utilization for Corporation's objectives.
+- **Legal Provisions**:
+  - Corporation capable of acquiring movable and immovable property.
+  - Limitation on members’ financial liability.
+  - Asset distribution on dissolution to similar organizations.
+  - Seal usage protocols.
+  - Protection of rights of the Republic and others.
+  - Sinhala text prevails in case of language inconsistency.
