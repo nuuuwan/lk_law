@@ -179,8 +179,7 @@ class Document:
         return os.path.join(self.dir_doc, 'README.summary.md')
 
     def write_doc_readme(self):
-        is_random_redo = random.random() < 0.01
-        if os.path.exists(self.doc_readme_path) and not is_random_redo:
+        if os.path.exists(self.doc_readme_path):
             log.warning(f'{self.doc_readme_path} already exists')
             return
 
@@ -206,6 +205,7 @@ class Document:
         File(self.doc_readme_path).write('\n'.join(lines))
         log.debug(f'Wrote {self.doc_readme_path}')
 
+    def copy_to_latest(self):
         shutil.copyfile(self.doc_readme_path, self.readme_latest_path)
         log.debug(f'Copied to {self.readme_latest_path}')
 
