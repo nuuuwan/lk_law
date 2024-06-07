@@ -2,4 +2,13 @@
 
 Bill published on **2022-09-07**.
 
-
+- **Establishment of Sri Lanka National Commission for UNESCO**: The bill calls for the creation of the Sri Lanka National Commission for UNESCO to enhance international cooperation in education, science, culture, and communication.
+- **Commission Structure**: The Commission will have ex-officio members from various ministries and appointed members with expertise in areas relevant to UNESCO.
+- **Objectives**: The Commission aims to facilitate global networking, exchange information, assist in implementing UNESCO guidelines, and build capacities in education, science, culture, and communication.
+- **Powers and Functions**: These include advising the government, promoting UNESCO programmes, organizing events, mobilizing funds, and maintaining banking operations.
+- **Governance**: The Minister of Education will chair the Commission, supported by a Vice-Chairperson. Members will have set terms and may be removed under certain conditions.
+- **Committees**: Committees on education, natural science, social and human science, culture, communication, and intersectoral issues will assist in carrying out the Commission's duties.
+- **Key Positions**: A Secretary General and Deputy Secretary General with significant experience will be appointed to manage the Commission.
+- **Staffing and Financials**: The Commission can appoint necessary staff, accept donations, and manage funds. Public officers may be temporarily or permanently assigned to the Commission.
+- **Remuneration**: Members and staff will receive remuneration approved by relevant authorities.
+- **Procedural Rules**: The Commission can adopt rules for conducting meetings and business transactions.

@@ -1,7 +1,3 @@
-# 📄  Sri Lanka National Commission for UNESCO - GS
-
-Bill published on **2022-09-07**.
-
 - **Establishment of Sri Lanka National Commission for UNESCO**: The bill calls for the creation of the Sri Lanka National Commission for UNESCO to enhance international cooperation in education, science, culture, and communication.
 - **Commission Structure**: The Commission will have ex-officio members from various ministries and appointed members with expertise in areas relevant to UNESCO.
 - **Objectives**: The Commission aims to facilitate global networking, exchange information, assist in implementing UNESCO guidelines, and build capacities in education, science, culture, and communication.
