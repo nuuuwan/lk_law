@@ -220,5 +220,5 @@ class Document:
                 data_path = os.path.join(dir_pub_type, dir_doc, 'data.json')
                 d = JSONFile(data_path).read()
                 doc_list.append(Document.from_dict(d))
-        doc_list.sort(reverse=True)
+        doc_list.sort(key=lambda doc: doc.date, reverse=True)
         return doc_list
