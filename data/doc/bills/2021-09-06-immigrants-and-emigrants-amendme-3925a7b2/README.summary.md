@@ -1,7 +1,3 @@
-# 📄  Immigrants and Emigrants (Amendment) - Bill
-
-Bill published on **2021-09-06**.
-
 - The bill is an amendment to the Immigrants and Emigrants Act (Chapter 351) of Sri Lanka.
 - Presented by the Prime Minister and Minister of Economic Policies & Plan Implementation, Minister of Buddhasasana, Religious & Cultural Affairs, and Minister of Urban Development & Housing on September 6, 2021.
 - Published in the Gazette on August 02, 2021.
