@@ -1,7 +1,3 @@
-# 📄  Fisheries and Aquatic Resources (Amendment) - Bill
-
-Bill published on **2023-07-05**.
-
 - Title: Fisheries and Aquatic Resources (Amendment) Bill 
 - Presented by: Minister of Fisheries on 05th July 2023
 - Published in the Gazette: February 28, 2023

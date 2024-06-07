@@ -1,7 +1,3 @@
-# 📄  Contempt of Courts - Bill
-
-Bill published on **2021-07-20**.
-
 - **Purpose of the Bill:**
   - Define and limit the powers of courts in punishing contempt.
   - Regulate procedures related to contempt of court.

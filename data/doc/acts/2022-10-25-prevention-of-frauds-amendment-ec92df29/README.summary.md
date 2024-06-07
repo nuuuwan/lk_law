@@ -1,7 +1,3 @@
-# ⚖️  Prevention of Frauds (Amendment)
-
-Act published on **2022-10-25**.
-
 - **Title of the Act:** Prevention of Frauds (Amendment) Act, No. 30 of 2022
 - **Certification and Publication Dates:** Certified on October 25, 2022, and published in the Gazette on October 28, 2022.
 - **Price and Availability:** Printed by the Department of Government Printing, available for Rs. 15.00 with additional postage; downloadable from www.documents.gov.lk.
