@@ -1,7 +1,3 @@
-# ⚖️  Appropriation 
-
-Act published on **2020-11-20**.
-
 - **Act Overview**: Appropriation Act, No. 6 of 2020, certified on November 20, 2020, for the financial year 2020 in Sri Lanka.
 - **Funding and Expenditure**: 
   - Authorized government expenditure estimated at 2718 billion rupees for financial year 2020.
@@ -24,4 +20,3 @@ Act published on **2020-11-20**.
   - Borrowings under prior resolutions to be considered under the current act's provisions.
   - Detailed allocation of funds, including special spending units under various heads, with specific recurrent and capital expenditure.
 - **Language**: In case of inconsistencies, the Sinhala text prevails over other translations.
-
