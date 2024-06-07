@@ -1,7 +1,3 @@
-# 📄  Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS
-
-Bill published on **2024-06-06**.
-
 - The bill is titled "Colombo Association of Language Skills and Dramatic Art (Incorporation) Act, No. 2024".
 - The purpose is to incorporate the Colombo Association of Language Skills and Dramatic Art in Sri Lanka.
 - Presented in Parliament by Hon. Shanakiyan Rajaputhiran Rasamanickam for Batticaloa District.

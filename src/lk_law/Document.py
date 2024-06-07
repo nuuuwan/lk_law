@@ -149,6 +149,8 @@ class Document:
     def summarize(text: str) -> list[str]:
         if len(text) > 30_000:
             text = text[:30_000]
+        if len(sys.argv) < 2:
+            raise ValueError('OpenAI API key is required. Missing argument.')
         api_key = sys.argv[1]
         client = openai.Client(api_key=api_key)
         messages = [
@@ -180,12 +182,10 @@ class Document:
 
     def write_doc_readme(self):
         if os.path.exists(self.doc_readme_path):
-            log.warning(f'{self.doc_readme_path} already exists')
             return
 
         if os.path.exists(self.doc_readme_summary_path):
-            log.warning(f'{self.doc_readme_summary_path} already exists')
-            return
+           return
 
         raw_text = File(self.raw_text_path).read()
         summary = ''
