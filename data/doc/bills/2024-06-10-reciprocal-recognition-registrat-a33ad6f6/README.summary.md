@@ -1,7 +1,3 @@
-# 📄  Reciprocal Recognition, Registration and Enforcement of Foreign Judgments - GS
-
-Bill published on **2024-06-10**.
-
 - Legislation titled "Reciprocal Recognition, Registration, and Enforcement of Foreign Judgments Act, No. of 2024" in Sri Lanka.
 - Aimed at providing a framework for the reciprocal recognition, registration, and enforcement of foreign court judgments.
 - Repeals the Enforcement of Foreign Judgments Ordinance (Chapter 93) and the Reciprocal Enforcement of Judgments Ordinance (Chapter 94).

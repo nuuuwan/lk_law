@@ -2,12 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **829** documents, as of *2024-06-11 15:38:57*.
+Downloaded **830** documents, as of *2024-06-11 17:41:20*.
 
 ## 2024
 
 ### 2024-06
 
+* 📄 [[2024-06-10] Reciprocal Recognition, Registration and Enforcement of Foreign Judgments - GS](data/doc/bills/2024-06-10-reciprocal-recognition-registrat-a33ad6f6)
 * 📄 [[2024-06-06] Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/doc/bills/2024-06-06-colombo-association-of-language--1e6c0f7c)
 * 📄 [[2024-06-04] Institute of Quantity Surveyors, Sri Lanka (Incorporation) (Amendment) - Bill](data/doc/bills/2024-06-04-institute-of-quantity-surveyors--bceaa30f)
 
