@@ -2,15 +2,18 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **830** documents, as of *2024-06-12 15:38:54*.
+Downloaded **832** documents, as of *2024-06-12 17:41:44*.
 
 ## 2024
 
 ### 2024-06
 
+* 📄 [[2024-06-12] Isiwara Development, Social Services and Charity Foundation (Incorporation) - GS](data/doc/bills/2024-06-12-isiwara-development-social-servi-84795de3)
 * 📄 [[2024-06-10] Reciprocal Recognition, Registration and Enforcement of Foreign Judgments - GS](data/doc/bills/2024-06-10-reciprocal-recognition-registrat-a33ad6f6)
 * 📄 [[2024-06-06] Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/doc/bills/2024-06-06-colombo-association-of-language--1e6c0f7c)
+* 📄 [[2024-06-05] J. C. Alawathuwela Foundation (Incorporation) - Bill](data/doc/bills/2024-06-05-j-c-alawathuwela-foundation-inco-a049ce97)
 * 📄 [[2024-06-04] Institute of Quantity Surveyors, Sri Lanka (Incorporation) (Amendment) - Bill](data/doc/bills/2024-06-04-institute-of-quantity-surveyors--bceaa30f)
+
 
 ### 2024-05
 

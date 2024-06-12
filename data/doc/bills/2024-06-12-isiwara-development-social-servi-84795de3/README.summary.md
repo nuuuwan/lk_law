@@ -1,7 +1,3 @@
-# 📄  Isiwara Development, Social Services and Charity Foundation (Incorporation) - GS
-
-Bill published on **2024-06-12**.
-
 - **Title of Act**: Incorporation of the Isiwara Development, Social Services, and Charity Foundation.
 - **Purpose**: Effectual execution and transaction of matters related to the Foundation's goals.
 - **Admittance of Members**: Members now or hereafter admitted will form a corporate body with perpetual succession.
