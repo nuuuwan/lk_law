@@ -1,7 +1,3 @@
-# 📄  Immigration - GS
-
-Bill published on **2024-06-12**.
-
 - **Purpose**: The bill is designed to manage entry, stay, and departure of non-citizens in Sri Lanka, issue travel documents, and repeal specific older laws.
 
 - **Publication**: Ordered for publication by the Minister of Public Security.
