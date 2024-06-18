@@ -1,0 +1,28 @@
+- **Act Name:** Kelaniya Buddhist Women’s Charitable Society (Incorporation) Act, No. 30 of 2024
+- **Certified Date:** June 12, 2024
+- **Purpose:** Incorporation of the Kelaniya Buddhist Women’s Charitable Society
+- **Preamble:** Notes the Society's history and success in fulfilling its objectives, and the public advantage of incorporation.
+- **Short Title:** The Act may be cited as the Kelaniya Buddhist Women’s Charitable Society (Incorporation) Act, No. 30 of 2024.
+- **Commencement:** Upon enactment, the Society members constitute a body corporate named "Kelaniya Buddhist Women’s Charitable Society" with perpetual succession.
+- **Voluntary Social Service Organization:** The body corporate is deemed a Voluntary Social Service Organization under the Act No. 31 of 1980.
+- **General Objects:**
+  - Enhance meditation methods.
+  - Provide access to Buddhist literature.
+  - Foster relations with welfare entities.
+  - Publish Buddhism-related materials.
+  - Collaborate with similar organizations.
+  - Promote Buddhist principles.
+- **Conflict Avoidance:** Activities must not conflict with Government or Provincial Council work.
+- **Management:** Board of Management will handle administration, initially interim until the first official board is established.
+- **Powers:** Includes acquiring property, entering contracts, raising funds, appointing staff, organizing events, and training.
+- **Rules:** Can make rules on membership, office bearers, meetings, and administration, needing a two-thirds majority at meetings to pass.
+- **Register of Members:** Must maintain a register.
+- **Fund:** To handle financial matters, including donations, with expenditure for achieving objectives.
+- **Accounts & Audit:** Financial records must be kept and audited annually, with reports submitted to relevant authorities.
+- **Debts:** Existing debts and subscriptions before the Act’s commencement are transferred to the body corporate.
+- **Property:** Can acquire and manage movable and immovable property.
+- **Application of Funds:** Exclusively for promoting the Society's objects, not for members' personal gain.
+- **Seal:** The corporate seal can only be used in the presence of two Board members.
+- **Dissolution:** Upon dissolution, remaining property goes to a similar institution, not to members.
+- **Rights of the Republic:** The Act does not affect the Republic's rights.
+- **Text Precedence:** In case of inconsistencies, the Sinhala text prevails.
