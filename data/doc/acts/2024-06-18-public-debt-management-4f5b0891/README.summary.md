@@ -1,7 +1,3 @@
-# ⚖️  Public Debt Management
-
-Act published on **2024-06-18**.
-
 - **Title and Date**: Public Debt Management Act, No. 33 of 2024, certified on 18th June 2024.
   
 - **Key Purposes**: 
