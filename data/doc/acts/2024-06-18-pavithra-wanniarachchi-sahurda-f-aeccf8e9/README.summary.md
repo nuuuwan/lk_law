@@ -1,7 +1,3 @@
-# ⚖️  Pavithra Wanniarachchi Sahurda Foundation (Incorporation)
-
-Act published on **2024-06-18**.
-
 - Pavithra Wanniarachchi Sahurda Foundation (Incorporation) Act, No. 31 of 2024, certified on June 18, 2024.
 - Establishes the incorporation of the Pavithra Wanniarachchi Sahurda Foundation.
 - Foundation aims to promote the life and works of Darmadasa Wanniarachchi and support various cultural, social, and welfare initiatives.
