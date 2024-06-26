@@ -2,24 +2,25 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **840** documents, as of *2024-06-26 15:39:51*.
+Downloaded **841** documents, as of *2024-06-26 17:42:03*.
 
 ## 2024
 
 ### 2024-06
 
+* 📄 [[2024-06-19] Reciprocal Recognition, Registration and Enforcement of Foreign Judgments - Bill](data/doc/bills/2024-06-19-reciprocal-recognition-registrat-0b338e0d)
 * ⚖️ [[2024-06-19] Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa (Incorporation)](data/doc/acts/2024-06-19-dedigama-sri-maithri-pragnartha--2140f89e)
 * ⚖️ [[2024-06-19] Institute of Chartered Shipbrokers of Sri Lanka (Incorporation)](data/doc/acts/2024-06-19-institute-of-chartered-shipbroke-d5794bbe)
 * ⚖️ [[2024-06-18] Pavithra Wanniarachchi Sahurda Foundation (Incorporation)](data/doc/acts/2024-06-18-pavithra-wanniarachchi-sahurda-f-aeccf8e9)
 * ⚖️ [[2024-06-18] Public Debt Management](data/doc/acts/2024-06-18-public-debt-management-4f5b0891)
-* ⚖️ [[2024-06-18] International Institute of Theravadha (Incorporation)](data/doc/acts/2024-06-18-international-institute-of-thera-95048c06)
 
+* ⚖️ [[2024-06-18] International Institute of Theravadha (Incorporation)](data/doc/acts/2024-06-18-international-institute-of-thera-95048c06)
 * 📄 [[2024-06-12] Immigration - GS](data/doc/bills/2024-06-12-immigration---gs-e2b656c7)
 * 📄 [[2024-06-12] Isiwara Development, Social Services and Charity Foundation (Incorporation) - GS](data/doc/bills/2024-06-12-isiwara-development-social-servi-84795de3)
 * ⚖️ [[2024-06-12] Saweera Foundation (Incorporation)](data/doc/acts/2024-06-12-saweera-foundation-incorporation-b6877807)
 * ⚖️ [[2024-06-12] Kelaniya Buddhist Women's Charitable Society (Incorporation)](data/doc/acts/2024-06-12-kelaniya-buddhist-womens-charita-70d8b3dc)
-* 📄 [[2024-06-10] Reciprocal Recognition, Registration and Enforcement of Foreign Judgments - GS](data/doc/bills/2024-06-10-reciprocal-recognition-registrat-a33ad6f6)
 
+* 📄 [[2024-06-10] Reciprocal Recognition, Registration and Enforcement of Foreign Judgments - GS](data/doc/bills/2024-06-10-reciprocal-recognition-registrat-a33ad6f6)
 * 📄 [[2024-06-06] Colombo Association of Language Skills and Dramatic Art (Incorporation) - GS](data/doc/bills/2024-06-06-colombo-association-of-language--1e6c0f7c)
 * 📄 [[2024-06-05] J. C. Alawathuwela Foundation (Incorporation) - Bill](data/doc/bills/2024-06-05-j-c-alawathuwela-foundation-inco-a049ce97)
 * 📄 [[2024-06-04] Institute of Quantity Surveyors, Sri Lanka (Incorporation) (Amendment) - Bill](data/doc/bills/2024-06-04-institute-of-quantity-surveyors--bceaa30f)

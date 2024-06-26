@@ -1,7 +1,3 @@
-# 📄  Reciprocal Recognition, Registration and Enforcement of Foreign Judgments - Bill
-
-Bill published on **2024-06-19**.
-
 - The bill addresses the reciprocal recognition, registration, and enforcement of foreign judgments in Sri Lanka.
 - It repeals the Enforcement of Foreign Judgments Ordinance (Chapter 93) and the Reciprocal Enforcement of Judgments Ordinance (Chapter 94).
 - The bill allows the Minister to declare certain foreign judgments to be recognized based on treaties or existing laws ensuring reciprocity between Sri Lanka and other countries.
