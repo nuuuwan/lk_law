@@ -1,7 +1,3 @@
-# ⚖️  Dedigama Sri Maithri Pragnartha Bouddha Educational Daham Sabhawa (Incorporation)
-
-Act published on **2024-06-19**.
-
 - **Act Certification and Publication:**
   - Certified on June 19, 2024.
   - Published as a supplement in the Government Gazette of June 20, 2024.
