@@ -1,7 +1,3 @@
-# 📄  Association of Human Resources Professionals (Incorporation) - GS
-
-Bill published on **2024-06-26**.
-
 - **Bill Overview:**
   - Title: Association of Human Resources Professionals (Incorporation) Act, No. of 2024
   - Presented by: Hon. Madhura Withanage, M.P. for Colombo District
