@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - GS
-
-Bill published on **2024-06-28**.
-
 - Document Title: Code of Criminal Procedure (Amendment)
 - Country: Democratic Socialist Republic of Sri Lanka
 - Published on: June 28, 2024
