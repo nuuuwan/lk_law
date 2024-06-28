@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Electricity
-
-Act published on **2024-06-27**.
-
 - Certified and published in June 2024.
 - Establishes reforms in Sri Lanka's electricity industry.
 - Creates the National Electricity Advisory Council.
