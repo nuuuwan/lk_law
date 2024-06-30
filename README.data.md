@@ -2,9 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **844** documents, as of *2024-06-30 23:38:46*.
+Downloaded **845** documents, as of *2024-07-01 01:38:55*.
 
 ## 2024
+
+### 2024-07
+
+* 📄 [[2024-07-01] Mahawilachchiya Education Centre for Children (Incorporation) - GS](data/doc/bills/2024-07-01-mahawilachchiya-education-centre-77ad92e7)
 
 ### 2024-06
 

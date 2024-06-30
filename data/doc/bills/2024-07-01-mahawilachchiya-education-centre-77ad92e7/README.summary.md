@@ -1,7 +1,3 @@
-# 📄  Mahawilachchiya Education Centre for Children (Incorporation) - GS
-
-Bill published on **2024-07-01**.
-
 - **Name of Bill**: Incorporation of Mahawilachchiya Education Centre for Children.
 - **Introduced by**: Hon. Samanpriya Herath, M.P. for Kurunegala District.
 - **Objective**: To incorporate the Mahawilachchiya Education Centre for Children as a body corporate.
