@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka National Commission for the UNESCO
-
-Act published on **2024-07-02**.
-
 - Establishes the Sri Lanka National Commission for UNESCO.
 - Commission will operate UNESCO-related activities in Sri Lanka and liaise with UNESCO.
 - Objectives include engaging in UNESCO activities, linking local institutions and individuals with UNESCO, and promoting international cooperation.
