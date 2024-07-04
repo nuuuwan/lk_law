@@ -1,7 +1,3 @@
-# 📄  Penal Code (Amendment) - GS
-
-Bill published on **2024-07-04**.
-
 - The document outlines a bill to amend the Penal Code (Chapter 19) of Sri Lanka, issued on June 28, 2024.
 - It was ordered to be published by the Minister of Justice, Prison Affairs, and Constitutional Reforms.
 - The supplement can be downloaded from the official government website.

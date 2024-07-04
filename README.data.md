@@ -2,18 +2,19 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **851** documents, as of *2024-07-04 15:38:57*.
+Downloaded **852** documents, as of *2024-07-04 17:41:02*.
 
 ## 2024
 
 ### 2024-07
 
+* 📄 [[2024-07-04] Penal Code (Amendment) - GS](data/doc/bills/2024-07-04-penal-code-amendment---gs-c7e6af32)
 * 📄 [[2024-07-02] Medical (Amendment) - Bill](data/doc/bills/2024-07-02-medical-amendment---bill-cb8b8b64)
 * 📄 [[2024-07-02] Medical (Amendment) - Bill](data/doc/bills/2024-07-02-medical-amendment---bill-e67f92d8)
 * ⚖️ [[2024-07-02] Sri Lanka National Commission for the UNESCO](data/doc/acts/2024-07-02-sri-lanka-national-commission-fo-1079d4e3)
 * ⚖️ [[2024-07-02] Women Empowerment](data/doc/acts/2024-07-02-women-empowerment-15f2fcde)
-* 📄 [[2024-07-01] Mahawilachchiya Education Centre for Children (Incorporation) - GS](data/doc/bills/2024-07-01-mahawilachchiya-education-centre-77ad92e7)
 
+* 📄 [[2024-07-01] Mahawilachchiya Education Centre for Children (Incorporation) - GS](data/doc/bills/2024-07-01-mahawilachchiya-education-centre-77ad92e7)
 
 ### 2024-06
 
