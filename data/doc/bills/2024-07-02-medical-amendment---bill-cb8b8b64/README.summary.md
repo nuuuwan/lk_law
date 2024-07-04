@@ -1,7 +1,3 @@
-# 📄  Medical (Amendment) - Bill
-
-Bill published on **2024-07-02**.
-
 - **Document Type**: Bill to amend the Medical Ordinance (Chapter 105), presented by the Minister of Health.
 - **Presentation Date**: July 2, 2024.
 - **Gazette Publication Date**: May 30, 2024.
