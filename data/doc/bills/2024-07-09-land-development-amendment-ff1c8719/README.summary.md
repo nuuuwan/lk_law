@@ -1,7 +1,3 @@
-# 📄  Land Development (Amendment)
-
-Bill published on **2024-07-09**.
-
 - Land Development (Amendment) Bill proposed.
 - Amendment pertains to the Land Development Ordinance (Chapter 464).
 - Presented by Hon. (Mrs.) Rohini Kumari Wijerathna, M.P. for Matale District.
