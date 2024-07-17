@@ -1,7 +1,3 @@
-# 📄  Code of Criminal Procedure (Amendment) - Bill
-
-Bill published on **2024-07-10**.
-
 - **Title & Purpose**: Code of Criminal Procedure (Amendment) - A Bill to amend the 1979 Act.
 - **Presentation**: Introduced by the Minister of Justice, Prison Affairs, and Constitutional Reforms on July 10, 2024.
 - **Published**: In the Gazette on June 28, 2024.
