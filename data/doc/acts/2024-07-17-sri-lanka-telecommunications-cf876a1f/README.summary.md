@@ -1,7 +1,3 @@
-# ⚖️  Sri Lanka Telecommunications
-
-Act published on **2024-07-17**.
-
 - **Amendment and Citation**: The Sri Lanka Telecommunications (Amendment) Act, No. 39 of 2024, amends the original Sri Lanka Telecommunications Act, No. 25 of 1991.
 - **Terminology Changes**: Substitutes terms in the principal enactment such as "his" to "its" and "operator" to "operator and provider."
 - **Market Oversight and Regulation**: Introduces provisions for market analysis, preventing market dominance, promoting fair competition, and achieving social policy objectives.
