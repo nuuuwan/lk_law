@@ -1,7 +1,3 @@
-# 📄  The Association of Cricket Umpires, Sri Lanka (Incorporation) - GS
-
-Bill published on **2024-07-17**.
-
 - Introduction of a Bill to incorporate the Association of Cricket Umpires, Sri Lanka.
 - Presented by Hon. Premnath C. Dolawatte, M.P. for Colombo District.
 - The Association has been established to manage cricket umpiring-related matters effectively.
