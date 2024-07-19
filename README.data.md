@@ -2,28 +2,30 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **860** documents, as of *2024-07-19 13:39:28*.
+Downloaded **861** documents, as of *2024-07-19 15:38:36*.
 
 ## 2024
 
 ### 2024-07
 
+* 📄 [[2024-07-18] Twenty Second Amendment to the Constitution - GS](data/doc/bills/2024-07-18-twenty-second-amendment-to-the-c-a315f8b8)
 * ⚖️ [[2024-07-17] Sri Lanka Telecommunications](data/doc/acts/2024-07-17-sri-lanka-telecommunications-cf876a1f)
 * 📄 [[2024-07-17] The Association of Cricket Umpires, Sri Lanka (Incorporation) - GS](data/doc/bills/2024-07-17-the-association-of-cricket-umpir-5ab0a4d7)
 * 📄 [[2024-07-10] Code of Criminal Procedure (Amendment) - Bill](data/doc/bills/2024-07-10-code-of-criminal-procedure-amend-a9afc873)
 * 📄 [[2024-07-09] Mediation Boards (Amendment)](data/doc/bills/2024-07-09-mediation-boards-amendment-e6bbeae1)
-* 📄 [[2024-07-09] Land Development (Amendment)](data/doc/bills/2024-07-09-land-development-amendment-ff1c8719)
 
+* 📄 [[2024-07-09] Land Development (Amendment)](data/doc/bills/2024-07-09-land-development-amendment-ff1c8719)
 * 📄 [[2024-07-09] Mediation Boards (Amendment) - GS](data/doc/bills/2024-07-09-mediation-boards-amendment---gs-6345c3dc)
 * 📄 [[2024-07-09] Isiwara Development, Social Services and Charity Foundation (Incorporation) - Bill](data/doc/bills/2024-07-09-isiwara-development-social-servi-2ee02997)
 * 📄 [[2024-07-09] Land Development (Amendment) - GS](data/doc/bills/2024-07-09-land-development-amendment---gs-03e29bb7)
 * 📄 [[2024-07-04] Penal Code (Amendment) - GS](data/doc/bills/2024-07-04-penal-code-amendment---gs-c7e6af32)
-* ⚖️ [[2024-07-02] Sri Lanka National Commission for the UNESCO](data/doc/acts/2024-07-02-sri-lanka-national-commission-fo-1079d4e3)
 
+* ⚖️ [[2024-07-02] Sri Lanka National Commission for the UNESCO](data/doc/acts/2024-07-02-sri-lanka-national-commission-fo-1079d4e3)
 * ⚖️ [[2024-07-02] Women Empowerment](data/doc/acts/2024-07-02-women-empowerment-15f2fcde)
 * 📄 [[2024-07-02] Medical (Amendment) - Bill](data/doc/bills/2024-07-02-medical-amendment---bill-cb8b8b64)
 * 📄 [[2024-07-02] Medical (Amendment) - Bill](data/doc/bills/2024-07-02-medical-amendment---bill-e67f92d8)
 * 📄 [[2024-07-01] Mahawilachchiya Education Centre for Children (Incorporation) - GS](data/doc/bills/2024-07-01-mahawilachchiya-education-centre-77ad92e7)
+
 
 ### 2024-06
 

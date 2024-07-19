@@ -1,7 +1,3 @@
-# 📄  Twenty Second Amendment to the Constitution - GS
-
-Bill published on **2024-07-18**.
-
 - Title: "Twenty Second Amendment to the Constitution" of Sri Lanka
 - Published in The Gazette of the Democratic Socialist Republic of Sri Lanka, Part II, July 12, 2024 (issued on 18.07.2024)
 - Ordered to be published by His Excellency the President
