@@ -1,7 +1,3 @@
-# 📄  Bills of Exchange (Amendment) - Bill
-
-Bill published on **2024-07-22**.
-
 - **General Amendment**: Replace "Ceylon" with "Sri Lanka" in the Bills of Exchange Ordinance (Chapter 82).
 - **Section 2 Amendment**: Clarify definitions including "banker" and introduce "electronic means" and "facsimile transmission".
 - **Section 9 Amendment**: Update calculation of interest on a bill to the current legal rate.
