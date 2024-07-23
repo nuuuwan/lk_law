@@ -1,7 +1,3 @@
-# 📄  International Traditional Sihelogy Council (ITSC) (Incorporation) - GS
-
-Bill published on **2024-07-23**.
-
 - **Title and Presenter**:
   - The bill titled "International Traditional Sihelogy Council (ITSC) (Incorporation)" will be presented in Parliament by Hon. Premnath C. Dolawatte, M.P. for Colombo District.
 
