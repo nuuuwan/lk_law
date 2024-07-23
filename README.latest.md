@@ -1,21 +1,19 @@
-# 📄  Bills of Exchange (Amendment) - Bill
+# 📄  Bills of Exchange (Amendment) - GS
 
 Bill published on **2024-07-22**.
 
-- **General Amendment**: Replace "Ceylon" with "Sri Lanka" in the Bills of Exchange Ordinance (Chapter 82).
-- **Section 2 Amendment**: Clarify definitions including "banker" and introduce "electronic means" and "facsimile transmission".
-- **Section 9 Amendment**: Update calculation of interest on a bill to the current legal rate.
-- **Section 14 Amendment**: Remove grace period in computation of payment time.
-- **Section 15 Repeal**: Omit obsolete practices due to communication developments.
-- **Section 35 Amendment**: Update to align with modern drafting practices.
-- **Section 49 Amendment**: Allow notice of dishonour via electronic means.
-- **Section 64 Amendment**: Treat alteration in payee name as a material alteration.
-- **Section 74 Amendment**: Permit transmission of cheque images for payment using electronic means.
-- **Section 76 Amendment**: Define general and special cheque crossings.
-- **Section 77 Amendment**: Statutorily recognize crossing of cheques on either side for collection purposes.
-- **Section 80 Amendment**: Provide enhanced protection for paying bankers.
-- **Section 81 Amendment**: Recognize "Account Payee" crossing with or without "only".
-- **Section 82 Amendment**: Enhance protection for paying bankers.
-- **New Sections (82A-82F)**: Establish penalties and procedures for dishonoured cheques.
-- **Section 83 Amendment**: Repeal certain obsolete provisions.
-- **Text Consistency**: Sinhala text prevails in case of inconsistency between Sinhala and Tamil texts.
+- Amendment to the Bills of Exchange Ordinance (Chapter 82).
+- Replaces "Ceylon" with "Sri Lanka".
+- Clarifies definitions, including "banker" and "electronic means".
+- Updates interest calculation on a bill to current legal rate.
+- Removes the grace period for bill payment.
+- Repeals obsolete Section 15 due to communication developments.
+- Modernizes Section 35 to align with current drafting practices.
+- Allows for notice of dishonour by facsimile or electronic means.
+- Recognizes alteration of payee name as a material alteration.
+- Permits electronic transmission (e.g., facsimile) of cheque images for payment.
+- Provides statutory recognition for general and special crossings (e.g., "not negotiable").
+- Enhances protections for paying banks regarding endorser liabilities.
+- Acknowledges "Account Payee" cheques.
+- Institutes penalties and legal consequences for returning unpaid cheques due to insufficient funds.
+
