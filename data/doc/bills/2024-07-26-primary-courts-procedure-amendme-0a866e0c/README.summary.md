@@ -1,7 +1,3 @@
-# 📄  Primary Court’s Procedure (Amendment) - GS
-
-Bill published on **2024-07-26**.
-
 - **Publication Details:**
   - Issued on July 26, 2024, by the Minister of Justice, Prison Affairs, and Constitutional Reforms.
   - Featured in Part II of The Gazette of the Democratic Socialist Republic of Sri Lanka.

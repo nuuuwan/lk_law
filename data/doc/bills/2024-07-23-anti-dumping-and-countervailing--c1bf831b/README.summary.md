@@ -1,0 +1,8 @@
+- The bill proposes amendments to the Anti-Dumping and Countervailing Duties Act, No. 2 of 2018.
+- Presented by the Minister of Finance, Economic Stabilization, and National Policies on July 23, 2024.
+- Published in the Gazette on May 29, 2024.
+- Key changes include transferring powers, duties, and functions from the "Director-General of Commerce" and "Department of Commerce" to the "Secretary to the Ministry of the Minister assigned the subject of International Trade" and the "Office for International Trade" (OIT).
+- Clause 2: Substitutes the terms "Director-General" and "Department" with "Secretary" and "OIT" in the principal enactment.
+- Clause 3: Amends section 85, repeals old definitions, and introduces new definitions for "Minister," "OIT," and "Secretary."
+- The Sinhala text is to prevail in the event of inconsistencies between Sinhala and Tamil texts.
+- The document includes a legal effect statement and a provision for prioritizing the Sinhala text.

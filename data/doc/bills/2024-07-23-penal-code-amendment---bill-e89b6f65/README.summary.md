@@ -1,0 +1,15 @@
+- The Penal Code (Amendment) Bill was presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms of Sri Lanka on July 23, 2024.
+- It was published in the Gazette on July 4, 2024.
+- The amendment specifically targets Section 345 of the Penal Code (Chapter 19).
+- The primary changes include:
+  - Extending the application of Section 345 to cover sexual harassment via any form of communication.
+  - Defining activities constituting sexual harassment through words or actions.
+  - Clarifying the term "communication" to include electronic messages and media.
+- The new Section 345 outlines that sexual harassment can be perpetrated through:
+  - Assault or criminal force.
+  - Use of words, actions, or any communication causing sexual annoyance or harassment.
+  - Activities such as sounds or gestures, exhibiting objects, disrobing, physical contact, requesting sexual favors, showing pornography, making sexual remarks, or exposing genitals.
+- Penalties include imprisonment up to five years, fines, and potential compensation to victims.
+- The Sinhala text prevails in case of inconsistencies between Sinhala and Tamil texts in the Act.
+- The bill is designated [Bill No. 276].
+- The printed version is available for purchase at a cost, with additional postage fees, and can be downloaded from www.documents.gov.lk.
