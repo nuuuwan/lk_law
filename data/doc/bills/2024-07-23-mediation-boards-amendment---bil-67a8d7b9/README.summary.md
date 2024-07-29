@@ -1,0 +1,11 @@
+- Proposed amendment to the Mediation Boards Act, No. 72 of 1988.
+- Presented by the Minister of Justice, Prison Affairs, and Constitutional Reforms on July 23, 2024.
+- Published in the Gazette on July 09, 2024.
+- Bill No. 277, printed by the Department of Government Printing, Sri Lanka.
+- Available for purchase at the Government Publications Bureau, Colombo 5.
+- Bill is available for download from www.documents.gov.lk.
+- Amendment specifics:
+  - Clause 2 amends section 7 of the Mediation Boards Act.
+  - Enables the court of First Instance to entertain applications without a certificate of non-settlement if parties admit non-settlement or are unwilling to resolve through mediation.
+  - If a certificate of non-settlement is not issued within three months, the court can still entertain actions if parties admit non-settlement or show unwillingness for mediation.
+- In case of inconsistency, the Sinhala text will prevail over the Tamil text.
