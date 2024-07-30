@@ -1,7 +1,3 @@
-# 📄  Sri Lanka Optometric Association (Incorporation) - GS
-
-Bill published on **2024-07-29**.
-
 - Incorporation of the Sri Lanka Optometric Association as a body corporate.
 - Act presented by Hon. (Dr.) Kavinda Heshan Jayawardhana, M.P. for Gampaha District.
 - Association aims to enhance and develop primary eye and vision care, promote high standards of education and practice, and the science of optometry.
