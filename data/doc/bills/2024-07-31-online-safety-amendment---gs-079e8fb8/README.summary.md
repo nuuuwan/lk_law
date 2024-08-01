@@ -1,7 +1,3 @@
-# 📄  Online Safety (Amendment) - GS
-
-Bill published on **2024-07-31**.
-
 - **Amendments Overview**:
   - The document discusses amendments to the Online Safety Act, No. 9 of 2024.
   - The amendments cover a variety of provisions relating to online safety, specifically targeting operations of the Online Safety Commission and interactions with internet service providers and intermediaries.
@@ -30,4 +26,3 @@ Bill published on **2024-07-31**.
 
 - **Availability**:
   - The Gazette Supplement is available for download from the Sri Lankan government website.
-
