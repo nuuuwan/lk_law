@@ -2,9 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **876** documents, as of *2024-08-02 13:39:47*.
+Downloaded **877** documents, as of *2024-08-02 15:38:55*.
 
 ## 2024
+
+### 2024-08
+
+* 📄 [[2024-08-01] National Minimum Wage of Workers (Amendment) - SUPPLEMENT (Bill)](data/doc/bills/2024-08-01-national-minimum-wage-of-workers-43e52b30)
 
 ### 2024-07
 

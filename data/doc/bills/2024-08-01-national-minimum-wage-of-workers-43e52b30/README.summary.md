@@ -1,7 +1,3 @@
-# 📄  National Minimum Wage of Workers (Amendment) - SUPPLEMENT (Bill)
-
-Bill published on **2024-08-01**.
-
 - Amendment to National Minimum Wage of Workers Act, No. 3 of 2016.
 - Issuance date: August 1, 2024.
 - Published by the Minister of Labour and Foreign Employment.
