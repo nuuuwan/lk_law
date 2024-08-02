@@ -1,7 +1,3 @@
-# 📄  Public Assets Management - GS
-
-Bill published on **2024-08-02**.
-
 - **Purpose of the Bill**: Establish a Department called the Department of Comptroller-General to manage public assets in Sri Lanka.
 - **Key Functions**:  
   - Identify and compile a National Assets Register for non-financial assets owned, assigned, or used by public institutions.
@@ -31,4 +27,3 @@ Bill published on **2024-08-02**.
   - Existing office and activities of the Comptroller-General will transition to the new Department.
 - **Notable Definitions**:  
   - Includes definitions for terms like "Accounting Officer," "Chief Accounting Officer," "Non-Financial Assets," and "Public Institution."
-

@@ -2,52 +2,54 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **877** documents, as of *2024-08-02 15:38:55*.
+Downloaded **879** documents, as of *2024-08-02 17:41:21*.
 
 ## 2024
 
 ### 2024-08
 
+* 📄 [[2024-08-02] Public Assets Management - GS](data/doc/bills/2024-08-02-public-assets-management---gs-ad710ab1)
 * 📄 [[2024-08-01] National Minimum Wage of Workers (Amendment) - SUPPLEMENT (Bill)](data/doc/bills/2024-08-01-national-minimum-wage-of-workers-43e52b30)
 
 ### 2024-07
 
 * 📄 [[2024-07-31] Online Safety (Amendment) - GS](data/doc/bills/2024-07-31-online-safety-amendment---gs-079e8fb8)
+* 📄 [[2024-07-31] Maternity Benefits (Amendment) - GS](data/doc/bills/2024-07-31-maternity-benefits-amendment---g-5bac2c75)
 * 📄 [[2024-07-30] Kodhagoda Gunarathana Nahimi Foundation - (Incorporation) - GS](data/doc/bills/2024-07-30-kodhagoda-gunarathana-nahimi-fou-dcd2e6af)
 * 📄 [[2024-07-29] Sri Lanka Optometric Association (Incorporation) - GS](data/doc/bills/2024-07-29-sri-lanka-optometric-association-9b2ff637)
 * 📄 [[2024-07-26] Primary Court’s Procedure (Amendment) - GS](data/doc/bills/2024-07-26-primary-courts-procedure-amendme-0a866e0c)
-* 📄 [[2024-07-23] International Traditional Sihelogy Council (ITSC) (Incorporation) - GS](data/doc/bills/2024-07-23-international-traditional-sihelo-962366ca)
 
+* 📄 [[2024-07-23] International Traditional Sihelogy Council (ITSC) (Incorporation) - GS](data/doc/bills/2024-07-23-international-traditional-sihelo-962366ca)
 * 📄 [[2024-07-23] Safeguard Measures (Amendment) - Bill](data/doc/bills/2024-07-23-safeguard-measures-amendment---b-d5f3926b)
 * 📄 [[2024-07-23] Anti-Dumping and Countervailing Duties (Amendment) - Bill](data/doc/bills/2024-07-23-anti-dumping-and-countervailing--c1bf831b)
 * 📄 [[2024-07-23] Mediation Boards (Amendment) - Bill](data/doc/bills/2024-07-23-mediation-boards-amendment---bil-67a8d7b9)
 * 📄 [[2024-07-23] Penal Code (Amendment) - Bill](data/doc/bills/2024-07-23-penal-code-amendment---bill-e89b6f65)
-* 📄 [[2024-07-22] Bills of Exchange (Amendment) - Bill](data/doc/bills/2024-07-22-bills-of-exchange-amendment---bi-ca43111e)
 
+* 📄 [[2024-07-22] Bills of Exchange (Amendment) - Bill](data/doc/bills/2024-07-22-bills-of-exchange-amendment---bi-ca43111e)
 * 📄 [[2024-07-22] Bills of Exchange (Amendment) - GS](data/doc/bills/2024-07-22-bills-of-exchange-amendment---gs-b7f6e563)
 * ⚖️ [[2024-07-19] Shaili Educational Foundation (Incorporation)](data/doc/acts/2024-07-19-shaili-educational-foundation-in-c7bc78e0)
 * 📄 [[2024-07-19] Code of Criminal Procedure (Amendment) - GS](data/doc/bills/2024-07-19-code-of-criminal-procedure-amend-d379af19)
 * 📄 [[2024-07-19] Rent (Repeal) - GS](data/doc/bills/2024-07-19-rent-repeal---gs-44719818)
-* 📄 [[2024-07-19] Protection of Occupants - GS](data/doc/bills/2024-07-19-protection-of-occupants---gs-85a5b90e)
 
+* 📄 [[2024-07-19] Protection of Occupants - GS](data/doc/bills/2024-07-19-protection-of-occupants---gs-85a5b90e)
 * 📄 [[2024-07-18] Twenty Second Amendment to the Constitution - GS](data/doc/bills/2024-07-18-twenty-second-amendment-to-the-c-a315f8b8)
 * ⚖️ [[2024-07-17] Sri Lanka Telecommunications](data/doc/acts/2024-07-17-sri-lanka-telecommunications-cf876a1f)
 * 📄 [[2024-07-17] The Association of Cricket Umpires, Sri Lanka (Incorporation) - GS](data/doc/bills/2024-07-17-the-association-of-cricket-umpir-5ab0a4d7)
 * 📄 [[2024-07-10] Code of Criminal Procedure (Amendment) - Bill](data/doc/bills/2024-07-10-code-of-criminal-procedure-amend-a9afc873)
-* 📄 [[2024-07-09] Mediation Boards (Amendment) - GS](data/doc/bills/2024-07-09-mediation-boards-amendment---gs-6345c3dc)
 
+* 📄 [[2024-07-09] Mediation Boards (Amendment) - GS](data/doc/bills/2024-07-09-mediation-boards-amendment---gs-6345c3dc)
 * 📄 [[2024-07-09] Land Development (Amendment) - GS](data/doc/bills/2024-07-09-land-development-amendment---gs-03e29bb7)
 * 📄 [[2024-07-09] Land Development (Amendment)](data/doc/bills/2024-07-09-land-development-amendment-ff1c8719)
 * 📄 [[2024-07-09] Mediation Boards (Amendment)](data/doc/bills/2024-07-09-mediation-boards-amendment-e6bbeae1)
 * 📄 [[2024-07-09] Isiwara Development, Social Services and Charity Foundation (Incorporation) - Bill](data/doc/bills/2024-07-09-isiwara-development-social-servi-2ee02997)
-* 📄 [[2024-07-04] Penal Code (Amendment) - GS](data/doc/bills/2024-07-04-penal-code-amendment---gs-c7e6af32)
 
+* 📄 [[2024-07-04] Penal Code (Amendment) - GS](data/doc/bills/2024-07-04-penal-code-amendment---gs-c7e6af32)
 * ⚖️ [[2024-07-02] Sri Lanka National Commission for the UNESCO](data/doc/acts/2024-07-02-sri-lanka-national-commission-fo-1079d4e3)
 * ⚖️ [[2024-07-02] Women Empowerment](data/doc/acts/2024-07-02-women-empowerment-15f2fcde)
 * 📄 [[2024-07-02] Medical (Amendment) - Bill](data/doc/bills/2024-07-02-medical-amendment---bill-cb8b8b64)
 * 📄 [[2024-07-02] Medical (Amendment) - Bill](data/doc/bills/2024-07-02-medical-amendment---bill-e67f92d8)
-* 📄 [[2024-07-01] Mahawilachchiya Education Centre for Children (Incorporation) - GS](data/doc/bills/2024-07-01-mahawilachchiya-education-centre-77ad92e7)
 
+* 📄 [[2024-07-01] Mahawilachchiya Education Centre for Children (Incorporation) - GS](data/doc/bills/2024-07-01-mahawilachchiya-education-centre-77ad92e7)
 
 ### 2024-06
 
