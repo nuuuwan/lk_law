@@ -1,7 +1,3 @@
-# 📄  Companies (Amendment) -  GS
-
-Bill published on **2024-08-06**.
-
 - **Clause 2:** Amendments to section 4 to enable incorporation of companies with a single shareholder, who can be a natural person, corporate body, or the Secretary to the Treasury.
 - **Clause 3:** Amendments to section 11 to extend the time limits for notifying the public of a company name change to twenty working days.
 - **Clause 4:** Rectification of a numbering error in section 19's subsection (2).

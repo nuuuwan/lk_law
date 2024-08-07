@@ -2,12 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **880** documents, as of *2024-08-07 13:39:52*.
+Downloaded **881** documents, as of *2024-08-07 15:39:04*.
 
 ## 2024
 
 ### 2024-08
 
+* 📄 [[2024-08-06] Companies (Amendment) -  GS](data/doc/bills/2024-08-06-companies-amendment----gs-04d4fad6)
 * 📄 [[2024-08-05] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-08-05-commission-for-truth-unity-and-r-defceb24)
 * 📄 [[2024-08-02] Public Assets Management - GS](data/doc/bills/2024-08-02-public-assets-management---gs-ad710ab1)
 * 📄 [[2024-08-01] National Minimum Wage of Workers (Amendment) - SUPPLEMENT (Bill)](data/doc/bills/2024-08-01-national-minimum-wage-of-workers-43e52b30)
