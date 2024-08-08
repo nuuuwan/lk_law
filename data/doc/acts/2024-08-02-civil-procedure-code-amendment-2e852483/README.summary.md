@@ -1,0 +1,18 @@
+- Amendment Act No. 43 of 2024 was certified on August 2, 2024, to amend the Civil Procedure Code of Sri Lanka.
+- The Act is published as Supplement to Part II of the Gazette of Sri Lanka.
+- Key amendments include:
+  - Definition of "electronic" added in section 5, per Electronic Transactions Act, No.19 of 2006.
+  - Changes in section 9 to include residence of the party plaintiff or defendant.
+  - Section 27 now includes electronic mail and mobile phone numbers for service of legal documents.
+  - New subsection 2A in section 27 introduces detailed requirements for attorney appointments and identification certification.
+  - Section 55 amended to require parties to register their contact information for receiving notices and legal documents.
+  - Section 59 allows summons to be served via registered post, courier service, or electronic mail.
+  - Section 60 details procedures for summons service by process servers.
+  - Section 61 and 66 replacements focus on proof of service and service on agents or property.
+  - Section 68 addresses service on defendants in jail.
+  - Section 70 allows for summons service by courier or legal firms in other countries.
+  - New Chapter VIIIA introduced for the service of court orders.
+  - Section 86 modified for procedures when a defendant defaults.
+  - Section 653 monetary penalty increased from Rs. 1,500 to Rs. 2,000,000.
+  - Amendments to several forms used in the enactment process.
+  - In the event of any inconsistency between the Sinhala and Tamil texts of the Act, the Sinhala text shall prevail.
