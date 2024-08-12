@@ -1,7 +1,3 @@
-# 📄  Online Safety (Amendment) - Bill
-
-Bill published on **2024-08-08**.
-
 - **Presented by**: Minister of Public Security on August 8, 2024
 - **Gazette Publication**: July 31, 2024
 - **Bill Number**: 281

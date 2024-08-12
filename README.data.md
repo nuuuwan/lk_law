@@ -2,18 +2,19 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **885** documents, as of *2024-08-12 09:39:32*.
+Downloaded **886** documents, as of *2024-08-12 11:40:41*.
 
 ## 2024
 
 ### 2024-08
 
+* 📄 [[2024-08-08] Online Safety (Amendment) - Bill](data/doc/bills/2024-08-08-online-safety-amendment---bill-5170f668)
 * 📄 [[2024-08-06] Companies (Amendment) -  GS](data/doc/bills/2024-08-06-companies-amendment----gs-04d4fad6)
 * 📄 [[2024-08-06] International Traditional Sihelogy Council (ITSC) (Incorporation) - Bill](data/doc/bills/2024-08-06-international-traditional-sihelo-3a904f18)
 * 📄 [[2024-08-05] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-08-05-commission-for-truth-unity-and-r-defceb24)
 * ⚖️ [[2024-08-02] Civil Procedure Code (Amendment)](data/doc/acts/2024-08-02-civil-procedure-code-amendment-2e852483)
-* ⚖️ [[2024-08-02] Matara Season Organization (Incorporation)](data/doc/acts/2024-08-02-matara-season-organization-incor-e7b5c5e3)
 
+* ⚖️ [[2024-08-02] Matara Season Organization (Incorporation)](data/doc/acts/2024-08-02-matara-season-organization-incor-e7b5c5e3)
 * 📄 [[2024-08-02] Public Assets Management - GS](data/doc/bills/2024-08-02-public-assets-management---gs-ad710ab1)
 * 📄 [[2024-08-01] National Minimum Wage of Workers (Amendment) - SUPPLEMENT (Bill)](data/doc/bills/2024-08-01-national-minimum-wage-of-workers-43e52b30)
 
