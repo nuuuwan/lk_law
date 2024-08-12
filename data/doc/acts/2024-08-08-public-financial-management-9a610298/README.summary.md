@@ -1,7 +1,3 @@
-# ⚖️  Public Financial Management
-
-Act published on **2024-08-08**.
-
 - **Title and Certification:**
   - Public Financial Management Act, No. 44 of 2024, certified on 08 August 2024.
   
