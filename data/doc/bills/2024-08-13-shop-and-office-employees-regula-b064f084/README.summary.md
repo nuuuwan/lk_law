@@ -1,7 +1,3 @@
-# 📄  Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)
-
-Bill published on **2024-08-13**.
-
 - A bill to amend the Shop and Office Employees (Regulation of Employment and Remuneration) Act (Chapter 129).
 - Presented by Hon. (Dr.) (Mrs.) Sudarshini Fernandopulle, M.P. for Gampaha District.
 - Short title: Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) Act, No. of 2024.
