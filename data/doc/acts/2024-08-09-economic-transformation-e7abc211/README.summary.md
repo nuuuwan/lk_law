@@ -1,7 +1,3 @@
-# ⚖️  Economic Transformation
-
-Act published on **2024-08-09**.
-
 - Certified Act on August 9, 2024.
 - Establishes "Economic Commission of Sri Lanka", "Investment Zones Sri Lanka", "Office for International Trade", "National Productivity Commission", and "Sri Lanka Institute of Economics and International Trade".
 - Repeals the Board of Investment of Sri Lanka Law, No. 4 of 1978.
