@@ -1,7 +1,3 @@
-# 📄  National Land Commission - GS
-
-Bill published on **2024-08-16**.
-
 - Establishment of the National Land Commission to implement the provisions of the Constitution's Provincial Council list.
 - The Commission will be a corporate body with the ability to sue and be sued.
 - Composition includes ex-officio members from various Ministries and Departments, experts appointed by the President, and members nominated by Provincial Councils.
