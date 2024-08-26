@@ -1,7 +1,3 @@
-# 📄  Jagath Kumara Sisu Nena Foundation (Incorporation) - GS
-
-Bill published on **2024-08-26**.
-
 - **Foundation Overview**: The Jagath Kumara Sisu Nena Foundation has been operational in Sri Lanka and aims to achieve specific educational and social objectives.
 - **Legislation and Incorporation**: The Bill for incorporating the foundation was presented by Hon. Jagath Kumara Sumithraarachchi, M.P. for Colombo District. The foundation will be recognized as a corporation with perpetual succession under the name "Jagath Kumara Sisu Nena Foundation."
 - **General Objectives**: 

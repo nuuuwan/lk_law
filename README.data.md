@@ -2,30 +2,32 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **894** documents, as of *2024-08-26 15:39:16*.
+Downloaded **896** documents, as of *2024-08-26 17:41:55*.
 
 ## 2024
 
 ### 2024-08
 
+* 📄 [[2024-08-26] Jagath Kumara Sisu Nena Foundation (Incorporation) - GS](data/doc/bills/2024-08-26-jagath-kumara-sisu-nena-foundati-35a963ab)
+* 📄 [[2024-08-26] Tredzo Development Foundation (Incorporation) - GS](data/doc/bills/2024-08-26-tredzo-development-foundation-in-09aed9ac)
 * 📄 [[2024-08-16] National Land Commission - GS](data/doc/bills/2024-08-16-national-land-commission---gs-9aad1ee3)
 * ⚖️ [[2024-08-15] Medical (Amendment)](data/doc/acts/2024-08-15-medical-amendment-bb0172dc)
 * ⚖️ [[2024-08-15] Medical (Amendment)](data/doc/acts/2024-08-15-medical-amendment-b053e927)
+
 * 📄 [[2024-08-13] Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment)](data/doc/bills/2024-08-13-shop-and-office-employees-regula-b064f084)
 * 📄 [[2024-08-13] Shop and Office Employees (Regulation of Employment and Remuneration) (Amendment) - GS](data/doc/bills/2024-08-13-shop-and-office-employees-regula-cd5c823a)
-
 * ⚖️ [[2024-08-09] Economic Transformation](data/doc/acts/2024-08-09-economic-transformation-e7abc211)
 * ⚖️ [[2024-08-08] Public Financial Management](data/doc/acts/2024-08-08-public-financial-management-9a610298)
 * 📄 [[2024-08-08] Online Safety (Amendment) - Bill](data/doc/bills/2024-08-08-online-safety-amendment---bill-5170f668)
+
 * 📄 [[2024-08-08] Kodhagoda Gunarathana Nahimi Foundation (Incorporation) - Bill](data/doc/bills/2024-08-08-kodhagoda-gunarathana-nahimi-fou-bbf3da72)
 * 📄 [[2024-08-06] Companies (Amendment) -  GS](data/doc/bills/2024-08-06-companies-amendment----gs-04d4fad6)
-
 * 📄 [[2024-08-06] International Traditional Sihelogy Council (ITSC) (Incorporation) - Bill](data/doc/bills/2024-08-06-international-traditional-sihelo-3a904f18)
 * 📄 [[2024-08-05] Commission for Truth, Unity and Reconciliation in Sri Lanka - GS](data/doc/bills/2024-08-05-commission-for-truth-unity-and-r-defceb24)
 * ⚖️ [[2024-08-02] Civil Procedure Code (Amendment)](data/doc/acts/2024-08-02-civil-procedure-code-amendment-2e852483)
+
 * ⚖️ [[2024-08-02] Matara Season Organization (Incorporation)](data/doc/acts/2024-08-02-matara-season-organization-incor-e7b5c5e3)
 * 📄 [[2024-08-02] Public Assets Management - GS](data/doc/bills/2024-08-02-public-assets-management---gs-ad710ab1)
-
 * 📄 [[2024-08-01] National Minimum Wage of Workers (Amendment) - SUPPLEMENT (Bill)](data/doc/bills/2024-08-01-national-minimum-wage-of-workers-43e52b30)
 
 ### 2024-07
