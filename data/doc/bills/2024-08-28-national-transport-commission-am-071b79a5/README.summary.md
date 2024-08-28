@@ -1,7 +1,3 @@
-# 📄  National Transport Commission (Amendment) - GS
-
-Bill published on **2024-08-28**.
-
 - National Transport Commission Act, No. 37 of 1991, is being amended.
 - The amendments aim to broaden the scope of the Act to include all road transportation services, not just passenger omnibus services.
 - New sections and clauses have been inserted to address various aspects of transportation services, including standards, penalties, and appeals:
