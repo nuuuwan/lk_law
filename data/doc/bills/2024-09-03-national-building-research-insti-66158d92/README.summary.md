@@ -1,7 +1,3 @@
-# 📄  National Building Research Institute - SUPPLEMENT
-
-Bill published on **2024-09-03**.
-
 - Establishment of the National Building Research Institute (NBRI) as a body corporate.
 - NBRI's primary objectives include conducting research, ensuring disaster-resilient construction, and providing technical assistance related to landslides and geotechnical instability.
 - NBRI is empowered to assist relevant authorities, monitor compliance, provide technical services, manage assets, and accept donations.

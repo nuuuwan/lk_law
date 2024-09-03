@@ -2,9 +2,13 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **898** documents, as of *2024-09-03 15:38:36*.
+Downloaded **899** documents, as of *2024-09-03 17:41:49*.
 
 ## 2024
+
+### 2024-09
+
+* 📄 [[2024-09-03] National Building Research Institute - SUPPLEMENT](data/doc/bills/2024-09-03-national-building-research-insti-66158d92)
 
 ### 2024-08
 
