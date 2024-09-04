@@ -1,7 +1,3 @@
-# 📄  National Building Research Institute - GS
-
-Bill published on **2024-09-03**.
-
 - **Establishment and Function**:
   - The National Building Research Institute (NBRI) is to be established with perpetual succession and the ability to sue and be sued.
   - Its main objectives include conducting research in landslide-prone and geotechnical instability areas, ensuring disaster-resilient construction in such areas, and providing related technical assistance.
