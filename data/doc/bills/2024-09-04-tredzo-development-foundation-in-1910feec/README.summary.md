@@ -1,7 +1,3 @@
-# 📄  Tredzo Development Foundation (Incorporation) - Bill
-
-Bill published on **2024-09-04**.
-
 - **Bill**: Proposal to incorporate the Tredzo Development Foundation.
 - **Presented by**: Hon. Madhura Withanage, M.P. for Colombo District on 4th September 2024.
 - **Foundation Purpose**: Established to carry out its objectives and transacting all related matters.
