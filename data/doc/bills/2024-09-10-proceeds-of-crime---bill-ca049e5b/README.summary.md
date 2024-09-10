@@ -1,7 +1,3 @@
-# 📄  Proceeds of Crime - Bill
-
-Bill published on **2024-09-10**.
-
 - Introduction of the "Proceeds of Crime" Bill in Sri Lanka, aimed at addressing the recovery and management of proceeds from unlawful activities.
 - Objective includes investigation, restraint, forfeiture, and disposal of criminal proceeds, alongside protecting and managing such proceeds.
 - Establishment of the Proceeds of Crime Management Authority to oversee the related processes.
