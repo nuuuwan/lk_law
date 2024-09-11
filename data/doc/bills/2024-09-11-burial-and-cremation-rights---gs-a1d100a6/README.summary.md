@@ -1,7 +1,3 @@
-# 📄  Burial and Cremation Rights - GS
-
-Bill published on **2024-09-11**.
-
 - **Bill Title**: Burial and Cremation Rights Act, No of 2024
 - **Purpose**: Confers the right to individuals to decide their body disposal method after death.
 - **Applicability**: For persons aged 18 and above.
