@@ -1,0 +1,15 @@
+# ⚖️  National Minimum Wage of Workers (Amendment)
+
+Act published on **2024-09-11**.
+
+- Title: NATIONAL MINIMUM WAGE OF WORKERS (AMENDMENT) ACT, No. 48 OF 2024
+- Certified on 11th September 2024
+- Published as part of the government gazette on September 13, 2024
+- Available for purchase and download
+- Purpose: Amend the National Minimum Wage of Workers Act, No. 3 of 2016
+- Key Amendment:
+  - Section 3 (1) updated:
+    - Minimum monthly wage: increased from 12,500 rupees to 17,500 rupees
+    - Minimum daily wage: increased from 500 rupees to 700 rupees
+- Inconsistencies between Sinhala and Tamil texts: Sinhala text will prevail
+- English versions available for purchase at PRAKASHANA PIYASA, Department of Government Printing
