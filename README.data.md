@@ -2,24 +2,25 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **918** documents, as of *2024-09-19 17:41:51*.
+Downloaded **919** documents, as of *2024-09-19 19:38:36*.
 
 ## 2024
 
 ### 2024-09
 
+* ⚖️ [[2024-09-13] Code of Criminal Procedure (Amendment)](data/doc/acts/2024-09-13-code-of-criminal-procedure-amend-6415bdfd)
 * 📄 [[2024-09-11] Burial and Cremation Rights - GS](data/doc/bills/2024-09-11-burial-and-cremation-rights---gs-a1d100a6)
 * ⚖️ [[2024-09-11] National Minimum Wage of Workers (Amendment)](data/doc/acts/2024-09-11-national-minimum-wage-of-workers-1be39f50)
 * 📄 [[2024-09-10] Proceeds of Crime - GS](data/doc/bills/2024-09-10-proceeds-of-crime---gs-60f090a0)
 * 📄 [[2024-09-10] Proceeds of Crime - Bill](data/doc/bills/2024-09-10-proceeds-of-crime---bill-ca049e5b)
-* 📄 [[2024-09-04] Tredzo Development Foundation (Incorporation) - Bill](data/doc/bills/2024-09-04-tredzo-development-foundation-in-1910feec)
 
+* 📄 [[2024-09-04] Tredzo Development Foundation (Incorporation) - Bill](data/doc/bills/2024-09-04-tredzo-development-foundation-in-1910feec)
 * 📄 [[2024-09-04] Jagath Kumara Sisu Nena Foundation (Incorporation) - Bill](data/doc/bills/2024-09-04-jagath-kumara-sisu-nena-foundati-6532e1fc)
 * 📄 [[2024-09-03] Companies (Amendment) - Bill](data/doc/bills/2024-09-03-companies-amendment---bill-29ae6f4f)
 * 📄 [[2024-09-03] National Building Research Institute - GS](data/doc/bills/2024-09-03-national-building-research-insti-b2f4b146)
 * 📄 [[2024-09-03] National Building Research Institute - SUPPLEMENT](data/doc/bills/2024-09-03-national-building-research-insti-66158d92)
-* 📄 [[2024-09-03] National Land Commission - Bill](data/doc/bills/2024-09-03-national-land-commission---bill-5f1e0432)
 
+* 📄 [[2024-09-03] National Land Commission - Bill](data/doc/bills/2024-09-03-national-land-commission---bill-5f1e0432)
 * 📄 [[2024-09-03] Commission for Truth, Unity, and Reconciliation in Sri Lanka -  Bill](data/doc/bills/2024-09-03-commission-for-truth-unity-and-r-1afbc7c8)
 
 ### 2024-08

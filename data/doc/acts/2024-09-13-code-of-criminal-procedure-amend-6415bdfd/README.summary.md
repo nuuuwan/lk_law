@@ -1,7 +1,3 @@
-# ⚖️  Code of Criminal Procedure (Amendment)
-
-Act published on **2024-09-13**.
-
 - **Title**: Code of Criminal Procedure (Amendment) Act, No. 50 of 2024
 - **Certified Date**: September 13, 2024
 - **Published**: Sri Lanka Government Gazette, September 20, 2024, available for download.
