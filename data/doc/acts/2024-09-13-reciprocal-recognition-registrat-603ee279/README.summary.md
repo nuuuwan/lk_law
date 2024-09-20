@@ -1,7 +1,3 @@
-# ⚖️  Reciprocal Recognition, Registration and Enforcement of Foreign Judgments
-
-Act published on **2024-09-13**.
-
 - **Title**: Reciprocal Recognition, Registration, and Enforcement of Foreign Judgments Act, No. 49 of 2024
 - **Certification Date**: Certified on 13th of September, 2024
 - **Publication**: Published as a Supplement to Part II of the Gazette of Sri Lanka, on September 20, 2024
