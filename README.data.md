@@ -2,7 +2,7 @@
 
 Legal documents from http://documents.gov.lk.
 
-Downloaded **920** documents, as of *2025-06-27 18:01:45*.
+Downloaded **920** documents, as of *2025-06-27 19:58:08*.
 
 ## 2024
 
